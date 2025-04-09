@@ -1,0 +1,14 @@
+No of protein pair of Cell cycle control  : 125
+No of protein pair of Cell polarity  : 280
+No of protein pair of Cell wall organization and biogenesis  : 286
+No of protein pair of coimmunoprecipitation  : 352
+No of protein pair of copurification  : 131
+No of protein pair of DNA repair  : 344
+No of protein pair of Lipid metabolism : 124
+No of protein pair of Nuclear-cytoplasmic transport: 20
+No of protein pair of Pol II transcription: 148
+No of protein pair of Protein folding: 30
+No of protein pair of Protein modification: 150
+No of protein pair of Protein synthesis: 107
+No of protein pair of Small molecule transport: 66
+No of protein pair of Vesicular transport: 348
