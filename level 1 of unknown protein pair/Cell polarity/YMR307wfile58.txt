@@ -1,0 +1,67 @@
+YBL105c|YMR307w|gas1 mutants show synthetic lethality with pkc1 null mutantsynthetic lethal
+YBR023c|YMR307w|Cell wall organization and biogenesis
+YBR229c|YMR307w|Cell wall organization and biogenesis
+YDL102w|YMR307w|Cell wall organization and biogenesis
+YGL027c|YMR307w|Cell wall organization and biogenesis
+YGR166w|YMR307w|Cell wall organization and biogenesis
+YGR229c|YMR307w|Cell wall organization and biogenesis
+YKL190w|YMR307w|Cell wall organization and biogenesis
+YLR039c|YMR307w|Cell wall organization and biogenesis
+YLR262c|YMR307w|Cell wall organization and biogenesis
+YLR330w|YMR307w|Cell wall organization and biogenesis
+YMR047c|YMR307w|two hybrid IST hits: 2
+YMR307w|YAL053w|Unknown
+YMR307w|YBR023c|Cell wall organization and biogenesis
+YMR307w|YBR229c|Cell wall organization and biogenesis
+YMR307w|YCR046c|Energy generation
+YMR307w|YDL006w|Signal transduction
+YMR307w|YDL243c|Carbohydrate metabolism
+YMR307w|YDR136c|Vesicular transport
+YMR307w|YDR137w|Vesicular transport
+YMR307w|YDR162c|Cell polarity
+YMR307w|YDR293c|Cell cycle control
+YMR307w|YDR440w|Chromatin/chromosome stucture
+YMR307w|YDR508c|Amino-acid metabolism
+YMR307w|YER111c|Cell cycle control
+YMR307w|YER155c|Cell polarity
+YMR307w|YGL027c|Cell wall organization and biogenesis
+YMR307w|YGL110c|Unknown
+YMR307w|YGL200c|Vesicular transport
+YMR307w|YGR166w|Cell wall organization and biogenesis
+YMR307w|YGR229c|Cell wall organization and biogenesis
+YMR307w|YHR004c|Unknown
+YMR307w|YHR030c|Cell wall organization and biogenesis
+YMR307w|YIL121w|Transport
+YMR307w|YJL095w|Cell wall organization and biogenesis
+YMR307w|YJL188c|Cell polarity
+YMR307w|YJR073c|Lipid metabolism
+YMR307w|YKL157w|two hybrid IST hits: 1
+YMR307w|YKL190w|Cell wall organization and biogenesis
+YMR307w|YKR072c|Cell stress
+YMR307w|YLR039c|Vesicular transport
+YMR307w|YLR261c|Vacuolar organization and biogenesis
+YMR307w|YLR262c|Vesicular transport
+YMR307w|YLR330w|Cell wall organization and biogenesis
+YMR307w|YLR357w|Chromatin/chromosome structure
+YMR307w|YLR371w|Cell wall organization and biogenesis
+YMR307w|YLR443w|Cell wall organization and biogenesis
+YMR307w|YML117w|Unknown
+YMR307w|YMR313c|Lipid metabolism
+YMR307w|YMR316c-a|Unknown
+YMR307w|YMR317w|Unknown
+YMR307w|YMR318c|Carbohydrate metabolism
+YMR307w|YMR326c|Unknown
+YMR307w|YNL294c|Unknown
+YMR307w|YNL322c|Cell wall organization and biogenesis
+YMR307w|YOR008c|Cell wall organization and biogenesis
+YMR307w|YOR358w|Pol II transcription
+YMR307w|YPL031c|Cell cycle control
+YMR307w|YPL041c|Unknown
+YMR307w|YPL089c|Pol II transcription
+YMR307w|YPL161c|Cell polarity
+YMR307w|YPL161c|Cell polarity
+YMR307w|YPR159w|synthetic lethal with gas1 null mutation
+YMR307w|YPR159w|gas1 mutants show synthetic lethality with kre6 null mutants
+YNL322c|YMR307w|Cell wall organization and biogenesis
+YNL322c|YMR307w|Cell wall organization and biogenesis
+YPL174c|YMR307w|Cell wall organization and biogenesis

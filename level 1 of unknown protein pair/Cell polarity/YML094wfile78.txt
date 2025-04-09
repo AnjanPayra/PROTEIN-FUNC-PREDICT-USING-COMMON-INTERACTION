@@ -1,0 +1,207 @@
+YCL016c|YML094w|Cell structure
+YCL029c|YML094w|Cell structure
+YCR009c|YML094w|Cell structure
+YDL003w|YML094w|Cell structure
+YDR052c|YML094w|Cell structure
+YDR150w|YML094w|Cell structure
+YDR162c|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YML094w|Cell structure
+YDR332w|YML094w|Cell structure
+YDR388w|YML094w|Cell structure
+YDR424c|YML094w|Cell structure
+YDR488c|YML094w|Cell structure
+YEL003w|YML094w|coimmunoprecipitation; two hybrid
+YEL061c|YML094w|Cell structure
+YER007w|YML094w|Cell structure
+YER016w|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YML094w|Cell structure
+YFL037w|YML094w|Cell structure
+YGR078c|YML094w|coimmunoprecipitation; two hybrid
+YHR129c|YML094w|Cell structure
+YHR191c|YML094w|Cell structure
+YJL020c|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YML094w|Cell structure
+YJL030w|YML094w|Cell structure
+YJL168c|YML094w|Cell structure
+YJR053w|YML094w|Cell structure
+YJR075w|YML094w|Cell structure
+YKR054c|YML094w|Cell structure
+YKR054c|YML094w|Cell structure
+YLR085c|YML094w|Cell structure
+YLR103c|YML094w|Cell structure
+YLR103c|YML094w|Cell structure
+YLR200w|YML094w|two hybrid
+YLR200w|YML094w|coimmunoprecipitation; two hybrid
+YLR200w|YML094w|coimmunoprecipitation; two hybrid
+YLR212c|YML094w|synthetic lethal
+YLR212c|YML094w|Gim5p binds to overproduced Tub4p; coimmunoprecipitation
+YML094w|YAL002w|Vesicular transport
+YML094w|YAL002w|Vesicular transport
+YML094w|YAL011w|Unknown
+YML094w|YAL026c|Vesicular transport
+YML094w|YBL007c|Cell polarity
+YML094w|YBL007c|Cell polarity
+YML094w|YBL024w|RNA processing
+YML094w|YBL051c|RNA processing
+YML094w|YBR103w|Chromatin/chromosome structure
+YML094w|YBR107c|Chromatin/chromosome structure
+YML094w|YBR108w|Unknown
+YML094w|YBR171w|Vesicular transport
+YML094w|YBR231c|Unknown
+YML094w|YBR255w|Unknown
+YML094w|YBR290w|Transport
+YML094w|YCL016c|Chromatin/chromosome structure
+YML094w|YCL029c|Mitosis
+YML094w|YCR086w|Meiosis
+YML094w|YDL020c|Protein degradation
+YML094w|YDL155w|Cell cycle control
+YML094w|YDR144c|Unknown
+YML094w|YDR149c|Unknown
+YML094w|YDR150w|Mitosis
+YML094w|YDR183w|Mating response
+YML094w|YDR254w|Chromatin/chromosome structure
+YML094w|YDR276c|Small molecule transport
+YML094w|YDR293c|Cell cycle control
+YML094w|YDR310c|Chromatin/chromosome structure
+YML094w|YDR318w|Chromatin/chromosome structure
+YML094w|YDR334w|Unknown
+YML094w|YDR360w|Unknown
+YML094w|YDR424c|Mitosis
+YML094w|YDR485c|Vesicular transport
+YML094w|YDR488c|Mitosis
+YML094w|YEL031w|Small molecule transport
+YML094w|YEL053c|Protein modification
+YML094w|YEL061c|Mitosis
+YML094w|YER007w|Cell structure
+YML094w|YER016w|Mitosis
+YML094w|YER110c|Nuclear-cytoplasmic transport
+YML094w|YER155c|Cell polarity
+YML094w|YER177w|Differentiation
+YML094w|YFR019w|Lipid metabolism
+YML094w|YGL086w|Mitosis
+YML094w|YGL087c|DNA repair
+YML094w|YGL124c|Unknown
+YML094w|YGL151w|Pol II transcription
+YML094w|YGL173c|RNA processing
+YML094w|YGL194c|Chromatin/chromosome structure
+YML094w|YGL253w|Carbohydrate metabolism
+YML094w|YGR019w|Amino-acid metabolism
+YML094w|YGR054w|Unknown
+YML094w|YGR188c|Mitosis
+YML094w|YGR229c|Cell wall organization and biogenesis
+YML094w|YGR270w|Vacuolar organization and biogenesis
+YML094w|YHL029c|Unknown
+YML094w|YHR012w|Vesicular transport
+YML094w|YHR030c|Cell wall organization and biogenesis
+YML094w|YHR111w|Protein modification
+YML094w|YHR114w|Cell polarity
+YML094w|YHR129c|Mitosis
+YML094w|YHR134w|DNA repair
+YML094w|YHR178w|Pol II transcription
+YML094w|YHR191c|Chromatin/chromosome structure
+YML094w|YIL008w|Protein modification
+YML094w|YIL034c|Cell structure
+YML094w|YIL095w|Cell polarity
+YML094w|YJL013c|Mitosis
+YML094w|YJL020c|Cell polarity
+YML094w|YJL030w|Mitosis
+YML094w|YJL095w|Cell wall organization and biogenesis
+YML094w|YJL154c|Vesicular transport
+YML094w|YJL190c|Protein synthesis
+YML094w|YJR032w|Protein folding
+YML094w|YJR053w|Mitosis
+YML094w|YJR075w|Cell wall organization and biogenesis
+YML094w|YJR117w|Protein modification
+YML094w|YJR135c|Chromatin/chromosome structure
+YML094w|YKL025c|DNA repair
+YML094w|YKL048c|Cell polarity
+YML094w|YKL118w|Unknown
+YML094w|YKR054c|Mitosis
+YML094w|YLL001w|Cell structure
+YML094w|YLL006w|Cell structure
+YML094w|YLL007c|Unknown
+YML094w|YLL049w|Unknown
+YML094w|YLR085c|Cell structure
+YML094w|YLR089c|Mitochondrion organization and biogenesis
+YML094w|YLR292c|Protein translocation
+YML094w|YLR337c|Cell polarity
+YML094w|YLR360w|Vesicular transport
+YML094w|YLR360w|Vesicular transport
+YML094w|YLR381w|Chromatin/chromosome structure
+YML094w|YLR386w|Vacuolar organization and biogenesis
+YML094w|YLR447c|Vacuolar organization and biogenesis
+YML094w|YML032c|DNA repair
+YML094w|YML041c|Vesicular transport
+YML094w|YML048w|Carbohydrate metabolism
+YML094w|YML094w|coimmunoprecipitation; two hybrid
+YML094w|YML094w|coimmunoprecipitation; two hybrid
+YML094w|YML124c|Cell structure
+YML094w|YML128c|Unknown
+YML094w|YMR021c|Pol II transcription
+YML094w|YMR055c|Mitosis
+YML094w|YMR078c|Chromatin/chromosome structure
+YML094w|YMR109w|Cell polarity
+YML094w|YMR127c|Chromatin/chromosome structure
+YML094w|YMR138w|Cell structure
+YML094w|YMR154c|Meiosis
+YML094w|YMR172w|Cell stress
+YML094w|YMR266w|Unknown
+YML094w|YMR294w|Mitosis
+YML094w|YMR299c|Mitosis
+YML094w|YMR312w|Pol II transcription
+YML094w|YNL140c|Unknown
+YML094w|YNL153c|coimmunoprecipitation; two hybrid
+YML094w|YNL166c|Cytokinesis
+YML094w|YNL166c|Cytokinesis
+YML094w|YNL288w|Pol II transcription
+YML094w|YNL294c|Unknown
+YML094w|YNL298w|Cell polarity
+YML094w|YOL012c|Chromatin/chromosome structure
+YML094w|YOL067c|Carbohydrate metabolism
+YML094w|YOL116w|Cell stress
+YML094w|YOR023c|Protein modification
+YML094w|YOR026w|Mitosis
+YML094w|YOR058c|Mitosis
+YML094w|YOR132w|Vesicular transport
+YML094w|YOR216c|Vesicular transport
+YML094w|YOR264w|Differentiation
+YML094w|YOR265w|Cell structure
+YML094w|YOR266w|Mitochondrion organization and biogenesis
+YML094w|YOR269w|Mitosis
+YML094w|YOR349w|Cell structure
+YML094w|YPL008w|Chromatin/chromosome structure
+YML094w|YPL017c|Unknown
+YML094w|YPL018w|Chromatin/chromosome structure
+YML094w|YPL115c|Cell polarity
+YML094w|YPL155c|Mitosis
+YML094w|YPL174c|Mitosis
+YML094w|YPL176c|Cell growth and/or maintenance
+YML094w|YPL241c|Cell structure
+YML094w|YPL253c|Mitosis
+YML094w|YPL269w|Mitosis
+YML094w|YPR023c|Pol II Transcription
+YML094w|YPR046w|Chromatin/chromosome structure
+YML094w|YPR050c|Unknown
+YML094w|YPR051w|Protein modification
+YML094w|YPR070w|Chromatin/chromosome structure
+YML094w|YPR135w|Chromatin/chromosome structure
+YML094w|YPR141c|Mitosis
+YML094w|YPR141c|Mitosis
+YML124c|YML094w|Cell structure
+YMR048w|YML094w|Cell structure
+YMR078c|YML094w|Cell structure
+YMR138w|YML094w|Cell structure
+YMR294w|YML094w|Cell structure
+YMR299c|YML094w|Cell structure
+YNL298w|YML094w|Cell structure
+YOR058c|YML094w|Cell structure
+YOR265w|YML094w|Cell structure
+YOR269w|YML094w|Cell structure
+YOR349w|YML094w|Cell structure
+YPL008w|YML094w|Cell structure
+YPL155c|YML094w|Cell structure
+YPL174c|YML094w|Cell structure
+YPL241c|YML094w|Cell structure
+YPL269w|YML094w|Cell structure
+YPR135w|YML094w|Cell structure
+YPR141c|YML094w|Cell structure

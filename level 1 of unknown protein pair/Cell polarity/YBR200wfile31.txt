@@ -1,0 +1,59 @@
+YAL041w|YBR200w|synthetic lethal
+YAL041w|YBR200w|coimmunoprecipitation; full length Cdc24p binds to Bem1p in coimmunoprecipitation experiments, the interaction is inhibited by 2mM Ca2+
+YAL041w|YBR200w|two hybrid library: Cdc24 Bem1(AD,BD)
+YAL041w|YBR200w|the interaction between Cdc24p and Bem1p is direct since bacterial expressed Bem1p binds to Cdc24-GST fusion protein; the two SH3 domains but the C-terminus of Bem1p are not required for this interaction; two hybrid
+YBL085w|YBR200w|coimmunoprecipitation; two hybrid; via SH3 domain of Bem1p and proline rich region of Boi1p
+YBR200w|YAL041w|two hybrid library: Bem1 Cdc24(AD,BD)
+YBR200w|YCR038c|bem1 bud5 mutants display a synthetic lethal phenotype;synthetic lethal
+YBR200w|YDL178w|two hybrid
+YBR200w|YDR103w|coimmunoprecipitation and two hybrid protein interaction; two hybrid
+YBR200w|YDR264c|synthetic lethal
+YBR200w|YEL043w|two hybrid with SH3 domain as bait
+YBR200w|YER114c|two hybrid
+YBR200w|YER114c|two hybrid library: Bem1 Boi2(BD,AD)
+YBR200w|YER155c|bem2 bem1 mutants show synthetic lethal phenotype;synthetic lethal
+YBR200w|YFL039c|coimmunoprecipitation; two hybrid and coimmunoprecipitation
+YBR200w|YGL233w|two hybrid library: Bem1 Sec15(AD)
+YBR200w|YGR134w|two hybrid with SH3 domain as bait
+YBR200w|YGR152c|Rsr1p-GDP associates with Bem1p; affinity chromatography; affinity purification
+YBR200w|YHL007c|coimmunoprecipitation; two hybrid
+YBR200w|YHL007c|two hybrid library: Bem1 Ste20(AD)
+YBR200w|YHR129c|synthetic lethal
+YBR200w|YIL118w|BEM1 is a multicopysuppressor of rho3, rho4 and rho3 rho4 double mutantsuppression overexpression
+YBR200w|YJL157c|two hybrid
+YBR200w|YJL157c|two hybrid library: Bem1 Far1(AD)
+YBR200w|YJL157c|Far1p Bem1p interaction is not modified by pheromone induction; affinity chromatography
+YBR200w|YJL157c|two hybrid; copurification
+YBR200w|YJL187c|two hybrid library: Bem1 Swe1(AD)
+YBR200w|YKR055w|suppression overexpression
+YBR200w|YKR055w|BEM1 is a multicopysuppressor of rho3, rho4 and rho3 rho4 double mutantsuppression
+YBR200w|YLR229c|Bem1p binds preferentially to Cdc42p-GTP; two hybrid
+YBR200w|YLR229c|two hybrid library: Bem1 Cdc42-GTP(BD)
+YBR200w|YLR229c|two hybrid library: Bem1 Cdc42-GDP(AD,BD)
+YBR200w|YOR188w|bem1 mutants can sufficiently be suppressed by a single copy of MSB1 at 23 or 30 degrees C, but even multiple copies of MSB1 do not fully suppress the growth defect at 37 degrees C;suppression;msb1 bem1 display synthetic lethal phenotype;msb1 bem1 mutants
+YBR234c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR200w|Cell polarity
+YDL029w|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR200w|Cell polarity
+YER016w|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YBR200w|Cell polarity
+YER114c|YBR200w|two hybrid library: Boi2 Bem1(BD,AD)
+YGL233w|YBR200w|two hybrid library: Sec15 Bem1(BD)
+YGR229c|YBR200w|Cell polarity
+YHL007c|YBR200w|two hybrid library: Ste20 Bem1(AD)
+YJL020c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YBR200w|Cell polarity
+YJL157c|YBR200w|two hybrid library: Far1 Bem1(BD)
+YJL187c|YBR200w|two hybrid library: Swe1 Bem1(BD)
+YKL079w|YBR200w|Cell polarity
+YKL190w|YBR200w|Cell polarity
+YLR200w|YBR200w|Cell polarity
+YLR229c|YBR200w|two hybrid library: Cdc42-GDP Bem1(AD)
+YLR229c|YBR200w|Cell polarity
+YLR229c|YBR200w|two hybrid library: Cdc42-GTP Bem1(AD)
+YNL153c|YBR200w|Cell polarity
+YNL271c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBR200w|Cell polarity
+YNL298w|YBR200w|Cell polarity
+YOR326w|YBR200w|Cell polarity
+YPL031c|YBR200w|Cell polarity

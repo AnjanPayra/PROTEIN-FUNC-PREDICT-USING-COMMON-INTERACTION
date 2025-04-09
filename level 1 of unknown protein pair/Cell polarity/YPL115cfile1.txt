@@ -1,0 +1,13 @@
+YBL026w|YPL115c|1 clones in category A4
+YGR078c|YPL115c|Cell polarity
+YML094w|YPL115c|Cell polarity
+YML109w|YPL115c|two hybrid library: Zds2 Bem3(BD)
+YMR273c|YPL115c|two hybrid library: Zds1 Bem3(BD)
+YNL153c|YPL115c|Cell polarity
+YNL298w|YPL115c|two hybrid library: Cla4 Bem3(BD)
+YPL115c|YLR229c|Rga1,Rga2 and Bem3 act as GTP-ase activating proteins for Cdc42.
+YPL115c|YML109w|two hybrid library: Bem3 Zds2(AD)
+YPL115c|YMR273c|two hybrid library: Bem3 Zds1(AD)
+YPL115c|YNL298w|two hybrid library: Bem3 Cla4(AD)
+YPL115c|YPL161c|two hybrid library: Bem3 Bem4(AD)
+YPL161c|YPL115c|two hybrid library: Bem4 Bem3(BD)

@@ -1,0 +1,10 @@
+YBL061c|YLR370c|Cell polarity
+YBR023c|YLR370c|Cell polarity
+YBR234c|YLR370c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR370c|Cell polarity
+YJL099w|YLR370c|Cell polarity
+YJR043c|YLR370c|Cell polarity
+YJR065c|YLR370c|copurification
+YJR091c|YLR370c|two hybrid IST hits: 1
+YLR330w|YLR370c|Cell polarity
+YNL192w|YLR370c|Cell polarity

@@ -1,0 +1,34 @@
+YBL034c|YFL037w|
+YCL029c|YFL037w|synthetic lethal
+YDR150w|YFL037w|num1 null mutation is synthetic lethal with tub2-402, tub2-403, tub2-404, and tub2-405
+YER081w|YFL037w|two hybrid IST hits: 1
+YER155c|YFL037w|bem2 null mutation shows synthetic lethality with tub2-429
+YFL037w|YCL016c|Chromatin/chromosome structure
+YFL037w|YCR065w|Pol II transcription
+YFL037w|YDR318w|Chromatin/chromosome structure
+YFL037w|YEL003w|Cell structure
+YFL037w|YEL062w|Small molecule transport
+YFL037w|YER007w|Cell structure
+YFL037w|YER155c|Cell polarity
+YFL037w|YFR010w|Protein modification
+YFL037w|YGL173c|
+YFL037w|YJL013c|Mitosis
+YFL037w|YJL030w|Mitosis
+YFL037w|YKL048c|Cell polarity
+YFL037w|YKR054c|Mitosis
+YFL037w|YLR045c|stu2-1 tub2-404 is synthetic lethal
+YFL037w|YLR200w|gim1delta tub2-403 and gim1delta tub2-405 are synthetic lethal
+YFL037w|YLR262c|Vesicular transport
+YFL037w|YLR386w|Vacuolar organization and biogenesis
+YFL037w|YML085c|tub2 mutants have unlinked noncomplementation with tub1-1
+YFL037w|YML085c|two hybrid
+YFL037w|YML094w|Cell structure
+YFL037w|YMR138w|Cell structure
+YFL037w|YMR198w|Mitosis
+YFL037w|YMR294w|Mitosis
+YFL037w|YMR299c|Unknown
+YFL037w|YNL223w|two hybrid; affinity chromatography
+YFL037w|YOR265w|affinity chromatography; coimmunoprecipitation
+YFL037w|YOR265w|binds to beta-tubulin and participates in microtubule function
+YFL037w|YOR349w|Cell structure
+YFL037w|YPL241c|Cell structure

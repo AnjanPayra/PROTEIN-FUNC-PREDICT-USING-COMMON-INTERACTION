@@ -1,0 +1,58 @@
+YCR009c|YJL020c|Cell polarity
+YDR388w|YJL020c|Cell polarity
+YEL003w|YJL020c|Cell polarity
+YGR078c|YJL020c|Cell polarity
+YJL020c|YBL007c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YBL007c|Cell polarity
+YJL020c|YBL105c|two hybrid with SH3 domain as bait
+YJL020c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YBR200w|Cell polarity
+YJL020c|YDL129w|two hybrid with SH3 domain as bait
+YJL020c|YDR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YDR129c|Cell structure
+YJL020c|YDR409w|two hybrid with SH3 domain as bait
+YJL020c|YER032w|two hybrid with SH3 domain as bait
+YJL020c|YGR048w|two hybrid with SH3 domain as bait
+YJL020c|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YGR078c|Cell structure
+YJL020c|YGR200c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YGR200c|Pol II transcription
+YJL020c|YIL034c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YIL034c|Cell structure
+YJL020c|YIL084c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YIL084c|Chromatin/chromosome structure
+YJL020c|YIR003w|two hybrid with SH3 domain as bait
+YJL020c|YKL007w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YKL007w|Cell structure
+YJL020c|YLR235c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YLR235c|Unknown
+YJL020c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YLR330w|Cell wall organization and biogenesis
+YJL020c|YLR337c|two hybrid with SH3 domain as bait
+YJL020c|YML094c-a|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YML094c-a|Unknown
+YJL020c|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YML094w|Cell structure
+YJL020c|YMR109w|two hybrid with SH3 domain as bait
+YJL020c|YNL023c|two hybrid with SH3 domain as bait
+YJL020c|YNL094w|two hybrid with SH3 domain as bait
+YJL020c|YNL098c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YNL098c|Signal transduction
+YJL020c|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YNL153c|Cell structure
+YJL020c|YNL271c|Cell polarity
+YJL020c|YOR081c|two hybrid with SH3 domain as bait
+YJL020c|YOR156c|two hybrid with SH3 domain as bait
+YJL020c|YOR181w|two hybrid with SH3 domain as bait
+YJL020c|YPL086c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YPL086c|Pol II transcription
+YJL020c|YPL161c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YPL161c|Cell polarity
+YJL020c|YPR184w|two hybrid with SH3 domain as bait
+YKL129c|YJL020c|two hybrid with SH3 domain as bait
+YLR200w|YJL020c|Cell polarity
+YML094w|YJL020c|Cell polarity
+YMR032w|YJL020c|two hybrid with SH3 domain as bait
+YNL153c|YJL020c|Cell polarity
+YNL271c|YJL020c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YJL020c|Cell polarity

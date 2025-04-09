@@ -1,0 +1,64 @@
+YBL105c|YJR075w|HOC1 overexpression suppresses pkc1-371 ts mutant;suppression overexpression;pkc1-371 and hoc1 are synthetic lethal; suppression
+YBR234c|YJR075w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR075w|Cell wall organization and biogenesis
+YCR009c|YJR075w|Cell wall organization and biogenesis
+YDL029w|YJR075w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR075w|Cell wall organization and biogenesis
+YDR034c|YJR075w|two hybrid IST hits: 1
+YDR388w|YJR075w|Cell wall organization and biogenesis
+YEL003w|YJR075w|Cell wall organization and biogenesis
+YEL036c|YJR075w|coimmunoprecipitation
+YGR078c|YJR075w|Cell wall organization and biogenesis
+YHR030c|YJR075w|Cell wall organization and biogenesis
+YJR075w|YAL002w|Vesicular transport
+YJR075w|YBL007c|Cell polarity
+YJR075w|YBL047c|Vesicular transport
+YJR075w|YBR082c|Protein degradation
+YJR075w|YBR181c|Protein synthesis
+YJR075w|YDR129c|Cell structure
+YJR075w|YDR388w|Cell polarity
+YJR075w|YEL031w|Small molecule transport
+YJR075w|YGL135w|Protein synthesis
+YJR075w|YGL135w|Protein synthesis
+YJR075w|YGR078c|Cell structure
+YJR075w|YGR133w|Peroxisome organization and biogenesis
+YJR075w|YHR013c|Chromatin/chromosome structure
+YJR075w|YJL095w|Cell wall organization and biogenesis
+YJR075w|YJL148w|Protein synthesis
+YJR075w|YJL176c|Chromatin/chromosome structure
+YJR075w|YJR043c|DNA replication
+YJR075w|YJR084w|Unknown
+YJR075w|YJR145c|Protein synthesis
+YJR075w|YKR014c|Vesicular transport
+YJR075w|YKR020w|Vacuolar organization and biogenesis
+YJR075w|YKR082w|Nuclear-cytoplasmic transport
+YJR075w|YLR061w|Protein synthesis
+YJR075w|YLR087c|Cell stress
+YJR075w|YLR192c|Protein synthesis
+YJR075w|YLR295c|Energy generation
+YJR075w|YLR337c|Cell polarity
+YJR075w|YLR338w|Unknown
+YJR075w|YLR360w|Vesicular transport
+YJR075w|YML071c|Vesicular transport
+YJR075w|YML094w|Cell structure
+YJR075w|YML097c|Vesicular transport
+YJR075w|YML115c|Protein modification
+YJR075w|YML115c|Protein modification
+YJR075w|YMR060c|Mitochondrion organization and biogenesis
+YJR075w|YMR198w|Mitosis
+YJR075w|YNL153c|Cell structure
+YJR075w|YNL322c|Cell wall organization and biogenesis
+YJR075w|YNR005c|Unknown
+YJR075w|YNR005c|Unknown
+YJR075w|YNR051c|Unknown
+YJR075w|YOR035c|Differentiation
+YJR075w|YOR089c|Vesicular transport
+YJR075w|YOR089c|Vesicular transport
+YJR075w|YPL031c|Cell cycle control
+YJR075w|YPL050c|coimmunoprecipitation
+YJR075w|YPL172c|Energy generation
+YLR200w|YJR075w|Cell wall organization and biogenesis
+YML094w|YJR075w|Cell wall organization and biogenesis
+YNL153c|YJR075w|Cell wall organization and biogenesis
+YNL322c|YJR075w|Cell wall organization and biogenesis
+YPL031c|YJR075w|Cell wall organization and biogenesis

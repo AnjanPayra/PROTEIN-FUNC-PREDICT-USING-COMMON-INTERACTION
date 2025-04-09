@@ -1,0 +1,70 @@
+YLR304c|YNL192w|two hybrid IST hits: 1
+YNL192w|YAL013w|Lipid metabolism
+YNL192w|YAL055w|Unknown
+YNL192w|YBL101c|Cell wall organization and biogenesis
+YNL192w|YBR093c|Phosphate metabolism
+YNL192w|YBR121c|Protein synthesis
+YNL192w|YBR166c|Amino-acid metabolism
+YNL192w|YBR209w|Unknown
+YNL192w|YCR089w|Mating response
+YNL192w|YDL206w|Unknown
+YNL192w|YDL223c|Cell polarity
+YNL192w|YDR248c|Unknown
+YNL192w|YDR276c|Small molecule transport
+YNL192w|YDR314c|DNA repair
+YNL192w|YDR315c|Lipid metabolism
+YNL192w|YEL031w|Small molecule transport
+YNL192w|YEL033w|Differentiation
+YNL192w|YER149c|Cell polarity
+YNL192w|YER178w|Mitochondrion organization and biogenesis
+YNL192w|YFR045w|Transport
+YNL192w|YGL081w|Unknown
+YNL192w|YGL110c|Unknown
+YNL192w|YGL200c|Vesicular transport
+YNL192w|YGL237c|Pol II transcription
+YNL192w|YHR012w|Vesicular transport
+YNL192w|YIL110w|Unknown
+YNL192w|YJL095w|Cell wall organization and biogenesis
+YNL192w|YJL121c|Carbohydrate metabolism
+YNL192w|YJL148w|Protein synthesis
+YNL192w|YJL154c|Vesicular transport
+YNL192w|YJL196c|Lipid metabolism
+YNL192w|YJL208c|Recombination
+YNL192w|YJL214w|Carbohydrate metabolism
+YNL192w|YJR055w|Unknown
+YNL192w|YKL190w|Cell wall organization and biogenesis
+YNL192w|YKR042w|Aging
+YNL192w|YLL043w|Transport
+YNL192w|YLR044c|Carbohydrate metabolism
+YNL192w|YLR074c|Cell polarity
+YNL192w|YLR370c|Cell polarity
+YNL192w|YLR398c|RNA turnover
+YNL192w|YMR003w|Unknown
+YNL192w|YMR123w|Unknown
+YNL192w|YMR205c|Carbohydrate metabolism
+YNL192w|YMR224c|DNA repair
+YNL192w|YNL087w|Unknown
+YNL192w|YNL171c|Unknown
+YNL192w|YNL179c|Unknown
+YNL192w|YNL200c|Unknown
+YNL192w|YNL201c|Carbohydrate metabolism
+YNL192w|YNL202w|Lipid metabolism
+YNL192w|YNL203c|Unknown
+YNL192w|YNL204c|Meiosis
+YNL192w|YNL228w|Unknown
+YNL192w|YNL231c|Lipid metabolism
+YNL192w|YNL235c|Unknown
+YNL192w|YNL329c|Lipid metabolism
+YNL192w|YOL027c|Mitochondrion organization and biogenesis
+YNL192w|YOR043w|Cell cycle control
+YNL192w|YOR069w|Vesicular transport
+YNL192w|YOR132w|Vesicular transport
+YNL192w|YOR322c|Unknown
+YNL192w|YPL055c|Cell cycle control
+YNL192w|YPL161c|Cell polarity
+YNL192w|YPL192c|Mating response
+YNL192w|YPL213w|RNA splicing
+YNL192w|YPL256c|Cell cycle control
+YNL192w|YPL261c|Unknown
+YNL192w|YPR024w|Mitochondrion organization and biogenesis
+YNL192w|YPR053c|Unknown

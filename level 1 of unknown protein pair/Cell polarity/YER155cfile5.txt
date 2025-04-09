@@ -1,0 +1,42 @@
+YAL041w|YER155c|msb1 bem2 display synthetic lethal phenotype;synthetic lethal
+YBR200w|YER155c|bem2 bem1 mutants show synthetic lethal phenotype;synthetic lethal
+YBR234c|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER155c|Cell polarity
+YDL029w|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER155c|Cell polarity
+YDL047w|YER155c|synthetic lethal;the synthetic lethal phenotype of bem2 sit4 mutants cannot be suppressed by the SSD1-v1 allele (SRK1)
+YDL225w|YER155c|Cell polarity
+YDR129c|YER155c|synthetic lethal
+YEL003w|YER155c|Cell polarity
+YEL061c|YER155c|Cell polarity
+YER155c|YFL037w|bem2 null mutation shows synthetic lethality with tub2-429
+YER155c|YFL039c|null mutation has synthetic lethality with act1-105; synthetic lethal
+YER155c|YFR040w|sap155 sap185 sap190 bem2 null mutant is lethal
+YER155c|YHR023w|synthetic lethal
+YER155c|YJL098w|sap155 sap185 sap190 bem2 null mutant is lethal
+YER155c|YKR028w|sap155 sap185 sap190 bem2 null mutant is lethal
+YER155c|YNL079c|synthetic lethal
+YER155c|YOL076w|synthetic lethal
+YER155c|YOL076w|bem2 dec1 mutants are synthetic lethal
+YER155c|YOR188w|bem2 msb1 mutants show synthetic lethal phenotype; msb1 bem2 display synthetic lethal phenotype
+YER155c|YOR326w|synthetic lethal
+YFL037w|YER155c|Cell polarity
+YGR078c|YER155c|Cell polarity
+YGR229c|YER155c|Cell polarity
+YHR007c|YER155c|Cell polarity
+YHR030c|YER155c|Cell polarity
+YKL079w|YER155c|Cell polarity
+YLR200w|YER155c|Cell polarity
+YLR342w|YER155c|Cell polarity
+YML094w|YER155c|Cell polarity
+YMR307w|YER155c|Cell polarity
+YNL153c|YER155c|Cell polarity
+YNL271c|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YER155c|Cell polarity
+YNL298w|YER155c|Cell polarity
+YNL322c|YER155c|Cell polarity
+YOR058c|YER155c|Cell polarity
+YOR269w|YER155c|Cell polarity
+YOR326w|YER155c|Cell polarity
+YPL031c|YER155c|Cell polarity
+YPR141c|YER155c|Cell polarity

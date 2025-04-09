@@ -1,0 +1,9 @@
+YBR260c|YJL058c|two hybrid IST hits: 2
+YBR260c|YMR032w|two hybrid IST hits: 3
+YDL029w|YBR260c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR260c|Cell polarity
+YGR196c|YBR260c|two hybrid IST hits: 7
+YNL233w|YBR260c|Cell polarity
+YNL233w|YBR260c|Cell polarity
+YOR181w|YBR260c|two hybrid with SH3 domain as bait
+YPL031c|YBR260c|Cell polarity

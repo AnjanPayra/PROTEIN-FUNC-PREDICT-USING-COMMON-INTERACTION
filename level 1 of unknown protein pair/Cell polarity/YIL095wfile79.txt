@@ -1,0 +1,8 @@
+YCR088w|YIL095w|two hybrid with SH3 domain as bait
+YDL029w|YIL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YIL095w|Cell polarity
+YEL003w|YIL095w|Cell polarity
+YGR078c|YIL095w|Cell polarity
+YLR200w|YIL095w|Cell polarity
+YML094w|YIL095w|Cell polarity
+YNL153c|YIL095w|Cell polarity

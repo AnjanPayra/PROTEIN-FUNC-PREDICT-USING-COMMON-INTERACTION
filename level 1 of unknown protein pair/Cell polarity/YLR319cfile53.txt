@@ -1,0 +1,20 @@
+YDR150w|YLR319c|Cell polarity
+YDR184c|YLR319c|
+YDR184c|YLR319c|two hybrid
+YDR309c|YLR319c|The interaction between Gic2p and Bud6p was mediated by the amino-terminal domain of Gic2p and required an intact CRIB domain , while conversely, Gic2p interacted with the amino-terminal domain of Bud6p
+YDR309c|YLR319c|
+YFL039c|YLR319c|two hybrid
+YGL015c|YLR319c|two hybrid
+YLL021w|YLR319c|two hybrid
+YLR229c|YLR319c|Cell polarity
+YLR313c|YLR319c|two hybrid
+YLR319c|YGL015c|two hybrid IST hits: 5
+YLR319c|YLR319c|two hybrid
+YLR319c|YLR319c|two hybrid
+YLR319c|YLR362w|two hybrid
+YLR319c|YMR117c|two hybrid
+YLR319c|YNL271c|two hybrid
+YMR186w|YLR319c|two hybrid IST hits: 1
+YNL271c|YLR319c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR319c|Cell polarity
+YNL298w|YLR319c|Cell polarity

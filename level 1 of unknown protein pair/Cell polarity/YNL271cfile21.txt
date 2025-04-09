@@ -1,0 +1,165 @@
+YBL061c|YNL271c|Cell polarity
+YBR023c|YNL271c|Cell polarity
+YCL027w|YNL271c|two hybrid with SH3 domain as bait
+YDL225w|YNL271c|Cell polarity
+YDR150w|YNL271c|Cell polarity
+YDR162c|YNL271c|Cell polarity
+YDR424c|YNL271c|Cell polarity
+YDR488c|YNL271c|Cell polarity
+YFL039c|YNL271c|two hybrid
+YGR229c|YNL271c|Cell polarity
+YHR030c|YNL271c|Cell polarity
+YHR107c|YNL271c|synthetic lethal
+YHR129c|YNL271c|Cell polarity
+YHR142w|YNL271c|Cell polarity
+YIL118w|YNL271c|two hybrid
+YIL159w|YNL271c|synthetic lethal
+YJL020c|YNL271c|Cell polarity
+YKL129c|YNL271c|two hybrid with SH3 domain as bait
+YKR054c|YNL271c|Cell polarity
+YKR055w|YNL271c|two hybrid
+YLR229c|YNL271c|interaction with Bni1p is specific for the activated form of Cdc42p; the interaction with Cdc42p is specific for the activated form of Cdc42p; two hybrid
+YLR229c|YNL271c|Cell polarity
+YLR319c|YNL271c|two hybrid
+YLR342w|YNL271c|Cell polarity
+YLR342w|YNL271c|Cell polarity
+YML109w|YNL271c|two hybrid library: Zds2 Bni1(AD)
+YMR032w|YNL271c|synthetic lethal
+YMR032w|YNL271c|synthetic lethal
+YMR032w|YNL271c|two hybrid
+YMR032w|YNL271c|two hybrid
+YMR109w|YNL271c|two hybrid with SH3 domain as bait
+YMR294w|YNL271c|Cell polarity
+YMR299c|YNL271c|Cell polarity
+YNL233w|YNL271c|Cell polarity
+YNL271c|YAL020c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YAL020c|Cell structure
+YNL271c|YAL026c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YAL026c|Vesicular transport
+YNL271c|YBL007c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL007c|Cell polarity
+YNL271c|YBL051c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL051c|RNA processing
+YNL271c|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL061c|Cell wall organization and biogenesis
+YNL271c|YBL062w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL062w|Unknown
+YNL271c|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBR023c|Cell wall organization and biogenesis
+YNL271c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBR200w|Cell polarity
+YNL271c|YDL117w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDL117w|Cytokinesis
+YNL271c|YDL225w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDL225w|Cytokinesis
+YNL271c|YDR149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR149c|Unknown
+YNL271c|YDR150w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR150w|Mitosis
+YNL271c|YDR159w|Cell structure
+YNL271c|YDR162c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR162c|Cell polarity
+YNL271c|YDR424c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR424c|Mitosis
+YNL271c|YDR488c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR488c|Mitosis
+YNL271c|YDR507c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR507c|Cell polarity
+YNL271c|YER111c|Cell cycle control
+YNL271c|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YER155c|Cell polarity
+YNL271c|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YFR019w|Lipid metabolism
+YNL271c|YGR200c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YGR200c|Pol II transcription
+YNL271c|YGR228w|Unknown
+YNL271c|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YGR229c|Cell wall organization and biogenesis
+YNL271c|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR030c|Cell wall organization and biogenesis
+YNL271c|YHR111w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR111w|Protein modification
+YNL271c|YHR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR129c|Mitosis
+YNL271c|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR142w|Cell wall organization and biogenesis
+YNL271c|YIL159w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YIL159w|Cytokinesis
+YNL271c|YJL020c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YJL020c|Cell polarity
+YNL271c|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YJL095w|Cell wall organization and biogenesis
+YNL271c|YJL187c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YJL187c|Cell cycle control
+YNL271c|YKL048c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YKL048c|Cell polarity
+YNL271c|YKR020w|Vacuolar organization and biogenesis
+YNL271c|YKR047w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YKR047w|Unknown
+YNL271c|YKR048c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YKR048c|Cell polarity
+YNL271c|YKR054c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YKR054c|Mitosis
+YNL271c|YLL049w|Unknown
+YNL271c|YLR056w|Lipid metabolism
+YNL271c|YLR190w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR190w|Unknown
+YNL271c|YLR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR200w|Cell structure
+YNL271c|YLR262c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR262c|Vesicular transport
+YNL271c|YLR319c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR319c|Cell polarity
+YNL271c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR330w|Cell wall organization and biogenesis
+YNL271c|YLR373c|Vacuolar organization and biogenesis
+YNL271c|YLR425w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR425w|Unknown
+YNL271c|YML109w|two hybrid library: Bni1 Zds2(BD)
+YNL271c|YMR202w|Lipid metabolism
+YNL271c|YMR294w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YMR294w|Mitosis
+YNL271c|YMR299c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YMR299c|Mitosis
+YNL271c|YMR312w|Pol II transcription
+YNL271c|YNL119w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL119w|Unknown
+YNL271c|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL233w|Cytokinesis
+YNL271c|YNL289w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL289w|Cell cycle control
+YNL271c|YNL293w|two hybrid library: Bni1 Msb3(BD)
+YNL271c|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL298w|Cell polarity
+YNL271c|YOL076w|Mitochondrion organization and biogenesis
+YNL271c|YOR058c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YOR058c|Mitosis
+YNL271c|YOR122c|two hybrid library: Bni1 Pfy1(BD)
+YNL271c|YOR122c|two hybrid
+YNL271c|YOR122c|two hybrid
+YNL271c|YOR269w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YOR269w|Mitosis
+YNL271c|YOR322c|Unknown
+YNL271c|YOR327c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YOR327c|Vesicular transport
+YNL271c|YPL065w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL065w|Vesicular transport
+YNL271c|YPL086c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL086c|Pol II transcription
+YNL271c|YPL101w|Pol II transcription
+YNL271c|YPL102c|Unknown
+YNL271c|YPL161c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL161c|Cell polarity
+YNL271c|YPL174c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL174c|Mitosis
+YNL271c|YPR040w|Signal transduction
+YNL271c|YPR165w|two hybrid library: Bni1 Rho1-GTP(BD)
+YNL271c|YPR165w|two hybrid
+YNL293w|YNL271c|two hybrid library: Msb3 Bni1(AD)
+YNL298w|YNL271c|Cell polarity
+YOR058c|YNL271c|Cell polarity
+YOR122c|YNL271c|two hybrid library: Pfy1 Bni1(AD)
+YOR269w|YNL271c|Cell polarity
+YPL031c|YNL271c|Cell polarity
+YPL174c|YNL271c|Cell polarity
+YPR165w|YNL271c|two hybrid library: Rho1-GTP Bni1(AD)

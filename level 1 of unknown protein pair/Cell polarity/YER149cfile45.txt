@@ -1,0 +1,20 @@
+YBR234c|YER149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER149c|Cell polarity
+YCL027w|YER149c|two hybrid with SH3 domain as bait
+YDL029w|YER149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER149c|Cell polarity
+YDR309c|YER149c|
+YEL003w|YER149c|Cell polarity
+YER149c|YDL233w|two hybrid IST hits: 1
+YER149c|YIL040w|two hybrid IST hits: 2
+YER149c|YKL034w|two hybrid IST hits: 1
+YER149c|YLL021w|two hybrid; coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YER149c|YMR124w|two hybrid interaction between coiled-coil motifs (249-416, 803-863)
+YER149c|YOR315w|two hybrid IST hits: 1
+YGL127c|YER149c|two hybrid IST hits: 1
+YGR078c|YER149c|Cell polarity
+YJL074c|YER149c|two hybrid interaction between coiled-coil motifs (107-518, 249-416)
+YLR229c|YER149c|Cell polarity
+YLR330w|YER149c|Cell polarity
+YNL192w|YER149c|Cell polarity
+YNL298w|YER149c|Cell polarity

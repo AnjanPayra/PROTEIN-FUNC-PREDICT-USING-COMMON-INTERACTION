@@ -1,0 +1,30 @@
+YBL085w|YER114c|synthetic lethal
+YBR200w|YER114c|two hybrid
+YBR200w|YER114c|two hybrid library: Bem1 Boi2(BD,AD)
+YDR488c|YER114c|Cell polarity
+YER114c|YBR200w|two hybrid library: Boi2 Bem1(BD,AD)
+YER114c|YER124c|two hybrid with SH3 domain as bait
+YER114c|YER124c|two hybrid library: Boi2 Yer124c(AD)
+YER114c|YHL007c|two hybrid library: Boi2 Ste20(AD)
+YER114c|YIL118w|overexpression of Rho3p rescues boi1 boi2 lethality; suppression
+YER114c|YKR055w|overexpression of Rho4p rescues boi1 boi2 lethality; suppression
+YER114c|YLR229c|two hybrid library: Boi2 Cdc42-GTP(BD)
+YER114c|YML109w|two hybrid library: Boi2 Zds2(AD)
+YER114c|YNL298w|two hybrid library: Boi2 Cla4(AD)
+YER114c|YOR188w|two hybrid library: Boi2 Msb1(AD)
+YER114c|YOR370c|two hybrid library: Boi2 Mrs6(AD)
+YER118c|YER114c|two hybrid with SH3 domain as bait
+YER124c|YER114c|two hybrid library: Yer124c Boi2(BD)
+YHL007c|YER114c|two hybrid library: Ste20 Boi2(AD)
+YHR129c|YER114c|Cell polarity
+YJR091c|YER114c|two hybrid IST hits: 1
+YKR054c|YER114c|Cell polarity
+YLR229c|YER114c|two hybrid library: Cdc42-GTP Boi2(AD)
+YML109w|YER114c|two hybrid library: Zds2 Boi2(BD)
+YMR294w|YER114c|Cell polarity
+YMR294w|YER114c|Cell polarity
+YNL298w|YER114c|two hybrid library: Cla4 Boi2(BD)
+YOR188w|YER114c|two hybrid library: Msb1 Boi2(BD)
+YOR370c|YER114c|two hybrid library: Mrs6 Boi2(BD)
+YPL174c|YER114c|Cell polarity
+YPL174c|YER114c|Cell polarity

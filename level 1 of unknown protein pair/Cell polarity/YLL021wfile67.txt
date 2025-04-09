@@ -1,0 +1,20 @@
+YCR002c|YLL021w|;interacts genetically with Spa2p
+YDL159w|YLL021w|two hybrid Ste7p N-terminus binds to Spa2p
+YDL181w|YLL021w|two hybrid interaction between coiled-coil motifs (37-84%, 267-410)
+YER149c|YLL021w|two hybrid; coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YGR229c|YLL021w|Cell polarity
+YHR158c|YLL021w|overexpression of KEL1 suppresses cell fusion defect of spa2delta mutantsuppression; suppression overexpression
+YLL021w|YIL144w|two hybrid interaction between coiled-coil motifs (267-410, 361-690)
+YLL021w|YLR147c|two hybrid
+YLL021w|YLR319c|two hybrid
+YLL021w|YLR362w|two hybrid
+YLL021w|YNL293w|two hybrid library: Spa2 Msb3(BD)
+YLL021w|YOL112w|two hybrid library: Spa2 Msb4(BD)
+YLL021w|YOR231w|Mkk1p N-terminus binds to Spa2p; two hybrid
+YLL021w|YPL140c|two hybrid
+YLR229c|YLL021w|Cell polarity
+YLR342w|YLL021w|Cell polarity
+YNL233w|YLL021w|Cell polarity
+YNL293w|YLL021w|two hybrid library: Msb3 Spa2(AD)
+YNL298w|YLL021w|Cell polarity
+YOL112w|YLL021w|two hybrid library: Msb4 Spa2(AD)

@@ -1,0 +1,26 @@
+YBL061c|YLR337c|Cell polarity
+YBR023c|YLR337c|Cell polarity
+YBR234c|YLR337c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR337c|Cell polarity
+YDL029w|YLR337c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR337c|Cell polarity
+YEL003w|YLR337c|Cell polarity
+YER125w|YLR337c|rsp5 and vrp1 are synthetically lethal; synthetic lethal
+YGR078c|YLR337c|Cell polarity
+YHR142w|YLR337c|Cell polarity
+YJL020c|YLR337c|two hybrid with SH3 domain as bait
+YJL099w|YLR337c|Cell polarity
+YJR075w|YLR337c|Cell polarity
+YKL129c|YLR337c|two hybrid with SH3 domain as bait
+YLR200w|YLR337c|Cell polarity
+YLR337c|YDR388w|two hybrid with SH3 domain as bait
+YLR337c|YIL130w|two hybrid with SH3 domain as bait
+YLR337c|YMR032w|two hybrid with SH3 domain as bait
+YLR337c|YMR109w|two hybrid with SH3 domain as bait
+YLR337c|YOR181w|two hybrid
+YML094w|YLR337c|Cell polarity
+YMR263w|YLR337c|Cell polarity
+YMR263w|YLR337c|Cell polarity
+YNL153c|YLR337c|Cell polarity
+YNL233w|YLR337c|Cell polarity
+YOR181w|YLR337c|two hybrid with SH3 domain as bait

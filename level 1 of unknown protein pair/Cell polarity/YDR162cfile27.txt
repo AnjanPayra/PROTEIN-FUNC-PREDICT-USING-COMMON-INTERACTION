@@ -1,0 +1,69 @@
+YBR164c|YDR162c|Cell polarity
+YBR164c|YDR162c|Cell polarity
+YDL006w|YDR162c|two hybrid
+YDL006w|YDR162c|two hybrid
+YDL006w|YDR162c|two hybrid IST hits: 3
+YDR162c|YBL103c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YBL103c|Pol II transcription
+YDR162c|YDL063c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YDL063c|Unknown
+YDR162c|YER016w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YER016w|Mitosis
+YDR162c|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YFR019w|Lipid metabolism
+YDR162c|YGL124c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL124c|Unknown
+YDR162c|YGL211w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL211w|Unknown
+YDR162c|YGL212w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL212w|Vacuolar organization and biogenesis
+YDR162c|YGL216w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL216w|Mitosis
+YDR162c|YGL217c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL217c|Unknown
+YDR162c|YGL252c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL252c|Carbohydrate metabolism
+YDR162c|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGR078c|Cell structure
+YDR162c|YGR118w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGR118w|Protein synthesis
+YDR162c|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGR229c|Cell wall organization and biogenesis
+YDR162c|YHR012w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YHR012w|Vesicular transport
+YDR162c|YIL034c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YIL034c|Cell structure
+YDR162c|YIL133c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YIL133c|Protein synthesis
+YDR162c|YKL007w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YKL007w|Cell structure
+YDR162c|YLL002w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLL002w|DNA repair
+YDR162c|YLR210w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLR210w|Cell cycle control
+YDR162c|YLR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLR216c|Protein folding
+YDR162c|YML026c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YML026c|Protein synthesis
+YDR162c|YML094c-a|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YML094c-a|Unknown
+YDR162c|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YML094w|Cell structure
+YDR162c|YNL094w|two hybrid with SH3 domain as bait
+YDR162c|YNL135c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YNL135c|Protein folding
+YDR162c|YNL271c|Cell polarity
+YDR162c|YPL241c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YPL241c|Cell structure
+YDR162c|YPL269w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YPL269w|Mitosis
+YER016w|YDR162c|Cell polarity
+YGR229c|YDR162c|Cell polarity
+YLR039c|YDR162c|Cell polarity
+YLR262c|YDR162c|Cell polarity
+YMR307w|YDR162c|Cell polarity
+YNL233w|YDR162c|Cell polarity
+YNL271c|YDR162c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR162c|Cell polarity
+YNL322c|YDR162c|Cell polarity
+YOR070c|YDR162c|Cell polarity

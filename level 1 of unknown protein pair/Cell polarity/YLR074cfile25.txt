@@ -1,0 +1,2 @@
+YBR101c|YLR074c|two hybrid IST hits: 1
+YNL192w|YLR074c|Cell polarity

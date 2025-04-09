@@ -1,0 +1,112 @@
+YGR078c|YHR114w|Cell polarity
+YHR114w|YAL064w|two hybrid IST hits: 1
+YHR114w|YBL109w|two hybrid IST hits: 1
+YHR114w|YBR192w|two hybrid IST hits: 1
+YHR114w|YBR205w|two hybrid with SH3 domain as bait
+YHR114w|YCR035c|two hybrid IST hits: 5
+YHR114w|YCR044c|two hybrid IST hits: 1
+YHR114w|YDL015c|two hybrid IST hits: 1
+YHR114w|YDL037c|two hybrid IST hits: 1
+YHR114w|YDL100c|two hybrid IST hits: 2
+YHR114w|YDL134c|two hybrid IST hits: 6
+YHR114w|YDL146w|two hybrid with SH3 domain as bait
+YHR114w|YDL172c|two hybrid IST hits: 1
+YHR114w|YDL213c|two hybrid IST hits: 1
+YHR114w|YDL217c|two hybrid IST hits: 3
+YHR114w|YDR042c|two hybrid IST hits: 2
+YHR114w|YDR056c|two hybrid IST hits: 1
+YHR114w|YDR069c|two hybrid IST hits: 2
+YHR114w|YDR148c|two hybrid IST hits: 1
+YHR114w|YDR319c|two hybrid IST hits: 1
+YHR114w|YDR416w|two hybrid IST hits: 1
+YHR114w|YDR422c|two hybrid IST hits: 5
+YHR114w|YDR515w|two hybrid IST hits: 2
+YHR114w|YDR529c|two hybrid IST hits: 3
+YHR114w|YEL017w|two hybrid IST hits: 2
+YHR114w|YER032w|two hybrid with SH3 domain as bait
+YHR114w|YER079w|two hybrid IST hits: 1
+YHR114w|YER096w|two hybrid IST hits: 4
+YHR114w|YER117w|two hybrid IST hits: 1
+YHR114w|YER125w|two hybrid IST hits: 2
+YHR114w|YER159c|two hybrid IST hits: 1
+YHR114w|YFL012w|two hybrid IST hits: 1
+YHR114w|YFL018c|two hybrid IST hits: 4
+YHR114w|YFR027w|two hybrid IST hits: 1
+YHR114w|YGL018c|two hybrid IST hits: 1
+YHR114w|YGL030w|two hybrid IST hits: 1
+YHR114w|YGL037c|two hybrid IST hits: 1
+YHR114w|YGL104c|two hybrid with SH3 domain as bait
+YHR114w|YGL129c|two hybrid IST hits: 1
+YHR114w|YGL189c|two hybrid IST hits: 3
+YHR114w|YGL222c|two hybrid IST hits: 1
+YHR114w|YGL225w|two hybrid IST hits: 3
+YHR114w|YGL236c|two hybrid IST hits: 2
+YHR114w|YGR031w|two hybrid IST hits: 1
+YHR114w|YGR110w|two hybrid IST hits: 3
+YHR114w|YGR215w|two hybrid IST hits: 1
+YHR114w|YHL044w|two hybrid IST hits: 1
+YHR114w|YHR133c|two hybrid IST hits: 1
+YHR114w|YIL008w|two hybrid IST hits: 1
+YHR114w|YIL045w|two hybrid IST hits: 2
+YHR114w|YIL132c|two hybrid IST hits: 7
+YHR114w|YIL156w|two hybrid with SH3 domain as bait
+YHR114w|YIR021w|two hybrid IST hits: 1
+YHR114w|YJL012c|two hybrid IST hits: 2
+YHR114w|YJL047c|two hybrid IST hits: 1
+YHR114w|YJL065c|two hybrid IST hits: 2
+YHR114w|YJL086c|two hybrid IST hits: 5
+YHR114w|YJL117w|two hybrid IST hits: 1
+YHR114w|YJL151c|two hybrid with SH3 domain as bait
+YHR114w|YJL152w|two hybrid IST hits: 2
+YHR114w|YJL159w|two hybrid IST hits: 1
+YHR114w|YJL174w|two hybrid IST hits: 1
+YHR114w|YJL180c|two hybrid IST hits: 4
+YHR114w|YJL203w|two hybrid IST hits: 5
+YHR114w|YJR090c|two hybrid with SH3 domain as bait
+YHR114w|YJR108w|two hybrid IST hits: 2
+YHR114w|YKL007w|two hybrid IST hits: 1
+YHR114w|YKL129c|two hybrid with SH3 domain as bait
+YHR114w|YKL157w|two hybrid IST hits: 2
+YHR114w|YKL175w|two hybrid IST hits: 2
+YHR114w|YKL177w|two hybrid IST hits: 2
+YHR114w|YKR030w|two hybrid with SH3 domain as bait
+YHR114w|YKR032w|two hybrid IST hits: 1
+YHR114w|YLL054c|two hybrid IST hits: 1
+YHR114w|YLR064w|two hybrid with SH3 domain as bait
+YHR114w|YLR078c|two hybrid with SH3 domain as bait
+YHR114w|YLR105c|two hybrid IST hits: 1
+YHR114w|YLR105c|two hybrid with SH3 domain as bait
+YHR114w|YLR112w|two hybrid IST hits: 3
+YHR114w|YLR136c|two hybrid IST hits: 1
+YHR114w|YLR309c|two hybrid IST hits: 1
+YHR114w|YLR461w|two hybrid IST hits: 2
+YHR114w|YML008c|two hybrid IST hits: 1
+YHR114w|YML092c|two hybrid IST hits: 1
+YHR114w|YML121w|two hybrid
+YHR114w|YML121w|two hybrid IST hits: 1
+YHR114w|YML131w|two hybrid IST hits: 1
+YHR114w|YMR109w|two hybrid with SH3 domain as bait
+YHR114w|YMR253c|two hybrid with SH3 domain as bait
+YHR114w|YNL078w|two hybrid with SH3 domain as bait
+YHR114w|YNL092w|two hybrid IST hits: 5
+YHR114w|YNL094w|two hybrid with SH3 domain as bait
+YHR114w|YNL280c|two hybrid IST hits: 1
+YHR114w|YNR007c|two hybrid IST hits: 1
+YHR114w|YNR035c|two hybrid IST hits: 1
+YHR114w|YOL002c|two hybrid IST hits: 2
+YHR114w|YOL018c|two hybrid IST hits: 3
+YHR114w|YOL082w|two hybrid IST hits: 1
+YHR114w|YOR059c|two hybrid IST hits: 4
+YHR114w|YOR175c|two hybrid IST hits: 1
+YHR114w|YOR181w|two hybrid with SH3 domain as bait
+YHR114w|YOR224c|two hybrid IST hits: 1
+YHR114w|YOR281c|two hybrid IST hits: 2
+YHR114w|YPL057c|two hybrid IST hits: 1
+YHR114w|YPL111w|two hybrid IST hits: 1
+YHR114w|YPL124w|two hybrid IST hits: 1
+YHR114w|YPL152w|two hybrid IST hits: 2
+YHR114w|YPL174c|two hybrid IST hits: 1
+YHR114w|YPL246c|two hybrid with SH3 domain as bait
+YHR114w|YPR094w|two hybrid IST hits: 1
+YHR114w|YPR171w|two hybrid with SH3 domain as bait
+YML094w|YHR114w|Cell polarity

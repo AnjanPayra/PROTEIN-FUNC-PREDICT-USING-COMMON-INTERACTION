@@ -1,0 +1,70 @@
+YBL106c|YOR326w|MYO2 overexpression suppresses the cs phenotype of a sro7 sro77 double deletion mutant;suppression
+YBL106c|YOR326w|MYO2 overexpression suppresses the cs phenotype of a sro7 sro77 double deletion mutant;suppression overexpression
+YBR109c|YOR326w|cmd1 mutants show allele-specific synthetic lethality with myo2-66 conditional mutation
+YBR109c|YOR326w|synthetic lethal
+YBR109c|YOR326w|interaction with IQ sites on Myo2p may be regulated by phosphorylation
+YBR109c|YOR326w|Myo2p coimmunoprecipitates with calmodulin in the presence of Ca2+ or EGTA; calmodulin and Myo2p fusion proteins directly interact in gel overlay assay; calmodulin binds specifically in presence of Ca2+ or EGTA to the region of Myo2p containing six tandem
+YBR109c|YOR326w|myo2-66 cmd1-1 are synthetic lethal, but not myo2-66 cmd1-3;synthetic lethal
+YDR166c|YOR326w|myo2-66 sec5-24 is synthetic lethal
+YER155c|YOR326w|synthetic lethal
+YFL005w|YOR326w|myo2-66 sec4-8 is synthetic lethal
+YGL106w|YOR326w|Mlc1p binds directly to the IQ repeats in the neck of Myo2p; overlay assay
+YGL233w|YOR326w|myo2-66 sec15-1 is synthetic lethal
+YGR009c|YOR326w|myo2-66 sec9-4 is synthetic lethal
+YHR023w|YOR326w|myo2-66 myo1delta show a synthetic growth defect
+YJL187c|YOR326w|synthetic growth defect
+YKL079w|YOR326w|overexpression of Smy1p partially suppresses myo2 defects, see; smy1delta myo2-66 is synthetic lethal; suppression; synthetic lethal
+YLR166c|YOR326w|myo2-66 sec10-2 is synthetic lethal
+YNL079c|YOR326w|synthetic lethal; tpm1delta myo2-66 are synthetic lethal
+YNL272c|YOR326w|myo2-66 sec2-41 is synthetic lethal
+YOL076w|YOR326w|myo2 dec1 mutants are synthetic lethal
+YOL076w|YOR326w|synthetic lethal
+YOR326w|YBL061c|Cell wall organization and biogenesis
+YOR326w|YBL062w|Unknown
+YOR326w|YBR023c|Cell wall organization and biogenesis
+YOR326w|YBR200w|Cell polarity
+YOR326w|YCL029c|Mitosis
+YOR326w|YDL006w|Signal transduction
+YOR326w|YDL225w|Cytokinesis
+YOR326w|YDR149c|Unknown
+YOR326w|YDR150w|Mitosis
+YOR326w|YDR424c|Mitosis
+YOR326w|YDR488c|Mitosis
+YOR326w|YER155c|Cell polarity
+YOR326w|YFR019w|Lipid metabolism
+YOR326w|YGL019w|Cell cycle control
+YOR326w|YGL211w|Unknown
+YOR326w|YGR200c|Pol II transcription
+YOR326w|YGR228w|Unknown
+YOR326w|YGR229c|Cell wall organization and biogenesis
+YOR326w|YHR030c|Cell wall organization and biogenesis
+YOR326w|YHR111w|Protein modification
+YOR326w|YHR129c|Mitosis
+YOR326w|YHR142w|Cell wall organization and biogenesis
+YOR326w|YIL008w|Protein modification
+YOR326w|YJL095w|Cell wall organization and biogenesis
+YOR326w|YJR053w|Mitosis
+YOR326w|YJR112w|two hybrid interaction between coiled-coil motifs (575-1101, 113-187)
+YOR326w|YJR112w|two hybrid interaction between coiled-coil motifs (575-1101, 59-187)
+YOR326w|YJR145c|Protein synthesis
+YOR326w|YKL048c|Cell polarity
+YOR326w|YKR054c|Mitosis
+YOR326w|YKR074w|Unknown
+YOR326w|YLL049w|Unknown
+YOR326w|YLR330w|Cell wall organization and biogenesis
+YOR326w|YLR368w|Mitochondrion organization and biogenesis
+YOR326w|YLR386w|Vacuolar organization and biogenesis
+YOR326w|YMR055c|Mitosis
+YOR326w|YNL079c|Cell structure
+YOR326w|YNL119w|Unknown
+YOR326w|YNL119w|Unknown
+YOR326w|YNL120c|Unknown
+YOR326w|YNL233w|Cytokinesis
+YOR326w|YNL298w|Cell polarity
+YOR326w|YOR039w|Cell cycle control
+YOR326w|YOR269w|Mitosis
+YOR326w|YPL086c|Pol II transcription
+YOR326w|YPL101w|Pol II transcription
+YOR326w|YPL155c|Mitosis
+YOR326w|YPL174c|Mitosis
+YOR326w|YPR055w|myo2-66 sec8-9 is synthetic lethal

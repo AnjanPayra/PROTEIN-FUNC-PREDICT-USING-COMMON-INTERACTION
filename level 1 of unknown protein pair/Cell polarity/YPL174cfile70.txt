@@ -1,0 +1,91 @@
+YAL013w|YPL174c|Mitosis
+YBL106c|YPL174c|two hybrid library: Sro77 Nip100(AD)
+YDL113c|YPL174c|two hybrid IST hits: 1
+YDR488c|YPL174c|two hybrid IST hits: 9
+YDR488c|YPL174c|two hybrid library: Pac11 Nip100(BD)
+YEL003w|YPL174c|Mitosis
+YEL061c|YPL174c|synthetic lethal
+YEL061c|YPL174c|Mitosis
+YER016w|YPL174c|Mitosis
+YGL216w|YPL174c|Mitosis
+YGR078c|YPL174c|Mitosis
+YHR114w|YPL174c|two hybrid IST hits: 1
+YHR129c|YPL174c|two hybrid
+YHR129c|YPL174c|two hybrid library: Arp1 Nip100(BD)
+YHR129c|YPL174c|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YIL144w|YPL174c|two hybrid
+YJL184w|YPL174c|two hybrid
+YLR200w|YPL174c|Mitosis
+YLR210w|YPL174c|Mitosis
+YLR423c|YPL174c|two hybrid library: Apg17 Nip100(BD)
+YML094w|YPL174c|Mitosis
+YML124c|YPL174c|Mitosis
+YMR263w|YPL174c|Mitosis
+YMR294w|YPL174c|two hybrid IST hits: 5
+YMR294w|YPL174c|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YNL084c|YPL174c|two hybrid IST hits: 1
+YNL090w|YPL174c|two hybrid library: Rho2-GTP Nip100(AD)
+YNL153c|YPL174c|Mitosis
+YNL271c|YPL174c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL174c|Mitosis
+YNL298w|YPL174c|Mitosis
+YOR058c|YPL174c|Mitosis
+YOR156c|YPL174c|two hybrid library: Nfi1 Nip100(BD)
+YOR326w|YPL174c|Mitosis
+YOR349w|YPL174c|Mitosis
+YPL174c|YAL013w|Lipid metabolism
+YPL174c|YBL106c|two hybrid library: Nip100 Sro77(BD)
+YPL174c|YDL142c|Mitochondrion organization and biogenesis
+YPL174c|YDL142c|Mitochondrion organization and biogenesis
+YPL174c|YDR116c|Mitochondrion organization and biogenesis
+YPL174c|YDR116c|Mitochondrion organization and biogenesis
+YPL174c|YDR488c|two hybrid library: Nip100 Pac11(AD)
+YPL174c|YDR512c|Meiosis
+YPL174c|YEL003w|Cell structure
+YPL174c|YEL061c|Mitosis
+YPL174c|YER007w|Cell structure
+YPL174c|YER016w|Mitosis
+YPL174c|YER114c|Cell polarity
+YPL174c|YER114c|Cell polarity
+YPL174c|YGL124c|Unknown
+YPL174c|YGL216w|Mitosis
+YPL174c|YGL217c|Unknown
+YPL174c|YGR078c|Cell structure
+YPL174c|YHR129c|two hybrid library: Nip100 Arp1(AD)
+YPL174c|YIL034c|Cell structure
+YPL174c|YKL007w|Cell structure
+YPL174c|YLR015w|Chromatin/chromosome structure
+YPL174c|YLR015w|Chromatin/chromosome structure
+YPL174c|YLR200w|Cell structure
+YPL174c|YLR210w|Cell cycle control
+YPL174c|YLR210w|Cell cycle control
+YPL174c|YLR216c|Protein folding
+YPL174c|YLR216c|Protein folding
+YPL174c|YLR217w|Unknown
+YPL174c|YLR217w|Unknown
+YPL174c|YLR393w|Energy generation
+YPL174c|YLR393w|Energy generation
+YPL174c|YLR423c|two hybrid library: Nip100 Apg17(AD)
+YPL174c|YML094w|Cell structure
+YPL174c|YMR138w|Cell structure
+YPL174c|YMR263w|Chromatin/chromosome structure
+YPL174c|YMR263w|Chromatin/chromosome structure
+YPL174c|YMR307w|Cell wall organization and biogenesis
+YPL174c|YNL090w|two hybrid library: Nip100 Rho2-GTP(BD)
+YPL174c|YNL153c|Cell structure
+YPL174c|YNL271c|Cell polarity
+YPL174c|YNL307c|Meiosis
+YPL174c|YOR156c|two hybrid library: Nip100 Nfi1(AD)
+YPL174c|YOR349w|Cell structure
+YPL174c|YPL174c|two hybrid library: Nip100 Nip100(AD,BD)
+YPL174c|YPL174c|two hybrid library: Nip100 Nip100(AD,BD)
+YPL174c|YPL205c|Meiosis
+YPL174c|YPL241c|Cell structure
+YPL174c|YPL269w|Mitosis
+YPL174c|YPR141c|Mitosis
+YPL174c|YPR165w|two hybrid library: Nip100 Rho1-GTP(BD)
+YPL241c|YPL174c|Mitosis
+YPL241c|YPL174c|Mitosis
+YPL269w|YPL174c|Mitosis
+YPR141c|YPL174c|Mitosis
+YPR165w|YPL174c|two hybrid library: Rho1-GTP Nip100(AD)

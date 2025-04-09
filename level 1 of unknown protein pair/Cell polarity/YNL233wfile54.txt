@@ -1,0 +1,39 @@
+YBL061c|YNL233w|two hybrid
+YBR234c|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL233w|Cytokinesis
+YCR002c|YNL233w|two hybrid
+YCR009c|YNL233w|Cytokinesis
+YDL029w|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL233w|Cytokinesis
+YDL225w|YNL233w|Cytokinesis
+YDR388w|YNL233w|Cytokinesis
+YER133w|YNL233w|two hybrid
+YGR014w|YNL233w|two hybrid library: Msb2 Bni4(AD)
+YGR229c|YNL233w|Cytokinesis
+YHR030c|YNL233w|Cytokinesis
+YKL079w|YNL233w|Cytokinesis
+YLR342w|YNL233w|Cytokinesis
+YNL233w|YBL047c|Vesicular transport
+YNL233w|YBR260c|Cell polarity
+YNL233w|YBR260c|Cell polarity
+YNL233w|YCR009c|Cell polarity
+YNL233w|YDL117w|Cytokinesis
+YNL233w|YDL225w|Cytokinesis
+YNL233w|YDR162c|Cell polarity
+YNL233w|YDR388w|Cell polarity
+YNL233w|YGR014w|two hybrid library: Bni4 Msb2(BD)
+YNL233w|YGR229c|Cell wall organization and biogenesis
+YNL233w|YHR030c|Cell wall organization and biogenesis
+YNL233w|YJL095w|Cell wall organization and biogenesis
+YNL233w|YJR118c|Energy generation
+YNL233w|YKL032c|DNA repair
+YNL233w|YLL021w|Cell polarity
+YNL233w|YLR337c|Cell polarity
+YNL233w|YLR342w|Cell wall organization and biogenesis
+YNL233w|YML115c|Protein modification
+YNL233w|YNL271c|Cell polarity
+YNL233w|YNR051c|Unknown
+YNL233w|YPL066w|Unknown
+YNL271c|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL233w|Cytokinesis
+YOR326w|YNL233w|Cytokinesis

@@ -1,0 +1,57 @@
+YBL007c|YBR205w|two hybrid with SH3 domain as bait
+YBL007c|YCR088w|abp1 sla1 is synthetic lethal
+YBL007c|YCR088w|synthetic lethal
+YBL007c|YDR388w|synthetic lethal
+YBL007c|YDR388w|two hybrid library: Sla1 Rvs167(AD)
+YBL007c|YGL104c|two hybrid with SH3 domain as bait
+YBL007c|YGR268c|two hybrid with SH3 domain as bait
+YBL007c|YGR268c|two hybrid library: Sla1 Ygr268c(AD)
+YBL007c|YHR016c|two hybrid with SH3 domain as bait
+YBL007c|YHR016c|two hybrid
+YBL007c|YHR016c|two hybrid library: Sla1 Ysc84(AD)
+YBL007c|YIR006c|synthetic lethal, see
+YBL007c|YJL004c|two hybrid with SH3 domain as bait
+YBL007c|YJL151c|two hybrid with SH3 domain as bait
+YBL007c|YKR030w|two hybrid with SH3 domain as bait
+YBL007c|YLR064w|two hybrid with SH3 domain as bait
+YBL007c|YLR078c|two hybrid with SH3 domain as bait
+YBL007c|YMR253c|two hybrid with SH3 domain as bait
+YBL007c|YNL094w|two hybrid library: Sla1 Ynl094w(AD)
+YBL007c|YNL138w|two hybrid library: Sla1 Srv2(AD)
+YBL007c|YNL152w|two hybrid with SH3 domain as bait
+YBL007c|YOR181w|
+YBL007c|YOR181w|two hybrid library: Sla1 Las17(AD)
+YBL007c|YOR284w|two hybrid with SH3 domain as bait
+YBL007c|YPL246c|two hybrid with SH3 domain as bait
+YBL007c|YPR171w|two hybrid with SH3 domain as bait
+YBL007c|YPR171w|two hybrid library: Sla1 Ypr171w(AD)
+YBL061c|YBL007c|Cell polarity
+YBR023c|YBL007c|Cell polarity
+YCR009c|YBL007c|Cell polarity
+YDR388w|YBL007c|two hybrid library: Rvs167 Sla1(BD)
+YDR388w|YBL007c|Cell polarity
+YEL003w|YBL007c|Cell polarity
+YGR078c|YBL007c|Cell polarity
+YGR229c|YBL007c|Cell polarity
+YGR268c|YBL007c|two hybrid library: Ygr268c Sla1(BD)
+YHR007c|YBL007c|Cell polarity
+YHR016c|YBL007c|two hybrid library: Ysc84 Sla1(BD)
+YHR142w|YBL007c|Cell polarity
+YJL020c|YBL007c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YBL007c|Cell polarity
+YJR075w|YBL007c|Cell polarity
+YKL079w|YBL007c|Cell polarity
+YLR200w|YBL007c|Cell polarity
+YLR330w|YBL007c|Cell polarity
+YLR342w|YBL007c|Cell polarity
+YML094w|YBL007c|Cell polarity
+YML094w|YBL007c|Cell polarity
+YNL094w|YBL007c|two hybrid library: Ynl094w Sla1(BD)
+YNL138w|YBL007c|two hybrid library: Srv2 Sla1(BD)
+YNL153c|YBL007c|Cell polarity
+YNL238w|YBL007c|NPFSD mediated endocytosis requires SLA1
+YNL271c|YBL007c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL007c|Cell polarity
+YOR181w|YBL007c|two hybrid library: Las17 Sla1(BD)
+YPR135w|YBL007c|Cell polarity
+YPR171w|YBL007c|two hybrid library: Ypr171w Sla1(BD)

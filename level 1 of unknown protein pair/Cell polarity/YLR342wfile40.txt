@@ -1,0 +1,97 @@
+YBL061c|YLR342w|Cell wall organization and biogenesis
+YBL105c|YLR342w|synthetic lethal
+YBL105c|YLR342w|copurification, coimmunoprecipitation
+YBL105c|YLR342w|coimmunoprecipitation
+YBR023c|YLR342w|Cell wall organization and biogenesis
+YGR032w|YLR342w|synthetic lethal
+YGR032w|YLR342w|Cell wall organization and biogenesis
+YGR032w|YLR342w|Cell wall organization and biogenesis
+YHR030c|YLR342w|synthetic lethal
+YHR030c|YLR342w|Cell wall organization and biogenesis
+YHR142w|YLR342w|Cell wall organization and biogenesis
+YJL099w|YLR342w|Cell wall organization and biogenesis
+YKL190w|YLR342w|synthetic lethal
+YKL190w|YLR342w|Cell wall organization and biogenesis
+YLR330w|YLR342w|Cell wall organization and biogenesis
+YLR342w|YBL007c|Cell polarity
+YLR342w|YBL047c|Vesicular transport
+YLR342w|YBL061c|Cell wall organization and biogenesis
+YLR342w|YBL062w|Unknown
+YLR342w|YBR023c|Cell wall organization and biogenesis
+YLR342w|YBR082c|Protein degradation
+YLR342w|YBR121c|Protein synthesis
+YLR342w|YCR034w|Lipid metabolism
+YLR342w|YDL006w|Signal transduction
+YLR342w|YDL223c|Cell polarity
+YLR342w|YDR137w|Vesicular transport
+YLR342w|YDR378c|RNA splicing
+YLR342w|YDR388w|Cell polarity
+YLR342w|YDR477w|Carbohydrate metabolism
+YLR342w|YDR477w|Carbohydrate metabolism
+YLR342w|YDR508c|Amino-acid metabolism
+YLR342w|YER111c|Cell cycle control
+YLR342w|YER151c|Protein modification
+YLR342w|YER155c|Cell polarity
+YLR342w|YGL081w|Unknown
+YLR342w|YGL110c|Unknown
+YLR342w|YGL196w|Unknown
+YLR342w|YGL240w|Cell cycle control
+YLR342w|YGR032w|Cell wall organization and biogenesis
+YLR342w|YGR133w|Peroxisome organization and biogenesis
+YLR342w|YGR135w|Protein degradation
+YLR342w|YGR217w|Transport
+YLR342w|YHR030c|Cell wall organization and biogenesis
+YLR342w|YHR142w|Cell wall organization and biogenesis
+YLR342w|YHR200w|Pol II transcription
+YLR342w|YIL154c|Carbohydrate metabolism
+YLR342w|YJL046w|Protein modification
+YLR342w|YJL099w|Cell wall organization and biogenesis
+YLR342w|YJL124c|RNA turnover
+YLR342w|YJL136c|Protein synthesis
+YLR342w|YJL183w|Protein modification
+YLR342w|YJL208c|Recombination
+YLR342w|YJR055w|Unknown
+YLR342w|YJR118c|Energy generation
+YLR342w|YKL032c|DNA repair
+YLR342w|YKL048c|Cell polarity
+YLR342w|YKL190w|Cell wall organization and biogenesis
+YLR342w|YKR020w|Vacuolar organization and biogenesis
+YLR342w|YKR024c|RNA processing
+YLR342w|YLL021w|Cell polarity
+YLR342w|YLL043w|Transport
+YLR342w|YLR021w|Unknown
+YLR342w|YLR204w|Unknown
+YLR342w|YLR320w|Unknown
+YLR342w|YLR330w|Cell wall organization and biogenesis
+YLR342w|YLR332w|Cell wall organization and biogenesis
+YLR342w|YLR338w|Unknown
+YLR342w|YLR371w|Cell wall organization and biogenesis
+YLR342w|YLR433c|synthetic lethal
+YLR342w|YML017w|Unknown
+YLR342w|YML057w|synthetic lethal with VMA mutants
+YLR342w|YML057w|synthetic lethal
+YLR342w|YMR073c|Unknown
+YLR342w|YNL027w|Pol II transcription
+YLR342w|YNL064c|Mitochondrion organization and biogenesis
+YLR342w|YNL069c|Protein synthesis
+YLR342w|YNL171c|Unknown
+YLR342w|YNL233w|Cytokinesis
+YLR342w|YNL271c|Cell polarity
+YLR342w|YNL271c|Cell polarity
+YLR342w|YNL294c|Unknown
+YLR342w|YNR051c|Unknown
+YLR342w|YOL003c|Unknown
+YLR342w|YOL006c|Chromatin/chromosome structure
+YLR342w|YOR030w|Differentiation
+YLR342w|YOR035c|Differentiation
+YLR342w|YOR275c|Cell stress
+YLR342w|YOR312c|Protein synthesis
+YLR342w|YPL031c|Cell cycle control
+YLR342w|YPL041c|Unknown
+YLR342w|YPL089c|Pol II transcription
+YLR342w|YPL144w|Meiosis
+YLR342w|YPL161c|Cell polarity
+YLR342w|YPL261c|Unknown
+YLR342w|YPR030w|Cell wall organization and biogenesis
+YNL233w|YLR342w|Cell wall organization and biogenesis
+YPL031c|YLR342w|Cell wall organization and biogenesis

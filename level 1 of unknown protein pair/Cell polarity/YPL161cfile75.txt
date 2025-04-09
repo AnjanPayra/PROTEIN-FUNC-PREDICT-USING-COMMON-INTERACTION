@@ -1,0 +1,59 @@
+YAL041w|YPL161c|synthetic lethal
+YAL041w|YPL161c|two hybrid library: Cdc24 Bem4(AD)
+YDR126w|YPL161c|Cell polarity
+YDR218c|YPL161c|two hybrid library: Spr28 Bem4(BD)
+YDR420w|YPL161c|Cell polarity
+YEL003w|YPL161c|Cell polarity
+YGL126w|YPL161c|two hybrid
+YGR078c|YPL161c|Cell polarity
+YGR152c|YPL161c|two hybrid library: Rsr1-GDP Bem4(AD)
+YGR152c|YPL161c|two hybrid library: Rsr1-GTP Bem4(AD)
+YHL007c|YPL161c|two hybrid library: Ste20 Bem4(AD)
+YHR061c|YPL161c|two hybrid library: Gic1 Bem4(AD)
+YHR107c|YPL161c|two hybrid library: Cdc12 Bem4(BD)
+YIL163c|YPL161c|two hybrid
+YJL020c|YPL161c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YPL161c|Cell polarity
+YJL168c|YPL161c|Cell polarity
+YJR076c|YPL161c|two hybrid library: Cdc11 Bem4(BD)
+YKR055w|YPL161c|no interaction in the two hybrid system was found with Rho3p and Ras2p
+YKR055w|YPL161c|two hybrid library: Rho4-GTP Bem4(AD)
+YKR055w|YPL161c|two hybrid
+YLR039c|YPL161c|Cell polarity
+YLR049c|YPL161c|two hybrid
+YLR229c|YPL161c|two hybrid
+YLR229c|YPL161c|two hybrid library: Cdc42-GDP Bem4(AD, BD)
+YLR229c|YPL161c|two hybrid library: Cdc42-GTP Bem4(AD)
+YLR229c|YPL161c|Cell polarity
+YLR262c|YPL161c|Cell polarity
+YLR330w|YPL161c|Cell polarity
+YLR342w|YPL161c|Cell polarity
+YMR307w|YPL161c|Cell polarity
+YMR307w|YPL161c|Cell polarity
+YNL090w|YPL161c|two hybrid interaction
+YNL090w|YPL161c|two hybrid library: Rho2-GTP Bem4(AD)
+YNL192w|YPL161c|Cell polarity
+YNL271c|YPL161c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL161c|Cell polarity
+YNL298w|YPL161c|Cell polarity
+YOR156c|YPL161c|two hybrid library: Nfi1 Bem4(BD)
+YPL031c|YPL161c|Cell polarity
+YPL115c|YPL161c|two hybrid library: Bem3 Bem4(AD)
+YPL161c|YAL041w|two hybrid library: Bem4 Cdc24(BD)
+YPL161c|YDR218c|two hybrid library: Bem4 Spr28(AD)
+YPL161c|YGR152c|two hybrid library: Bem4 Rsr1-GDP(BD)
+YPL161c|YGR152c|two hybrid library: Bem4 Rsr1-GTP(BD)
+YPL161c|YHR061c|two hybrid library: Bem4 Gic1(BD)
+YPL161c|YHR107c|two hybrid library: Bem4 Cdc12(AD)
+YPL161c|YJR076c|two hybrid library: Bem4 Cdc11(AD)
+YPL161c|YKR055w|two hybrid library: Bem4 Rho4-GTP(BD)
+YPL161c|YLR229c|two hybrid library: Bem4 Cdc42-GDP(BD)
+YPL161c|YLR229c|two hybrid library: Bem4 Cdc42-GTP(BD)
+YPL161c|YNL090w|two hybrid library: Bem4 Rho2-GTP(BD)
+YPL161c|YOR156c|two hybrid library: Bem4 Nfi1(AD)
+YPL161c|YPL115c|two hybrid library: Bem4 Bem3(BD)
+YPL161c|YPR165w|two hybrid library: Bem4 Rho1-GTP(BD)
+YPL161c|YPR165w|GST-Bem4p binds the nucleotide-free form of Rho1p, to lesser extends the GDP- and GTP-gamma-S-bound forms of Rho1p
+YPL161c|YPR165w|two hybrid
+YPR165w|YPL161c|two hybrid library: Rho1-GTP Bem4(AD)
+YPR165w|YPL161c|interaction of Bem4p with Rho1p and Rho1p(Q68L) shows similar activity, interaction with Rho1p(T24N) is much higher

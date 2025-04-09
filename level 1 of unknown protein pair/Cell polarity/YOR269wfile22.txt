@@ -1,0 +1,44 @@
+YAL011w|YOR269w|two hybrid interaction between coiled-coil motifs (182-277, 74-140)
+YBR211c|YOR269w|two hybrid interaction between coiled-coil motifs (189-248, 74-140)
+YEL003w|YOR269w|Mitosis
+YEL061c|YOR269w|synthetic lethal
+YEL061c|YOR269w|Mitosis
+YER016w|YOR269w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR269w|Mitosis
+YGL216w|YOR269w|Mitosis
+YGR078c|YOR269w|Mitosis
+YGR089w|YOR269w|two hybrid interaction between coiled-coil motifs (762-936, 74-140)
+YHR158c|YOR269w|two hybrid interaction between coiled-coil motifs (959-1092, 74-140)
+YHR158c|YOR269w|two hybrid interaction between coiled-coil motifs (770-1163, 74-140)
+YLR200w|YOR269w|Mitosis
+YLR254c|YOR269w|two hybrid
+YML094w|YOR269w|Mitosis
+YNL153c|YOR269w|Mitosis
+YNL271c|YOR269w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YOR269w|Mitosis
+YOR058c|YOR269w|Mitosis
+YOR269w|YEL003w|Cell structure
+YOR269w|YEL061c|Mitosis
+YOR269w|YER016w|Mitosis
+YOR269w|YER155c|Cell polarity
+YOR269w|YFR019w|Lipid metabolism
+YOR269w|YGL216w|Mitosis
+YOR269w|YGL217c|Unknown
+YOR269w|YGR078c|Cell structure
+YOR269w|YHR168w|Unknown
+YOR269w|YJR112w|two hybrid interaction between coiled-coil motifs (74-140, 113-187)
+YOR269w|YJR112w|two hybrid interaction between coiled-coil motifs (74-140, 59-187)
+YOR269w|YKL007w|Cell structure
+YOR269w|YKL127w|two hybrid IST hits: 1
+YOR269w|YLR200w|Cell structure
+YOR269w|YLR254c|two hybrid IST hits: 28
+YOR269w|YML094w|Cell structure
+YOR269w|YNL153c|Cell structure
+YOR269w|YNL271c|Cell polarity
+YOR269w|YOR296w|Unknown
+YOR269w|YOR300w|Unknown
+YOR269w|YPL269w|Mitosis
+YOR269w|YPR141c|Mitosis
+YOR326w|YOR269w|Mitosis
+YPL269w|YOR269w|Mitosis
+YPR141c|YOR269w|Mitosis

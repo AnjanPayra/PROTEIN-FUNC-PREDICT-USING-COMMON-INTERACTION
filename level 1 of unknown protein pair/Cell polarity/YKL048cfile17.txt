@@ -1,0 +1,19 @@
+YBR160w|YKL048c|synthetic lethal
+YEL003w|YKL048c|Cell polarity
+YEL061c|YKL048c|Cell polarity
+YER016w|YKL048c|Cell polarity
+YFL037w|YKL048c|Cell polarity
+YGL190c|YKL048c|
+YGR078c|YKL048c|Cell polarity
+YGR229c|YKL048c|Cell polarity
+YJR090c|YKL048c|elm1-1 has synthetic slow growth phenotype with grr1-161; synthetic slow growth
+YKL048c|YMR001c|
+YLR200w|YKL048c|Cell polarity
+YLR342w|YKL048c|Cell polarity
+YML094w|YKL048c|Cell polarity
+YMR078c|YKL048c|Cell polarity
+YNL153c|YKL048c|Cell polarity
+YNL271c|YKL048c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YKL048c|Cell polarity
+YOR058c|YKL048c|Cell polarity
+YOR326w|YKL048c|Cell polarity

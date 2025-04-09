@@ -1,0 +1,165 @@
+YBR234c|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YEL003w|Cell structure
+YCL029c|YEL003w|Cell structure
+YCR009c|YEL003w|Cell structure
+YDL029w|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YEL003w|Cell structure
+YDR150w|YEL003w|Cell structure
+YDR388w|YEL003w|Cell structure
+YDR424c|YEL003w|Cell structure
+YDR488c|YEL003w|Cell structure
+YEL003w|YAL011w|Unknown
+YEL003w|YBL007c|Cell polarity
+YEL003w|YBL024w|RNA processing
+YEL003w|YBL051c|RNA processing
+YEL003w|YBR103w|Chromatin/chromosome structure
+YEL003w|YBR107c|Chromatin/chromosome structure
+YEL003w|YBR171w|Vesicular transport
+YEL003w|YBR231c|Unknown
+YEL003w|YCL016c|Chromatin/chromosome structure
+YEL003w|YCL029c|Mitosis
+YEL003w|YCR044c|Other metabolism
+YEL003w|YCR082w|Unknown
+YEL003w|YCR082w|Unknown
+YEL003w|YCR086w|Meiosis
+YEL003w|YDL069c|Protein synthesis
+YEL003w|YDL155w|Cell cycle control
+YEL003w|YDR149c|Unknown
+YEL003w|YDR150w|Mitosis
+YEL003w|YDR155c|Protein folding
+YEL003w|YDR254w|Chromatin/chromosome structure
+YEL003w|YDR276c|Small molecule transport
+YEL003w|YDR289c|Unknown
+YEL003w|YDR318w|Chromatin/chromosome structure
+YEL003w|YDR334w|Unknown
+YEL003w|YDR424c|Mitosis
+YEL003w|YDR485c|Vesicular transport
+YEL003w|YDR488c|Mitosis
+YEL003w|YEL061c|Mitosis
+YEL003w|YER007w|Cell structure
+YEL003w|YER016w|Mitosis
+YEL003w|YER019w|Lipid metabolism
+YEL003w|YER149c|Cell polarity
+YEL003w|YER155c|Cell polarity
+YEL003w|YER177w|Differentiation
+YEL003w|YFR019w|Lipid metabolism
+YEL003w|YGL086w|Mitosis
+YEL003w|YGL087c|DNA repair
+YEL003w|YGL253w|Carbohydrate metabolism
+YEL003w|YGR078c|coimmunoprecipitation; two hybrid
+YEL003w|YGR188c|Mitosis
+YEL003w|YGR270w|Vacuolar organization and biogenesis
+YEL003w|YHL002w|Transport
+YEL003w|YHR012w|Vesicular transport
+YEL003w|YHR111w|Protein modification
+YEL003w|YHR129c|Mitosis
+YEL003w|YHR191c|Chromatin/chromosome structure
+YEL003w|YIL034c|Cell structure
+YEL003w|YIL084c|Chromatin/chromosome structure
+YEL003w|YIL095w|Cell polarity
+YEL003w|YIL142w|gim4delta bin3-1 are synthetic lethal
+YEL003w|YJL013c|Mitosis
+YEL003w|YJL014w|gim4delta bin2-1 are synthetic lethal
+YEL003w|YJL020c|Cell polarity
+YEL003w|YJL030w|Mitosis
+YEL003w|YJL183w|Protein modification
+YEL003w|YJL190c|Protein synthesis
+YEL003w|YJR032w|Protein folding
+YEL003w|YJR053w|Mitosis
+YEL003w|YJR075w|Cell wall organization and biogenesis
+YEL003w|YJR117w|Protein modification
+YEL003w|YJR129c|Unknown
+YEL003w|YJR135c|Chromatin/chromosome structure
+YEL003w|YKL025c|DNA repair
+YEL003w|YKL048c|Cell polarity
+YEL003w|YKL118w|Unknown
+YEL003w|YKR054c|Mitosis
+YEL003w|YLL001w|Cell structure
+YEL003w|YLL006w|Cell structure
+YEL003w|YLL007c|Unknown
+YEL003w|YLL049w|Unknown
+YEL003w|YLR085c|Cell structure
+YEL003w|YLR089c|Mitochondrion organization and biogenesis
+YEL003w|YLR200w|coimmunoprecipitation; two hybrid
+YEL003w|YLR212c|synthetic lethal
+YEL003w|YLR212c|Gim1p binds to overproduced Tub4p; Gim4p binds to overproduced Tub4p; coimmunoprecipitation
+YEL003w|YLR292c|Protein translocation
+YEL003w|YLR337c|Cell polarity
+YEL003w|YLR381w|Chromatin/chromosome structure
+YEL003w|YLR386w|Vacuolar organization and biogenesis
+YEL003w|YLR447c|Vacuolar organization and biogenesis
+YEL003w|YML032c|DNA repair
+YEL003w|YML041c|Vesicular transport
+YEL003w|YML094w|coimmunoprecipitation; two hybrid
+YEL003w|YML095c|DNA repair
+YEL003w|YML124c|Cell structure
+YEL003w|YML128c|Unknown
+YEL003w|YMR055c|Mitosis
+YEL003w|YMR078c|Chromatin/chromosome structure
+YEL003w|YMR109w|Cell polarity
+YEL003w|YMR138w|Cell structure
+YEL003w|YMR154c|Meiosis
+YEL003w|YMR294w|Mitosis
+YEL003w|YMR299c|Mitosis
+YEL003w|YMR312w|Pol II transcription
+YEL003w|YNL140c|Unknown
+YEL003w|YNL153c|coimmunoprecipitation; two hybrid
+YEL003w|YNL294c|Unknown
+YEL003w|YNL298w|Cell polarity
+YEL003w|YOL012c|Chromatin/chromosome structure
+YEL003w|YOL116w|Cell stress
+YEL003w|YOR023c|Protein modification
+YEL003w|YOR026w|Mitosis
+YEL003w|YOR058c|Mitosis
+YEL003w|YOR127w|Cell polarity
+YEL003w|YOR216c|Vesicular transport
+YEL003w|YOR264w|Differentiation
+YEL003w|YOR265w|Cell structure
+YEL003w|YOR266w|Mitochondrion organization and biogenesis
+YEL003w|YOR269w|Mitosis
+YEL003w|YOR349w|Cell structure
+YEL003w|YOR358w|Pol II transcription
+YEL003w|YPL008w|Chromatin/chromosome structure
+YEL003w|YPL017c|Unknown
+YEL003w|YPL018w|Chromatin/chromosome structure
+YEL003w|YPL155c|Mitosis
+YEL003w|YPL161c|Cell polarity
+YEL003w|YPL174c|Mitosis
+YEL003w|YPL224c|Small molecule transport
+YEL003w|YPL241c|Cell structure
+YEL003w|YPL253c|Mitosis
+YEL003w|YPL269w|Mitosis
+YEL003w|YPR023c|Pol II Transcription
+YEL003w|YPR046w|Chromatin/chromosome structure
+YEL003w|YPR046w|Chromatin/chromosome structure
+YEL003w|YPR050c|Unknown
+YEL003w|YPR070w|Chromatin/chromosome structure
+YEL003w|YPR135w|Chromatin/chromosome structure
+YEL003w|YPR141c|Mitosis
+YEL061c|YEL003w|Cell structure
+YER016w|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YEL003w|Cell structure
+YFL037w|YEL003w|Cell structure
+YHR129c|YEL003w|Cell structure
+YHR191c|YEL003w|Cell structure
+YJL030w|YEL003w|Cell structure
+YJR053w|YEL003w|Cell structure
+YKR054c|YEL003w|Cell structure
+YLR085c|YEL003w|Cell structure
+YLR103c|YEL003w|Cell structure
+YML124c|YEL003w|Cell structure
+YMR048w|YEL003w|Cell structure
+YMR078c|YEL003w|Cell structure
+YMR138w|YEL003w|Cell structure
+YMR294w|YEL003w|Cell structure
+YMR299c|YEL003w|Cell structure
+YOR058c|YEL003w|Cell structure
+YOR265w|YEL003w|Cell structure
+YOR269w|YEL003w|Cell structure
+YOR349w|YEL003w|Cell structure
+YPL155c|YEL003w|Cell structure
+YPL174c|YEL003w|Cell structure
+YPL241c|YEL003w|Cell structure
+YPL269w|YEL003w|Cell structure
+YPR135w|YEL003w|Cell structure
+YPR141c|YEL003w|Cell structure

@@ -1,0 +1,64 @@
+YBR108w|YCR009c|two hybrid
+YCR009c|YAL013w|Lipid metabolism
+YCR009c|YBL007c|Cell polarity
+YCR009c|YBL061c|Cell wall organization and biogenesis
+YCR009c|YBR015c|Protein modification
+YCR009c|YBR023c|Cell wall organization and biogenesis
+YCR009c|YBR095c|Unknown
+YCR009c|YBR126c|Carbohydrate metabolism
+YCR009c|YBR255w|Unknown
+YCR009c|YCR034w|rvs161 mutants can be suppressed by fen1 mutantsuppression
+YCR009c|YDL117w|Cytokinesis
+YCR009c|YDR245w|Protein modification
+YCR009c|YDR297w|rvs161 mutants can be suppressed by sur2 mutantsuppression
+YCR009c|YDR310c|Chromatin/chromosome structure
+YCR009c|YDR388w|two hybrid
+YCR009c|YDR388w|two hybrid
+YCR009c|YDR388w|two hybrid library: Rvs161 Rvs167(AD,BD)
+YCR009c|YEL003w|Cell structure
+YCR009c|YEL031w|Small molecule transport
+YCR009c|YER111c|Cell cycle control
+YCR009c|YFL039c|rvs161 act1-1 mutants are synthetic lethal
+YCR009c|YGL084c|Lipid metabolism
+YCR009c|YGR078c|Cell structure
+YCR009c|YHR030c|Cell wall organization and biogenesis
+YCR009c|YHR142w|Cell wall organization and biogenesis
+YCR009c|YIL034c|Cell structure
+YCR009c|YIL084c|Chromatin/chromosome structure
+YCR009c|YIR003w|Unknown
+YCR009c|YJL020c|Cell polarity
+YCR009c|YJL095w|Cell wall organization and biogenesis
+YCR009c|YJL099w|Cell wall organization and biogenesis
+YCR009c|YJR075w|Cell wall organization and biogenesis
+YCR009c|YKL007w|Cell structure
+YCR009c|YKL204w|Protein synthesis
+YCR009c|YKL213c|Protein degradation
+YCR009c|YLR087c|Cell stress
+YCR009c|YLR110c|Cell wall organization and biogenesis
+YCR009c|YLR111w|Unknown
+YCR009c|YLR200w|Cell structure
+YCR009c|YLR268w|Vesicular transport
+YCR009c|YLR330w|Cell wall organization and biogenesis
+YCR009c|YLR372w|rvs161 mutants can be suppressed by sur4 mutantsuppression
+YCR009c|YML094w|Cell structure
+YCR009c|YMR109w|Cell polarity
+YCR009c|YMR263w|Chromatin/chromosome structure
+YCR009c|YNL084c|Endocytosis
+YCR009c|YNL097c|Phosphate metabolism
+YCR009c|YNL153c|Cell structure
+YCR009c|YNL233w|Cytokinesis
+YCR009c|YNL298w|Cell polarity
+YCR009c|YNL322c|Cell wall organization and biogenesis
+YCR009c|YOL004w|Pol II transcription
+YCR009c|YOR089c|Vesicular transport
+YCR009c|YOR216c|Vesicular transport
+YCR009c|YPL050c|Protein modification
+YCR009c|YPL057c|rvs161 mutants can be suppressed by sur1 mutantsuppression
+YDL029w|YCR009c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YCR009c|Cell polarity
+YDR154c|YCR009c|two hybrid IST hits: 1
+YDR388w|YCR009c|two hybrid IST hits: 22
+YDR388w|YCR009c|two hybrid library: Rvs167 Rvs161(AD,BD)
+YLR330w|YCR009c|Cell polarity
+YMR232w|YCR009c|two hybrid IST hits: 5
+YNL233w|YCR009c|Cell polarity
