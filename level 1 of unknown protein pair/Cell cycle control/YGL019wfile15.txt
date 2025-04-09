@@ -1,0 +1,13 @@
+YDL017w|YGL019w|Cell cycle control
+YGL019w|YGR068c|two hybrid
+YGL019w|YIL035c|cka1 ckb2 double mutation is lethal
+YGL019w|YIL035c|casein kinase II copurifies with topoisomerase II
+YGL019w|YIL118w|two hybrid library: Ckb1 Rho3-GTP(BD)
+YGL019w|YNL088w|casein kinase II copurifies with topoisomerase II
+YGL019w|YOR039w|casein kinase II copurifies with topoisomerase II
+YGL019w|YOR061w|synthetic lethal
+YGL019w|YOR061w|casein kinase II copurifies with topoisomerase II
+YGL127c|YGL019w|two hybrid IST hits: 1
+YIL118w|YGL019w|two hybrid library: Rho3-GTP Ckb1(AD)
+YJR131w|YGL019w|Cell cycle control
+YOR326w|YGL019w|Cell cycle control

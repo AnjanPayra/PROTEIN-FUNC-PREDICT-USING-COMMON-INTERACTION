@@ -1,0 +1,3 @@
+YIL046w|YJR131w|two hybrid
+YJR131w|YGL019w|Cell cycle control
+YJR131w|YML064c|two hybrid

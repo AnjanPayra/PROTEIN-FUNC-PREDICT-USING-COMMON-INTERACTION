@@ -1,0 +1,72 @@
+YCL016c|YNL250w|DNA repair
+YCL061c|YNL250w|DNA repair
+YDL181w|YNL250w|two hybrid interaction between coiled-coil motifs (37-84%, 200-538)
+YDR295c|YNL250w|two hybrid interaction between coiled-coil motifs (439-655, 730-1115)
+YHR031c|YNL250w|DNA repair
+YHR191c|YNL250w|DNA repair
+YJL092w|YNL250w|DNA repair
+YJR043c|YNL250w|DNA repair
+YJR043c|YNL250w|DNA repair
+YJR053w|YNL250w|DNA repair
+YKL113c|YNL250w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YNL250w|DNA repair
+YMR078c|YNL250w|DNA repair
+YMR117c|YNL250w|two hybrid interaction between coiled-coil motifs (72-136, 200-538)
+YMR190c|YNL250w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YNL250w|DNA repair
+YMR224c|YNL250w|epistasis
+YMR224c|YNL250w|mre11 disruption mutation is epistatic to a rad50 null mutation with respect to its meiotic effects on MNase sensitivity
+YMR224c|YNL250w|two hybrid
+YMR224c|YNL250w|two-hybrid
+YNL250w|YAL013w|Lipid metabolism
+YNL250w|YAR002w|Nuclear-cytoplasmic transport
+YNL250w|YAR003w|Chromatin/chromosome structure
+YNL250w|YBR175w|Chromatin/chromosome structure
+YNL250w|YCL016c|Chromatin/chromosome structure
+YNL250w|YCR086w|Meiosis
+YNL250w|YDL074c|Chromatin/chromosome stucture
+YNL250w|YDL162c|Unknown
+YNL250w|YDR260c|Meiosis
+YNL250w|YDR279w|Unknown
+YNL250w|YDR363w|Chromatin/chromosome structure
+YNL250w|YEL062w|Small molecule transport
+YNL250w|YER016w|Mitosis
+YNL250w|YFL008w|two hybrid interaction between coiled-coil motifs (730-1115, 159-497)
+YNL250w|YFR010w|Protein modification
+YNL250w|YHR030c|Cell wall organization and biogenesis
+YNL250w|YHR031c|DNA replication
+YNL250w|YHR154w|Chromatin/chromosome structure
+YNL250w|YHR191c|Chromatin/chromosome structure
+YNL250w|YJL047c|Protein modification
+YNL250w|YJL095w|Cell wall organization and biogenesis
+YNL250w|YJL115w|Chromatin/chromosome structure
+YNL250w|YJR043c|DNA replication
+YNL250w|YJR112w|two hybrid interaction between coiled-coil motifs (200-538, 113-187)
+YNL250w|YJR112w|two hybrid interaction between coiled-coil motifs (200-538, 59-187)
+YNL250w|YKL101w|Cell cycle control
+YNL250w|YKL113c|DNA repair
+YNL250w|YLR015w|Chromatin/chromosome structure
+YNL250w|YLR032w|DNA repair
+YNL250w|YLR373c|Vacuolar organization and biogenesis
+YNL250w|YML028w|Cell stress
+YNL250w|YML094c-a|Unknown
+YNL250w|YML115c|Protein modification
+YNL250w|YMR038c|Amino-acid metabolism
+YNL250w|YMR078c|Chromatin/chromosome structure
+YNL250w|YNL084c|two hybrid interaction between coiled-coil motifs (730-1115, 277-349)
+YNL250w|YNL117w|Lipid metabolism
+YNL250w|YNL250w|two hybrid interaction between coiled-coil motifs (730-1115, 730-1115)
+YNL250w|YNL250w|two hybrid interaction between coiled-coil motifs (730-1115, 730-1115)
+YNL250w|YNL250w|two hybrid interaction between coiled-coil motifs (730-1115, 200-538)
+YNL250w|YNL250w|two hybrid interaction between coiled-coil motifs (730-1115, 200-538)
+YNL250w|YNL291c|Small molecule transport
+YNL250w|YNL298w|Cell polarity
+YNL250w|YOL006c|Chromatin/chromosome structure
+YNL250w|YOR144c|DNA repair
+YNL250w|YPR018w|Chromatin/chromosome structure
+YNL250w|YPR119w|Cell cycle control
+YNL250w|YPR135w|Chromatin/chromosome structure
+YOL006c|YNL250w|DNA repair
+YOL069w|YNL250w|two hybrid interaction between coiled-coil motifs (124-449, 730-1115)
+YOR144c|YNL250w|DNA repair
+YPR135w|YNL250w|DNA repair

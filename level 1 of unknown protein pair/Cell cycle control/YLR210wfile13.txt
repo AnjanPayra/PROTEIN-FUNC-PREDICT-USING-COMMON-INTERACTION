@@ -1,0 +1,28 @@
+YBR135w|YLR210w|two hybrid IST hits: 2
+YBR160w|YLR210w|
+YBR160w|YLR210w|see
+YDR150w|YLR210w|Cell cycle control
+YDR162c|YLR210w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLR210w|Cell cycle control
+YDR488c|YLR210w|Cell cycle control
+YEL061c|YLR210w|Cell cycle control
+YER093c|YLR210w|two hybrid IST hits: 1
+YGR078c|YLR210w|Cell cycle control
+YGR205w|YLR210w|two hybrid IST hits: 1
+YHR129c|YLR210w|Cell cycle control
+YLR210w|YDR150w|Mitosis
+YLR210w|YDR488c|Mitosis
+YLR210w|YGR078c|Cell structure
+YLR210w|YHR129c|Mitosis
+YLR210w|YLL049w|Unknown
+YLR210w|YMR078c|Chromatin/chromosome structure
+YLR210w|YMR294w|Mitosis
+YLR210w|YMR299c|Mitosis
+YLR210w|YPL174c|Mitosis
+YLR210w|YPR141c|Mitosis
+YMR078c|YLR210w|Cell cycle control
+YMR294w|YLR210w|Cell cycle control
+YMR299c|YLR210w|Cell cycle control
+YPL174c|YLR210w|Cell cycle control
+YPL174c|YLR210w|Cell cycle control
+YPR141c|YLR210w|Cell cycle control

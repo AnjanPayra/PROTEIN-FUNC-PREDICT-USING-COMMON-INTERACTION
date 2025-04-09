@@ -1,0 +1,62 @@
+YBR088c|YJR043c|two hybrid
+YBR094w|YJR043c|DNA replication
+YCL016c|YJR043c|DNA replication
+YCL061c|YJR043c|DNA replication
+YCL061c|YJR043c|DNA replication
+YDL102w|YJR043c|synthetic lethal
+YDL102w|YJR043c|two hybrid
+YDL102w|YJR043c|DNA replication
+YDR217c|YJR043c|DNA replication
+YDR363w|YJR043c|DNA replication
+YJL092w|YJR043c|DNA replication
+YJR006w|YJR043c|synthetic lethal
+YJR006w|YJR043c|in vitro reconstitution; two hybrid
+YJR006w|YJR043c|in vitro reconstitution; two hybrid
+YJR006w|YJR043c|two hybrid IST hits: 1
+YJR006w|YJR043c|synthetic lethal
+YJR043c|YAL024c|Cell cycle control
+YJR043c|YBR195c|Chromatin/chromosome structure
+YJR043c|YCL016c|Chromatin/chromosome structure
+YJR043c|YDR076w|DNA repair
+YJR043c|YDR217c|DNA repair
+YJR043c|YDR245w|Protein modification
+YJR043c|YDR359c|Unknown
+YJR043c|YDR369c|DNA repair
+YJR043c|YER095w|DNA repair
+YJR043c|YER151c|Protein modification
+YJR043c|YER173w|DNA repair
+YJR043c|YGL163c|DNA repair
+YJR043c|YJR043c|two hybrid
+YJR043c|YJR043c|two hybrid
+YJR043c|YKL113c|DNA repair
+YJR043c|YLR234w|Chromatin/chromosome structure
+YJR043c|YLR235c|Unknown
+YJR043c|YLR370c|Cell polarity
+YJR043c|YML032c|DNA repair
+YJR043c|YMR048w|Meiosis
+YJR043c|YMR078c|Chromatin/chromosome structure
+YJR043c|YNL064c|Mitochondrion organization and biogenesis
+YJR043c|YNL102w|two hybrid
+YJR043c|YNL250w|DNA repair
+YJR043c|YNL250w|DNA repair
+YJR043c|YNL273w|DNA repair
+YJR043c|YNL273w|DNA repair
+YJR043c|YOR368w|DNA repair
+YJR043c|YPL024w|Cell wall organization and biogenesis
+YJR043c|YPL194w|DNA repair
+YJR043c|YPR135w|Chromatin/chromosome structure
+YJR075w|YJR043c|DNA replication
+YLR103c|YJR043c|DNA replication
+YML032c|YJR043c|DNA replication
+YMR048w|YJR043c|DNA replication
+YMR048w|YJR043c|DNA replication
+YMR078c|YJR043c|DNA replication
+YMR190c|YJR043c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJR043c|DNA replication
+YNL250w|YJR043c|DNA replication
+YNL273w|YJR043c|DNA replication
+YNL273w|YJR043c|DNA replication
+YOR025w|YJR043c|DNA replication
+YOR144c|YJR043c|DNA replication
+YPL194w|YJR043c|DNA replication
+YPR135w|YJR043c|DNA replication

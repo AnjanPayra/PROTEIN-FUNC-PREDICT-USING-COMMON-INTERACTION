@@ -1,0 +1,8 @@
+YBR133c|YKL101w|coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YCL016c|YKL101w|Cell cycle control
+YDL017w|YKL101w|Cell cycle control
+YGL116w|YKL101w|D box of full-length Hsl1p was critical for association with Cdc20p
+YKL101w|YGL003c|KEN box of Hsl1p is important for association with Cdh1p
+YMR078c|YKL101w|Cell cycle control
+YNL250w|YKL101w|Cell cycle control
+YPR135w|YKL101w|Cell cycle control

@@ -1,0 +1,13 @@
+YAL013w|YPL055c|Cell cycle control
+YBR023c|YPL055c|Cell cycle control
+YHR191c|YPL055c|Cell cycle control
+YJL168c|YPL055c|Cell cycle control
+YLR039c|YPL055c|Cell cycle control
+YLR085c|YPL055c|Cell cycle control
+YLR103c|YPL055c|Cell cycle control
+YLR262c|YPL055c|Cell cycle control
+YLR330w|YPL055c|Cell cycle control
+YMR263w|YPL055c|Cell cycle control
+YNL192w|YPL055c|Cell cycle control
+YOR070c|YPL055c|Cell cycle control
+YPR135w|YPL055c|Cell cycle control

@@ -1,0 +1,98 @@
+YCL016c|YAL024c|Cell cycle control
+YCL016c|YAR002w|Nuclear-cytoplasmic transport
+YCL016c|YBR231c|Unknown
+YCL016c|YCL061c|DNA repair
+YCL016c|YDL013w|Meiosis
+YCL016c|YDL020c|Protein degradation
+YCL016c|YDR004w|DNA repair
+YCL016c|YDR207c|Meiosis
+YCL016c|YDR217c|DNA repair
+YCL016c|YEL037c|DNA repair
+YCL016c|YER007w|Cell structure
+YCL016c|YER016w|Mitosis
+YCL016c|YER019w|Lipid metabolism
+YCL016c|YER095w|DNA repair
+YCL016c|YER164w|Chromatin/chromosome structure
+YCL016c|YGL066w|Pol II transcription
+YCL016c|YGL066w|Pol II transcription
+YCL016c|YGL086w|Mitosis
+YCL016c|YGL163c|DNA repair
+YCL016c|YGL173c|RNA processing
+YCL016c|YGL244w|Pol II transcription
+YCL016c|YGR184c|Protein degradation
+YCL016c|YGR188c|Mitosis
+YCL016c|YHL023c|two hybrid
+YCL016c|YHL023c|two hybrid IST hits: 1
+YCL016c|YHR031c|DNA replication
+YCL016c|YHR058c|two hybrid
+YCL016c|YHR058c|two hybrid IST hits: 1
+YCL016c|YHR200w|Pol II transcription
+YCL016c|YJL013c|Mitosis
+YCL016c|YJL030w|Mitosis
+YCL016c|YJL092w|DNA repair
+YCL016c|YJR043c|DNA replication
+YCL016c|YJR145c|Protein synthesis
+YCL016c|YKL101w|Cell cycle control
+YCL016c|YKL113c|DNA repair
+YCL016c|YLR123c|two hybrid
+YCL016c|YLR123c|two hybrid IST hits: 1
+YCL016c|YLR235c|Unknown
+YCL016c|YML028w|Cell stress
+YCL016c|YML032c|DNA repair
+YCL016c|YML094w|Cell structure
+YCL016c|YMR038c|Amino-acid metabolism
+YCL016c|YMR048w|Meiosis
+YCL016c|YMR179w|Pol II transcription
+YCL016c|YMR190c|DNA repair
+YCL016c|YMR198w|Mitosis
+YCL016c|YMR224c|DNA repair
+YCL016c|YNL153c|Cell structure
+YCL016c|YNL206c|Unknown
+YCL016c|YNL250w|DNA repair
+YCL016c|YNL273w|DNA repair
+YCL016c|YNL298w|Cell polarity
+YCL016c|YOL012c|Chromatin/chromosome structure
+YCL016c|YOR195w|Chromatin/chromosome structure
+YCL016c|YOR349w|Cell structure
+YCL016c|YPL008w|Chromatin/chromosome structure
+YCL016c|YPL194w|DNA repair
+YCL016c|YPL241c|Cell structure
+YCL016c|YPR036w|Vacuolar organization and biogenesis
+YCL016c|YPR119w|Cell cycle control
+YCL016c|YPR120c|Cell cycle control
+YCL016c|YPR135w|Chromatin/chromosome structure
+YCL016c|YPR141c|Mitosis
+YCL061c|YCL016c|Chromatin/chromosome structure
+YDL003w|YCL016c|Chromatin/chromosome structure
+YDL017w|YCL016c|Chromatin/chromosome structure
+YDR052c|YCL016c|Chromatin/chromosome structure
+YDR217c|YCL016c|Chromatin/chromosome structure
+YEL003w|YCL016c|Chromatin/chromosome structure
+YEL061c|YCL016c|Chromatin/chromosome structure
+YEL061c|YCL016c|Chromatin/chromosome structure
+YER016w|YCL016c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YCL016c|Chromatin/chromosome structure
+YFL037w|YCL016c|Chromatin/chromosome structure
+YGL216w|YCL016c|Chromatin/chromosome structure
+YGR078c|YCL016c|Chromatin/chromosome structure
+YHR031c|YCL016c|Chromatin/chromosome structure
+YJL092w|YCL016c|Chromatin/chromosome structure
+YJL168c|YCL016c|Chromatin/chromosome structure
+YJR043c|YCL016c|Chromatin/chromosome structure
+YLR103c|YCL016c|Chromatin/chromosome structure
+YLR103c|YCL016c|Chromatin/chromosome structure
+YLR200w|YCL016c|Chromatin/chromosome structure
+YML032c|YCL016c|Chromatin/chromosome structure
+YML094w|YCL016c|Chromatin/chromosome structure
+YMR048w|YCL016c|Chromatin/chromosome structure
+YMR048w|YCL016c|Chromatin/chromosome structure
+YNL153c|YCL016c|Chromatin/chromosome structure
+YNL250w|YCL016c|Chromatin/chromosome structure
+YNL273w|YCL016c|Chromatin/chromosome structure
+YNL273w|YCL016c|Chromatin/chromosome structure
+YNL298w|YCL016c|Chromatin/chromosome structure
+YOR349w|YCL016c|Chromatin/chromosome structure
+YPL008w|YCL016c|Chromatin/chromosome structure
+YPL008w|YCL016c|Chromatin/chromosome structure
+YPL194w|YCL016c|Chromatin/chromosome structure
+YPR135w|YCL016c|Chromatin/chromosome structure

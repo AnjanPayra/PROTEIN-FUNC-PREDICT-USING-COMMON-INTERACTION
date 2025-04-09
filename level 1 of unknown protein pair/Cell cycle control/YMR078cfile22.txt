@@ -1,0 +1,95 @@
+YCL061c|YMR078c|Chromatin/chromosome structure
+YDL003w|YMR078c|Chromatin/chromosome structure
+YDL017w|YMR078c|Chromatin/chromosome structure
+YDR217c|YMR078c|Chromatin/chromosome structure
+YEL003w|YMR078c|Chromatin/chromosome structure
+YEL061c|YMR078c|Chromatin/chromosome structure
+YER007w|YMR078c|Chromatin/chromosome structure
+YER016w|YMR078c|Chromatin/chromosome structure
+YER173w|YMR078c|Chromatin/chromosome structure
+YGL216w|YMR078c|Chromatin/chromosome structure
+YGR078c|YMR078c|Chromatin/chromosome structure
+YJL092w|YMR078c|Chromatin/chromosome structure
+YJL092w|YMR078c|Chromatin/chromosome structure
+YJR043c|YMR078c|Chromatin/chromosome structure
+YKL113c|YMR078c|Chromatin/chromosome structure
+YLR103c|YMR078c|Chromatin/chromosome structure
+YLR200w|YMR078c|Chromatin/chromosome structure
+YLR210w|YMR078c|Chromatin/chromosome structure
+YML032c|YMR078c|Chromatin/chromosome structure
+YML094w|YMR078c|Chromatin/chromosome structure
+YMR048w|YMR078c|Chromatin/chromosome structure
+YMR048w|YMR078c|Chromatin/chromosome structure
+YMR078c|YAL024c|Cell cycle control
+YMR078c|YAR002w|Nuclear-cytoplasmic transport
+YMR078c|YBR057c|Meiosis
+YMR078c|YBR082c|Protein degradation
+YMR078c|YBR122c|Protein synthesis
+YMR078c|YCL061c|DNA repair
+YMR078c|YDR004w|DNA repair
+YMR078c|YDR076w|DNA repair
+YMR078c|YDR217c|DNA repair
+YMR078c|YEL003w|Cell structure
+YMR078c|YEL037c|DNA repair
+YMR078c|YEL061c|Mitosis
+YMR078c|YER007w|Cell structure
+YMR078c|YER016w|Mitosis
+YMR078c|YER095w|DNA repair
+YMR078c|YER116c|DNA repair
+YMR078c|YER173w|DNA repair
+YMR078c|YFR036w|Cell cycle control
+YMR078c|YGL086w|Mitosis
+YMR078c|YGL127c|DNA repair
+YMR078c|YGL163c|DNA repair
+YMR078c|YGL216w|Mitosis
+YMR078c|YGL217c|Unknown
+YMR078c|YGR078c|Cell structure
+YMR078c|YGR188c|Mitosis
+YMR078c|YJL013c|Mitosis
+YMR078c|YJL030w|Mitosis
+YMR078c|YJL092w|DNA repair
+YMR078c|YJR043c|DNA replication
+YMR078c|YJR145c|Protein synthesis
+YMR078c|YKL048c|Cell polarity
+YMR078c|YKL101w|Cell cycle control
+YMR078c|YKL113c|DNA repair
+YMR078c|YLR032w|DNA repair
+YMR078c|YLR085c|Cell structure
+YMR078c|YLR210w|Cell cycle control
+YMR078c|YLR234w|Chromatin/chromosome structure
+YMR078c|YLR261c|Vacuolar organization and biogenesis
+YMR078c|YML032c|DNA repair
+YMR078c|YML094w|Cell structure
+YMR078c|YMR038c|Amino-acid metabolism
+YMR078c|YMR048w|Meiosis
+YMR078c|YMR190c|DNA repair
+YMR078c|YMR198w|Mitosis
+YMR078c|YMR224c|DNA repair
+YMR078c|YNL153c|Cell structure
+YMR078c|YNL250w|DNA repair
+YMR078c|YNL273w|DNA repair
+YMR078c|YNL298w|Cell polarity
+YMR078c|YNL307c|Meiosis
+YMR078c|YOL012c|Chromatin/chromosome structure
+YMR078c|YOR026w|Mitosis
+YMR078c|YOR195w|Chromatin/chromosome structure
+YMR078c|YOR349w|Cell structure
+YMR078c|YPL008w|Chromatin/chromosome structure
+YMR078c|YPL194w|DNA repair
+YMR078c|YPL205c|Meiosis
+YMR078c|YPL241c|Cell structure
+YMR078c|YPL253c|Mitosis
+YMR078c|YPR119w|Cell cycle control
+YMR078c|YPR135w|Chromatin/chromosome structure
+YMR190c|YMR078c|Chromatin/chromosome structure
+YNL153c|YMR078c|Chromatin/chromosome structure
+YNL153c|YMR078c|Chromatin/chromosome structure
+YNL250w|YMR078c|Chromatin/chromosome structure
+YNL273w|YMR078c|Chromatin/chromosome structure
+YNL273w|YMR078c|Chromatin/chromosome structure
+YNL298w|YMR078c|Chromatin/chromosome structure
+YOR349w|YMR078c|Chromatin/chromosome structure
+YPL008w|YMR078c|Chromatin/chromosome structure
+YPL194w|YMR078c|Chromatin/chromosome structure
+YPL241c|YMR078c|Chromatin/chromosome structure
+YPR135w|YMR078c|Chromatin/chromosome structure

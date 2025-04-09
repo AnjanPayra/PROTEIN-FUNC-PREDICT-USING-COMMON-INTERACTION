@@ -1,0 +1,28 @@
+YAL013w|YER111c|Cell cycle control
+YBL061c|YER111c|Cell cycle control
+YBL105c|YER111c|pkc1-8 are synthetically lethal with swi4 null mutantsynthetic lethal
+YBL105c|YER111c|null mutants are synthetically lethal with pkc1-8
+YBR023c|YER111c|Cell cycle control
+YCR009c|YER111c|Cell cycle control
+YDL225w|YER111c|Cell cycle control
+YDR388w|YER111c|Cell cycle control
+YER111c|YLR182w|synthetic lethal
+YER111c|YLR182w|coimmunoprecipitation
+YER111c|YLR182w|a carboxy-terminal domain of Swi6p is required and sufficient for interaction with Swi4; affinity column; collaborates with Swi4p to form the SBF factor for regulation at the cell cycle box (CCB) element; carboxy terminus is sufficient for interaction wit
+YER111c|YPR119w|interaction with Clb2p is Swi6p-independent; interacts with Clb2/Cdc28 kinase during the G2 and M phases of the cell cycle; the ankyrin repeats mediate the interaction with Clb2/Cdc28 kinase
+YER111c|YPR119w|associates with Clb2p, and can be phosphorylated by Cdc28p/Clb2p in vitro
+YER111c|YPR119w|coimmunoprecipitation; Swi4p interacts through its ankyrin repeats with Clb2/Cdc28 kinase
+YGR229c|YER111c|Cell cycle control
+YHR030c|YER111c|Cell cycle control
+YKL079w|YER111c|Cell cycle control
+YLR103c|YER111c|Cell cycle control
+YLR229c|YER111c|Cell cycle control
+YLR229c|YER111c|Cell cycle control
+YLR330w|YER111c|Cell cycle control
+YLR342w|YER111c|Cell cycle control
+YLR418c|YER111c|Cell cycle control
+YMR263w|YER111c|Cell cycle control
+YMR307w|YER111c|Cell cycle control
+YNL271c|YER111c|Cell cycle control
+YNL298w|YER111c|Cell cycle control
+YPL031c|YER111c|Cell cycle control

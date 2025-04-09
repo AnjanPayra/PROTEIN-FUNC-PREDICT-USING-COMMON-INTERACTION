@@ -1,0 +1,20 @@
+YAL024c|YAR019c|cold sensitivity of lte1 cells is suppressed by cdc15-rlt;suppression mutation
+YAL024c|YBR140c|heat shock sensitivity of null mutation can be suppressed by overexpression of LTE1/MSI2;LTE1 is a multicopy suppressor of heat shock sensitivity of ira1;suppression overexpression
+YAL024c|YGR152c|LTE1 overproduction suppresses rsr1 mutants are suppressed by overproduction of LTE1, see;suppression overexpression
+YAL024c|YHR152w|LTE1 null mutant is suppressed by overexpression of SPO12;LTE1 null mutant is suppressed by Spo12p overproduction;suppression overexpression
+YAL024c|YIL106w|mob1-77 and mob1-95 are synthetic lethal with lte1delta;synthetic lethal
+YAL024c|YIR009w|two hybrid
+YAL024c|YML064c|overproduction of TEM1 suppresses lte1 mutants;TEM1 overexpression suppresses lte1 mutants, see;suppression overexpression
+YAL024c|YNL098c|LTE1 overproduction can suppress heat shock sensitivity of RAS2val19 mutants;overproduction of Lte1p can suppress the heat shock sensitivity of ras2val19 mutant;suppression
+YAL024c|YNL098c|LTE1 overproduction suppresses ras2 mutants can be suppressed by overproduction of LTE1, see;suppression overexpression
+YAL024c|YOR101w|LTE1 overproduction suppresses ras2 mutants;ras1 mutants are suppressed by overexpression of LTE1, TEM1, SPO12, DBF2, DBF20, CDC15, CDC5, see;suppression, see;suppression overexpression
+YCL016c|YAL024c|Cell cycle control
+YDR150w|YAL024c|Cell cycle control
+YJR043c|YAL024c|Cell cycle control
+YKR054c|YAL024c|Cell cycle control
+YLR103c|YAL024c|Cell cycle control
+YLR229c|YAL024c|Cell cycle control
+YMR078c|YAL024c|Cell cycle control
+YMR263w|YAL024c|Cell cycle control
+YMR294w|YAL024c|Cell cycle control
+YPR141c|YAL024c|Cell cycle control

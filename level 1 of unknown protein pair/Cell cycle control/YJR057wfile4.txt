@@ -1,0 +1,29 @@
+YJR057w|YBR098w|DNA repair
+YJR057w|YCR086w|Meiosis
+YJR057w|YDR438w|Unknown
+YJR057w|YDR446w|Cell wall organization and biogenesis
+YJR057w|YDR452w|Phosphate metabolism
+YJR057w|YDR453c|Cell stress
+YJR057w|YDR458c|Unknown
+YJR057w|YDR490c|Endocytosis
+YJR057w|YER167w|Cell cycle control
+YJR057w|YER173w|DNA repair
+YJR057w|YGL020c|Unknown
+YJR057w|YGL173c|RNA processing
+YJR057w|YHR178w|Pol II transcription
+YJR057w|YJR034w|Energy generation
+YJR057w|YKL032c|DNA repair
+YJR057w|YKL098w|Unknown
+YJR057w|YKL113c|DNA repair
+YJR057w|YKL114c|DNA repair
+YJR057w|YLR234w|Chromatin/chromosome structure
+YJR057w|YLR235c|Unknown
+YJR057w|YLR268w|Vesicular transport
+YJR057w|YMR190c|DNA repair
+YJR057w|YMR198w|Mitosis
+YJR057w|YNL218w|DNA replication
+YJR057w|YNL229c|Amino-acid metabolism
+YJR057w|YNL241c|Carbohydrate metabolism
+YJR057w|YNL299w|Chromatin/chromosome structure
+YJR057w|YOR304w|Chromatin/chromosome strucutre
+YJR057w|YPL194w|DNA repair

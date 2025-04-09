@@ -1,0 +1,30 @@
+YBR135w|YPR119w|two hybrid
+YBR160w|YPR119w|synthetic lethal
+YBR160w|YPR119w|
+YBR160w|YPR119w|see
+YCL016c|YPR119w|Cell cycle control
+YDL017w|YPR119w|Cell cycle control
+YDR386w|YPR119w|two hybrid
+YDR412w|YPR119w|two hybrid
+YDR412w|YPR119w|two hybrid
+YEL061c|YPR119w|Cell cycle control
+YER111c|YPR119w|interaction with Clb2p is Swi6p-independent; interacts with Clb2/Cdc28 kinase during the G2 and M phases of the cell cycle; the ankyrin repeats mediate the interaction with Clb2/Cdc28 kinase
+YER111c|YPR119w|associates with Clb2p, and can be phosphorylated by Cdc28p/Clb2p in vitro
+YER111c|YPR119w|coimmunoprecipitation; Swi4p interacts through its ankyrin repeats with Clb2/Cdc28 kinase
+YFL029c|YPR119w|
+YHR035w|YPR119w|two hybrid
+YHR191c|YPR119w|Cell cycle control
+YKR048c|YPR119w|Clb2p is unable to carry out its full range of function without Nap1p
+YKR048c|YPR119w|affinity chromatography; Clb2p is unable to carry out its full range of function without Nap1p
+YMR078c|YPR119w|Cell cycle control
+YNL135c|YPR119w|two hybrid
+YNL250w|YPR119w|Cell cycle control
+YNR022c|YPR119w|two hybrid
+YOR058c|YPR119w|Cell cycle control
+YOR264w|YPR119w|two hybrid IST hits: 1
+YPL008w|YPR119w|Cell cycle control
+YPR119w|YBR024w|two hybrid IST hits: 1
+YPR119w|YBR135w|two hybrid IST hits: 2
+YPR119w|YBR160w|weak interaction with Cdc28-E169, strong interaction with Cdc28-A169 refered to wild type Cdc28
+YPR119w|YDR025w|two hybrid IST hits: 1
+YPR135w|YPR119w|Cell cycle control
