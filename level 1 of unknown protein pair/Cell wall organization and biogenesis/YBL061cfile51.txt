@@ -1,0 +1,63 @@
+YBL061c|YBL007c|Cell polarity
+YBL061c|YBL047c|Vesicular transport
+YBL061c|YBL067c|Protein modification
+YBL061c|YBL069w|Protein targeting
+YBL061c|YBL072c|Protein synthesis
+YBL061c|YBR023c|two hybrid
+YBL061c|YDR129c|Cell structure
+YBL061c|YDR207c|Meiosis
+YBL061c|YDR245w|Protein modification
+YBL061c|YDR377w|Energy generation
+YBL061c|YDR388w|Cell polarity
+YBL061c|YEL031w|Small molecule transport
+YBL061c|YER111c|Cell cycle control
+YBL061c|YFL036w|Mitochondrion organization and biogenesis
+YBL061c|YFR019w|Lipid metabolism
+YBL061c|YGL084c|Lipid metabolism
+YBL061c|YGR229c|Cell wall organization and biogenesis
+YBL061c|YHR030c|Cell wall organization and biogenesis
+YBL061c|YHR107c|synthetic lethal
+YBL061c|YHR107c|synthetic lethal
+YBL061c|YIL007c|two hybrid library: Chs4 Yil007c(AD)
+YBL061c|YJL095w|Cell wall organization and biogenesis
+YBL061c|YJL148w|Protein synthesis
+YBL061c|YJR073c|Lipid metabolism
+YBL061c|YJR118c|Energy generation
+YBL061c|YKL079w|Cell polarity
+YBL061c|YKL126w|Endocytosis
+YBL061c|YKL176c|Vesicular transport
+YBL061c|YLL043w|Transport
+YBL061c|YLR087c|Cell stress
+YBL061c|YLR110c|Cell wall organization and biogenesis
+YBL061c|YLR111w|Unknown
+YBL061c|YLR268w|Vesicular transport
+YBL061c|YLR337c|Cell polarity
+YBL061c|YLR338w|Unknown
+YBL061c|YLR342w|Cell wall organization and biogenesis
+YBL061c|YLR370c|Cell polarity
+YBL061c|YLR425w|Unknown
+YBL061c|YML115c|Protein modification
+YBL061c|YMR089c|Energy generation
+YBL061c|YNL079c|Cell structure
+YBL061c|YNL233w|two hybrid
+YBL061c|YNL271c|Cell polarity
+YBL061c|YNL298w|Cell polarity
+YBL061c|YNR051c|Unknown
+YBL061c|YOR035c|Differentiation
+YBL061c|YPL193w|Ribosomal large subunit assembly and maintenance
+YBR234c|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBL061c|Cell wall organization and biogenesis
+YCR009c|YBL061c|Cell wall organization and biogenesis
+YDL029w|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBL061c|Cell wall organization and biogenesis
+YDR388w|YBL061c|Cell wall organization and biogenesis
+YEL015w|YBL061c|3 clones in category A4
+YGR229c|YBL061c|Cell wall organization and biogenesis
+YIL007c|YBL061c|two hybrid library: Yil007C Chs4(AD)
+YKL079w|YBL061c|Cell wall organization and biogenesis
+YLR342w|YBL061c|Cell wall organization and biogenesis
+YNL271c|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBL061c|Cell wall organization and biogenesis
+YNL298w|YBL061c|Cell wall organization and biogenesis
+YNL322c|YBL061c|Cell wall organization and biogenesis
+YOR326w|YBL061c|Cell wall organization and biogenesis

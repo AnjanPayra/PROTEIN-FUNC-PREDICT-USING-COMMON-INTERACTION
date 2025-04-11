@@ -1,0 +1,46 @@
+YBL061c|YJL095w|Cell wall organization and biogenesis
+YBL105c|YJL095w|pkc1 mutants are suppressed by dominant bck1 allele;suppression mutation
+YBL105c|YJL095w|dominant allele suppresses pkc1 mutant, which may act upstream;suppression
+YBR015c|YJL095w|synthetic lethal
+YBR015c|YJL095w|synthetic lethal
+YBR023c|YJL095w|Cell wall organization and biogenesis
+YBR229c|YJL095w|Cell wall organization and biogenesis
+YBR234c|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL095w|Cell wall organization and biogenesis
+YCR009c|YJL095w|Cell wall organization and biogenesis
+YDL029w|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJL095w|Cell wall organization and biogenesis
+YDL127w|YJL095w|overexpression of PCL2 rescues bck1 null mutant;suppression
+YDR126w|YJL095w|Cell wall organization and biogenesis
+YDR388w|YJL095w|Cell wall organization and biogenesis
+YDR420w|YJL095w|Cell wall organization and biogenesis
+YGL027c|YJL095w|Cell wall organization and biogenesis
+YGR166w|YJL095w|Cell wall organization and biogenesis
+YGR229c|YJL095w|Cell wall organization and biogenesis
+YHR142w|YJL095w|Cell wall organization and biogenesis
+YJL062w|YJL095w|Cell wall organization and biogenesis
+YJL095w|YOR008c|slg1 BCK1-20 are synthetic lethal in the absence of osmotic stabilization; synthetic lethal
+YJL095w|YOR231w|two hybrid
+YJL095w|YPL084w|bro1-1 is synthetic lethal with bck1 null mutation
+YJL095w|YPL084w|bro1-1 bck1 null mutants and bro1 bck1 double null mutants are synthetic lethal; null mutation in BRO1 is synthetically lethal with null mutations in BCK1, MPK1
+YJL095w|YPL140c|two hybrid
+YJL099w|YJL095w|Cell wall organization and biogenesis
+YJL139c|YJL095w|Cell wall organization and biogenesis
+YJR075w|YJL095w|Cell wall organization and biogenesis
+YKL037w|YJL095w|Cell wall organization and biogenesis
+YKL129c|YJL095w|two hybrid with SH3 domain as bait
+YLR200w|YJL095w|Cell wall organization and biogenesis
+YLR330w|YJL095w|Cell wall organization and biogenesis
+YML094w|YJL095w|Cell wall organization and biogenesis
+YMR109w|YJL095w|two hybrid with SH3 domain as bait
+YMR307w|YJL095w|Cell wall organization and biogenesis
+YNL153c|YJL095w|Cell wall organization and biogenesis
+YNL192w|YJL095w|Cell wall organization and biogenesis
+YNL233w|YJL095w|Cell wall organization and biogenesis
+YNL250w|YJL095w|Cell wall organization and biogenesis
+YNL271c|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YJL095w|Cell wall organization and biogenesis
+YNL298w|YJL095w|Cell wall organization and biogenesis
+YOR067c|YJL095w|Cell wall organization and biogenesis
+YOR326w|YJL095w|Cell wall organization and biogenesis
+YPL031c|YJL095w|Cell wall organization and biogenesis

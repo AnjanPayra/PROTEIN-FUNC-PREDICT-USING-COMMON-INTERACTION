@@ -1,0 +1,6 @@
+YBL101c|YJL203w|two hybrid
+YGR166w|YBL101c|Cell wall organization and biogenesis
+YGR229c|YBL101c|Cell wall organization and biogenesis
+YJL062w|YBL101c|Cell wall organization and biogenesis
+YLR330w|YBL101c|Cell wall organization and biogenesis
+YNL192w|YBL101c|Cell wall organization and biogenesis

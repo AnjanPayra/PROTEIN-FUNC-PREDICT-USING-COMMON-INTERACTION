@@ -1,0 +1,22 @@
+YBL061c|YKL079w|Cell polarity
+YBR023c|YKL079w|Cell polarity
+YFL005w|YKL079w|smy1delta sec4-8 is synthetic lethal
+YHR023w|YKL079w|synthetic growth defect
+YHR142w|YKL079w|Cell polarity
+YKL079w|YAL026c|Vesicular transport
+YKL079w|YBL007c|Cell polarity
+YKL079w|YBL061c|Cell wall organization and biogenesis
+YKL079w|YBR023c|Cell wall organization and biogenesis
+YKL079w|YBR200w|Cell polarity
+YKL079w|YDL225w|Cytokinesis
+YKL079w|YER111c|Cell cycle control
+YKL079w|YER155c|Cell polarity
+YKL079w|YGR188c|Mitosis
+YKL079w|YHL048w|two hybrid IST hits: 1
+YKL079w|YHR142w|Cell wall organization and biogenesis
+YKL079w|YNL233w|Cytokinesis
+YKL079w|YNL272c|smy1delta sec2-41 is synthetic lethal
+YKL079w|YNL298w|Cell polarity
+YKL079w|YOR326w|overexpression of Smy1p partially suppresses myo2 defects, see; smy1delta myo2-66 is synthetic lethal; suppression; synthetic lethal
+YLR330w|YKL079w|Cell polarity
+YMR047c|YKL079w|two hybrid IST hits: 2

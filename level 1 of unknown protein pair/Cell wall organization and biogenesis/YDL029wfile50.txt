@@ -1,0 +1,95 @@
+YCR002c|YDL029w|ARP2 genetically interacts with CDC10
+YDL029w|YAL013w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YAL013w|Lipid metabolism
+YDL029w|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBL061c|Cell wall organization and biogenesis
+YDL029w|YBL062w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBL062w|Unknown
+YDL029w|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR023c|Cell wall organization and biogenesis
+YDL029w|YBR171w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR171w|Vesicular transport
+YDL029w|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR200w|Cell polarity
+YDL029w|YBR260c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR260c|Cell polarity
+YDL029w|YCL037c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YCL037c|Protein synthesis
+YDL029w|YCR009c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YCR009c|Cell polarity
+YDL029w|YDR018c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR018c|Unknown
+YDL029w|YDR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR129c|Cell structure
+YDL029w|YDR310c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR310c|Chromatin/chromosome structure
+YDL029w|YDR388w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR388w|Cell polarity
+YDL029w|YDR389w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR389w|Cell structure
+YDL029w|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YEL003w|Cell structure
+YDL029w|YEL031w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YEL031w|Small molecule transport
+YDL029w|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER083c|Cell wall organization and biogenesis
+YDL029w|YER149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER149c|Cell polarity
+YDL029w|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER155c|Cell polarity
+YDL029w|YFR040w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YFR040w|Cell cycle control
+YDL029w|YGL250w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YGL250w|Unknown
+YDL029w|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YGR078c|Cell structure
+YDL029w|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YHR030c|Cell wall organization and biogenesis
+YDL029w|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YHR142w|Cell wall organization and biogenesis
+YDL029w|YIL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YIL095w|Cell polarity
+YDL029w|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJL095w|Cell wall organization and biogenesis
+YDL029w|YJL099w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJL099w|Cell wall organization and biogenesis
+YDL029w|YJL183w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJL183w|Protein modification
+YDL029w|YJR032w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR032w|Protein folding
+YDL029w|YJR065c|copurification
+YDL029w|YJR075w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR075w|Cell wall organization and biogenesis
+YDL029w|YJR117w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR117w|Protein modification
+YDL029w|YJR118c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR118c|Energy generation
+YDL029w|YKR042w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YKR042w|Aging
+YDL029w|YLR111w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR111w|Unknown
+YDL029w|YLR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR200w|Cell structure
+YDL029w|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR330w|Cell wall organization and biogenesis
+YDL029w|YLR337c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR337c|Cell polarity
+YDL029w|YNL084c|synthetic lethal
+YDL029w|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL153c|Cell structure
+YDL029w|YNL189w|synthetic lethal
+YDL029w|YNL189w|coimmunoprecipitation
+YDL029w|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL233w|Cytokinesis
+YDL029w|YNL243w|synthetic enhancement;synthetic lethal
+YDL029w|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL298w|Cell polarity
+YDL029w|YNL322c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL322c|Cell wall organization and biogenesis
+YDL029w|YOR035c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YOR035c|Differentiation
+YDL029w|YOR098c|synthetic lethal
+YDL029w|YOR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YOR216c|Vesicular transport
+YDL029w|YPL069c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YPL069c|Protein modification

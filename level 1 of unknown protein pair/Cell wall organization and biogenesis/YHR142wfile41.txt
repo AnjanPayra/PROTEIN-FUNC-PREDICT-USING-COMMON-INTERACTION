@@ -1,0 +1,43 @@
+YBR234c|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YHR142w|Cell wall organization and biogenesis
+YCR009c|YHR142w|Cell wall organization and biogenesis
+YDL029w|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YHR142w|Cell wall organization and biogenesis
+YDR318w|YHR142w|two hybrid IST hits: 1
+YDR388w|YHR142w|Cell wall organization and biogenesis
+YGR229c|YHR142w|Cell wall organization and biogenesis
+YHR142w|YBL007c|Cell polarity
+YHR142w|YBL047c|Vesicular transport
+YHR142w|YDL117w|Cytokinesis
+YHR142w|YDR129c|Cell structure
+YHR142w|YDR245w|Protein modification
+YHR142w|YDR388w|Cell polarity
+YHR142w|YFL036w|Mitochondrion organization and biogenesis
+YHR142w|YGR135w|Protein degradation
+YHR142w|YGR229c|Cell wall organization and biogenesis
+YHR142w|YHR030c|Cell wall organization and biogenesis
+YHR142w|YIL121w|Transport
+YHR142w|YJL095w|Cell wall organization and biogenesis
+YHR142w|YJL148w|Protein synthesis
+YHR142w|YJR073c|Lipid metabolism
+YHR142w|YKL079w|Cell polarity
+YHR142w|YKL127w|two hybrid IST hits: 1
+YHR142w|YKR082w|Nuclear-cytoplasmic transport
+YHR142w|YLR110c|Cell wall organization and biogenesis
+YHR142w|YLR111w|Unknown
+YHR142w|YLR337c|Cell polarity
+YHR142w|YLR342w|Cell wall organization and biogenesis
+YHR142w|YLR425w|Unknown
+YHR142w|YML115c|Protein modification
+YHR142w|YNL079c|Cell structure
+YHR142w|YNL271c|Cell polarity
+YHR142w|YNL298w|Cell polarity
+YHR142w|YNL329c|Lipid metabolism
+YHR142w|YOR035c|Differentiation
+YJL131c|YHR142w|two hybrid IST hits: 1
+YKL079w|YHR142w|Cell wall organization and biogenesis
+YLR342w|YHR142w|Cell wall organization and biogenesis
+YNL271c|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR142w|Cell wall organization and biogenesis
+YNL298w|YHR142w|Cell wall organization and biogenesis
+YOR326w|YHR142w|Cell wall organization and biogenesis

@@ -1,0 +1,35 @@
+YBR234c|YJL099w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL099w|Cell wall organization and biogenesis
+YCR009c|YJL099w|Cell wall organization and biogenesis
+YDL029w|YJL099w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJL099w|Cell wall organization and biogenesis
+YDR388w|YJL099w|Cell wall organization and biogenesis
+YGR229c|YJL099w|Cell wall organization and biogenesis
+YJL062w|YJL099w|Cell wall organization and biogenesis
+YJL099w|YBR057c|Meiosis
+YJL099w|YDR079w|two hybrid IST hits: 1
+YJL099w|YDR207c|Meiosis
+YJL099w|YDR335w|Nuclear-cytoplasmic transport
+YJL099w|YDR388w|Cell polarity
+YJL099w|YFL036w|Mitochondrion organization and biogenesis
+YJL099w|YGL084c|Lipid metabolism
+YJL099w|YGR229c|Cell wall organization and biogenesis
+YJL099w|YHR030c|Cell wall organization and biogenesis
+YJL099w|YIR005w|RNA splicing
+YJL099w|YJL062w|Lipid metabolism
+YJL099w|YJL095w|Cell wall organization and biogenesis
+YJL099w|YJL183w|Protein modification
+YJL099w|YJR118c|Energy generation
+YJL099w|YKR082w|Nuclear-cytoplasmic transport
+YJL099w|YLL039c|Protein degradation
+YJL099w|YLR337c|Cell polarity
+YJL099w|YLR338w|Unknown
+YJL099w|YLR342w|Cell wall organization and biogenesis
+YJL099w|YLR370c|Cell polarity
+YJL099w|YLR424w|two hybrid IST hits: 1
+YJL099w|YML115c|Protein modification
+YJL099w|YNL235c|Unknown
+YJL099w|YNL298w|Cell polarity
+YJL099w|YOL081w|Signal transduction
+YLR342w|YJL099w|Cell wall organization and biogenesis
+YNL298w|YJL099w|Cell wall organization and biogenesis

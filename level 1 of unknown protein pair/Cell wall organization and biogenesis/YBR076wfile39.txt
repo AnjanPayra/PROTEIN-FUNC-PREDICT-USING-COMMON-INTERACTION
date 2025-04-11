@@ -1,0 +1,3 @@
+YJL062w|YBR076w|Cell wall organization and biogenesis
+YJR091c|YBR076w|two hybrid IST hits: 1
+YLR418c|YBR076w|Cell wall organization and biogenesis

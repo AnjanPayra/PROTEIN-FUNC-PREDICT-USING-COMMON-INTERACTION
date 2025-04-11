@@ -1,0 +1,81 @@
+YBR234c|YBL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBL061c|Cell wall organization and biogenesis
+YBR234c|YBL062w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBL062w|Unknown
+YBR234c|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR023c|Cell wall organization and biogenesis
+YBR234c|YBR171w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR171w|Vesicular transport
+YBR234c|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR200w|Cell polarity
+YBR234c|YDR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YDR129c|Cell structure
+YBR234c|YDR310c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YDR310c|Chromatin/chromosome structure
+YBR234c|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YEL003w|Cell structure
+YBR234c|YEL031w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YEL031w|Small molecule transport
+YBR234c|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER083c|Cell wall organization and biogenesis
+YBR234c|YER122c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER122c|Vesicular transport
+YBR234c|YER149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER149c|Cell polarity
+YBR234c|YER155c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER155c|Cell polarity
+YBR234c|YFR040w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YFR040w|Cell cycle control
+YBR234c|YHL027w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YHL027w|Meiosis
+YBR234c|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YHR030c|Cell wall organization and biogenesis
+YBR234c|YHR142w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YHR142w|Cell wall organization and biogenesis
+YBR234c|YJL014w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL095w|Cell wall organization and biogenesis
+YBR234c|YJL099w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL099w|Cell wall organization and biogenesis
+YBR234c|YJL183w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJL183w|Protein modification
+YBR234c|YJR032w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR032w|Protein folding
+YBR234c|YJR075w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR075w|Cell wall organization and biogenesis
+YBR234c|YJR117w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR117w|Protein modification
+YBR234c|YJR118c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR118c|Energy generation
+YBR234c|YLR111w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR111w|Unknown
+YBR234c|YLR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR200w|Cell structure
+YBR234c|YLR268w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR268w|Vesicular transport
+YBR234c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR330w|Cell wall organization and biogenesis
+YBR234c|YLR337c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR337c|Cell polarity
+YBR234c|YLR370c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR370c|Cell polarity
+YBR234c|YMR109w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YMR109w|Cell polarity
+YBR234c|YMR198w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YMR198w|Mitosis
+YBR234c|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL153c|Cell structure
+YBR234c|YNL233w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL233w|Cytokinesis
+YBR234c|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL298w|Cell polarity
+YBR234c|YNL322c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL322c|Cell wall organization and biogenesis
+YBR234c|YOR035c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YOR035c|Differentiation
+YBR234c|YOR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YOR216c|Vesicular transport
+YBR234c|YPL234c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YPL234c|Vacuolar organization and biogenesis
+YER022w|YBR234c|two hybrid IST hits: 1
+YLR453c|YBR234c|two hybrid IST hits: 1

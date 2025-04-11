@@ -1,0 +1,22 @@
+YBR164c|YER083c|Cell wall organization and biogenesis
+YBR234c|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YER083c|Cell wall organization and biogenesis
+YDL029w|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER083c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YER083c|Cell wall organization and biogenesis
+YDR126w|YER083c|Cell wall organization and biogenesis
+YER083c|YER126c|two hybrid IST hits: 2
+YER083c|YER126c|two hybrid IST hits: 2
+YER083c|YPR175w|two hybrid IST hits: 1
+YER083c|YPR175w|two hybrid IST hits: 1
+YHR007c|YER083c|Cell wall organization and biogenesis
+YHR154w|YER083c|Cell wall organization and biogenesis
+YKL190w|YER083c|Cell wall organization and biogenesis
+YLR039c|YER083c|Cell wall organization and biogenesis
+YMR038c|YER083c|two hybrid IST hits: 1
+YMR038c|YER083c|two hybrid IST hits: 1
+YMR263w|YER083c|Cell wall organization and biogenesis
+YMR263w|YER083c|Cell wall organization and biogenesis
+YOR070c|YER083c|Cell wall organization and biogenesis
+YPR135w|YER083c|Cell wall organization and biogenesis

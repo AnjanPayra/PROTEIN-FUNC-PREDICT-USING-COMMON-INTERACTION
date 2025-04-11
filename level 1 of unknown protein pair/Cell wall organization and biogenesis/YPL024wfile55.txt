@@ -1,0 +1,14 @@
+YBR094w|YPL024w|Cell wall organization and biogenesis
+YBR098w|YPL024w|Cell wall organization and biogenesis
+YDR052c|YPL024w|Cell wall organization and biogenesis
+YDR311w|YPL024w|two hybrid IST hits: 1
+YDR363w|YPL024w|Cell wall organization and biogenesis
+YDR386w|YPL024w|Cell wall organization and biogenesis
+YHR031c|YPL024w|Cell wall organization and biogenesis
+YHR154w|YPL024w|Cell wall organization and biogenesis
+YJL092w|YPL024w|Cell wall organization and biogenesis
+YJR043c|YPL024w|Cell wall organization and biogenesis
+YLR103c|YPL024w|Cell wall organization and biogenesis
+YOL006c|YPL024w|Cell wall organization and biogenesis
+YPL024w|YDR060w|two hybrid IST hits: 1
+YPR135w|YPL024w|Cell wall organization and biogenesis

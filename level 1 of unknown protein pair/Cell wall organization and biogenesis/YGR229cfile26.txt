@@ -1,0 +1,108 @@
+YBL061c|YGR229c|Cell wall organization and biogenesis
+YBR023c|YGR229c|Cell wall organization and biogenesis
+YDR126w|YGR229c|Cell wall organization and biogenesis
+YDR150w|YGR229c|Cell wall organization and biogenesis
+YDR162c|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGR229c|Cell wall organization and biogenesis
+YEL061c|YGR229c|Cell wall organization and biogenesis
+YER016w|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR229c|Cell wall organization and biogenesis
+YER178w|YGR229c|two hybrid IST hits: 1
+YGR078c|YGR229c|Cell wall organization and biogenesis
+YGR166w|YGR229c|Cell wall organization and biogenesis
+YGR229c|YBL007c|Cell polarity
+YGR229c|YBL061c|Cell wall organization and biogenesis
+YGR229c|YBL101c|Cell wall organization and biogenesis
+YGR229c|YBR023c|Cell wall organization and biogenesis
+YGR229c|YBR041w|Lipid metabolism
+YGR229c|YBR082c|Protein degradation
+YGR229c|YBR131w|Vesicular transport
+YGR229c|YBR166c|Amino-acid metabolism
+YGR229c|YBR200w|Cell polarity
+YGR229c|YDL006w|Signal transduction
+YGR229c|YDR156w|Pol I transcription
+YGR229c|YDR162c|Cell polarity
+YGR229c|YDR245w|Protein modification
+YGR229c|YDR351w|Cell wall organization and biogenesis
+YGR229c|YDR388w|Cell polarity
+YGR229c|YEL031w|Small molecule transport
+YGR229c|YER111c|Cell cycle control
+YGR229c|YER151c|Protein modification
+YGR229c|YER155c|Cell polarity
+YGR229c|YER178w|Mitochondrion organization and biogenesis
+YGR229c|YFR032c-a|Protein synthesis
+YGR229c|YGL240w|Cell cycle control
+YGR229c|YGR135w|Protein degradation
+YGR229c|YGR166w|Cell wall organization and biogenesis
+YGR229c|YGR214w|Protein synthesis
+YGR229c|YGR217w|Transport
+YGR229c|YGR237c|Unknown
+YGR229c|YHR030c|Cell wall organization and biogenesis
+YGR229c|YHR129c|Mitosis
+YGR229c|YHR142w|Cell wall organization and biogenesis
+YGR229c|YHR191c|Chromatin/chromosome structure
+YGR229c|YHR200w|Pol II transcription
+YGR229c|YJL095w|Cell wall organization and biogenesis
+YGR229c|YJL099w|Cell wall organization and biogenesis
+YGR229c|YJL117w|Phosphate metabolism
+YGR229c|YJL183w|Protein modification
+YGR229c|YJL188c|Cell polarity
+YGR229c|YJR118c|Energy generation
+YGR229c|YKL048c|Cell polarity
+YGR229c|YKL190w|Cell wall organization and biogenesis
+YGR229c|YKR020w|Vacuolar organization and biogenesis
+YGR229c|YKR099w|two hybrid
+YGR229c|YLL021w|Cell polarity
+YGR229c|YLL043w|Transport
+YGR229c|YLR039c|Vesicular transport
+YGR229c|YLR262c|Vesicular transport
+YGR229c|YLR320w|Unknown
+YGR229c|YLR330w|Cell wall organization and biogenesis
+YGR229c|YLR330w|Cell wall organization and biogenesis
+YGR229c|YLR332w|Cell wall organization and biogenesis
+YGR229c|YLR358c|Unknown
+YGR229c|YLR371w|Cell wall organization and biogenesis
+YGR229c|YLR384c|Pol II transcription
+YGR229c|YML115c|Protein modification
+YGR229c|YML117w|Unknown
+YGR229c|YMR038c|Amino-acid metabolism
+YGR229c|YMR116c|Protein synthesis
+YGR229c|YMR205c|Carbohydrate metabolism
+YGR229c|YMR307w|Cell wall organization and biogenesis
+YGR229c|YNL171c|Unknown
+YGR229c|YNL233w|Cytokinesis
+YGR229c|YNL271c|Cell polarity
+YGR229c|YNL298w|Cell polarity
+YGR229c|YNL322c|Cell wall organization and biogenesis
+YGR229c|YNR051c|Unknown
+YGR229c|YOL003c|Unknown
+YGR229c|YOR030w|Differentiation
+YGR229c|YOR275c|Cell stress
+YGR229c|YPL031c|Cell cycle control
+YGR229c|YPL077c|Unknown
+YGR229c|YPL089c|Pol II transcription
+YGR229c|YPR110c|two hybrid IST hits: 1
+YGR229c|YPR135w|Chromatin/chromosome structure
+YHR030c|YGR229c|Cell wall organization and biogenesis
+YHR129c|YGR229c|Cell wall organization and biogenesis
+YHR142w|YGR229c|Cell wall organization and biogenesis
+YHR191c|YGR229c|Cell wall organization and biogenesis
+YJL099w|YGR229c|Cell wall organization and biogenesis
+YKL190w|YGR229c|Cell wall organization and biogenesis
+YLR039c|YGR229c|Cell wall organization and biogenesis
+YLR262c|YGR229c|Cell wall organization and biogenesis
+YLR330w|YGR229c|Cell wall organization and biogenesis
+YLR332w|YGR229c|Cell wall organization and biogenesis
+YLR332w|YGR229c|Cell wall organization and biogenesis
+YML094w|YGR229c|Cell wall organization and biogenesis
+YMR294w|YGR229c|Cell wall organization and biogenesis
+YMR307w|YGR229c|Cell wall organization and biogenesis
+YNL153c|YGR229c|Cell wall organization and biogenesis
+YNL233w|YGR229c|Cell wall organization and biogenesis
+YNL271c|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YGR229c|Cell wall organization and biogenesis
+YNL298w|YGR229c|Cell wall organization and biogenesis
+YNL322c|YGR229c|Cell wall organization and biogenesis
+YNL322c|YGR229c|Cell wall organization and biogenesis
+YOR326w|YGR229c|Cell wall organization and biogenesis
+YPR135w|YGR229c|Cell wall organization and biogenesis

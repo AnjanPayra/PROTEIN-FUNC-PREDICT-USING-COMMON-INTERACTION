@@ -1,0 +1,93 @@
+YBL061c|YHR030c|Cell wall organization and biogenesis
+YBL105c|YHR030c|PKC1 overexpression suppresses temperature sensitivity of mpk1/slt2 deletion mutants at 35C;suppression overexpression
+YBL105c|YHR030c|overproduction of PKC1 suppresses slg1 caffeine sensitive phenotype;suppression
+YBR015c|YHR030c|synthetic lethal
+YBR015c|YHR030c|synthetic lethal
+YBR023c|YHR030c|Cell wall organization and biogenesis
+YBR109c|YHR030c|cmd1 slt2/mpk1 mutants are synthetic lethal
+YBR160w|YHR030c|cdc28-109 slt2 mutants are synthetic lethal
+YBR229c|YHR030c|Cell wall organization and biogenesis
+YBR234c|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YHR030c|Cell wall organization and biogenesis
+YCR009c|YHR030c|Cell wall organization and biogenesis
+YDL006w|YHR030c|synthetic lethal
+YDL029w|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YHR030c|Cell wall organization and biogenesis
+YDL127w|YHR030c|overexpression of PCL2 rescues slt2 null mutant;suppression
+YDR388w|YHR030c|Cell wall organization and biogenesis
+YEL048c|YHR030c|two hybrid IST hits: 1
+YGL027c|YHR030c|Cell wall organization and biogenesis
+YGR166w|YHR030c|Cell wall organization and biogenesis
+YGR229c|YHR030c|Cell wall organization and biogenesis
+YGR238c|YHR030c|kel2 mpk1 double mutant show enhanced cell growth defect compared to kel2 mutant; synthetic growth phenotype
+YHR007c|YHR030c|Cell wall organization and biogenesis
+YHR030c|YBL047c|Vesicular transport
+YHR030c|YBR023c|Cell wall organization and biogenesis
+YHR030c|YBR078w|Cell wall organization and biogenesis
+YHR030c|YBR171w|Vesicular transport
+YHR030c|YBR229c|Cell wall organization and biogenesis
+YHR030c|YDR146c|Pol II transcription
+YHR030c|YDR245w|Protein modification
+YHR030c|YDR349c|Protein degradation
+YHR030c|YDR414c|Protein modification
+YHR030c|YER111c|Cell cycle control
+YHR030c|YER155c|Cell polarity
+YHR030c|YGL027c|Cell wall organization and biogenesis
+YHR030c|YGL045w|Unknown
+YHR030c|YGL168w|Unknown
+YHR030c|YGR166w|Cell wall organization and biogenesis
+YHR030c|YGR229c|Cell wall organization and biogenesis
+YHR030c|YGR252w|Pol II transcription
+YHR030c|YHR107c|synthetic lethal
+YHR030c|YHR108w|Vesicular transport
+YHR030c|YHR158c|kel1 mpk1 double mutant show enhanced cell growth defect compared to kel1 mutant; kel1 mpk1/slt2 double mutant show enhanced cell growth defect compared to kel1 mutant; synthetic growth phenotype
+YHR030c|YIL113w|two hybrid
+YHR030c|YJL139c|Cell wall organization and biogenesis
+YHR030c|YJR075w|Cell wall organization and biogenesis
+YHR030c|YKL037w|Unknown
+YHR030c|YLL043w|Transport
+YHR030c|YLR147c|two hybrid IST hits: 1
+YHR030c|YLR262c|two hybrid IST hits: 1
+YHR030c|YLR268w|two hybrid IST hits: 1
+YHR030c|YLR330w|Cell wall organization and biogenesis
+YHR030c|YLR342w|synthetic lethal
+YHR030c|YLR342w|Cell wall organization and biogenesis
+YHR030c|YLR346c|two hybrid IST hits: 1
+YHR030c|YLR350w|two hybrid IST hits: 1
+YHR030c|YMR154c|Meiosis
+YHR030c|YNL079c|synthetic lethal
+YHR030c|YNL079c|Cell structure
+YHR030c|YNL233w|Cytokinesis
+YHR030c|YNL271c|Cell polarity
+YHR030c|YNL298w|Cell polarity
+YHR030c|YOL081w|Signal transduction
+YHR030c|YOR231w|two hybrid; copurification
+YHR030c|YOR275c|Cell stress
+YHR030c|YPL084w|bro1-1 is synthetic lethal with slt2 null mutations
+YHR030c|YPL084w|bro1-1 slt2 null mutants are synthetic lethal
+YHR030c|YPL089c|two hybrid
+YHR030c|YPL140c|two hybrid
+YHR030c|YPL140c|two hybrid; copurification
+YHR030c|YPL140c|two hybrid; copurification
+YHR030c|YPL158c|Unknown
+YHR142w|YHR030c|Cell wall organization and biogenesis
+YIL113w|YHR030c|
+YJL099w|YHR030c|Cell wall organization and biogenesis
+YJL139c|YHR030c|Cell wall organization and biogenesis
+YKL037w|YHR030c|Cell wall organization and biogenesis
+YLR200w|YHR030c|Cell wall organization and biogenesis
+YLR330w|YHR030c|Cell wall organization and biogenesis
+YLR342w|YHR030c|Cell wall organization and biogenesis
+YLR446w|YHR030c|two hybrid IST hits: 2
+YML094w|YHR030c|Cell wall organization and biogenesis
+YMR307w|YHR030c|Cell wall organization and biogenesis
+YNL153c|YHR030c|Cell wall organization and biogenesis
+YNL233w|YHR030c|Cell wall organization and biogenesis
+YNL250w|YHR030c|Cell wall organization and biogenesis
+YNL271c|YHR030c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR030c|Cell wall organization and biogenesis
+YNL298w|YHR030c|Cell wall organization and biogenesis
+YNL322c|YHR030c|Cell wall organization and biogenesis
+YOR067c|YHR030c|Cell wall organization and biogenesis
+YOR326w|YHR030c|Cell wall organization and biogenesis
+YPL031c|YHR030c|Cell wall organization and biogenesis
