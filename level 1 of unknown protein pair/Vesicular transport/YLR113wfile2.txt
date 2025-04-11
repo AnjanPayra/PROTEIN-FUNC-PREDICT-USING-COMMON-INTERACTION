@@ -1,0 +1,32 @@
+YDL235c|YLR113w|deletion of hog1 inactivates HOG pathway in ypd1 mutantsuppression
+YGL158w|YLR113w|two hybrid
+YGR058w|YLR113w|two hybrid
+YJL128c|YLR113w|coimmunoprecipitation
+YLR085c|YLR113w|Signal transduction
+YLR113w|YBL083c|Unknown
+YLR113w|YBR194w|Unknown
+YLR113w|YDR363w-a|Vesicular transport
+YLR113w|YDR414c|Protein modification
+YLR113w|YDR497c|Transport
+YLR113w|YGL200c|Vesicular transport
+YLR113w|YGR092w|Cell cycle control
+YLR113w|YJL183w|Protein modification
+YLR113w|YKL041w|Vesicular transport
+YLR113w|YKL194c|Protein synthesis
+YLR113w|YLR358c|Unknown
+YLR113w|YLR362w|pulldown coimmunoprecipitation
+YLR113w|YLR398c|RNA turnover
+YLR113w|YML097c|Vesicular transport
+YLR113w|YMR089c|Energy generation
+YLR113w|YMR172w|two hybrid
+YLR113w|YMR198w|Mitosis
+YLR113w|YMR272c|Lipid metabolism
+YLR113w|YNL171c|Unknown
+YLR113w|YNL215w|Unknown
+YLR113w|YNL215w|Unknown
+YLR113w|YNL264c|Vesicular transport
+YLR113w|YNL296w|Unknown
+YLR113w|YOR123c|Chromatin/chromosome structure
+YLR113w|YOR123c|Chromatin/chromosome structure
+YLR113w|YPL180w|Lipid metabolism
+YLR113w|YPR045c|Unknown

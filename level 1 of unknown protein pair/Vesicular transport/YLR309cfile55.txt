@@ -1,0 +1,9 @@
+YHR041c|YLR309c|two hybrid IST hits: 1
+YHR114w|YLR309c|two hybrid IST hits: 1
+YLR039c|YLR309c|Vesicular transport
+YLR262c|YLR309c|Sys2/Sro9 is a multicopy suppressor of ypt6; imh1 mutation enhances the ypt6 phenotype -> growth inhibition, protein sorting and maturation defects
+YLR262c|YLR309c|Vesicular transport
+YLR262c|YLR309c|IMH1 is a multicopy suppressor of ypt6 mutation;imh1/ypt6 double mutants show an enhanced ypt6 phenotype
+YLR309c|YBR164c|affinity chromatography, affinity-tag GST
+YLR309c|YLR309c|two hybrid assay, chemical cross-linking, gel filtration; Imh1p forms dimers and oligomers
+YLR309c|YLR309c|two hybrid assay, chemical cross-linking, gel filtration; Imh1p forms dimers and oligomers

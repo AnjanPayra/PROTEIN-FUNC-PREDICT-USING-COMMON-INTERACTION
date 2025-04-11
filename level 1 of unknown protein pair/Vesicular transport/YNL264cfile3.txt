@@ -1,0 +1,4 @@
+YBL026w|YNL264c|5(3) clones in category A1
+YDR126w|YNL264c|Vesicular transport
+YLR113w|YNL264c|Vesicular transport
+YNL098c|YNL264c|Vesicular transport

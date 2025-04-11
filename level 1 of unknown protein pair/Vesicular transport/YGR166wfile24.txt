@@ -1,0 +1,58 @@
+YBR254c|YGR166w|coimmunoprecipitation
+YBR254c|YGR166w|coimmunoprecipitation
+YDR108w|YGR166w|coimmunoprecipitation
+YDR108w|YGR166w|coimmunoprecipitation
+YDR246w|YGR166w|coimmunoprecipitation
+YDR246w|YGR166w|coimmunoprecipitation
+YDR407c|YGR166w|coimmunoprecipitation
+YDR407c|YGR166w|coimmunoprecipitation
+YDR472w|YGR166w|coimmunoprecipitation
+YDR472w|YGR166w|coimmunoprecipitation
+YGR166w|YBL025w|Pol I transcription
+YGR166w|YBL101c|Cell wall organization and biogenesis
+YGR166w|YBR057c|Meiosis
+YGR166w|YCL058c|Unknown
+YGR166w|YCR044c|Other metabolism
+YGR166w|YCR044c|Other metabolism
+YGR166w|YDR440w|Chromatin/chromosome stucture
+YGR166w|YEL048c|Unknown
+YGR166w|YGL084c|Lipid metabolism
+YGR166w|YGL219c|Unknown
+YGR166w|YGR157w|Lipid metabolism
+YGR166w|YGR229c|Cell wall organization and biogenesis
+YGR166w|YHR013c|Chromatin/chromosome structure
+YGR166w|YHR030c|Cell wall organization and biogenesis
+YGR166w|YJL095w|Cell wall organization and biogenesis
+YGR166w|YJL174w|Protein modification
+YGR166w|YJL176c|Chromatin/chromosome structure
+YGR166w|YJR118c|Energy generation
+YGR166w|YJR118c|Energy generation
+YGR166w|YKL041w|Vesicular transport
+YGR166w|YKL139w|Pol II transcription
+YGR166w|YKR020w|Vacuolar organization and biogenesis
+YGR166w|YKR068c|coimmunoprecipitation
+YGR166w|YKR068c|coimmunoprecipitation
+YGR166w|YLR373c|Vacuolar organization and biogenesis
+YGR166w|YML077w|coimmunoprecipitation
+YGR166w|YML077w|coimmunoprecipitation
+YGR166w|YMR060c|Mitochondrion organization and biogenesis
+YGR166w|YMR089c|Energy generation
+YGR166w|YMR116c|Protein synthesis
+YGR166w|YMR218c|coimmunoprecipitation
+YGR166w|YMR218c|coimmunoprecipitation
+YGR166w|YMR307w|Cell wall organization and biogenesis
+YGR166w|YNL171c|Unknown
+YGR166w|YNL322c|Cell wall organization and biogenesis
+YGR166w|YNL329c|Lipid metabolism
+YGR166w|YOR115c|coimmunoprecipitation
+YGR166w|YOR115c|Vesicular transport
+YGR166w|YOR115c|coimmunoprecipitation
+YGR166w|YOR197w|two hybrid IST hits: 1
+YGR166w|YOR312c|Protein synthesis
+YGR166w|YPL069c|Protein modification
+YGR229c|YGR166w|Cell wall organization and biogenesis
+YHR030c|YGR166w|Cell wall organization and biogenesis
+YJL174w|YGR166w|Cell wall organization and biogenesis
+YJR091c|YGR166w|two hybrid IST hits: 2
+YMR307w|YGR166w|Cell wall organization and biogenesis
+YNL322c|YGR166w|Cell wall organization and biogenesis

@@ -1,0 +1,11 @@
+YDL049c|YLR360w|Vesicular transport
+YHR181w|YLR360w|Vesicular transport
+YJR075w|YLR360w|Vesicular transport
+YLR039c|YLR360w|Vesicular transport
+YLR262c|YLR360w|Vesicular transport
+YLR360w|YLR240w|Vps38p may act as connector between Vps30p and Vps15p-Vps34p complex.
+YML094w|YLR360w|Vesicular transport
+YML094w|YLR360w|Vesicular transport
+YPL031c|YLR360w|Vesicular transport
+YPL120w|YLR360w|Two distinct Vps34 PtdIns 3-kinase complexes exist: one, containing Vps15p,Vps30p, and Apg14p, functions in autophagy and the other containing Vps15p, Vps30p, and Vps38p functions in CPY sorting.
+YPL120w|YLR360w|Two distinct Vps34 PtdIns 3-kinase complexes exist: one, containing Vps15p,Vps30p, and Apg14p, functions in autophagy and the other containing Vps15p, Vps30p, and Vps38p functions in CPY sorting.

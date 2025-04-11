@@ -1,0 +1,89 @@
+YBR234c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR330w|Cell wall organization and biogenesis
+YCR009c|YLR330w|Cell wall organization and biogenesis
+YDL029w|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YLR330w|Cell wall organization and biogenesis
+YDL049c|YLR330w|Cell wall organization and biogenesis
+YDR388w|YLR330w|Cell wall organization and biogenesis
+YGR229c|YLR330w|Cell wall organization and biogenesis
+YGR229c|YLR330w|Cell wall organization and biogenesis
+YHR030c|YLR330w|Cell wall organization and biogenesis
+YJL020c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YLR330w|Cell wall organization and biogenesis
+YLR330w|YBL007c|Cell polarity
+YLR330w|YBL047c|Vesicular transport
+YLR330w|YBL072c|Protein synthesis
+YLR330w|YBL101c|Cell wall organization and biogenesis
+YLR330w|YBR121c|Protein synthesis
+YLR330w|YBR231c|Unknown
+YLR330w|YBR301w|Cell wall organization and biogenesis
+YLR330w|YCR009c|Cell polarity
+YLR330w|YCR077c|Chromatin/chromosome structure
+YLR330w|YDL033c|Unknown
+YLR330w|YDL074c|Chromatin/chromosome stucture
+YLR330w|YDL155w|Cell cycle control
+YLR330w|YDL206w|Unknown
+YLR330w|YDR129c|Cell structure
+YLR330w|YDR245w|Protein modification
+YLR330w|YDR378c|RNA splicing
+YLR330w|YDR393w|Mitochondrion organization and biogenesis
+YLR330w|YDR440w|Chromatin/chromosome stucture
+YLR330w|YER111c|Cell cycle control
+YLR330w|YER149c|Cell polarity
+YLR330w|YFR019w|Lipid metabolism
+YLR330w|YFR045w|Transport
+YLR330w|YGL081w|Unknown
+YLR330w|YGL084c|Lipid metabolism
+YLR330w|YGL152c|Unknown
+YLR330w|YGL153w|Peroxisome organization and biogenesis
+YLR330w|YGL200c|Vesicular transport
+YLR330w|YGR135w|Protein degradation
+YLR330w|YGR229c|Cell wall organization and biogenesis
+YLR330w|YHL002w|Transport
+YLR330w|YHR030c|Cell wall organization and biogenesis
+YLR330w|YJL006c|Pol II transcription
+YLR330w|YJL095w|Cell wall organization and biogenesis
+YLR330w|YJL148w|Protein synthesis
+YLR330w|YJL176c|Chromatin/chromosome structure
+YLR330w|YJL183w|Protein modification
+YLR330w|YKL006w|Protein synthesis
+YLR330w|YKL010c|Protein modification
+YLR330w|YKL032c|DNA repair
+YLR330w|YKL041w|Vesicular transport
+YLR330w|YKL079w|Cell polarity
+YLR330w|YKR020w|Vacuolar organization and biogenesis
+YLR330w|YKR082w|Nuclear-cytoplasmic transport
+YLR330w|YLL039c|Protein degradation
+YLR330w|YLL043w|Transport
+YLR330w|YLR087c|Cell stress
+YLR330w|YLR110c|Cell wall organization and biogenesis
+YLR330w|YLR111w|Unknown
+YLR330w|YLR268w|Vesicular transport
+YLR330w|YLR342w|Cell wall organization and biogenesis
+YLR330w|YLR370c|Cell polarity
+YLR330w|YLR425w|Unknown
+YLR330w|YML115c|Protein modification
+YLR330w|YMR116c|Protein synthesis
+YLR330w|YMR224c|DNA repair
+YLR330w|YMR307w|Cell wall organization and biogenesis
+YLR330w|YNL003c|Small molecule transport
+YLR330w|YNL071w|Energy generation
+YLR330w|YNL079c|Cell structure
+YLR330w|YNL171c|Unknown
+YLR330w|YNL298w|Cell polarity
+YLR330w|YNR041c|Energy generation
+YLR330w|YOL009c|Mitochondrion organization and biogenesis
+YLR330w|YOL081w|Signal transduction
+YLR330w|YOR089c|Vesicular transport
+YLR330w|YOR360c|Signal transduction
+YLR330w|YPL055c|Cell cycle control
+YLR330w|YPL132w|Energy generation
+YLR330w|YPL161c|Cell polarity
+YLR330w|YPL213w|RNA splicing
+YLR342w|YLR330w|Cell wall organization and biogenesis
+YMR307w|YLR330w|Cell wall organization and biogenesis
+YNL271c|YLR330w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR330w|Cell wall organization and biogenesis
+YNL298w|YLR330w|Cell wall organization and biogenesis
+YNL322c|YLR330w|Cell wall organization and biogenesis
+YOR326w|YLR330w|Cell wall organization and biogenesis

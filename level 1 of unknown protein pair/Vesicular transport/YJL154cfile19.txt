@@ -1,0 +1,16 @@
+YBR164c|YJL154c|Vesicular transport
+YDL049c|YJL154c|Vesicular transport
+YDR150w|YJL154c|Vesicular transport
+YDR150w|YJL154c|Vesicular transport
+YGL166w|YJL154c|two hybrid
+YHR012w|YJL154c|overexpression of VPS29 suppresses vps35 mutant CPY sorting defect; suppression
+YHR012w|YJL154c|cross linking; coimmunoprecipitation
+YJL053w|YJL154c|cross linking; coimmunoprecipitation
+YJL154c|YOR069w|cross linking; coimmunoprecipitation
+YJL154c|YOR132w|cross linking; coimmunoprecipitation
+YLR039c|YJL154c|Vesicular transport
+YLR262c|YJL154c|Vesicular transport
+YML094w|YJL154c|Vesicular transport
+YMR294w|YJL154c|Vesicular transport
+YNL192w|YJL154c|Vesicular transport
+YPL031c|YJL154c|Vesicular transport

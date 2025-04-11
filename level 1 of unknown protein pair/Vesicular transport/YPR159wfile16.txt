@@ -1,0 +1,35 @@
+YBL105c|YPR159w|KRE6 overproduction can suppress cell lysis defect of pkc1 mutants;null mutants are partially suppressed by overproduction of Kre6p
+YFR042w|YPR159w|two hybrid
+YGL027c|YPR159w|cwh41 delta kre6 delta double mutant is synthetic lethal
+YMR307w|YPR159w|synthetic lethal with gas1 null mutation
+YMR307w|YPR159w|gas1 mutants show synthetic lethality with kre6 null mutants
+YPR159w|YAL055w|Unknown
+YPR159w|YBL053w|Unknown
+YPR159w|YBR042c|Lipid metabolism
+YPR159w|YDL206w|Unknown
+YPR159w|YDR137w|Vesicular transport
+YPR159w|YDR233c|Unknown
+YPR159w|YDR248c|Unknown
+YPR159w|YDR358w|Vesicular transport
+YPR159w|YDR385w|Protein synthesis
+YPR159w|YEL047c|Other metabolism
+YPR159w|YFL036w|Mitochondrion organization and biogenesis
+YPR159w|YGL081w|Unknown
+YPR159w|YGL135w|Protein synthesis
+YPR159w|YGL196w|Unknown
+YPR159w|YGL200c|Vesicular transport
+YPR159w|YGL215w|Unknown
+YPR159w|YGL244w|Pol II transcription
+YPR159w|YGR105w|Vacuolar organization and biogenesis
+YPR159w|YIL052c|Protein synthesis
+YPR159w|YJL176c|Chromatin/chromosome structure
+YPR159w|YKL041w|Vesicular transport
+YPR159w|YKL120w|Transport
+YPR159w|YLL043w|Transport
+YPR159w|YLR018c|Nuclear-cytoplasmic transport
+YPR159w|YLR131c|Pol II Transcription
+YPR159w|YLR165c|Other metabolism
+YPR159w|YML115c|Protein modification
+YPR159w|YOR068c|Vacuolar organization and biogenesis
+YPR159w|YOR080w|Differentiation
+YPR159w|YPL192c|Mating response

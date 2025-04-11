@@ -1,0 +1,17 @@
+YBR234c|YOR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YOR216c|Vesicular transport
+YCR009c|YOR216c|Vesicular transport
+YDL029w|YOR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YOR216c|Vesicular transport
+YDR388w|YOR216c|Vesicular transport
+YEL003w|YOR216c|Vesicular transport
+YER157w|YOR216c|conditional synthetic lethal
+YGR078c|YOR216c|Vesicular transport
+YLR039c|YOR216c|Vesicular transport
+YLR085c|YOR216c|Vesicular transport
+YLR200w|YOR216c|Vesicular transport
+YLR262c|YOR216c|Vesicular transport
+YLR418c|YOR216c|Vesicular transport
+YML094w|YOR216c|Vesicular transport
+YNL153c|YOR216c|Vesicular transport
+YOR070c|YOR216c|Vesicular transport

@@ -1,0 +1,17 @@
+YAL013w|YBR171w|Vesicular transport
+YBR171w|YCL057w|two hybrid IST hits: 1
+YBR171w|YHR041c|two hybrid
+YBR171w|YML064c|two hybrid
+YBR171w|YOR254c|high-copy suppressor of a sec63 ts mutation;SEC66 is a highcopy suppressor of sec63 ts mutation;suppression overexpression
+YBR234c|YBR171w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR171w|Vesicular transport
+YDL029w|YBR171w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR171w|Vesicular transport
+YEL003w|YBR171w|Vesicular transport
+YGR078c|YBR171w|Vesicular transport
+YHR030c|YBR171w|Vesicular transport
+YHR041c|YBR171w|two hybrid IST hits: 1
+YLR200w|YBR171w|Vesicular transport
+YLR229c|YBR171w|Vesicular transport
+YML094w|YBR171w|Vesicular transport
+YNL153c|YBR171w|Vesicular transport

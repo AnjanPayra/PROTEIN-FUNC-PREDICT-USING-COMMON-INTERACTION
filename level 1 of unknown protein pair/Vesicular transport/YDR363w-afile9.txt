@@ -1,0 +1,11 @@
+YAL013w|YDR363w-a|Vesicular transport
+YDR363w-a|YER008c|
+YDR363w-a|YGL233w|multicopy suppressor of exocyst mutants sec3-2, sec8-9, sec10-2 and sec15-1;null mutant rescues growth of ts mutants sec3-2, sec8-9, sec10-1 and sec15-1
+YDR363w-a|YLR166c|
+YDR363w-a|YPL029w|multicopy suppressor of a suv3 null mutant
+YDR363w-a|YPR055w|
+YJL062w|YDR363w-a|Vesicular transport
+YLR113w|YDR363w-a|Vesicular transport
+YLR418c|YDR363w-a|Vesicular transport
+YNL298w|YDR363w-a|Vesicular transport
+YPR141c|YDR363w-a|Vesicular transport

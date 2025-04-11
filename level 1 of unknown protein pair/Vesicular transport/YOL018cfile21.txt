@@ -1,0 +1,18 @@
+YBL050w|YOL018c|pulldown coimmunoprecipitation
+YBR127c|YOL018c|synthetic lethal
+YBR164c|YOL018c|Vesicular transport
+YDR126w|YOL018c|Vesicular transport
+YDR468c|YOL018c|coimmunoprecipitation
+YGL095c|YOL018c|copurification - Tlg2p is the main binding site for Vps45p to intracellular membranes; copurification; Tlg2p represents the main binding site for Vps45p on intracellular membranes
+YGL127c|YOL018c|two hybrid IST hits: 1
+YHR114w|YOL018c|two hybrid IST hits: 3
+YLR039c|YOL018c|Vesicular transport
+YLR262c|YOL018c|Vesicular transport
+YLR452c|YOL018c|
+YMR117c|YOL018c|two hybrid
+YMR197c|YOL018c|coimmunoprecipitation - complex could be disrupted by Sec18p in a ATP-dependent manner; coimmunoprecipitation under SEC18-sensitive manner
+YOL018c|YFL056c|two hybrid IST hits: 1
+YOL018c|YMR153w|two hybrid IST hits: 1
+YOL018c|YOR327c|
+YOL018c|YOR327c|coimmunoprecipitation
+YPL051w|YOL018c|Vesicular transport

@@ -1,0 +1,19 @@
+YAL024c|YNL098c|LTE1 overproduction can suppress heat shock sensitivity of RAS2val19 mutants;overproduction of Lte1p can suppress the heat shock sensitivity of ras2val19 mutant;suppression
+YAL024c|YNL098c|LTE1 overproduction suppresses ras2 mutants can be suppressed by overproduction of LTE1, see;suppression overexpression
+YAR019c|YNL098c|mutants can be suppressed by overproduction of CDC15, see;overproduction suppresses ras2 mutants, see;suppression overexpression
+YBR276c|YNL098c|RAS2 is a suppressor of Pps1p oveexpression phenotype;RAS2 is a suppressor of Pps1p overexpression phenotype;suppression
+YER020w|YNL098c|expression of the dominant RAS2(Gly19Val) mutant or exogenous cAMP suppresses the deltagpa2 pseudohyphal defect; suppression
+YJL020c|YNL098c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YNL098c|Signal transduction
+YJL030w|YNL098c|Signal transduction
+YLL016w|YNL098c|two hybrid
+YLL016w|YNL098c|the C-terminal domains of Cdc25p and Sdc25p interact
+YLR310c|YNL098c|through the C-terminal half
+YLR310c|YNL098c|interacts with Ras2p through C-terminal residues 1374-1444; two hybrid
+YLR310c|YNL098c|binds predominantly to the catalytically inactive GDP-bound form of Ras2, whereas a conformational change of Ras2 to its activated GTP-bound state results in its loss of binding affinity to Cdc25
+YNL098c|YJL003w|Energy generation
+YNL098c|YNL063w|Unknown
+YNL098c|YNL264c|Vesicular transport
+YNL098c|YOL081w|specific interaction with aa 18 and 89 to 102 of Ras2p
+YNL098c|YOR101w|Signal transduction
+YPL096c-a|YNL098c|co-fractionation and co-immunoprecipitation

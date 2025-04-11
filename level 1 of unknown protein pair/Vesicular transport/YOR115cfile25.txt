@@ -1,0 +1,15 @@
+YBR254c|YOR115c|coimmunoprecipitation
+YDR108w|YOR115c|coimmunoprecipitation
+YDR108w|YOR115c|coimmunoprecipitation
+YDR246w|YOR115c|coimmunoprecipitation
+YDR407c|YOR115c|coimmunoprecipitation
+YDR472w|YOR115c|coimmunoprecipitation
+YGR166w|YOR115c|coimmunoprecipitation
+YGR166w|YOR115c|Vesicular transport
+YGR166w|YOR115c|coimmunoprecipitation
+YKR068c|YOR115c|YOR115c is a high copy suppressor of bet3-1; high copy suppression expression alteration overexpression
+YKR068c|YOR115c|coimmunoprecipitation
+YML077w|YOR115c|coimmunoprecipitation
+YMR218c|YOR115c|coimmunoprecipitation
+YOL082w|YOR115c|two hybrid
+YOR115c|YOL082w|two hybrid IST hits: 2

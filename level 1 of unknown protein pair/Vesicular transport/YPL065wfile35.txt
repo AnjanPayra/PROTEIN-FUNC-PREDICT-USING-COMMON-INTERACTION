@@ -1,0 +1,3 @@
+YNL271c|YPL065w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL065w|Vesicular transport
+YNL322c|YPL065w|Vesicular transport

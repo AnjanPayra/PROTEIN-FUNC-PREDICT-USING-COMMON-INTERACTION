@@ -1,0 +1,13 @@
+YAL013w|YDR485c|Vesicular transport
+YDL030w|YDR485c|two hybrid
+YDL030w|YDR485c|two hybrid
+YEL003w|YDR485c|Vesicular transport
+YER112w|YDR485c|2(2) clones in category A1
+YGR078c|YDR485c|Vesicular transport
+YLR103c|YDR485c|Vesicular transport
+YLR200w|YDR485c|Vesicular transport
+YLR418c|YDR485c|Vesicular transport
+YML094w|YDR485c|Vesicular transport
+YMR263w|YDR485c|Vesicular transport
+YNL153c|YDR485c|Vesicular transport
+YPL181w|YDR485c|Vesicular transport

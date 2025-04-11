@@ -1,0 +1,144 @@
+YBL026w|YLR039c|1 clones in category A4
+YBR164c|YLR039c|Vesicular transport
+YCL029c|YLR039c|Vesicular transport
+YDR126w|YLR039c|Vesicular transport
+YGR229c|YLR039c|Vesicular transport
+YLR039c|YAL002w|Vesicular transport
+YLR039c|YAL011w|Unknown
+YLR039c|YAL019w|Unknown
+YLR039c|YAL023c|Protein modification
+YLR039c|YAL026c|Vesicular transport
+YLR039c|YAR014c|Cell polarity
+YLR039c|YBL042c|Small molecule transport
+YLR039c|YBL102w|Vesicular transport
+YLR039c|YBR164c|Vesicular transport
+YLR039c|YCL001w|Vesicular transport
+YLR039c|YCL037c|Protein synthesis
+YLR039c|YCR020c-a|Protein modification
+YLR039c|YCR044c|Other metabolism
+YLR039c|YDL006w|Signal transduction
+YLR039c|YDL074c|Chromatin/chromosome stucture
+YLR039c|YDL077c|Vesicular transport
+YLR039c|YDL100c|Small molecule transport
+YLR039c|YDL191w|Protein synthesis
+YLR039c|YDR080w|Vesicular transport
+YLR039c|YDR107c|Transport
+YLR039c|YDR108w|Vesicular transport
+YLR039c|YDR153c|Vesicular transport
+YLR039c|YDR162c|Cell polarity
+YLR039c|YDR202c|Small molecule transport
+YLR039c|YDR203w|Unknown
+YLR039c|YDR207c|Meiosis
+YLR039c|YDR320c|Vesicular transport
+YLR039c|YDR334w|Unknown
+YLR039c|YDR372c|Vacuolar organization and biogenesis
+YLR039c|YEL031w|Small molecule transport
+YLR039c|YEL043w|Unknown
+YLR039c|YEL051w|Vacuolar organization and biogenesis
+YLR039c|YEL053c|Protein modification
+YLR039c|YER083c|Cell wall organization and biogenesis
+YLR039c|YER084w|Unknown
+YLR039c|YER120w|Lipid metabolism
+YLR039c|YER122c|Vesicular transport
+YLR039c|YER162c|DNA repair
+YLR039c|YFL025c|Vesicular transport
+YLR039c|YFL033c|Meiosis
+YLR039c|YFR031c-a|Protein synthesis
+YLR039c|YGL005c|Vesicular transport
+YLR039c|YGL020c|Unknown
+YLR039c|YGL054c|Vesicular transport
+YLR039c|YGL084c|Lipid metabolism
+YLR039c|YGL115w|Protein modification
+YLR039c|YGL173c|RNA processing
+YLR039c|YGL244w|Pol II transcription
+YLR039c|YGR072w|RNA turnover
+YLR039c|YGR105w|Vacuolar organization and biogenesis
+YLR039c|YGR229c|Cell wall organization and biogenesis
+YLR039c|YGR261c|Vesicular transport
+YLR039c|YHL031c|Vesicular transport
+YLR039c|YHR004c|Unknown
+YLR039c|YHR012w|Vesicular transport
+YLR039c|YHR060w|Vacuolar organization and biogenesis
+YLR039c|YIL039w|Unknown
+YLR039c|YIL076w|Vesicular transport
+YLR039c|YJL004c|Protein translocation
+YLR039c|YJL154c|Vesicular transport
+YLR039c|YJR033c|Vacuolar organization and biogenesis
+YLR039c|YJR040w|Small molecule transport
+YLR039c|YJR060w|Chromatin/chromosome structure
+YLR039c|YJR073c|Lipid metabolism
+YLR039c|YKL081w|Protein synthesis
+YLR039c|YKL190w|Cell wall organization and biogenesis
+YLR039c|YKR001c|Vesicular transport
+YLR039c|YKR020w|Vacuolar organization and biogenesis
+YLR039c|YKR030w|Unknown
+YLR039c|YKR094c|Protein synthesis
+YLR039c|YLL038c|Vesicular transport
+YLR039c|YLL040c|Vesicular transport
+YLR039c|YLR015w|Chromatin/chromosome structure
+YLR039c|YLR083c|Transport
+YLR039c|YLR085c|Cell structure
+YLR039c|YLR087c|Cell stress
+YLR039c|YLR309c|Vesicular transport
+YLR039c|YLR318w|Chromatin/chromosome structure
+YLR039c|YLR360w|Vesicular transport
+YLR039c|YLR361c|Unknown
+YLR039c|YML001w|Vesicular transport
+YLR039c|YML038c|Small molecule transport
+YLR039c|YML041c|Vesicular transport
+YLR039c|YML071c|Vesicular transport
+YLR039c|YMR004w|Vesicular transport
+YLR039c|YMR010w|Meiosis
+YLR039c|YMR054w|Vacuolar organization and biogenesis
+YLR039c|YMR123w|Unknown
+YLR039c|YMR216c|RNA splicing
+YLR039c|YMR272c|Lipid metabolism
+YLR039c|YMR274c|Protein modification
+YLR039c|YMR307w|Cell wall organization and biogenesis
+YLR039c|YNL041c|Vesicular transport
+YLR039c|YNL051w|Vesicular transport
+YLR039c|YNL069c|Protein synthesis
+YLR039c|YNL127w|Unknown
+YLR039c|YNL136w|Unknown
+YLR039c|YNL169c|Lipid metabolism
+YLR039c|YNL238w|Protein modification
+YLR039c|YNL291c|Small molecule transport
+YLR039c|YNL296w|Unknown
+YLR039c|YNL297c|Vacuolar organization and biogenesis
+YLR039c|YNL299w|Chromatin/chromosome structure
+YLR039c|YNR032w|Carbohydrate metabolism
+YLR039c|YNR051c|Unknown
+YLR039c|YOL012c|Chromatin/chromosome structure
+YLR039c|YOL017w|Unknown
+YLR039c|YOL018c|Vesicular transport
+YLR039c|YOR068c|Vacuolar organization and biogenesis
+YLR039c|YOR069w|Vesicular transport
+YLR039c|YOR070c|Vesicular transport
+YLR039c|YOR089c|Vesicular transport
+YLR039c|YOR109w|Lipid metabolism
+YLR039c|YOR112w|Unknown
+YLR039c|YOR127w|Cell polarity
+YLR039c|YOR132w|Vesicular transport
+YLR039c|YOR216c|Vesicular transport
+YLR039c|YOR327c|Vesicular transport
+YLR039c|YPL037c|Protein folding
+YLR039c|YPL051w|Vesicular transport
+YLR039c|YPL055c|Cell cycle control
+YLR039c|YPL105c|Unknown
+YLR039c|YPL120w|Vesicular transport
+YLR039c|YPL161c|Cell polarity
+YLR039c|YPL195w|Vesicular transport
+YLR039c|YPL196w|Unknown
+YLR039c|YPL234c|Vacuolar organization and biogenesis
+YLR039c|YPR017c|Vesicular transport
+YLR039c|YPR032w|Vesicular transport
+YLR039c|YPR050c|Unknown
+YLR039c|YPR051w|Protein modification
+YLR039c|YPR079w|Vacuolar organization and biogenesis
+YLR039c|YPR084w|Unknown
+YLR039c|YPR197c|Unknown
+YLR085c|YLR039c|Vesicular transport
+YLR418c|YLR039c|Vesicular transport
+YMR307w|YLR039c|Vesicular transport
+YOR070c|YLR039c|Vesicular transport
+YPL051w|YLR039c|Vesicular transport

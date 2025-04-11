@@ -1,0 +1,32 @@
+YAL013w|YLR268w|Vesicular transport
+YBL061c|YLR268w|Vesicular transport
+YBR172c|YLR268w|SMY2 is a multicopy suppressor of sec22
+YBR234c|YLR268w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YLR268w|Vesicular transport
+YCR009c|YLR268w|Vesicular transport
+YDR217c|YLR268w|Vesicular transport
+YDR388w|YLR268w|Vesicular transport
+YDR498c|YLR268w|co-precipitation; coimmunoprecipitation
+YER157w|YLR268w|conditional synthetic lethal
+YGL145w|YLR268w|coimmunoprecipitation
+YHR030c|YLR268w|two hybrid IST hits: 1
+YIL109c|YLR268w|Hip1p was isolated in complex with Sar1p and Sec23p/Sec24protein molecules exiting the ER in COPII vesicles form complexes with GTP-activated Sar1p and Sec23p-Sec24p
+YJL168c|YLR268w|Vesicular transport
+YJR057w|YLR268w|Vesicular transport
+YKR068c|YLR268w|synthetic lethal
+YLR026c|YLR268w|coimmunopreciptation
+YLR078c|YLR268w|BOS1 is a high copy suppressor of bet5-1; high copy suppression
+YLR078c|YLR268w|pairs with Sec22p under the influence of Ypt1p
+YLR078c|YLR268w|in vitro-binding
+YLR085c|YLR268w|Vesicular transport
+YLR103c|YLR268w|Vesicular transport
+YLR268w|YDR004w|two hybrid IST hits: 1
+YLR268w|YML077w|SEC22 is a high copy suppressor of bet5-1; high copy suppression
+YLR268w|YOR075w|coimmunoprecipitation
+YLR268w|YPL218w|Hip1p was isolated in complex with Sar1p and Sec23p/Sec24p
+YLR268w|YPR181c|Hip1p was isolated in complex with Sar1p and Sec23p/Sec24protein molecules exiting the ER in COPII vesicles form complexes with GTP-activated Sar1p and Sec23p-Sec24p
+YLR330w|YLR268w|Vesicular transport
+YLR418c|YLR268w|Vesicular transport
+YMR263w|YLR268w|Vesicular transport
+YOR070c|YLR268w|Vesicular transport
+YPR135w|YLR268w|Vesicular transport

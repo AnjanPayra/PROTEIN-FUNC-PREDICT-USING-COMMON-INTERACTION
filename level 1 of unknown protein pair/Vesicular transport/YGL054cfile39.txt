@@ -1,0 +1,4 @@
+YGL054c|YLL043w|two hybrid IST hits: 1
+YLR039c|YGL054c|Vesicular transport
+YLR262c|YGL054c|Vesicular transport
+YNL201c|YGL054c|two hybrid IST hits: 1

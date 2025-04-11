@@ -1,0 +1,77 @@
+YAL013w|YLR085c|Cell structure
+YDL237w|YLR085c|two hybrid IST hits: 1
+YEL003w|YLR085c|Cell structure
+YER016w|YLR085c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YLR085c|Cell structure
+YGR078c|YLR085c|Cell structure
+YHR191c|YLR085c|Cell structure
+YJL168c|YLR085c|Cell structure
+YLR039c|YLR085c|Cell structure
+YLR085c|YAL013w|Lipid metabolism
+YLR085c|YAL013w|Lipid metabolism
+YLR085c|YBR036c|Small molecule transport
+YLR085c|YBR059c|Unknown
+YLR085c|YBR120c|Protein synthesis
+YLR085c|YBR175w|Chromatin/chromosome structure
+YLR085c|YCR065w|Pol II transcription
+YLR085c|YDL033c|Unknown
+YLR085c|YDL074c|Chromatin/chromosome stucture
+YLR085c|YDR108w|Vesicular transport
+YLR085c|YDR137w|Vesicular transport
+YLR085c|YDR360w|Unknown
+YLR085c|YEL003w|Cell structure
+YLR085c|YER007w|Cell structure
+YLR085c|YER016w|Mitosis
+YLR085c|YER016w|Mitosis
+YLR085c|YER122c|Vesicular transport
+YLR085c|YFL001w|RNA processing
+YLR085c|YFL001w|RNA processing
+YLR085c|YGL086w|Mitosis
+YLR085c|YGL174w|Cell polarity
+YLR085c|YGL174w|Cell polarity
+YLR085c|YGL244w|Pol II transcription
+YLR085c|YGL244w|Pol II transcription
+YLR085c|YGR071c|Unknown
+YLR085c|YGR078c|Cell structure
+YLR085c|YGR188c|Mitosis
+YLR085c|YJL168c|Chromatin/chromosome structure
+YLR085c|YJR144w|Energy generation
+YLR085c|YLR015w|Chromatin/chromosome structure
+YLR085c|YLR039c|Vesicular transport
+YLR085c|YLR055c|Chromatin/chromosome structure
+YLR085c|YLR067c|RNA metabolism
+YLR085c|YLR113w|Signal transduction
+YLR085c|YLR262c|Vesicular transport
+YLR085c|YLR268w|Vesicular transport
+YLR085c|YLR318w|Chromatin/chromosome structure
+YLR085c|YLR374c|Unknown
+YLR085c|YML090w|Unknown
+YLR085c|YML094w|Cell structure
+YLR085c|YML124c|Cell structure
+YLR085c|YNL041c|Vesicular transport
+YLR085c|YNL097c|Phosphate metabolism
+YLR085c|YNL153c|Cell structure
+YLR085c|YNL296w|Unknown
+YLR085c|YOL064c|Amino-acid metabolism
+YLR085c|YOR043w|Cell cycle control
+YLR085c|YOR123c|Chromatin/chromosome structure
+YLR085c|YOR184w|Amino-acid metabolism
+YLR085c|YOR216c|Vesicular transport
+YLR085c|YOR308c|RNA splicing
+YLR085c|YOR349w|Cell structure
+YLR085c|YPL055c|Cell cycle control
+YLR085c|YPL181w|Chromatin/chromosome structure
+YLR085c|YPL182c|Unknown
+YLR085c|YPL214c|Other metabolism
+YLR085c|YPL241c|Cell structure
+YLR200w|YLR085c|Cell structure
+YLR262c|YLR085c|Cell structure
+YLR418c|YLR085c|Cell structure
+YML094w|YLR085c|Cell structure
+YMR078c|YLR085c|Cell structure
+YMR263w|YLR085c|Cell structure
+YNL153c|YLR085c|Cell structure
+YOR349w|YLR085c|Cell structure
+YPL181w|YLR085c|Cell structure
+YPR135w|YLR085c|Cell structure
+YPR141c|YLR085c|Cell structure

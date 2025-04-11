@@ -1,0 +1,51 @@
+YBR164c|YCR044c|Other metabolism
+YBR164c|YDL077c|Vesicular transport
+YBR164c|YDL100c|Small molecule transport
+YBR164c|YDL192w|Transport
+YBR164c|YDR027c|affinity chromatography, affinity-tag GST
+YBR164c|YDR108w|Vesicular transport
+YBR164c|YDR136c|Vesicular transport
+YBR164c|YDR137w|Vesicular transport
+YBR164c|YDR162c|Cell polarity
+YBR164c|YDR162c|Cell polarity
+YBR164c|YDR202c|Small molecule transport
+YBR164c|YDR203w|Unknown
+YBR164c|YER083c|Cell wall organization and biogenesis
+YBR164c|YER122c|Vesicular transport
+YBR164c|YGL005c|Vesicular transport
+YBR164c|YGR105w|Vacuolar organization and biogenesis
+YBR164c|YHL031c|Vesicular transport
+YBR164c|YHR012w|Vesicular transport
+YBR164c|YJL154c|Vesicular transport
+YBR164c|YJR032w|Protein folding
+YBR164c|YJR033c|Vacuolar organization and biogenesis
+YBR164c|YKL118w|Unknown
+YBR164c|YKL119c|Vacuolar organization and biogenesis
+YBR164c|YKR001c|Vesicular transport
+YBR164c|YKR020w|Vacuolar organization and biogenesis
+YBR164c|YLR039c|Vesicular transport
+YBR164c|YLR242c|Lipid metabolism
+YBR164c|YLR261c|Vacuolar organization and biogenesis
+YBR164c|YLR262c|Vesicular transport
+YBR164c|YLR447c|Vacuolar organization and biogenesis
+YBR164c|YML071c|Vesicular transport
+YBR164c|YMR004w|Vesicular transport
+YBR164c|YMR054w|Vacuolar organization and biogenesis
+YBR164c|YMR123w|Unknown
+YBR164c|YNL041c|Vesicular transport
+YBR164c|YNL043c|Unknown
+YBR164c|YNL044w|Vesicular transport
+YBR164c|YNL051w|Vesicular transport
+YBR164c|YNL238w|Protein modification
+YBR164c|YNL296w|Unknown
+YBR164c|YNL297c|Vacuolar organization and biogenesis
+YBR164c|YOL018c|Vesicular transport
+YBR164c|YOR068c|Vacuolar organization and biogenesis
+YBR164c|YOR069w|Vesicular transport
+YBR164c|YOR070c|Vesicular transport
+YBR164c|YOR132w|Vesicular transport
+YDR126w|YBR164c|Vesicular transport
+YLR039c|YBR164c|Vesicular transport
+YLR262c|YBR164c|Vesicular transport
+YLR309c|YBR164c|affinity chromatography, affinity-tag GST
+YOR070c|YBR164c|Vesicular transport

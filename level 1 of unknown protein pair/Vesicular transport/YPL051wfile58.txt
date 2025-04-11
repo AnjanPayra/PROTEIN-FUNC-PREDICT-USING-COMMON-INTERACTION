@@ -1,0 +1,37 @@
+YDR126w|YPL051w|Vesicular transport
+YGR160w|YPL051w|two hybrid IST hits: 2
+YKR030w|YPL051w|two hybrid
+YLR039c|YPL051w|Vesicular transport
+YLR262c|YPL051w|Vesicular transport
+YOR070c|YPL051w|Vesicular transport
+YPL051w|YDL077c|Vesicular transport
+YPL051w|YDL192w|Transport
+YPL051w|YDR108w|Vesicular transport
+YPL051w|YDR136c|Vesicular transport
+YPL051w|YDR137w|Vesicular transport
+YPL051w|YDR310c|Chromatin/chromosome structure
+YPL051w|YDR320c|Vesicular transport
+YPL051w|YEL042w|Protein modification
+YPL051w|YER122c|Vesicular transport
+YPL051w|YER180c-a|affinity chromatography, affinity-tag His6, SLO1 mutation of Y72A abolished binding to Arl3p
+YPL051w|YGL005c|Vesicular transport
+YPL051w|YGL020c|Unknown
+YPL051w|YHL031c|Vesicular transport
+YPL051w|YJR032w|Protein folding
+YPL051w|YKL118w|Unknown
+YPL051w|YKR020w|Vacuolar organization and biogenesis
+YPL051w|YKR030w|two hybrid IST hits: 2
+YPL051w|YLR039c|Vesicular transport
+YPL051w|YLR261c|Vacuolar organization and biogenesis
+YPL051w|YLR262c|Vesicular transport
+YPL051w|YML071c|Vesicular transport
+YPL051w|YNL041c|Vesicular transport
+YPL051w|YNL051w|Vesicular transport
+YPL051w|YNL297c|Vacuolar organization and biogenesis
+YPL051w|YOL018c|Vesicular transport
+YPL051w|YOR068c|Vacuolar organization and biogenesis
+YPL051w|YOR069w|Vesicular transport
+YPL051w|YOR070c|Vesicular transport
+YPL051w|YOR106w|Vesicular transport
+YPL051w|YOR132w|Vesicular transport
+YPR086w|YPL051w|two hybrid IST hits: 1

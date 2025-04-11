@@ -1,0 +1,16 @@
+YBR023c|YGL200c|Vesicular transport
+YDR420w|YGL200c|Vesicular transport
+YGL027c|YGL200c|Vesicular transport
+YGL200c|YIL109c|Emp24p was isolated in complex with Sar1p and Sec23p/Sec24protein molecules exiting the ER in COPII vesicles form complexes with GTP-activated Sar1p and Sec23p-Sec24p
+YGL200c|YML012w|Emp24p and Erv25p stabilize each other and are needed to form a complex in the COPII-coated vesicles
+YGL200c|YML012w|coimmunoprecipitation
+YGL200c|YML012w|coimmunoprecipitation
+YGL200c|YPL218w|Emp24p was isolated in complex with Sar1p and Sec23p/Sec24p
+YGL200c|YPR181c|Emp24p was isolated in complex with Sar1p and Sec23p/Sec24protein molecules exiting the ER in COPII vesicles form complexes with GTP-activated Sar1p and Sec23p-Sec24p
+YHR181w|YGL200c|Vesicular transport
+YLR057w|YGL200c|Vesicular transport
+YLR113w|YGL200c|Vesicular transport
+YLR330w|YGL200c|Vesicular transport
+YMR307w|YGL200c|Vesicular transport
+YNL192w|YGL200c|Vesicular transport
+YPR159w|YGL200c|Vesicular transport

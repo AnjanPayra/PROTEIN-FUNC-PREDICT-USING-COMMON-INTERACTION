@@ -1,0 +1,40 @@
+YHR152w|YJL168c|two hybrid
+YJL168c|YAL011w|Unknown
+YJL168c|YAL013w|Lipid metabolism
+YJL168c|YBR103w|Chromatin/chromosome structure
+YJL168c|YBR175w|Chromatin/chromosome structure
+YJL168c|YCL016c|Chromatin/chromosome structure
+YJL168c|YCR033w|Chromatin/chromosome structure
+YJL168c|YDL033c|Unknown
+YJL168c|YDL074c|Chromatin/chromosome stucture
+YJL168c|YDR334w|Unknown
+YJL168c|YDR359c|Unknown
+YJL168c|YDR469w|Chromatin/chromosome structure
+YJL168c|YGL045w|Unknown
+YJL168c|YGL127c|DNA repair
+YJL168c|YGL244w|Pol II transcription
+YJL168c|YGR112w|Energy generation
+YJL168c|YIL112w|Chromatin/chromosome stucture
+YJL168c|YKR029c|Chromatin/chromosome structure
+YJL168c|YLR015w|Chromatin/chromosome structure
+YJL168c|YLR085c|Cell structure
+YJL168c|YLR268w|Vesicular transport
+YJL168c|YLR386w|Vacuolar organization and biogenesis
+YJL168c|YLR418c|Pol II transcription
+YJL168c|YML041c|Vesicular transport
+YJL168c|YML094w|Cell structure
+YJL168c|YML128c|Unknown
+YJL168c|YNL153c|Cell structure
+YJL168c|YNL294c|Unknown
+YJL168c|YNL297c|Vacuolar organization and biogenesis
+YJL168c|YNR051c|Unknown
+YJL168c|YOL012c|Chromatin/chromosome structure
+YJL168c|YOR106w|Vesicular transport
+YJL168c|YOR123c|Chromatin/chromosome structure
+YJL168c|YPL055c|Cell cycle control
+YJL168c|YPL161c|Cell polarity
+YJL168c|YPR014c|Unknown
+YLR085c|YJL168c|Chromatin/chromosome structure
+YLR418c|YJL168c|Chromatin/chromosome structure
+YMR263w|YJL168c|Chromatin/chromosome structure
+YPL073c|YJL168c|two hybrid IST hits: 1

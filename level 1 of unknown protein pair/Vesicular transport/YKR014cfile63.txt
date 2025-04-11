@@ -1,0 +1,6 @@
+YDR323c|YKR014c|two hybrid IST hits: 1
+YDR425w|YKR014c|two hybrid IST hits: 1
+YJR075w|YKR014c|Vesicular transport
+YKR014c|YDR164c|two hybrid IST hits: 1
+YKR014c|YML064c|two hybrid
+YML064c|YKR014c|two hybrid IST hits: 1

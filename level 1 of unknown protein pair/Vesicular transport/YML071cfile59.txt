@@ -1,0 +1,8 @@
+YBR164c|YML071c|Vesicular transport
+YDL049c|YML071c|Vesicular transport
+YDR126w|YML071c|Vesicular transport
+YJR075w|YML071c|Vesicular transport
+YLR039c|YML071c|Vesicular transport
+YLR262c|YML071c|Vesicular transport
+YOR070c|YML071c|Vesicular transport
+YPL051w|YML071c|Vesicular transport

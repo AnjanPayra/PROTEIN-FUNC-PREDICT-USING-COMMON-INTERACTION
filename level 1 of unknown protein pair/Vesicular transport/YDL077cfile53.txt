@@ -1,0 +1,7 @@
+YBR164c|YDL077c|Vesicular transport
+YDL077c|YDR080w|; chemical cross linking
+YLR039c|YDL077c|Vesicular transport
+YLR262c|YDL077c|Vesicular transport
+YMR231w|YDL077c|two hybrid IST hits: 1
+YNL147w|YDL077c|8 clones in category A4*
+YPL051w|YDL077c|Vesicular transport

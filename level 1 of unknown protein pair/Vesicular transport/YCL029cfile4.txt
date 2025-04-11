@@ -1,0 +1,69 @@
+YCL029c|YBL027w|Protein synthesis
+YCL029c|YCR065w|Pol II transcription
+YCL029c|YCR077c|Chromatin/chromosome structure
+YCL029c|YDR289c|Unknown
+YCL029c|YDR360w|Unknown
+YCL029c|YEL003w|Cell structure
+YCL029c|YEL061c|slow growth;synthetic growth defect;synthetic lethal
+YCL029c|YEL061c|Mitosis
+YCL029c|YER007w|Cell structure
+YCL029c|YER016w|synthetic lethal
+YCL029c|YER016w|Mitosis
+YCL029c|YER016w|two hybrid IST hits: 4
+YCL029c|YER096w|Meiosis
+YCL029c|YFL037w|synthetic lethal
+YCL029c|YFR019w|Lipid metabolism
+YCL029c|YGL031c|Protein synthesis
+YCL029c|YGL086w|Mitosis
+YCL029c|YGL173c|RNA processing
+YCL029c|YGR078c|Cell structure
+YCL029c|YGR092w|Cell cycle control
+YCL029c|YGR188c|Mitosis
+YCL029c|YIR009w|RNA splicing
+YCL029c|YJL030w|Mitosis
+YCL029c|YJL148w|Protein synthesis
+YCL029c|YLR039c|Vesicular transport
+YCL029c|YLR200w|Cell structure
+YCL029c|YML085c|synthetic lethal
+YCL029c|YML085c|two hybrid
+YCL029c|YML094c-a|Unknown
+YCL029c|YML094w|Cell structure
+YCL029c|YML124c|Cell structure
+YCL029c|YMR055c|Mitosis
+YCL029c|YMR138w|Cell structure
+YCL029c|YNL106c|Lipid metabolism
+YCL029c|YNL153c|Cell structure
+YCL029c|YNL189w|synthetic lethal with BIK1
+YCL029c|YOL012c|Chromatin/chromosome structure
+YCL029c|YOR026w|synthetic lethal
+YCL029c|YOR026w|Mitosis
+YCL029c|YOR058c|Mitosis
+YCL029c|YOR265w|Cell structure
+YCL029c|YOR349w|Cell structure
+YCL029c|YPL124w|two hybrid interaction between coiled-coil motifs (178-409, 1-180)
+YCL029c|YPL155c|two hybrid interaction between coiled-coil motifs (178-409, 495-702)
+YCL029c|YPL241c|Cell structure
+YCL029c|YPL269w|synthetic lethal
+YCL029c|YPL269w|Mitosis
+YEL003w|YCL029c|Mitosis
+YEL061c|YCL029c|Mitosis
+YEL061c|YCL029c|Mitosis
+YER007w|YCL029c|Mitosis
+YER016w|YCL029c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YCL029c|Mitosis
+YGR078c|YCL029c|Mitosis
+YGR113w|YCL029c|
+YJL030w|YCL029c|Mitosis
+YJR053w|YCL029c|Mitosis
+YLR045c|YCL029c|two hybrid IST hits: 1
+YLR200w|YCL029c|Mitosis
+YML094w|YCL029c|Mitosis
+YML124c|YCL029c|Mitosis
+YMR138w|YCL029c|Mitosis
+YNL153c|YCL029c|Mitosis
+YOR058c|YCL029c|Mitosis
+YOR326w|YCL029c|Mitosis
+YOR349w|YCL029c|Mitosis
+YPL241c|YCL029c|Mitosis
+YPL241c|YCL029c|Mitosis
+YPL269w|YCL029c|Mitosis

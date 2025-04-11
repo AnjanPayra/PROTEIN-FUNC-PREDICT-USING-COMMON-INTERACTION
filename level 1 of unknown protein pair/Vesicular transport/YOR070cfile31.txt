@@ -1,0 +1,36 @@
+YBR164c|YOR070c|Vesicular transport
+YBR229c|YOR070c|Vesicular transport
+YDL049c|YOR070c|Vesicular transport
+YHR007c|YOR070c|Vesicular transport
+YLR039c|YOR070c|Vesicular transport
+YLR262c|YOR070c|Vesicular transport
+YMR138w|YOR070c|two hybrid
+YOR070c|YBR036c|Small molecule transport
+YOR070c|YBR127c|Vacuole organization and biogenesis
+YOR070c|YBR164c|Vesicular transport
+YOR070c|YDR136c|Vesicular transport
+YOR070c|YDR162c|Cell polarity
+YOR070c|YDR310c|Chromatin/chromosome structure
+YOR070c|YDR414c|Protein modification
+YOR070c|YER083c|Cell wall organization and biogenesis
+YOR070c|YGL005c|Vesicular transport
+YOR070c|YGR157w|Lipid metabolism
+YOR070c|YHL031c|Vesicular transport
+YOR070c|YJL004c|Protein translocation
+YOR070c|YJL183w|Protein modification
+YOR070c|YJR032w|Protein folding
+YOR070c|YJR060w|Chromatin/chromosome structure
+YOR070c|YLR039c|Vesicular transport
+YOR070c|YLR261c|Vacuolar organization and biogenesis
+YOR070c|YLR262c|Vesicular transport
+YOR070c|YLR268w|Vesicular transport
+YOR070c|YML071c|Vesicular transport
+YOR070c|YMR272c|Lipid metabolism
+YOR070c|YNL041c|Vesicular transport
+YOR070c|YNL051w|Vesicular transport
+YOR070c|YOR216c|Vesicular transport
+YOR070c|YPL051w|Vesicular transport
+YOR070c|YPL055c|Cell cycle control
+YOR070c|YPL057c|Lipid metabolism
+YOR070c|YPR036w|Vacuolar organization and biogenesis
+YPL051w|YOR070c|Vesicular transport

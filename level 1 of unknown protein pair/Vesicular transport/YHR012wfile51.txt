@@ -1,0 +1,17 @@
+YBR164c|YHR012w|Vesicular transport
+YDR162c|YHR012w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YHR012w|Vesicular transport
+YEL003w|YHR012w|Vesicular transport
+YGR078c|YHR012w|Vesicular transport
+YHR007c|YHR012w|Vesicular transport
+YHR012w|YJL154c|overexpression of VPS29 suppresses vps35 mutant CPY sorting defect; suppression
+YHR012w|YJL154c|cross linking; coimmunoprecipitation
+YHR129c|YHR012w|Vesicular transport
+YLR039c|YHR012w|Vesicular transport
+YLR200w|YHR012w|Vesicular transport
+YLR262c|YHR012w|Vesicular transport
+YML094w|YHR012w|Vesicular transport
+YNL153c|YHR012w|Vesicular transport
+YNL192w|YHR012w|Vesicular transport
+YOL145c|YHR012w|two hybrid IST hits: 1
+YPL031c|YHR012w|Vesicular transport

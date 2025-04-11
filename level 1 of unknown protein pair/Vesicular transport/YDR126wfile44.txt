@@ -1,0 +1,57 @@
+YDR126w|YBR164c|Vesicular transport
+YDR126w|YCR044c|Other metabolism
+YDR126w|YDL133w|Unknown
+YDR126w|YDL133w|Unknown
+YDR126w|YEL027w|Vacuole organization and biogenesis
+YDR126w|YEL027w|Vacuole organization and biogenesis
+YDR126w|YEL031w|Small molecule transport
+YDR126w|YER083c|Cell wall organization and biogenesis
+YDR126w|YGL005c|Vesicular transport
+YDR126w|YGL007w|Unknown
+YDR126w|YGL007w|Unknown
+YDR126w|YGR105w|Vacuolar organization and biogenesis
+YDR126w|YGR228w|Unknown
+YDR126w|YGR229c|Cell wall organization and biogenesis
+YDR126w|YHL031c|Vesicular transport
+YDR126w|YHR151c|Unknown
+YDR126w|YHR151c|Unknown
+YDR126w|YJL004c|Protein translocation
+YDR126w|YJL036w|Protein degradation
+YDR126w|YJL095w|Cell wall organization and biogenesis
+YDR126w|YKL110c|Unknown
+YDR126w|YKL118w|Unknown
+YDR126w|YKL118w|Unknown
+YDR126w|YKR001c|Vesicular transport
+YDR126w|YKR031c|Meiosis
+YDR126w|YKR033c|Unknown
+YDR126w|YKR033c|Unknown
+YDR126w|YLR039c|Vesicular transport
+YDR126w|YLR262c|Vesicular transport
+YDR126w|YLR373c|Vacuolar organization and biogenesis
+YDR126w|YLR374c|Unknown
+YDR126w|YLR374c|Unknown
+YDR126w|YLR384c|Pol II transcription
+YDR126w|YLR384c|Pol II transcription
+YDR126w|YML071c|Vesicular transport
+YDR126w|YMR186w|Protein folding
+YDR126w|YMR312w|Pol II transcription
+YDR126w|YMR312w|Pol II transcription
+YDR126w|YNL041c|Vesicular transport
+YDR126w|YNL051w|Vesicular transport
+YDR126w|YNL264c|Vesicular transport
+YDR126w|YNR049c|Secretion
+YDR126w|YOL018c|Vesicular transport
+YDR126w|YOL112w|Cell polarity
+YDR126w|YOR085w|Protein modification
+YDR126w|YOR327c|Vesicular transport
+YDR126w|YPL051w|Vesicular transport
+YDR126w|YPL069c|Protein modification
+YDR126w|YPL069c|Protein modification
+YDR126w|YPL101w|Pol II transcription
+YDR126w|YPL101w|Pol II transcription
+YDR126w|YPL102c|Unknown
+YDR126w|YPL161c|Cell polarity
+YDR126w|YPL232w|Vesicular transport
+YLR229c|YDR126w|Unknown
+YLR262c|YDR126w|Unknown
+YNR051c|YDR126w|two hybrid IST hits: 1

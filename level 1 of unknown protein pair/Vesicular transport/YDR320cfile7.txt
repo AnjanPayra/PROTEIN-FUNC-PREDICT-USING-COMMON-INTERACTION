@@ -1,0 +1,5 @@
+YDL192w|YDR320c|synthetic lethal
+YDR320c|YGR167w|affinity column
+YLR039c|YDR320c|Vesicular transport
+YLR262c|YDR320c|Vesicular transport
+YPL051w|YDR320c|Vesicular transport

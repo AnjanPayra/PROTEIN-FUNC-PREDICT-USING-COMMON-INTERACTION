@@ -1,0 +1,8 @@
+YBR164c|YGL005c|Vesicular transport
+YDR126w|YGL005c|Vesicular transport
+YGL005c|YGR119c|two hybrid IST hits: 1
+YLR039c|YGL005c|Vesicular transport
+YLR262c|YGL005c|Vesicular transport
+YLR453c|YGL005c|two hybrid IST hits: 1
+YOR070c|YGL005c|Vesicular transport
+YPL051w|YGL005c|Vesicular transport

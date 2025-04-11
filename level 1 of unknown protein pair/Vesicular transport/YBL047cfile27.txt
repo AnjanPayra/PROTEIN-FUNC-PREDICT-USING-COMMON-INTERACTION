@@ -1,0 +1,9 @@
+YBL061c|YBL047c|Vesicular transport
+YBR023c|YBL047c|Vesicular transport
+YHR030c|YBL047c|Vesicular transport
+YHR142w|YBL047c|Vesicular transport
+YJR075w|YBL047c|Vesicular transport
+YLR330w|YBL047c|Vesicular transport
+YLR342w|YBL047c|Vesicular transport
+YNL233w|YBL047c|Vesicular transport
+YNL298w|YBL047c|Vesicular transport

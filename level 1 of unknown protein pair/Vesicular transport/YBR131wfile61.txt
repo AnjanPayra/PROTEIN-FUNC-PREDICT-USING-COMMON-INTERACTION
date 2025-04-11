@@ -1,0 +1,4 @@
+YBR131w|YDL043c|two hybrid
+YBR131w|YML001w|Ccz1p forms a complex with wild-type Ypt7 and suppressor Ypt7K127E proteins, although it has very low, if any, affinity for GDP- and GTP-bound Ypt7p
+YDR150w|YBR131w|Vesicular transport
+YGR229c|YBR131w|Vesicular transport
