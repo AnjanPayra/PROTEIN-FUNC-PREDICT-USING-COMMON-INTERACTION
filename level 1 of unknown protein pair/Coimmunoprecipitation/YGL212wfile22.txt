@@ -1,0 +1,23 @@
+YAL047c|YGL212w|two hybrid
+YBR023c|YGL212w|Vacuolar organization and biogenesis
+YBR205w|YGL212w|two hybrid
+YDR162c|YGL212w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGL212w|Vacuolar organization and biogenesis
+YGL104c|YGL212w|two hybrid
+YGL161c|YGL212w|two hybrid
+YGL212w|YJL151c|two hybrid
+YGL212w|YJL151c|two hybrid
+YGL212w|YLR166c|two hybrid
+YGL212w|YLR423c|two hybrid
+YGL212w|YML001w|two hybrid
+YGL212w|YMR053c|two hybrid
+YGL212w|YMR071c|two hybrid
+YGL212w|YNL263c|two hybrid
+YGL212w|YOL129w|two hybrid
+YGL212w|YOR106w|vam3 vam7 mutant displays strong defect in processing of ALP and CPY;overexpression of Vam3p suppresses CPY missorting defects in vam3 mutants; overexpression of Vam7p partially suppresses CPY missorting defects in vam3 mutantsuppression; synthetic phenot
+YGL212w|YOR106w|two hybrid
+YGL212w|YOR106w|coimmunoprecipitation
+YGL212w|YOR106w|coimmunoprecipitation
+YGL212w|YOR292c|two hybrid
+YGL212w|YPL246c|two hybrid
+YLR262c|YGL212w|Vacuolar organization and biogenesis

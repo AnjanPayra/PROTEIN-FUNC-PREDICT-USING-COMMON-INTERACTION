@@ -1,0 +1,21 @@
+YBR193c|YDL005c|coimmunoprecipitation
+YBR193c|YER022w|coimmunoprecipitation
+YBR193c|YGL025c|coimmunoprecipitation
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGL253w|Hxk2p and Med8p interact in a cluster with DNA fragments containing the MED8 site in the glucose signal transduction pathway.  
+YBR193c|YGR104c|two hybrid
+YBR193c|YIL021w|coimmunoprecipitation
+YBR193c|YOL135c|coimmunoprecipitation
+YBR193c|YOR174w|coimmunoprecipitation
+YER022w|YBR193c|two hybrid IST hits: 6
+YGL127c|YBR193c|two hybrid IST hits: 3
+YHR041c|YBR193c|two hybrid IST hits: 1
+YLR295c|YBR193c|two hybrid IST hits: 11
+YMR047c|YBR193c|two hybrid IST hits: 2
+YOR264w|YBR193c|two hybrid IST hits: 1
+YPR086w|YBR193c|two hybrid IST hits: 1

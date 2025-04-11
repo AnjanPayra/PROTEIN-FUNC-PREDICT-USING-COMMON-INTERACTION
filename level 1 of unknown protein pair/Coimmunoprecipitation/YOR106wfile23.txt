@@ -1,0 +1,13 @@
+YBL050w|YOR106w|pulldown coimmunoprecipitation
+YGL212w|YOR106w|vam3 vam7 mutant displays strong defect in processing of ALP and CPY;overexpression of Vam3p suppresses CPY missorting defects in vam3 mutants; overexpression of Vam7p partially suppresses CPY missorting defects in vam3 mutantsuppression; synthetic phenot
+YGL212w|YOR106w|two hybrid
+YGL212w|YOR106w|coimmunoprecipitation
+YGL212w|YOR106w|coimmunoprecipitation
+YJL168c|YOR106w|Vesicular transport
+YLR093c|YOR106w|coimmunoprecipitation
+YLR093c|YOR106w|coimmunoprecipitation; pulldown coimmunoprecipitation
+YLR262c|YOR106w|Vesicular transport
+YLR396c|YOR106w|coimmunoprecipitation; the interaction with VPS33 suggests that the 2 proteins may act together to direct the docking and/or fusion of multiple transport intermediates with the vacuole; the interaction with Vam3p suggests that the 2 proteins may act toget
+YMR197c|YOR106w|coimmunoprecipitation
+YPL031c|YOR106w|Vesicular transport
+YPL051w|YOR106w|Vesicular transport

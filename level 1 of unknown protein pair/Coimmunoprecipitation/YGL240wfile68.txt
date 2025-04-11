@@ -1,0 +1,18 @@
+YBL084c|YGL240w|coimmunoprecipitation
+YBR023c|YGL240w|Cell cycle control
+YDL008w|YGL240w|coimmunoprecipitation
+YDR118w|YGL240w|coimmunoprecipitation
+YFR036w|YGL240w|synthetic lethal
+YFR036w|YGL240w|cdc26-100 and doc1-1 double mutants are synthetically lethal; synthetic lethal
+YFR036w|YGL240w|coimmunoprecipitation
+YFR036w|YGL240w|coimmunoprecipitation
+YGL240w|YHR166c|coimmunoprecipitation
+YGL240w|YKL022c|coimmunoprecipitation
+YGL240w|YLR102c|coimmunoprecipitation
+YGL240w|YLR127c|coimmunoprecipitation
+YGL240w|YNL172w|coimmunoprecipitation
+YGL240w|YOR249c|coimmunoprecipitation
+YGR229c|YGL240w|Cell cycle control
+YKL113c|YGL240w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YGL240w|Cell cycle control
+YLR342w|YGL240w|Cell cycle control

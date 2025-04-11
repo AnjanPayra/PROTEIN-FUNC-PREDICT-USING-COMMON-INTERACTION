@@ -1,0 +1,106 @@
+YBL026w|YJR022w|coimmunoprecipitation; two hybrid
+YBL026w|YJR022w|two hybrid
+YBL026w|YJR022w|two hybrid
+YBL026w|YJR022w|8(3) clones in category A1
+YBL026w|YJR022w|coimmunoprecipitation
+YBR003w|YJR022w|two hybrid
+YCR077c|YJR022w|two hybrid
+YDR228c|YJR022w|two hybrid
+YDR277c|YJR022w|two hybrid
+YDR378c|YJR022w|coimmunoprecipitation; two hybrid
+YDR378c|YJR022w|two hybrid
+YDR378c|YJR022w|22(7) clones in category A1
+YEL015w|YJR022w|two hybrid
+YEL015w|YJR022w|two hybrid
+YEL015w|YJR022w|two hybrid
+YER112w|YJR022w|coimmunoprecipitation; two hybrid
+YER112w|YJR022w|coimmunoprecipitation
+YER112w|YJR022w|1 clones in category A2
+YER112w|YJR022w|two hybrid
+YER112w|YJR022w|two hybrid
+YER146w|YJR022w|coimmunoprecipitation; two hybrid
+YER146w|YJR022w|two hybrid
+YER146w|YJR022w|two hybrid
+YGL096w|YJR022w|two hybrid
+YGL173c|YJR022w|two hybrid
+YGR158c|YJR022w|two hybrid
+YGR158c|YJR022w|two hybrid
+YGR158c|YJR022w|two hybrid
+YHR034c|YJR022w|two hybrid
+YHR035w|YJR022w|two hybrid
+YIL173w|YJR022w|two hybrid
+YJR022w|YBL026w|4(3) clones in category A1
+YJR022w|YBL026w|1 clones in category A2*
+YJR022w|YBR003w|1 clones in category A4
+YJR022w|YBR034c|1 clones in category A2
+YJR022w|YBR044c|2(2) clones in category A1
+YJR022w|YCR020c-a|2 clones in category A2
+YJR022w|YCR077c|two hybrid IST hits: 1
+YJR022w|YCR077c|6(2) clones in category A1
+YJR022w|YCR077c|1 clones in category A4*
+YJR022w|YCR107w|1 clones in category A4*
+YJR022w|YDR127w|1 clones in category A2
+YJR022w|YDR135c|1 clones in category A4
+YJR022w|YDR184c|1 clones in category A4
+YJR022w|YDR228c|2(2) clones in category A1
+YJR022w|YDR228c|2 clones in category A4
+YJR022w|YDR277c|1 clones in category A2/A3
+YJR022w|YDR378c|4 clones in category A2*
+YJR022w|YEL015w|5(3) clones in category A1
+YJR022w|YEL023c|1 clones in category A2*
+YJR022w|YER112w|1 clones in category A2
+YJR022w|YER146w|2(2) clones in category A1
+YJR022w|YGL028c|1 clones in category A4*
+YJR022w|YGL096w|2(2) clones in category A1
+YJR022w|YGL096w|1 clones in category A4
+YJR022w|YGL173c|1 clones in category A4
+YJR022w|YGR158c|1 clones in category A2
+YJR022w|YGR158c|1 clones in category A2
+YJR022w|YHR034c|1 clones in category A4
+YJR022w|YHR035w|1 clones in category A2
+YJR022w|YHR035w|1 clones in category A2
+YJR022w|YIL173w|1 clones in category A4
+YJR022w|YJL004c|2 clones in category A4*
+YJR022w|YKR021w|2 clones in category A2
+YJR022w|YKR104w|1 clones in category A4
+YJR022w|YLL015w|1 clones in category A4
+YJR022w|YLR133w|1 clones in category A4
+YJR022w|YLR143w|5(4) clones in category A1
+YJR022w|YLR269c|two hybrid
+YJR022w|YLR430w|4 clones in category A4*
+YJR022w|YLR438c-a|coimmunoprecipitation; two hybrid
+YJR022w|YLR438c-a|4 clones in category A2*
+YJR022w|YLR438c-a|coimmunoprecipitation
+YJR022w|YMR205c|1 clones in category A2
+YJR022w|YMR268c|1 clones in category A3
+YJR022w|YNL050c|two hybrid
+YJR022w|YNL050c|3 clones in category A4*
+YJR022w|YNL118c|two hybrid
+YJR022w|YNL118c|10(5) clones in category A1
+YJR022w|YNL118c|two hybrid
+YJR022w|YNL147w|coimmunoprecipitation; two hybrid
+YJR022w|YNL147w|two hybrid
+YJR022w|YNL227c|1 clones in category A4
+YJR022w|YNL242w|2 clones in category A4
+YJR022w|YNL329c|2 clones in category A3
+YJR022w|YNR050c|two hybrid
+YJR022w|YNR050c|1 clones in category A4
+YJR022w|YNR053c|two hybrid
+YJR022w|YNR053c|two hybrid
+YJR022w|YNR053c|7 clones in category A2/A3
+YJR022w|YOL031c|1 clones in category A4*
+YJR022w|YOL140w|1 clones in category A4*
+YJR022w|YOL149w|two hybrid
+YJR022w|YOR076c|two hybrid
+YJR022w|YOR076c|1 clones in category A3
+YJR022w|YOR076c|1 clones in category A3
+YJR022w|YOR319w|two hybrid
+YJR022w|YOR319w|two hybrid
+YJR022w|YOR319w|two hybrid
+YJR022w|YOR319w|5(2) clones in category A1
+YJR022w|YOR319w|1 clones in category A2
+YJR022w|YPR017c|two hybrid
+YJR022w|YPR178w|1 clones in category A3
+YLR264w|YJR022w|two hybrid
+YLR438c-a|YJR022w|6(4) clones in category A1
+YOR167c|YJR022w|two hybrid

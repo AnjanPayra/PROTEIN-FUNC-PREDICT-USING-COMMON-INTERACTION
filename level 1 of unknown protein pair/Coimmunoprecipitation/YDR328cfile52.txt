@@ -1,0 +1,39 @@
+YBR087w|YDR328c|rfc5-1 can be suppressed by overexpression of SPK1;suppression
+YDL132w|YDR328c|overproduction rescues skp1 temperature sensitive mutants;at the semipermissive temperature of 30C cdc53-1 skp1-11 and skp-1 skp1-12 double mutants are synthetic lethal; suppression
+YDL132w|YDR328c|two hybrid; coimmunoprecipitation
+YDL132w|YDR328c|two hybrid
+YDL132w|YDR328c|two hybrid; coimmunoprecipitation
+YDR054c|YDR328c|SKP1 is a multicopy suppressor of the defect induced by Grr1p overproduction in cdc34-1 sic1 cellsuppression
+YDR054c|YDR328c|coimmunoprecipitation
+YDR139c|YDR328c|two hybrid
+YDR318w|YDR328c|two hybrid
+YDR328c|YFL009w|two hybrid
+YDR328c|YFL009w|two hybrid; coimmunoprecipitation
+YDR328c|YFL009w|coimmunoprecipitation
+YDR328c|YIL046w|SKP1 overexpression suppresses the met30-6 ts phenotype
+YDR328c|YIL046w|two hybrid; coimmunoprecipitation
+YDR328c|YIL046w|two hybrid
+YDR328c|YIL046w|GST affinity chromatography
+YDR328c|YIL046w|two hybrid; coimmunoprecipitation
+YDR328c|YJR089w|two hybrid
+YDR328c|YJR090c|two hybrid
+YDR328c|YJR090c|coimmunoprecipitation;two hybrid
+YDR328c|YJR090c|coimmunoprecipitation
+YDR328c|YJR090c|two hybrid
+YDR328c|YJR090c|affinity chromatography;interacts with F-box of Grr1p
+YDR328c|YJR090c|coimmunoprecipitation
+YDR328c|YLR079w|cell cycle arrest of skp1ts mutant is suppressed in sic1 deletion mutant, see;suppression
+YDR328c|YLR097c|two hybrid
+YDR328c|YLR224w|two hybrid
+YDR328c|YLR352w|two hybrid
+YDR328c|YLR368w|two hybrid
+YDR328c|YLR399c|two hybrid
+YDR328c|YLR429w|two hybrid
+YDR328c|YML088w|two hybrid
+YDR328c|YMR094w|two hybrid
+YDR328c|YMR094w|coimmunoprecipitation
+YDR328c|YMR094w|copurifies with Ctf13p, two hybrid
+YDR328c|YNL311c|two hybrid IST hits: 1
+YDR328c|YOR057w|two hybrid
+YDR328c|YOR057w|two hybrid IST hits: 1
+YMR094w|YDR328c|rescue of viability at the nonpermissive temperature

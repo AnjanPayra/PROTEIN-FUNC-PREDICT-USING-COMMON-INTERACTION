@@ -1,0 +1,11 @@
+YBR193c|YOL135c|coimmunoprecipitation
+YDL005c|YOL135c|coimmunoprecipitation
+YDR308c|YOL135c|two hybrid
+YER022w|YOL135c|two hybrid IST hits: 1
+YER022w|YOL135c|coimmunoprecipitation
+YFR008w|YOL135c|two hybrid IST hits: 4
+YGL025c|YOL135c|coimmunoprecipitation
+YGL127c|YOL135c|two hybrid IST hits: 5
+YIL021w|YOL135c|coimmunoprecipitation
+YOL135c|YOR174w|two hybrid
+YOL135c|YOR174w|coimmunoprecipitation

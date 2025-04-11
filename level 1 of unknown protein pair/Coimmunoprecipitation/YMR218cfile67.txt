@@ -1,0 +1,11 @@
+YBR254c|YMR218c|coimmunoprecipitation
+YDR108w|YMR218c|coimmunoprecipitation
+YDR108w|YMR218c|coimmunoprecipitation
+YDR246w|YMR218c|coimmunoprecipitation
+YDR407c|YMR218c|coimmunoprecipitation
+YDR472w|YMR218c|coimmunoprecipitation
+YGR166w|YMR218c|coimmunoprecipitation
+YGR166w|YMR218c|coimmunoprecipitation
+YKR068c|YMR218c|coimmunoprecipitation
+YML077w|YMR218c|coimmunoprecipitation
+YMR218c|YOR115c|coimmunoprecipitation

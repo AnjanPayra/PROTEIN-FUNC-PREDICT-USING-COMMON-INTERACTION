@@ -1,0 +1,8 @@
+YDR392w|YOR194c|TOA1 overexpression suppresses spt3 null mutation, but not vice versa;toa1-18GSG is synthetic lethal with spt3 null mutation;synthetic lethal; suppression
+YER148w|YOR194c|affinity column
+YGL016w|YOR194c|coimmunoprecipitation
+YGL058w|YOR194c|two hybrid IST hits: 1
+YGR274c|YOR194c|overexpression of TOA1 partially and overexpression of TOA1 and TOA2 completely suppresses ts phenotype of taf145 N-terminal deletion mutant; overexpression of TOA2 partially and overexpression of TOA1 and TOA2 completely suppresses ts phenotype of taf145
+YJL174w|YOR194c|two hybrid IST hits: 1
+YKL058w|YOR194c|coimmunoprecipitation
+YOR194c|YPL082c|mot1-24 is synthetic lethal with toa1-18GSG; mot1-24 is synthetically lethal with TOA1-18GSG; synthetic lethal

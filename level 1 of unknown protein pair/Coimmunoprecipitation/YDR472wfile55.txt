@@ -1,0 +1,19 @@
+YBR254c|YDR472w|two hybrid
+YBR254c|YDR472w|two hybrid IST hits: 23
+YBR254c|YDR472w|coimmunoprecipitation
+YDR108w|YDR472w|coimmunoprecipitation
+YDR108w|YDR472w|coimmunoprecipitation
+YDR246w|YDR472w|coimmunoprecipitation
+YDR407c|YDR472w|coimmunoprecipitation
+YDR472w|YGR166w|coimmunoprecipitation
+YDR472w|YGR166w|coimmunoprecipitation
+YDR472w|YKR068c|two hybrid
+YDR472w|YKR068c|coimmunoprecipitation
+YDR472w|YKR068c|two hybrid
+YDR472w|YKR068c|two hybrid
+YDR472w|YML077w|coimmunoprecipitation
+YDR472w|YMR218c|coimmunoprecipitation
+YDR472w|YOR115c|coimmunoprecipitation
+YKR068c|YDR472w|two hybrid IST hits: 9
+YML077w|YDR472w|two hybrid IST hits: 1
+YNL118c|YDR472w|1 clones in category A4

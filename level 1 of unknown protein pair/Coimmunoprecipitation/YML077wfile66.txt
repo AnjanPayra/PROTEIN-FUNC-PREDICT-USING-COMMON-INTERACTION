@@ -1,0 +1,23 @@
+YBR093c|YML077w|two hybrid IST hits: 1
+YBR254c|YML077w|coimmunoprecipitation
+YDL058w|YML077w|USO1 is a high copy suppressor of bet5-1;high copy suppression
+YDR108w|YML077w|coimmunoprecipitation
+YDR108w|YML077w|coimmunoprecipitation
+YDR246w|YML077w|coimmunoprecipitation
+YDR407c|YML077w|coimmunoprecipitation
+YDR472w|YML077w|coimmunoprecipitation
+YEL036c|YML077w|ANP1 is a high copy suppressor of bet5-1;high copy suppression
+YFL038c|YML077w|YPT1 is a high copy suppressor of bet5-1; high copy suppression
+YGR166w|YML077w|coimmunoprecipitation
+YGR166w|YML077w|coimmunoprecipitation
+YIL004c|YML077w|BET1 is a high copy suppressor of bet5-1; high copy suppression; inp51BET1 is a high copy suppressor of bet5-1
+YKR068c|YML077w|BET5 is a high copy suppressor of bet3-1
+YKR068c|YML077w|BET5 is a high copy suppressor of bet3-1; high copy suppression
+YKR068c|YML077w|coimmunoprecipitation
+YKR068c|YML077w|coimmunoprecipitation
+YLR078c|YML077w|BOS1 is a high copy suppressor of bet5-1; high copy suppression
+YLR268w|YML077w|SEC22 is a high copy suppressor of bet5-1; high copy suppression
+YML077w|YDR472w|two hybrid IST hits: 1
+YML077w|YMR218c|coimmunoprecipitation
+YML077w|YOR115c|coimmunoprecipitation
+YML077w|YPR017c|DSS4 is a high copy suppressor of bet5-1; high copy suppression

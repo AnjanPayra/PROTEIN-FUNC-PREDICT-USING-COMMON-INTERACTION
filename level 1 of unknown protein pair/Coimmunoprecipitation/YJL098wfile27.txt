@@ -1,0 +1,7 @@
+YAL040c|YJL098w|cln3 sap155 sap185 sap190 quadruple deletion mutant is synthetic lethal
+YDL047w|YJL098w|sit4-102 temperature-sensitive phenotype can be suppressed by overproduction of either Sap4p, Sap155p, Sap185p, or Sap190p;suppression
+YDL047w|YJL098w|coimmunoprecipitation
+YER155c|YJL098w|sap155 sap185 sap190 bem2 null mutant is lethal
+YFR040w|YJL098w|cln3 sap155 sap185 sap190 quadruple deletion mutant is synthetic lethal; sap155 sap185 sap190 sis2 null mutant is lethal; sap185 sap190 bem2 null mutant is lethal
+YJL098w|YKR028w|cln3 sap155 sap185 sap190 quadruple deletion mutant is synthetic lethal; sap155 sap185 sap190 sis2 null mutant is lethal; sap185 sap190 bem2 null mutant is lethal
+YJL098w|YKR072c|sap155 sap185 sap190 sis2 null mutant is lethal

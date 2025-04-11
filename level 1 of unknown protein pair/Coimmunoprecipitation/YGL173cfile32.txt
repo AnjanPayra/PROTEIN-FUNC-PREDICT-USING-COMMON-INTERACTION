@@ -1,0 +1,40 @@
+YBL026w|YGL173c|coimmunoprecipitation
+YBL026w|YGL173c|1 clones in category A3
+YCL016c|YGL173c|RNA processing
+YCL029c|YGL173c|RNA processing
+YCR077c|YGL173c|coimmunoprecipitation
+YDR052c|YGL173c|RNA processing
+YDR378c|YGL173c|coimmunoprecipitation
+YEL015w|YGL173c|1 clones in category A3
+YER016w|YGL173c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL173c|RNA processing
+YER112w|YGL173c|coimmunoprecipitation
+YER112w|YGL173c|1 clones in category A3
+YER118c|YGL173c|two hybrid with SH3 domain as bait
+YER146w|YGL173c|coimmunoprecipitation
+YFL037w|YGL173c|
+YGL173c|YGL213c|synthetic lethal
+YGL173c|YHR170w|synthetic lethal
+YGL173c|YJL124c|coimmunoprecipitation
+YGL173c|YJL124c|coimmunoprecipitation
+YGL173c|YJR022w|two hybrid
+YGL173c|YLR398c|synthetic lethal
+YGL173c|YLR438c-a|coimmunoprecipitation
+YGL173c|YML085c|
+YGL173c|YNL147w|coimmunoprecipitation
+YGL173c|YOL149w|coimmunoprecipitation
+YGL173c|YPR189w|essential in kem1 null mutant cells, suggesting that both proteins are involved in prevention of translation of transcripts targeted for degradation
+YGL216w|YGL173c|RNA processing
+YGR078c|YGL173c|RNA processing
+YHR191c|YGL173c|RNA processing
+YJR022w|YGL173c|1 clones in category A4
+YJR057w|YGL173c|RNA processing
+YLR039c|YGL173c|RNA processing
+YLR103c|YGL173c|RNA processing
+YLR200w|YGL173c|RNA processing
+YLR418c|YGL173c|RNA processing
+YML032c|YGL173c|RNA processing
+YML094w|YGL173c|RNA processing
+YNL118c|YGL173c|4(2) clones in category A1
+YPR135w|YGL173c|RNA processing
+YPR141c|YGL173c|RNA processing

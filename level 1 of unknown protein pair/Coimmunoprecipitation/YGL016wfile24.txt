@@ -1,0 +1,4 @@
+YGL016w|YKL058w|coimmunoprecipitation
+YGL016w|YLR335w|coimmunoprecipitation
+YGL016w|YOR098c|coimmunoprecipitation
+YGL016w|YOR194c|coimmunoprecipitation

@@ -1,0 +1,8 @@
+YBR164c|YDR027c|affinity chromatography, affinity-tag GST
+YDR027c|YDR027c|coimmunoprecipitation
+YDR027c|YDR027c|coimmunoprecipitation
+YDR027c|YDR484w|coimmunoprecipitation
+YDR027c|YDR484w|coimmunoprecipitation
+YDR027c|YJL029c|coimmunoprecipitation
+YDR027c|YJR060w|
+YDR027c|YOR265w|synthetic lethal

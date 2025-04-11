@@ -1,0 +1,25 @@
+YBR164c|YDR108w|Vesicular transport
+YBR254c|YDR108w|coimmunoprecipitation
+YBR254c|YDR108w|coimmunoprecipitation
+YDR108w|YDR246w|coimmunoprecipitation
+YDR108w|YDR246w|coimmunoprecipitation
+YDR108w|YDR407c|coimmunoprecipitation
+YDR108w|YDR407c|coimmunoprecipitation
+YDR108w|YDR472w|coimmunoprecipitation
+YDR108w|YDR472w|coimmunoprecipitation
+YDR108w|YGR166w|coimmunoprecipitation
+YDR108w|YGR166w|coimmunoprecipitation
+YDR108w|YGR234w|two hybrid
+YDR108w|YKR068c|coimmunoprecipitation
+YDR108w|YKR068c|coimmunoprecipitation
+YDR108w|YML077w|coimmunoprecipitation
+YDR108w|YML077w|coimmunoprecipitation
+YDR108w|YMR218c|coimmunoprecipitation
+YDR108w|YMR218c|coimmunoprecipitation
+YDR108w|YOR115c|coimmunoprecipitation
+YDR108w|YOR115c|coimmunoprecipitation
+YIR040c|YDR108w|two hybrid IST hits: 1
+YLR039c|YDR108w|Vesicular transport
+YLR085c|YDR108w|Vesicular transport
+YLR262c|YDR108w|Vesicular transport
+YPL051w|YDR108w|Vesicular transport

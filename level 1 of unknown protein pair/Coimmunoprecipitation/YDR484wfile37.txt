@@ -1,0 +1,9 @@
+YDR027c|YDR484w|coimmunoprecipitation
+YDR027c|YDR484w|coimmunoprecipitation
+YDR484w|YDR259c|two hybrid IST hits: 1
+YDR484w|YGR245c|two hybrid IST hits: 1
+YDR484w|YJL029c|coimmunoprecipitation
+YDR484w|YJL029c|coimmunoprecipitation
+YLR291c|YDR484w|two hybrid IST hits: 1
+YLR447c|YDR484w|two hybrid IST hits: 1
+YPL218w|YDR484w|two hybrid IST hits: 1

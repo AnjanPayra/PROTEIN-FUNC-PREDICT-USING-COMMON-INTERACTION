@@ -1,0 +1,24 @@
+YBL084c|YHR166c|two hybrid
+YBL084c|YHR166c|coimmunoprecipitation
+YDL008w|YHR166c|coimmunoprecipitation
+YDR118w|YHR166c|coimmunoprecipitation
+YER161c|YHR166c|N-terminus interacts with tetratrico peptide repeat domains of Cdc23p; N-terminus of Spt2p interacts with tetratrico peptide repeat domains of Cdc23p; two hybrid
+YFR036w|YHR166c|synthetic lethal
+YFR036w|YHR166c|coimmunoprecipitation
+YFR036w|YHR166c|coimmunoprecipitation
+YGL240w|YHR166c|coimmunoprecipitation
+YHR166c|YBR270c|two hybrid IST hits: 1
+YHR166c|YDR260c|
+YHR166c|YDR448w|two hybrid IST hits: 1
+YHR166c|YKL022c|two hybrid; coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YHR166c|YKL022c|coimmunoprecipitation
+YHR166c|YLR102c|coimmunoprecipitation
+YHR166c|YLR127c|synthetic lethal
+YHR166c|YLR127c|coimmunoprecipitation
+YHR166c|YLR127c|coimmunoprecipitation
+YHR166c|YLR451w|two hybrid IST hits: 4
+YHR166c|YNL172w|coimmunoprecipitation
+YHR166c|YNL172w|coimmunoprecipitation
+YHR166c|YOR249c|coimmunoprecipitation
+YHR166c|YPL124w|two hybrid IST hits: 12
+YIR025w|YHR166c|

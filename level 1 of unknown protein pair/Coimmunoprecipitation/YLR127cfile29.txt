@@ -1,0 +1,17 @@
+YBL084c|YLR127c|coimmunoprecipitation
+YDL008w|YLR127c|coimmunoprecipitation
+YDR118w|YLR127c|coimmunoprecipitation
+YER095w|YLR127c|two hybrid
+YER179w|YLR127c|two hybrid
+YFR036w|YLR127c|coimmunoprecipitation
+YFR036w|YLR127c|coimmunoprecipitation
+YGL240w|YLR127c|coimmunoprecipitation
+YHR166c|YLR127c|synthetic lethal
+YHR166c|YLR127c|coimmunoprecipitation
+YHR166c|YLR127c|coimmunoprecipitation
+YKL022c|YLR127c|coimmunoprecipitation
+YKL022c|YLR127c|coimmunoprecipitation
+YLR079w|YLR127c|synthetic lethal
+YLR102c|YLR127c|coimmunoprecipitation
+YLR127c|YNL172w|coimmunoprecipitation
+YLR127c|YOR249c|coimmunoprecipitation

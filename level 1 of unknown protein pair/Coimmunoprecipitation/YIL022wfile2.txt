@@ -1,0 +1,6 @@
+YDL091c|YIL022w|two hybrid IST hits: 1
+YER022w|YIL022w|two hybrid IST hits: 1
+YGL027c|YIL022w|two hybrid IST hits: 1
+YIL022w|YJR045c|affinity chromatography; coimmunoprecipitation
+YIL022w|YNR017w|coimmunoprecipitation
+YIL022w|YNR017w|coimmunoprecipitation

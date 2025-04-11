@@ -1,0 +1,16 @@
+YBL084c|YKL022c|two hybrid
+YBL084c|YKL022c|coimmunoprecipitation
+YDL008w|YKL022c|coimmunoprecipitation
+YDR118w|YKL022c|coimmunoprecipitation
+YFR036w|YKL022c|synthetic lethal
+YFR036w|YKL022c|coimmunoprecipitation
+YGL240w|YKL022c|coimmunoprecipitation
+YHR118c|YKL022c|cdc16-1; synthetic dosage lethality
+YHR166c|YKL022c|two hybrid; coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YHR166c|YKL022c|coimmunoprecipitation
+YKL022c|YLR102c|coimmunoprecipitation
+YKL022c|YLR127c|coimmunoprecipitation
+YKL022c|YLR127c|coimmunoprecipitation
+YKL022c|YNL172w|coimmunoprecipitation
+YKL022c|YNL172w|coimmunoprecipitation
+YKL022c|YOR249c|coimmunoprecipitation

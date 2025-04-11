@@ -1,0 +1,12 @@
+YBL084c|YDL008w|all known APC subunits coimmunoprecipitate with epitope-tagged Apc11p
+YBL084c|YDL008w|coimmunoprecipitation
+YDL008w|YDR118w|coimmunoprecipitation
+YDL008w|YFR036w|coimmunoprecipitation
+YDL008w|YGL240w|coimmunoprecipitation
+YDL008w|YHR166c|coimmunoprecipitation
+YDL008w|YKL022c|coimmunoprecipitation
+YDL008w|YLR102c|coimmunoprecipitation
+YDL008w|YLR127c|coimmunoprecipitation
+YDL008w|YNL172w|coimmunoprecipitation
+YDL008w|YOR249c|coimmunoprecipitation
+YIR025w|YDL008w|

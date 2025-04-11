@@ -1,0 +1,34 @@
+YBL050w|YKR068c|bet3-1 sec17-1 are synthetic lethal
+YBR080c|YKR068c|bet3-1 sec18-1 are synthetic lethal
+YBR254c|YKR068c|TRS20 is a high copy suppressor of bet3-1;suppression expression alteration overexpression;suppression overexpression
+YBR254c|YKR068c|two hybrid IST hits: 4
+YBR254c|YKR068c|coimmunoprecipitation
+YBR254c|YKR068c|two hybrid
+YDR108w|YKR068c|coimmunoprecipitation
+YDR108w|YKR068c|coimmunoprecipitation
+YDR189w|YKR068c|SLY1-20 is a high copy suppressor of bet3-1;high copy suppression expression alteration overexpression
+YDR246w|YKR068c|TRS20 is a high copy suppressor of bet3-1;TRS23 is a high copy suppressor of bet3-1;high copy suppression expression alteration overexpression
+YDR246w|YKR068c|coimmunoprecipitation
+YDR407c|YKR068c|coimmunoprecipitation
+YDR472w|YKR068c|two hybrid
+YDR472w|YKR068c|coimmunoprecipitation
+YDR472w|YKR068c|two hybrid
+YDR472w|YKR068c|two hybrid
+YFL005w|YKR068c|bet3-1 sec4-8 are synthetic lethal
+YFL038c|YKR068c|synthetic lethal
+YGR166w|YKR068c|coimmunoprecipitation
+YGR166w|YKR068c|coimmunoprecipitation
+YIL004c|YKR068c|synthetic lethal
+YKR068c|YBR254c|two hybrid IST hits: 1
+YKR068c|YDR472w|two hybrid IST hits: 9
+YKR068c|YLR026c|SED5 is a high copy suppressor of bet3-1; high copy suppression
+YKR068c|YLR268w|synthetic lethal
+YKR068c|YML077w|BET5 is a high copy suppressor of bet3-1
+YKR068c|YML077w|BET5 is a high copy suppressor of bet3-1; high copy suppression
+YKR068c|YML077w|coimmunoprecipitation
+YKR068c|YML077w|coimmunoprecipitation
+YKR068c|YMR218c|coimmunoprecipitation
+YKR068c|YNL272c|bet3-1 sec2-41 are synthetic lethal
+YKR068c|YNL287w|synthetic lethal
+YKR068c|YOR115c|YOR115c is a high copy suppressor of bet3-1; high copy suppression expression alteration overexpression
+YKR068c|YOR115c|coimmunoprecipitation

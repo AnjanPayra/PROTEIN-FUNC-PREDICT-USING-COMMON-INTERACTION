@@ -1,0 +1,20 @@
+YDR034c|YMR094w|two hybrid IST hits: 1
+YDR254w|YMR094w|ctf17-61 shows synthetic dosage lethality with CTF13;ctf17-61; synthetic dosage lethality
+YDR254w|YMR094w|
+YDR328c|YMR094w|two hybrid
+YDR328c|YMR094w|coimmunoprecipitation
+YDR328c|YMR094w|copurifies with Ctf13p, two hybrid
+YGR140w|YMR094w|ctf14-2; synthetic dosage lethality with ctf14-2
+YJR060w|YMR094w|GST pull-down in vitro
+YLL052c|YMR094w|two hybrid
+YMR094w|YDR254w|
+YMR094w|YDR318w|
+YMR094w|YDR328c|rescue of viability at the nonpermissive temperature
+YMR094w|YFL008w|
+YMR094w|YGR140w|
+YMR094w|YIL026c|
+YMR094w|YLR381w|
+YMR094w|YMR168c|
+YMR094w|YOR359w|two hybrid
+YMR094w|YPL018w|ctf19-58 and ctf19-26 show synthetic dosage lethality with CTF13; ctf19-58 and ctf19-26; synthetic dosage lethality
+YMR094w|YPR046w|

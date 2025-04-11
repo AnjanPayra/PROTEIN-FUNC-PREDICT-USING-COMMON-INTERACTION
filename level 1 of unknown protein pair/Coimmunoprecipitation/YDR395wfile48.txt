@@ -1,0 +1,11 @@
+YDL051w|YDR395w|coimmunoprecipitation
+YDR132c|YDR395w|two hybrid
+YDR395w|YIL115c|coimmunoprecipitation - Smx1p-PrA binds to the peptide-repeat domains of Nup159p
+YDR395w|YJL041w|coimmunoprecipitation
+YDR395w|YOL070c|two hybrid
+YDR395w|YOL127w|coimmunoprecipitation
+YDR395w|YOR098c|coimmunoprecipitation - Smx1p-PrA binds to the peptide-repeat domains of Nup159p
+YER056c-a|YDR395w|coimmunoprecipitation
+YIL052c|YDR395w|coimmunoprecipitation
+YIL133c|YDR395w|coimmunoprecipitation
+YNL069c|YDR395w|coimmunoprecipitation

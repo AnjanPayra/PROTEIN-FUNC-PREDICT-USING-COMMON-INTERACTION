@@ -1,0 +1,5 @@
+YBL014c|YJL025w|two hybrid
+YBL014c|YML043c|coimmunoprecipitation
+YBL014c|YML043c|two hybrid
+YHL004w|YBL014c|two hybrid IST hits: 1
+YOR158w|YBL014c|two hybrid IST hits: 1

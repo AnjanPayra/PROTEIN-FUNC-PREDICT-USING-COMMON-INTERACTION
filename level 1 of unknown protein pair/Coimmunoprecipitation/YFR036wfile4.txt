@@ -1,0 +1,26 @@
+YBL084c|YFR036w|coimmunoprecipitation
+YBR023c|YFR036w|Cell cycle control
+YDL008w|YFR036w|coimmunoprecipitation
+YDR118w|YFR036w|coimmunoprecipitation
+YDR420w|YFR036w|Cell cycle control
+YFR036w|YGL240w|synthetic lethal
+YFR036w|YGL240w|cdc26-100 and doc1-1 double mutants are synthetically lethal; synthetic lethal
+YFR036w|YGL240w|coimmunoprecipitation
+YFR036w|YGL240w|coimmunoprecipitation
+YFR036w|YHR166c|synthetic lethal
+YFR036w|YHR166c|coimmunoprecipitation
+YFR036w|YHR166c|coimmunoprecipitation
+YFR036w|YKL022c|synthetic lethal
+YFR036w|YKL022c|coimmunoprecipitation
+YFR036w|YLL051c|two hybrid IST hits: 1
+YFR036w|YLR102c|coimmunoprecipitation
+YFR036w|YLR127c|coimmunoprecipitation
+YFR036w|YLR127c|coimmunoprecipitation
+YFR036w|YNL172w|coimmunoprecipitation
+YFR036w|YNL172w|coimmunoprecipitation
+YFR036w|YOR249c|coimmunoprecipitation
+YHR191c|YFR036w|Cell cycle control
+YJR091c|YFR036w|two hybrid IST hits: 3
+YMR078c|YFR036w|Cell cycle control
+YPR135w|YFR036w|Cell cycle control
+YPR141c|YFR036w|Cell cycle control

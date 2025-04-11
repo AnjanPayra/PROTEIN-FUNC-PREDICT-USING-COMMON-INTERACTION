@@ -1,0 +1,16 @@
+YDL116w|YJL041w|synthetic lethal
+YDR395w|YJL041w|coimmunoprecipitation
+YFR002w|YJL041w|copurification with Nsp1p depends on C-terminal domain of Nsp1p
+YFR002w|YJL041w|coimmunoprecipitation
+YGL172w|YJL041w|coimmunoprecipitation
+YGL172w|YJL041w|coimmunoprecipitation
+YGR119c|YJL041w|two hybrid
+YGR119c|YJL041w|two hybrid IST hits: 8
+YGR119c|YJL041w|two hybrid; coimmunoprecipitation
+YJL041w|YGR119c|two hybrid IST hits: 2
+YJL041w|YJL061w|binds to Nsp1p through the C-terminal domain which has heptad repeats
+YJL041w|YKL205w|los1 pus1 nsp1 disruption strain cause synthetic lethality; synthetic lethal
+YJL041w|YLR293c|affinity chromatography; residues 142-144 of Gsp1p are essential for interaction with Nsp1p
+YJL041w|YLR423c|two hybrid IST hits: 2
+YJL041w|YPL212c|los1 pus1 nsp1 disruption strain cause synthetic lethality; synthetic lethal
+YJL061w|YJL041w|two hybrid IST hits: 3

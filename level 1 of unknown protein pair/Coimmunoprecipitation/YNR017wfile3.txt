@@ -1,0 +1,6 @@
+YIL022w|YNR017w|coimmunoprecipitation
+YIL022w|YNR017w|coimmunoprecipitation
+YJL143w|YNR017w|coimmunoprecipitation; chemical crosslinking
+YJL143w|YNR017w|coimmunoprecipitation; chemical cross linking
+YML054c|YNR017w|coimmunoprecipitation; translocation intermediates of cytochrome b2 are associated with Tim23p
+YML054c|YNR017w|coimmunoprecipitation

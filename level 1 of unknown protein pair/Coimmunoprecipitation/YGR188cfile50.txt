@@ -1,0 +1,29 @@
+YCL016c|YGR188c|Mitosis
+YCL029c|YGR188c|Mitosis
+YDL003w|YGR188c|Mitosis
+YDR052c|YGR188c|Mitosis
+YDR332w|YGR188c|Mitosis
+YEL003w|YGR188c|Mitosis
+YEL061c|YGR188c|synthetic lethal
+YEL061c|YGR188c|Mitosis
+YER007w|YGR188c|Mitosis
+YER016w|YGR188c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR188c|Mitosis
+YGR188c|YGL086w|
+YGR188c|YOR026w|coimmunoprecipitation
+YKL079w|YGR188c|Mitosis
+YLR085c|YGR188c|Mitosis
+YLR200w|YGR188c|Mitosis
+YML094w|YGR188c|Mitosis
+YMR048w|YGR188c|Mitosis
+YMR078c|YGR188c|Mitosis
+YNL153c|YGR188c|Mitosis
+YOR026w|YGR188c|A 156-amino acid fragment of Bub1p functions in Bub3p binding
+YOR026w|YGR188c|two hybrid IST hits: 5
+YOR047c|YGR188c|two hybrid IST hits: 1
+YOR349w|YGR188c|Mitosis
+YPL008w|YGR188c|Mitosis
+YPL241c|YGR188c|Mitosis
+YPL241c|YGR188c|Mitosis
+YPR135w|YGR188c|Mitosis
+YPR141c|YGR188c|Mitosis

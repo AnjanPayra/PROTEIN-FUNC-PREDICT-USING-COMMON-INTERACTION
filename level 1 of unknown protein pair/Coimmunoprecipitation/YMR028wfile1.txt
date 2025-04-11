@@ -1,0 +1,6 @@
+YDL047w|YMR028w|PP2A and SIT4 protein phosphatase catalytic subunits
+YDL047w|YMR028w|coimmunoprecipitation
+YDL134c|YMR028w|
+YDL134c|YMR028w|coimmunoprecipitation
+YDL188c|YMR028w|coimmunoprecipitation
+YMR028w|YPR040w|

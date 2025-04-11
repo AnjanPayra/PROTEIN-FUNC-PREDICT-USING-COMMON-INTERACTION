@@ -1,0 +1,15 @@
+YGR082w|YMR203w|
+YGR082w|YMR203w|coimmunoprecipitation
+YGR082w|YMR203w|crosslinking
+YMR203w|YHR003c|two hybrid IST hits: 1
+YMR203w|YJR038c|two hybrid IST hits: 1
+YMR203w|YNL070w|coimmunoprecipitation
+YMR203w|YNL121c|coimmunoprecipitation
+YMR203w|YNL121c|copurification
+YMR203w|YNL131w|coimmunoprecipitation
+YMR203w|YNL131w|copurification
+YMR203w|YOR045w|coimmunoprecipitation
+YMR203w|YOR045w|coimmunoprecipitation
+YMR203w|YPR133w-a|Tom5p is closely asscociated to the N-terminus of Tom40p; Tom5p probably interact with the most other Tom proteins
+YMR203w|YPR133w-a|copurification
+YMR203w|YPR133w-a|coimmunoprecipitation

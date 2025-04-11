@@ -1,0 +1,4 @@
+YMR203w|YPR133w-a|Tom5p is closely asscociated to the N-terminus of Tom40p; Tom5p probably interact with the most other Tom proteins
+YMR203w|YPR133w-a|copurification
+YMR203w|YPR133w-a|coimmunoprecipitation
+YNL070w|YPR133w-a|synthetic lethal

@@ -1,0 +1,28 @@
+YBR017c|YGR119c|
+YBR017c|YGR119c|two hybrid
+YFR002w|YGR119c|coimmunoprecipitation
+YFR002w|YGR119c|coimmunoprecipitation
+YGL005c|YGR119c|two hybrid IST hits: 1
+YGL172w|YGR119c|two hybrid
+YGR119c|YDL065c|two hybrid IST hits: 4
+YGR119c|YDR416w|two hybrid IST hits: 2
+YGR119c|YEL043w|two hybrid IST hits: 1
+YGR119c|YGL170c|two hybrid IST hits: 1
+YGR119c|YGL172w|two hybrid IST hits: 5
+YGR119c|YGR120c|two hybrid IST hits: 1
+YGR119c|YJL041w|two hybrid
+YGR119c|YJL041w|two hybrid IST hits: 8
+YGR119c|YJL041w|two hybrid; coimmunoprecipitation
+YGR119c|YKL061w|two hybrid IST hits: 5
+YGR119c|YKL103c|two hybrid IST hits: 1
+YGR119c|YLR423c|two hybrid IST hits: 5
+YGR119c|YMR139w|two hybrid IST hits: 1
+YGR119c|YMR236w|two hybrid
+YGR119c|YMR294w|two hybrid IST hits: 2
+YGR119c|YMR308c|two hybrid
+YGR119c|YPR046w|two hybrid IST hits: 2
+YGR119c|YPR083w|two hybrid IST hits: 1
+YGR218w|YGR119c|two hybrid IST hits: 1
+YJL041w|YGR119c|two hybrid IST hits: 2
+YOL069w|YGR119c|two hybrid IST hits: 2
+YOR035c|YGR119c|two hybrid IST hits: 2

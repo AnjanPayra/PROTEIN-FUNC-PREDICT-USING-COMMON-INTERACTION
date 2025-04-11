@@ -1,0 +1,4 @@
+YBL014c|YML043c|coimmunoprecipitation
+YBL014c|YML043c|two hybrid
+YJL025w|YML043c|affinity purification
+YML043c|YKL137w|two hybrid IST hits: 2

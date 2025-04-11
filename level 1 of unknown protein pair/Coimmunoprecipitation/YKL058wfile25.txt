@@ -1,0 +1,6 @@
+YDR392w|YKL058w|TOA2 overexpression suppresses spt3 null mutation, but not vice versa;suppression
+YER148w|YKL058w|affinity column
+YGL016w|YKL058w|coimmunoprecipitation
+YGR274c|YKL058w|overexpression of TOA2 partially and overexpression of TOA1 and TOA2 completely suppresses ts phenotype of taf145 N-terminal deletion mutant; suppression
+YKL058w|YOR194c|coimmunoprecipitation
+YLR288c|YKL058w|two hybrid IST hits: 1

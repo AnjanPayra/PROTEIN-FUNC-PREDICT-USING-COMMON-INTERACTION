@@ -1,0 +1,17 @@
+YAL040c|YDL047w|cln3 sit4 deletion mutant is synthetic lethal
+YCL030c|YDL047w|SIT4 suppresses the HIS4 transcriptional defective mutant;suppressor of a HIS4 transcriptional defective mutant;suppression
+YDL047w|YER155c|synthetic lethal;the synthetic lethal phenotype of bem2 sit4 mutants cannot be suppressed by the SSD1-v1 allele (SRK1)
+YDL047w|YFR040w|sit4-102 temperature-sensitive phenotype can be suppressed by overproduction of either Sap4p, Sap155p, Sap185p, or Sap190p;suppression
+YDL047w|YFR040w|Sit4p associates in a cell-cycle-dependent manner with Sap155p and Sap190p; coimmunoprecipitation
+YDL047w|YGL229c|sit4-102 temperature-sensitive phenotype can be suppressed by overproduction of either Sap4p, Sap155p, Sap185p, or Sap190p;suppression
+YDL047w|YGR092w|overexpression suppresses dbf2, dbf20 mutants, see;suppression
+YDL047w|YGR092w|overexpression suppresses dbf2, dbf20 mutants, see
+YDL047w|YJL098w|sit4-102 temperature-sensitive phenotype can be suppressed by overproduction of either Sap4p, Sap155p, Sap185p, or Sap190p;suppression
+YDL047w|YJL098w|coimmunoprecipitation
+YDL047w|YKR028w|sit4-102 temperature-sensitive phenotype can be suppressed by overproduction of either Sap4p, Sap155p, Sap185p, or Sap190p;suppression
+YDL047w|YKR028w|associates in a cell-cycle-dependent manner with Sap155p and Sap190p; coimmunoprecipitation
+YDL047w|YKR072c|sit4 sis2 null mutants are synthetic lethal
+YDL047w|YMR028w|PP2A and SIT4 protein phosphatase catalytic subunits
+YDL047w|YMR028w|coimmunoprecipitation
+YDL047w|YPR111w|overexpression suppresses dbf2, dbf20 mutants, see;suppression, see
+YML032c|YDL047w|Cell wall organization and biogenesis

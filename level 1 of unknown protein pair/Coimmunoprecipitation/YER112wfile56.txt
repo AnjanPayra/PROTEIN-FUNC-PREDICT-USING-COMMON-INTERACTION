@@ -1,0 +1,53 @@
+YBL026w|YER112w|coimmunoprecipitation; two hybrid
+YCR077c|YER112w|coimmunoprecipitation
+YDR378c|YER112w|coimmunoprecipitation; two hybrid
+YDR378c|YER112w|2(2) clones in category A1
+YDR378c|YER112w|two hybrid
+YER112w|YBR289w|1 clones in category A4
+YER112w|YCR077c|1 clones in category A4
+YER112w|YDL043c|5 clones in category A4
+YER112w|YDL145c|1 clones in category A4
+YER112w|YDR082w|6(3) clones in category A1
+YER112w|YDR289c|1 clones in category A4
+YER112w|YDR386w|1 clones in category A4
+YER112w|YDR452w|2(2) clones in category A1
+YER112w|YDR485c|2(2) clones in category A1
+YER112w|YER124c|1 clones in category A4
+YER112w|YER146w|coimmunoprecipitation; two hybrid
+YER112w|YGL173c|coimmunoprecipitation
+YER112w|YGL173c|1 clones in category A3
+YER112w|YIL029c|3 clones in category A4
+YER112w|YJL110c|2(2) clones in category A1
+YER112w|YJL124c|coimmunoprecipitation; two hybrid
+YER112w|YJL124c|two hybrid
+YER112w|YJL124c|coimmunoprecipitation; two hybrid
+YER112w|YJL155c|9(4) clones in category A1
+YER112w|YJR022w|coimmunoprecipitation; two hybrid
+YER112w|YJR022w|coimmunoprecipitation
+YER112w|YJR022w|1 clones in category A2
+YER112w|YJR022w|two hybrid
+YER112w|YJR022w|two hybrid
+YER112w|YJR138w|1 clones in category A4
+YER112w|YKL209c|1 clones in category A4
+YER112w|YLL032c|1 clones in category A4
+YER112w|YLR269c|two hybrid
+YER112w|YLR275w|1 clones in category A4
+YER112w|YLR386w|23(9) clones in category A1
+YER112w|YLR438c-a|coimmunoprecipitation; two hybrid
+YER112w|YNL091w|1 clones in category A4
+YER112w|YNL118c|17(4) clones in category A1
+YER112w|YNL147w|coimmunoprecipitation; two hybrid
+YER112w|YNL147w|two hybrid
+YER112w|YNL147w|coimmunoprecipitation; two hybrid
+YER112w|YNL199c|1 clones in category A4
+YER112w|YOL004w|1 clones in category A3
+YER112w|YOL149w|two hybrid
+YER112w|YOL149w|1 clones in category A2
+YER112w|YOL149w|coimmunoprecipitation
+YER112w|YOR039w|two hybrid
+YER112w|YOR195w|1 clones in category A4
+YER112w|YOR219c|1 clones in category A4
+YER146w|YER112w|2 clones in category A2
+YJR022w|YER112w|1 clones in category A2
+YLR264w|YER112w|two hybrid
+YOR167c|YER112w|two hybrid

@@ -1,0 +1,12 @@
+YAL030w|YOR327c|conditional synthetic lethal;snc1 snc2 double null mutants are conditional-lethal
+YDL226c|YOR327c|two hybrid IST hits: 29
+YDR126w|YOR327c|Vesicular transport
+YGR009c|YOR327c|coimmunoprecipitation
+YGR247w|YOR327c|two hybrid IST hits: 5
+YLR039c|YOR327c|Vesicular transport
+YLR325c|YOR327c|two hybrid IST hits: 1
+YLR351c|YOR327c|two hybrid IST hits: 1
+YNL271c|YOR327c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YOR327c|Vesicular transport
+YOL018c|YOR327c|
+YOL018c|YOR327c|coimmunoprecipitation

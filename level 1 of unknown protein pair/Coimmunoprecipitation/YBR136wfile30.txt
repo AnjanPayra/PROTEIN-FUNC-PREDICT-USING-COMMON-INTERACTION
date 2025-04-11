@@ -1,0 +1,8 @@
+YBL088c|YBR136w|TEL1 overexpression can rescue mec1 null mutant;suppression overexpression
+YBL088c|YBR136w|TEL1 overexpression can rescue mec1 null mutant;suppression overexpression
+YBR136w|YDR499w|coimmunoprecipitation
+YBR136w|YDR499w|coimmunoprecipitation
+YBR136w|YGR180c|synthetic lethal
+YBR136w|YGR180c|synthetic lethal
+YBR136w|YIR009w|two hybrid
+YBR136w|YIR009w|two hybrid

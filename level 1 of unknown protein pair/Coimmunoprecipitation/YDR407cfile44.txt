@@ -1,0 +1,11 @@
+YBR254c|YDR407c|coimmunoprecipitation
+YDR108w|YDR407c|coimmunoprecipitation
+YDR108w|YDR407c|coimmunoprecipitation
+YDR246w|YDR407c|coimmunoprecipitation
+YDR407c|YDR472w|coimmunoprecipitation
+YDR407c|YGR166w|coimmunoprecipitation
+YDR407c|YGR166w|coimmunoprecipitation
+YDR407c|YKR068c|coimmunoprecipitation
+YDR407c|YML077w|coimmunoprecipitation
+YDR407c|YMR218c|coimmunoprecipitation
+YDR407c|YOR115c|coimmunoprecipitation

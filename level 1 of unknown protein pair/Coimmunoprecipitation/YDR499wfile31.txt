@@ -1,0 +1,6 @@
+YBR136w|YDR499w|coimmunoprecipitation
+YBR136w|YDR499w|coimmunoprecipitation
+YDR499w|YER070w|suppression
+YDR499w|YER070w|suppression
+YDR499w|YML058w|suppression
+YDR499w|YML058w|Null mutant is rescued by deletion of SML1, but deletion of SML1 does not suppress the hypersensitivity to DNA damaging agentsuppression

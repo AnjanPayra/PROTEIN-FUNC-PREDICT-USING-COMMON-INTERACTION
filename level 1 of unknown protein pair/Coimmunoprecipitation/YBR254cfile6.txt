@@ -1,0 +1,20 @@
+YBR254c|YDR108w|coimmunoprecipitation
+YBR254c|YDR108w|coimmunoprecipitation
+YBR254c|YDR246w|coimmunoprecipitation
+YBR254c|YDR407c|coimmunoprecipitation
+YBR254c|YDR472w|two hybrid
+YBR254c|YDR472w|two hybrid IST hits: 23
+YBR254c|YDR472w|coimmunoprecipitation
+YBR254c|YGR166w|coimmunoprecipitation
+YBR254c|YGR166w|coimmunoprecipitation
+YBR254c|YHR041c|two hybrid
+YBR254c|YJR116w|two hybrid IST hits: 1
+YBR254c|YKR068c|TRS20 is a high copy suppressor of bet3-1;suppression expression alteration overexpression;suppression overexpression
+YBR254c|YKR068c|two hybrid IST hits: 4
+YBR254c|YKR068c|coimmunoprecipitation
+YBR254c|YKR068c|two hybrid
+YBR254c|YML077w|coimmunoprecipitation
+YBR254c|YMR218c|coimmunoprecipitation
+YBR254c|YOR115c|coimmunoprecipitation
+YHR041c|YBR254c|two hybrid IST hits: 1
+YKR068c|YBR254c|two hybrid IST hits: 1

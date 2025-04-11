@@ -1,0 +1,27 @@
+YBL026w|YNL147w|coimmunoprecipitation
+YBL026w|YNL147w|coimmunoprecipitation; two hybrid
+YCR077c|YNL147w|coimmunoprecipitation
+YDR378c|YNL147w|coimmunoprecipitation; two hybrid
+YDR378c|YNL147w|1 clones in category A2
+YER112w|YNL147w|coimmunoprecipitation; two hybrid
+YER112w|YNL147w|two hybrid
+YER112w|YNL147w|coimmunoprecipitation; two hybrid
+YER146w|YNL147w|coimmunoprecipitation; two hybrid
+YER146w|YNL147w|two hybrid
+YER146w|YNL147w|1 clones in category A4
+YER146w|YNL147w|coimmunoprecipitation; two hybrid
+YGL173c|YNL147w|coimmunoprecipitation
+YJL124c|YNL147w|coimmunoprecipitation; two hybrid
+YJR022w|YNL147w|coimmunoprecipitation; two hybrid
+YJR022w|YNL147w|two hybrid
+YLR438c-a|YNL147w|
+YLR438c-a|YNL147w|coimmunoprecipitation; two hybrid
+YNL147w|YCR077c|14(7) clones in category A1
+YNL147w|YDL077c|8 clones in category A4*
+YNL147w|YER146w|two hybrid IST hits: 1
+YNL147w|YFL066c|1 clones in category A4
+YNL147w|YIL112w|44(14) clones in category A1
+YNL147w|YLR438c-a|2 clones in category A2
+YNL147w|YMR268c|1 clones in category A4
+YNL147w|YOL149w|coimmunoprecipitation
+YNL147w|YPR178w|1 clones in category A3

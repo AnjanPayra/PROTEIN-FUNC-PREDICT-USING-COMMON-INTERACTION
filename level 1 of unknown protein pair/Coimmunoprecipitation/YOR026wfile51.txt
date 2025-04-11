@@ -1,0 +1,22 @@
+YCL029c|YOR026w|synthetic lethal
+YCL029c|YOR026w|Mitosis
+YDL003w|YOR026w|Mitosis
+YDR332w|YOR026w|Mitosis
+YEL003w|YOR026w|Mitosis
+YEL061c|YOR026w|synthetic lethal
+YER016w|YOR026w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR026w|synthetic lethal
+YER016w|YOR026w|Mitosis
+YGR078c|YOR026w|Mitosis
+YGR188c|YOR026w|coimmunoprecipitation
+YJL013c|YOR026w|two hybrid
+YJR053w|YOR026w|Mitosis
+YLR200w|YOR026w|Mitosis
+YML094w|YOR026w|Mitosis
+YMR078c|YOR026w|Mitosis
+YNL153c|YOR026w|Mitosis
+YOR026w|YGR188c|A 156-amino acid fragment of Bub1p functions in Bub3p binding
+YOR026w|YGR188c|two hybrid IST hits: 5
+YOR265w|YOR026w|Mitosis
+YPR135w|YOR026w|Mitosis
+YPR141c|YOR026w|Mitosis

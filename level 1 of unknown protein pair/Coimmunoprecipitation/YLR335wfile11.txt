@@ -1,0 +1,8 @@
+YBL079w|YLR335w|deletion mutant is synthetic lethal with NUP170 deletion mutant is synthetic lethal with NUP2 deletion;synthetic lethal
+YGL016w|YLR335w|coimmunoprecipitation
+YGL044c|YLR335w|two hybrid IST hits: 1
+YJR132w|YLR335w|overlay assay
+YLR335w|YLR347c|overlay assay
+YLR335w|YNL189w|immunoprecipitation
+YLR335w|YNL189w|coimmunoprecipitation
+YLR335w|YOR020c|two hybrid

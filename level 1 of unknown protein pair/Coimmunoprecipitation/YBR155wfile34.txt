@@ -1,0 +1,8 @@
+YBR155w|YDR463w|two hybrid
+YBR155w|YJR032w|CNS1 is a multicopy suppressor of cpr7 mutants;CNS1 is a multicopy suppressor of cpr7 mutation;suppression overexpression
+YBR155w|YJR032w|coimmunoprecipitation
+YBR155w|YJR032w|coimmunoprecipitation
+YBR155w|YMR186w|coimmunoprecipitation
+YBR155w|YPL240c|two hybrid; coimmunoprecipitation;Cns1p interacts with the C-terminus of Hsp82p, two hybrid and coprecipitation; coimmunoprecipitation; interaction with the C-terminus of Hsp90, two hybrid and coimmunoprecipitation
+YER081w|YBR155w|two hybrid IST hits: 5
+YJR091c|YBR155w|two hybrid IST hits: 1

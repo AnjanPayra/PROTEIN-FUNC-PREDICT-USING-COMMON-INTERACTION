@@ -1,0 +1,12 @@
+YBR254c|YDR246w|coimmunoprecipitation
+YDR108w|YDR246w|coimmunoprecipitation
+YDR108w|YDR246w|coimmunoprecipitation
+YDR246w|YDR407c|coimmunoprecipitation
+YDR246w|YDR472w|coimmunoprecipitation
+YDR246w|YGR166w|coimmunoprecipitation
+YDR246w|YGR166w|coimmunoprecipitation
+YDR246w|YKR068c|TRS20 is a high copy suppressor of bet3-1;TRS23 is a high copy suppressor of bet3-1;high copy suppression expression alteration overexpression
+YDR246w|YKR068c|coimmunoprecipitation
+YDR246w|YML077w|coimmunoprecipitation
+YDR246w|YMR218c|coimmunoprecipitation
+YDR246w|YOR115c|coimmunoprecipitation

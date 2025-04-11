@@ -1,0 +1,12 @@
+YBL084c|YOR249c|coimmunoprecipitation
+YDL008w|YOR249c|coimmunoprecipitation
+YDR118w|YOR249c|coimmunoprecipitation
+YFR036w|YOR249c|coimmunoprecipitation
+YGL240w|YOR249c|coimmunoprecipitation
+YHR166c|YOR249c|coimmunoprecipitation
+YIR025w|YOR249c|
+YKL022c|YOR249c|coimmunoprecipitation
+YLR102c|YOR249c|coimmunoprecipitation
+YLR127c|YOR249c|coimmunoprecipitation
+YNL172w|YOR249c|coimmunoprecipitation
+YOR249c|YDR260c|

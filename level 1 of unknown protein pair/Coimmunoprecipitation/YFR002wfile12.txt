@@ -1,0 +1,13 @@
+YFR002w|YGL172w|coimmunoprecipitation
+YFR002w|YGR119c|coimmunoprecipitation
+YFR002w|YGR119c|coimmunoprecipitation
+YFR002w|YGR120c|two hybrid
+YFR002w|YJL039c|affinity purification
+YFR002w|YJL041w|copurification with Nsp1p depends on C-terminal domain of Nsp1p
+YFR002w|YJL041w|coimmunoprecipitation
+YFR002w|YML103c|Nup188p interacts with both Pom152p and Nic96p
+YFR002w|YML103c|coimmunoprecipitation
+YFR002w|YML103c|Nup188p interacts with both Pom152p and Nic96p
+YFR002w|YMR129w|synthetic lethality
+YFR002w|YMR153w|two hybrid
+YFR002w|YMR153w|two hybrid IST hits: 2
