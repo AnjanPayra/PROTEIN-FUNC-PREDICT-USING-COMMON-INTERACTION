@@ -1,0 +1,79 @@
+YCL016c|YMR048w|Meiosis
+YCL061c|YMR048w|Meiosis
+YCL061c|YMR048w|Meiosis
+YDL003w|YMR048w|Meiosis
+YDL102w|YMR048w|Meiosis
+YDR217c|YMR048w|Meiosis
+YEL061c|YMR048w|Meiosis
+YER016w|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR048w|Meiosis
+YER063w|YMR048w|two hybrid IST hits: 1
+YER071c|YMR048w|two hybrid IST hits: 1
+YHR191c|YMR048w|Meiosis
+YJL092w|YMR048w|Meiosis
+YJR043c|YMR048w|Meiosis
+YKL113c|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YMR048w|Meiosis
+YLR103c|YMR048w|Meiosis
+YLR368w|YMR048w|two hybrid
+YLR373c|YMR048w|two hybrid IST hits: 1
+YMR048w|YCL016c|Chromatin/chromosome structure
+YMR048w|YCL016c|Chromatin/chromosome structure
+YMR048w|YDR004w|DNA repair
+YMR048w|YDR217c|DNA repair
+YMR048w|YEL003w|Cell structure
+YMR048w|YER016w|Mitosis
+YMR048w|YER019w|Lipid metabolism
+YMR048w|YER116c|DNA repair
+YMR048w|YER116c|DNA repair
+YMR048w|YER162c|DNA repair
+YMR048w|YER173w|DNA repair
+YMR048w|YER173w|DNA repair
+YMR048w|YGL003c|Protein degradation
+YMR048w|YGL086w|Mitosis
+YMR048w|YGR078c|Cell structure
+YMR048w|YGR188c|Mitosis
+YMR048w|YHR191c|Chromatin/chromosome structure
+YMR048w|YHR191c|Chromatin/chromosome structure
+YMR048w|YIL040w|Unknown
+YMR048w|YJL092w|DNA repair
+YMR048w|YJR043c|DNA replication
+YMR048w|YJR043c|DNA replication
+YMR048w|YJR084w|Unknown
+YMR048w|YKL113c|DNA repair
+YMR048w|YKL113c|DNA repair
+YMR048w|YLR032w|DNA repair
+YMR048w|YLR200w|Cell structure
+YMR048w|YLR234w|Chromatin/chromosome structure
+YMR048w|YLR288c|DNA repair
+YMR048w|YML013w|Unknown
+YMR048w|YML094w|Cell structure
+YMR048w|YMR010w|Meiosis
+YMR048w|YMR055c|Mitosis
+YMR048w|YMR078c|Chromatin/chromosome structure
+YMR048w|YMR078c|Chromatin/chromosome structure
+YMR048w|YMR190c|DNA repair
+YMR048w|YMR190c|DNA repair
+YMR048w|YMR308c|two hybrid
+YMR048w|YNL153c|Cell structure
+YMR048w|YNL297c|Vacuolar organization and biogenesis
+YMR048w|YNR051c|Unknown
+YMR048w|YOR144c|DNA repair
+YMR048w|YOR144c|DNA repair
+YMR048w|YOR368w|DNA repair
+YMR048w|YOR368w|DNA repair
+YMR048w|YPL077c|Unknown
+YMR048w|YPL189w|Lipid metabolism
+YMR048w|YPL194w|DNA repair
+YMR048w|YPR135w|Chromatin/chromosome structure
+YMR048w|YPR135w|Chromatin/chromosome structure
+YMR048w|YPR141c|Mitosis
+YMR078c|YMR048w|Meiosis
+YMR159c|YMR048w|two hybrid IST hits: 1
+YMR190c|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YMR048w|Meiosis
+YNL273w|YMR048w|two hybrid IST hits: 4
+YOL131w|YMR048w|two hybrid IST hits: 1
+YPL194w|YMR048w|Meiosis
+YPR135w|YMR048w|Meiosis
+YPR141c|YMR048w|Meiosis

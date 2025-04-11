@@ -1,0 +1,55 @@
+YCL016c|YNL273w|DNA repair
+YCL061c|YNL273w|DNA repair
+YCL061c|YNL273w|DNA repair
+YDL003w|YNL273w|DNA repair
+YDL102w|YNL273w|DNA repair
+YDR217c|YNL273w|DNA repair
+YEL061c|YNL273w|DNA repair
+YER016w|YNL273w|DNA repair
+YER173w|YNL273w|DNA repair
+YHR191c|YNL273w|DNA repair
+YJL092w|YNL273w|DNA repair
+YJR043c|YNL273w|DNA repair
+YJR043c|YNL273w|DNA repair
+YLR103c|YNL273w|DNA repair
+YMR078c|YNL273w|DNA repair
+YNL273w|YAR002w|Nuclear-cytoplasmic transport
+YNL273w|YBR173c|Protein degradation
+YNL273w|YCL016c|Chromatin/chromosome structure
+YNL273w|YCL016c|Chromatin/chromosome structure
+YNL273w|YCL061c|DNA repair
+YNL273w|YDR076w|DNA repair
+YNL273w|YDR217c|DNA repair
+YNL273w|YDR217c|DNA repair
+YNL273w|YDR315c|Lipid metabolism
+YNL273w|YEL037c|DNA repair
+YNL273w|YER016w|Mitosis
+YNL273w|YER173w|DNA repair
+YNL273w|YER173w|DNA repair
+YNL273w|YGL163c|DNA repair
+YNL273w|YHR191c|Chromatin/chromosome structure
+YNL273w|YHR191c|Chromatin/chromosome structure
+YNL273w|YJR043c|DNA replication
+YNL273w|YJR043c|DNA replication
+YNL273w|YKL113c|DNA repair
+YNL273w|YLR032w|DNA repair
+YNL273w|YLR234w|Chromatin/chromosome structure
+YNL273w|YLR288c|DNA repair
+YNL273w|YML032c|DNA repair
+YNL273w|YMR048w|two hybrid IST hits: 4
+YNL273w|YMR078c|Chromatin/chromosome structure
+YNL273w|YMR078c|Chromatin/chromosome structure
+YNL273w|YMR198w|Mitosis
+YNL273w|YOL006c|two hybrid; in vitro binding
+YNL273w|YOL012c|Chromatin/chromosome structure
+YNL273w|YOR144c|DNA repair
+YNL273w|YOR368w|DNA repair
+YNL273w|YOR368w|DNA repair
+YNL273w|YPL194w|DNA repair
+YNL273w|YPR135w|Chromatin/chromosome structure
+YNL273w|YPR135w|Chromatin/chromosome structure
+YNL273w|YPR141c|Mitosis
+YOR144c|YNL273w|DNA repair
+YPL194w|YNL273w|DNA repair
+YPR135w|YNL273w|DNA repair
+YPR141c|YNL273w|DNA repair

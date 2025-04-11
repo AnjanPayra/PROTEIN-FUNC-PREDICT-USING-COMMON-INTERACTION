@@ -1,0 +1,126 @@
+YAL013w|YNL298w|Cell polarity
+YBL061c|YNL298w|Cell polarity
+YBR023c|YNL298w|Cell polarity
+YBR234c|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL298w|Cell polarity
+YCL016c|YNL298w|Cell polarity
+YCR009c|YNL298w|Cell polarity
+YCR088w|YNL298w|two hybrid library: Abp1 Cla4(AD)
+YDL029w|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL298w|Cell polarity
+YDL225w|YNL298w|Cell polarity
+YDR309c|YNL298w|two hybrid library: Gic2 Cla4(AD)
+YDR388w|YNL298w|Cell polarity
+YEL003w|YNL298w|Cell polarity
+YEL061c|YNL298w|Cell polarity
+YER016w|YNL298w|Cell polarity
+YER114c|YNL298w|two hybrid library: Boi2 Cla4(AD)
+YGR014w|YNL298w|two hybrid library: Msb2 Cla4(AD)
+YGR078c|YNL298w|Cell polarity
+YGR229c|YNL298w|Cell polarity
+YHL007c|YNL298w|synthetic lethality
+YHL007c|YNL298w|cla4 ste20 double null mutation is lethal due to abnormality of septin rings
+YHR030c|YNL298w|Cell polarity
+YHR061c|YNL298w|two hybrid library: Gic1 Cla4(AD)
+YHR107c|YNL298w|two hybrid library: Cdc12 Cla4(BD)
+YHR142w|YNL298w|Cell polarity
+YHR191c|YNL298w|Cell polarity
+YJL099w|YNL298w|Cell polarity
+YKL079w|YNL298w|Cell polarity
+YLR200w|YNL298w|Cell polarity
+YLR229c|YNL298w|associates with Cdc42p
+YLR229c|YNL298w|Cell polarity
+YLR229c|YNL298w|two hybrid
+YLR229c|YNL298w|two hybrid library: Cdc42-GTP Cla4(AD)
+YLR330w|YNL298w|Cell polarity
+YML094w|YNL298w|Cell polarity
+YML109w|YNL298w|two hybrid library: Zds2 Cla4(AD)
+YMR078c|YNL298w|Cell polarity
+YMR199w|YNL298w|cla4 mutant is lethal in the absence of Cln1p and Cln2p
+YMR263w|YNL298w|Cell polarity
+YNL153c|YNL298w|Cell polarity
+YNL243w|YNL298w|two hybrid library: Sla2 Cla4(AD)
+YNL250w|YNL298w|Cell polarity
+YNL271c|YNL298w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YNL298w|Cell polarity
+YNL298w|YBL047c|Vesicular transport
+YNL298w|YBL061c|Cell wall organization and biogenesis
+YNL298w|YBL062w|Unknown
+YNL298w|YBL087c|Protein synthesis
+YNL298w|YBR023c|Cell wall organization and biogenesis
+YNL298w|YBR084c-a|Protein synthesis
+YNL298w|YBR095c|Unknown
+YNL298w|YBR174c|Unknown
+YNL298w|YBR175w|Chromatin/chromosome structure
+YNL298w|YBR200w|Cell polarity
+YNL298w|YCL016c|Chromatin/chromosome structure
+YNL298w|YCR088w|two hybrid library: Cla4 Abp1(BD)
+YNL298w|YDL191w|Protein synthesis
+YNL298w|YDL225w|Cytokinesis
+YNL298w|YDR309c|two hybrid library: Cla4 Gic2(BD)
+YNL298w|YDR363w-a|Vesicular transport
+YNL298w|YDR424c|Mitosis
+YNL298w|YER111c|Cell cycle control
+YNL298w|YER114c|two hybrid library: Cla4 Boi2(BD)
+YNL298w|YER149c|Cell polarity
+YNL298w|YER155c|Cell polarity
+YNL298w|YFR019w|Lipid metabolism
+YNL298w|YGL031c|Protein synthesis
+YNL298w|YGL066w|Pol II transcription
+YNL298w|YGL133w|Chromatin/chromosome structure
+YNL298w|YGL163c|DNA repair
+YNL298w|YGR014w|two hybrid library: Cla4 Msb2(BD)
+YNL298w|YGR135w|Protein degradation
+YNL298w|YGR200c|Pol II transcription
+YNL298w|YGR229c|Cell wall organization and biogenesis
+YNL298w|YHL007c|Mating response
+YNL298w|YHR030c|Cell wall organization and biogenesis
+YNL298w|YHR061c|two hybrid library: Cla4 Gic1(BD)
+YNL298w|YHR107c|two hybrid library: Cla4 Cdc12(AD)
+YNL298w|YHR111w|Unknown
+YNL298w|YHR142w|Cell wall organization and biogenesis
+YNL298w|YHR152w|Meiosis
+YNL298w|YHR191c|Chromatin/chromosome structure
+YNL298w|YHR200w|Pol II transcription
+YNL298w|YIL112w|Chromatin/chromosome structure
+YNL298w|YIR033w|Chromatin/chromosome structure
+YNL298w|YJL047c|Protein modification
+YNL298w|YJL095w|Cell wall organization and biogenesis
+YNL298w|YJL099w|Cell wall organization and biogenesis
+YNL298w|YJL115w|Chromatin/chromosome structure
+YNL298w|YJL136c|Protein synthesis
+YNL298w|YKL032c|DNA repair
+YNL298w|YLL021w|Cell polarity
+YNL298w|YLR102c|Cell cycle control
+YNL298w|YLR229c|two hybrid library: Cla4 Cdc42-GTP(BD)
+YNL298w|YLR319c|Cell polarity
+YNL298w|YLR330w|Cell wall organization and biogenesis
+YNL298w|YLR386w|Vacuolar organization and biogenesis
+YNL298w|YML094c-a|Unknown
+YNL298w|YML094w|Cell structure
+YNL298w|YML109w|two hybrid library: Cla4 Zds2(BD)
+YNL298w|YMR078c|Chromatin/chromosome structure
+YNL298w|YMR223w|Protein modification
+YNL298w|YMR263w|Chromatin/chromosome structure
+YNL298w|YMR312w|Pol II transcription
+YNL298w|YNL068c|Pol II transcription
+YNL298w|YNL153c|Cell structure
+YNL298w|YNL206c|Unknown
+YNL298w|YNL229c|Amino-acid metabolism
+YNL298w|YNL243w|two hybrid library: Cla4 Sla2(BD)
+YNL298w|YNL271c|Cell polarity
+YNL298w|YOR127w|two hybrid library: Cla4 Rga1(BD)
+YNL298w|YOR195w|Chromatin/chromosome structure
+YNL298w|YOR275c|Cell stress
+YNL298w|YPL047w|Unknown
+YNL298w|YPL115c|two hybrid library: Cla4 Bem3(BD)
+YNL298w|YPL161c|Cell polarity
+YNL298w|YPL174c|Mitosis
+YNL298w|YPL256c|cla4 mutant is lethal in the absence of Cln1p and Cln2p
+YNL298w|YPR135w|Chromatin/chromosome structure
+YOR127w|YNL298w|two hybrid library: Rga1 Cla4(AD)
+YOR326w|YNL298w|Cell polarity
+YPL031c|YNL298w|Cell polarity
+YPL115c|YNL298w|two hybrid library: Bem3 Cla4(AD)
+YPL194w|YNL298w|Cell polarity
+YPR135w|YNL298w|Cell polarity

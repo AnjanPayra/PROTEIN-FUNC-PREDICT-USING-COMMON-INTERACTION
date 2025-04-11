@@ -1,0 +1,46 @@
+YAL021c|YML032c|ccr4 mutant suppresses rad52-20 radiation sensitivity;suppression mutation
+YAR007c|YML032c|rfa1-D228Y (srr1) suppresses the recombination defect of rad1 rad52 double mutants
+YAR007c|YML032c|RAD52 overexpression suppresses rfa1-44 mutation phenotypes
+YAR007c|YML032c|two hybrid
+YCL016c|YML032c|DNA repair
+YCL061c|YML032c|DNA repair
+YDL017w|YML032c|DNA repair
+YDL042c|YML032c|sir2 mutation suppresses rad52-20 mutation;suppression
+YDR004w|YML032c|X-ray sensitivity and recombination defect of rad57 mutant can be suppressed by overproduction of Rad51p or Rad52p
+YDR076w|YML032c|suppression
+YDR076w|YML032c|X-ray sensitivity and recombination defect of rad55 mutant can be suppressed by overproduction of Rad51p or Rad52p
+YEL003w|YML032c|DNA repair
+YER016w|YML032c|DNA repair
+YER095w|YML032c|two hybrid
+YGR078c|YML032c|DNA repair
+YHR031c|YML032c|DNA repair
+YHR191c|YML032c|DNA repair
+YJL173c|YML032c|two hybrid
+YJR043c|YML032c|DNA repair
+YKL113c|YML032c|RAD52 RAD27 double mutations are synthetic lethal
+YKL113c|YML032c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YML032c|DNA repair
+YLR103c|YML032c|DNA repair
+YLR200w|YML032c|DNA repair
+YLR418c|YML032c|DNA repair
+YML032c|YBR173c|Protein degradation
+YML032c|YCL016c|Chromatin/chromosome structure
+YML032c|YDL047w|Cell wall organization and biogenesis
+YML032c|YDL162c|Unknown
+YML032c|YGL167c|Small molecule transport
+YML032c|YGL168w|Unknown
+YML032c|YGL173c|RNA processing
+YML032c|YJR043c|DNA replication
+YML032c|YKL113c|DNA repair
+YML032c|YMR038c|Amino-acid metabolism
+YML032c|YMR078c|Chromatin/chromosome structure
+YML032c|YNL312w|two hybrid
+YML032c|YOR144c|DNA repair
+YML094w|YML032c|DNA repair
+YMR078c|YML032c|DNA repair
+YNL153c|YML032c|DNA repair
+YNL273w|YML032c|DNA repair
+YOL006c|YML032c|DNA repair
+YOR144c|YML032c|DNA repair
+YPR135w|YML032c|DNA repair
+YPR141c|YML032c|DNA repair

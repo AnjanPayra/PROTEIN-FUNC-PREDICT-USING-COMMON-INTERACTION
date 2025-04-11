@@ -1,0 +1,19 @@
+YCL061c|YOR368w|DNA repair
+YCL061c|YOR368w|DNA repair
+YDL017w|YOR368w|DNA repair
+YDL102w|YOR368w|DNA repair
+YDR052c|YOR368w|DNA repair
+YHR191c|YOR368w|DNA repair
+YJR043c|YOR368w|DNA repair
+YKL113c|YOR368w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOR368w|DNA repair
+YKL113c|YOR368w|synthetic lethal
+YLR103c|YOR368w|DNA repair
+YLR288c|YOR368w|two hybrid
+YLR288c|YOR368w|two hybrid; pulldown coimmunoprecipitation
+YLR373c|YOR368w|two hybrid IST hits: 1
+YMR048w|YOR368w|DNA repair
+YMR048w|YOR368w|DNA repair
+YNL273w|YOR368w|DNA repair
+YNL273w|YOR368w|DNA repair
+YOR368w|YPL194w|pulldown coimmunoprecipitation; cosedimentation

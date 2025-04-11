@@ -1,0 +1,6 @@
+YDR162c|YLL002w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLL002w|DNA repair
+YLR103c|YLL002w|DNA repair
+YLR418c|YLL002w|DNA repair
+YOR144c|YLL002w|DNA repair
+YPR141c|YLL002w|DNA repair

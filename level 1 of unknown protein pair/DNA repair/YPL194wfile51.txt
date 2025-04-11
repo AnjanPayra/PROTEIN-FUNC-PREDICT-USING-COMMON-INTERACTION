@@ -1,0 +1,33 @@
+YCL016c|YPL194w|DNA repair
+YCL061c|YPL194w|DNA repair
+YCL061c|YPL194w|DNA repair
+YDL017w|YPL194w|DNA repair
+YDL102w|YPL194w|DNA repair
+YHR191c|YPL194w|DNA repair
+YIR008c|YPL194w|synthetic lethal; synthetically lethal with pri1-2
+YJR043c|YPL194w|DNA repair
+YJR057w|YPL194w|DNA repair
+YKL113c|YPL194w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YPL194w|DNA repair
+YLR103c|YPL194w|DNA repair
+YLR288c|YPL194w|Rad17p is necessary for stable Ddc1p-Mec3p interaction; coimmunoprecipitation; interaction does not depend on DNA damage and on Ddc1 phosphorylation
+YMR048w|YPL194w|DNA repair
+YMR078c|YPL194w|DNA repair
+YNL273w|YPL194w|DNA repair
+YOR146w|YPL194w|two hybrid IST hits: 1
+YOR368w|YPL194w|pulldown coimmunoprecipitation; cosedimentation
+YPL194w|YCL016c|Chromatin/chromosome structure
+YPL194w|YCL061c|DNA repair
+YPL194w|YDL033c|Unknown
+YPL194w|YDR225w|Chromatin/chromosome structure
+YPL194w|YJR043c|DNA replication
+YPL194w|YKL113c|DNA repair
+YPL194w|YMR038c|Amino-acid metabolism
+YPL194w|YMR048w|Meiosis
+YPL194w|YMR078c|Chromatin/chromosome structure
+YPL194w|YNL273w|DNA repair
+YPL194w|YNL298w|Cell polarity
+YPL194w|YNR072w|Small molecule transport
+YPL194w|YPR024w|Mitochondrion organization and biogenesis
+YPL194w|YPR141c|Mitosis
+YPR135w|YPL194w|DNA repair

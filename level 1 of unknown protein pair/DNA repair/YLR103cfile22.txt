@@ -1,0 +1,108 @@
+YBL023c|YLR103c|mcm2-1 is synthetic lethal with cdc45-1;synthetic lethal
+YBR060c|YLR103c|synthetic lethal
+YBR060c|YLR103c|orc2 mutants are synthetic lethal with cdc45-1
+YBR202w|YLR103c|CDC47 is a suppressor of cdc45 mutationsuppression
+YBR202w|YLR103c|two hybrid; coimmunoprecipitation
+YEL032w|YLR103c|mcm3-1 shows synthetic lethal interaction with cdc45-1;synthetic lethal
+YLR103c|YAL024c|Cell cycle control
+YLR103c|YBL008w|Chromatin/chromosome structure
+YLR103c|YBR036c|Small molecule transport
+YLR103c|YBR098w|DNA repair
+YLR103c|YBR195c|Chromatin/chromosome structure
+YLR103c|YBR215w|Pol II transcription
+YLR103c|YBR231c|Unknown
+YLR103c|YBR231c|Unknown
+YLR103c|YBR274w|DNA repair
+YLR103c|YBR274w|DNA repair
+YLR103c|YBR277c|Unknown
+YLR103c|YBR277c|Unknown
+YLR103c|YBR278w|DNA replication
+YLR103c|YBR278w|DNA replication
+YLR103c|YCL016c|Chromatin/chromosome structure
+YLR103c|YCL016c|Chromatin/chromosome structure
+YLR103c|YCR077c|Chromatin/chromosome structure
+YLR103c|YCR077c|Chromatin/chromosome structure
+YLR103c|YCR086w|Meiosis
+YLR103c|YCR086w|Meiosis
+YLR103c|YDL002c|Unknown
+YLR103c|YDL002c|Unknown
+YLR103c|YDL151c|Unknown
+YLR103c|YDR004w|DNA repair
+YLR103c|YDR121w|DNA replication
+YLR103c|YDR146c|Pol II transcription
+YLR103c|YDR217c|DNA repair
+YLR103c|YDR289c|Unknown
+YLR103c|YDR369c|DNA repair
+YLR103c|YDR485c|Vesicular transport
+YLR103c|YEL003w|Cell structure
+YLR103c|YEL056w|Chromatin/chromosome structure
+YLR103c|YEL062w|Small molecule transport
+YLR103c|YER088c|two hybrid IST hits: 1
+YLR103c|YER111c|Cell cycle control
+YLR103c|YER161c|Chromatin/chromosome stucture
+YLR103c|YER173w|DNA repair
+YLR103c|YFR019w|Lipid metabolism
+YLR103c|YGL086w|Mitosis
+YLR103c|YGL127c|DNA repair
+YLR103c|YGL148w|Amino-acid metabolism
+YLR103c|YGL151w|Pol II transcription
+YLR103c|YGL163c|DNA repair
+YLR103c|YGL173c|RNA processing
+YLR103c|YGL244w|Pol II transcription
+YLR103c|YHL023c|Meiosis
+YLR103c|YHR031c|DNA replication
+YLR103c|YHR039c-a|Small molecule transport
+YLR103c|YHR178w|Pol II transcription
+YLR103c|YHR191c|Chromatin/chromosome structure
+YLR103c|YIL040w|Unknown
+YLR103c|YIL154c|Carbohydrate metabolism
+YLR103c|YJL030w|Mitosis
+YLR103c|YJL092w|DNA repair
+YLR103c|YJL115w|Chromatin/chromosome structure
+YLR103c|YJL124c|RNA turnover
+YLR103c|YJR043c|DNA replication
+YLR103c|YJR053w|Mitosis
+YLR103c|YJR070c|Unknown
+YLR103c|YJR104c|Cell stress
+YLR103c|YJR140c|Pol II transcription
+YLR103c|YKR072c|Cell stress
+YLR103c|YLL002w|DNA repair
+YLR103c|YLR055c|Chromatin/chromosome structure
+YLR103c|YLR234w|Chromatin/chromosome structure
+YLR103c|YLR235c|Unknown
+YLR103c|YLR268w|Vesicular transport
+YLR103c|YLR274w|two hybrid; coimmunoprecipitation
+YLR103c|YLR288c|DNA repair
+YLR103c|YML032c|DNA repair
+YLR103c|YML094w|Cell structure
+YLR103c|YML094w|Cell structure
+YLR103c|YMR039c|Pol II transcription
+YLR103c|YMR048w|Meiosis
+YLR103c|YMR055c|Mitosis
+YLR103c|YMR078c|Chromatin/chromosome structure
+YLR103c|YMR166c|Transport
+YLR103c|YMR272c|Lipid metabolism
+YLR103c|YNL215w|Unknown
+YLR103c|YNL273w|DNA repair
+YLR103c|YNL294c|Unknown
+YLR103c|YNL299w|Chromatin/chromosome structure
+YLR103c|YOL006c|Chromatin/chromosome structure
+YLR103c|YOL012c|Chromatin/chromosome structure
+YLR103c|YOL064c|Amino-acid metabolism
+YLR103c|YOR024w|Unknown
+YLR103c|YOR025w|Chromatin/chromosome structure
+YLR103c|YOR030w|Differentiation
+YLR103c|YOR038c|Pol II transcription
+YLR103c|YOR043w|Cell cycle control
+YLR103c|YOR123c|Chromatin/chromosome structure
+YLR103c|YOR368w|DNA repair
+YLR103c|YPL001w|Chromatin/chromosome structure
+YLR103c|YPL024w|Cell wall organization and biogenesis
+YLR103c|YPL055c|Cell cycle control
+YLR103c|YPL183w-a|Protein synthesis
+YLR103c|YPL194w|DNA repair
+YLR103c|YPR057w|RNA processing
+YLR103c|YPR070w|Chromatin/chromosome structure
+YLR103c|YPR120c|Cell cycle control
+YLR103c|YPR135w|Chromatin/chromosome structure
+YLR103c|YPR141c|Mitosis

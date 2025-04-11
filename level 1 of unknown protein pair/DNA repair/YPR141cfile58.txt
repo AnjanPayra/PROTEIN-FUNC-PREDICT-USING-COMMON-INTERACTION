@@ -1,0 +1,112 @@
+YBL063w|YPR141c|KAR3 deletion partially suppress the temperature sensitive phenotype of cin8-3 kip1 delta mutantsuppression mutation
+YCL016c|YPR141c|Mitosis
+YCL061c|YPR141c|Mitosis
+YCL061c|YPR141c|Mitosis
+YDL003w|YPR141c|Mitosis
+YDR150w|YPR141c|Mitosis
+YDR332w|YPR141c|Mitosis
+YEL003w|YPR141c|Mitosis
+YEL061c|YPR141c|KAR3 deletion partially suppress the temperature sensitive phenotype of cin8-3 kip1 delta mutants; KAR3 deletion partially suppress the temperature sensitive phenotype og cin8-3 kip1 delta mutantsuppression
+YFL008w|YPR141c|two hybrid interaction between coiled-coil motifs (688-1076, 84-384)
+YFL008w|YPR141c|two hybrid interaction between coiled-coil motifs (688-929, 84-384)
+YGL216w|YPR141c|synthetic lethal
+YGL216w|YPR141c|Mitosis
+YGR078c|YPR141c|Mitosis
+YGR089w|YPR141c|two hybrid interaction between coiled-coil motifs (762-936, 84-384)
+YHR129c|YPR141c|Mitosis
+YHR191c|YPR141c|Mitosis
+YJL030w|YPR141c|synthetic lethal
+YJL030w|YPR141c|Mitosis
+YJR053w|YPR141c|Mitosis
+YKR054c|YPR141c|synthetic lethal
+YKR054c|YPR141c|synthetic lethal
+YKR054c|YPR141c|Mitosis
+YLR103c|YPR141c|Mitosis
+YLR200w|YPR141c|Mitosis
+YLR210w|YPR141c|Mitosis
+YML094w|YPR141c|Mitosis
+YML094w|YPR141c|Mitosis
+YMR003w|YPR141c|two hybrid IST hits: 1
+YMR048w|YPR141c|Mitosis
+YMR198w|YPR141c|two hybrid; coimmunoprecipitation
+YMR294w|YPR141c|Mitosis
+YMR299c|YPR141c|Mitosis
+YNL153c|YPR141c|Mitosis
+YNL273w|YPR141c|Mitosis
+YOL069w|YPR141c|two hybrid interaction between coiled-coil motifs (124-449, 84-384)
+YOR058c|YPR141c|Mitosis
+YOR144c|YPR141c|Mitosis
+YOR195w|YPR141c|synthetic lethal
+YOR269w|YPR141c|Mitosis
+YOR325w|YPR141c|two hybrid IST hits: 1
+YPL174c|YPR141c|Mitosis
+YPL194w|YPR141c|Mitosis
+YPR141c|YAL024c|Cell cycle control
+YPR141c|YAR002w|Nuclear-cytoplasmic transport
+YPR141c|YAR014c|Cell polarity
+YPR141c|YBR057c|Meiosis
+YPR141c|YBR103w|Chromatin/chromosome structure
+YPR141c|YBR107c|Chromatin/chromosome structure
+YPR141c|YCL061c|DNA repair
+YPR141c|YDR014w|Unknown
+YPR141c|YDR150w|Mitosis
+YPR141c|YDR254w|Chromatin/chromosome structure
+YPR141c|YDR260c|Meiosis
+YPR141c|YDR318w|Chromatin/chromosome structure
+YPR141c|YDR363w-a|Vesicular transport
+YPR141c|YDR369c|DNA repair
+YPR141c|YDR488c|Mitosis
+YPR141c|YEL003w|Cell structure
+YPR141c|YER155c|Cell polarity
+YPR141c|YER177w|Differentiation
+YPR141c|YFR010w|Protein modification
+YPR141c|YFR036w|Cell cycle control
+YPR141c|YGL086w|Mitosis
+YPR141c|YGL167c|Small molecule transport
+YPR141c|YGL168w|Unknown
+YPR141c|YGL173c|RNA processing
+YPR141c|YGL216w|Mitosis
+YPR141c|YGR078c|Cell structure
+YPR141c|YGR092w|Cell cycle control
+YPR141c|YGR135w|Protein degradation
+YPR141c|YGR188c|Mitosis
+YPR141c|YHR013c|Chromatin/chromosome structure
+YPR141c|YHR129c|Mitosis
+YPR141c|YHR191c|Chromatin/chromosome structure
+YPR141c|YHR194w|Mitochondrion organization and biogenesis
+YPR141c|YHR200w|Pol II transcription
+YPR141c|YIL090w|Unknown
+YPR141c|YJL013c|Mitosis
+YPR141c|YJL030w|Mitosis
+YPR141c|YJL115w|Chromatin/chromosome structure
+YPR141c|YJR104c|Cell stress
+YPR141c|YJR112w|two hybrid interaction between coiled-coil motifs (84-384, 113-187)
+YPR141c|YJR112w|two hybrid interaction between coiled-coil motifs (84-384, 59-187)
+YPR141c|YJR135c|Chromatin/chromosome structure
+YPR141c|YKR054c|Mitosis
+YPR141c|YLL002w|DNA repair
+YPR141c|YLL049w|Unknown
+YPR141c|YLR085c|Cell structure
+YPR141c|YLR200w|Cell structure
+YPR141c|YLR210w|Cell cycle control
+YPR141c|YLR216c|Protein folding
+YPR141c|YLR217w|Unknown
+YPR141c|YLR381w|Chromatin/chromosome structure
+YPR141c|YML032c|DNA repair
+YPR141c|YML094w|Cell structure
+YPR141c|YMR048w|Meiosis
+YPR141c|YMR055c|Mitosis
+YPR141c|YMR294w|Mitosis
+YPR141c|YNL153c|Cell structure
+YPR141c|YNL273w|DNA repair
+YPR141c|YNL307c|Meiosis
+YPR141c|YOL054w|Cell stress
+YPR141c|YOR026w|Mitosis
+YPR141c|YOR058c|Mitosis
+YPR141c|YOR195w|Chromatin/chromosome structure
+YPR141c|YOR269w|Mitosis
+YPR141c|YPL008w|Chromatin/chromosome structure
+YPR141c|YPL018w|Chromatin/chromosome structure
+YPR141c|YPL152w|Unknown
+YPR141c|YPL174c|Mitosis
+YPR141c|YPR046w|Chromatin/chromosome structure

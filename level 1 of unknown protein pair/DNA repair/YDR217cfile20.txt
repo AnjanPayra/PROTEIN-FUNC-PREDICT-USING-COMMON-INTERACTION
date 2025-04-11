@@ -1,0 +1,27 @@
+YCL016c|YDR217c|DNA repair
+YCL061c|YDR217c|DNA repair
+YCL061c|YDR217c|DNA repair
+YDL017w|YDR217c|DNA repair
+YDR052c|YDR217c|DNA repair
+YDR217c|YCL016c|Chromatin/chromosome structure
+YDR217c|YDL162c|Unknown
+YDR217c|YHL029c|Unknown
+YDR217c|YHR191c|Chromatin/chromosome structure
+YDR217c|YJR043c|DNA replication
+YDR217c|YKL113c|DNA repair
+YDR217c|YLR268w|Vesicular transport
+YDR217c|YMR048w|Meiosis
+YDR217c|YMR078c|Chromatin/chromosome structure
+YDR217c|YNL153c|Cell structure
+YDR217c|YNL273w|DNA repair
+YDR217c|YPL153c|interaction only with the phosphorylated Rad9p with the with the C-terminal FHA-domain of Rad53p;two hybrid; coimmunoprecipitation
+YDR217c|YPL153c|interaction only with the phosphorylated Rad9p with the with the C-terminal FHA-domain of Rad53p; two hybrid; coimmunoprecipitation
+YHR191c|YDR217c|DNA repair
+YJR043c|YDR217c|DNA repair
+YKL113c|YDR217c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR217c|DNA repair
+YLR103c|YDR217c|DNA repair
+YMR048w|YDR217c|DNA repair
+YMR078c|YDR217c|DNA repair
+YNL273w|YDR217c|DNA repair
+YNL273w|YDR217c|DNA repair

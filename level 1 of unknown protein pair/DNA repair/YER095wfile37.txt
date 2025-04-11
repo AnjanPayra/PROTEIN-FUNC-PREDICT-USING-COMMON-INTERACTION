@@ -1,0 +1,27 @@
+YCL016c|YER095w|DNA repair
+YCL061c|YER095w|DNA repair
+YDL064w|YER095w|two hybrid
+YDR004w|YER095w|X-ray sensitivity and recombination defect of rad57 mutant can be suppressed by overproduction of Rad51p or Rad52p
+YDR076w|YER095w|suppression
+YDR076w|YER095w|X-ray sensitivity and recombination defect of rad55 mutant can be suppressed by overproduction of Rad51p or Rad52p
+YDR076w|YER095w|two hybrid IST hits: 8
+YDR076w|YER095w|two hybrid
+YDR076w|YER095w|X-ray sensitivity and recombination defect of mutant can be suppressed by overproduction of Rad51p or Rad52p
+YER047c|YER095w|two hybrid
+YER095w|YER095w|two hybrid IST hits: 16
+YER095w|YER095w|two hybrid IST hits: 16
+YER095w|YGL163c|affinity chromatography; two hybrid; coimmunoprecipitation; affinity column; two hybrid; coimmunoprecipitation
+YER095w|YKL113c|rad51 rad27 double mutations are lethal
+YER095w|YLR127c|two hybrid
+YER095w|YML032c|two hybrid
+YER095w|YMR233w|two hybrid
+YER095w|YPL238c|two hybrid
+YER095w|YPR011c|two hybrid
+YJR043c|YER095w|DNA repair
+YKL113c|YER095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YER095w|DNA repair
+YMR078c|YER095w|DNA repair
+YNL189w|YER095w|two hybrid IST hits: 1
+YOR144c|YER095w|DNA repair
+YPL204w|YER095w|two hybrid IST hits: 4
+YPR135w|YER095w|DNA repair

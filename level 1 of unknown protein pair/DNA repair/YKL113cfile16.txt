@@ -1,0 +1,102 @@
+YBR098w|YKL113c|DNA repair
+YCL016c|YKL113c|DNA repair
+YCL061c|YKL113c|DNA repair
+YCL061c|YKL113c|DNA repair
+YDR217c|YKL113c|DNA repair
+YDR386w|YKL113c|DNA repair
+YER095w|YKL113c|rad51 rad27 double mutations are lethal
+YHR164c|YKL113c|overexpression of Rad27p rescues dna2-1 mutant; rad27 dna2-1 double mutants are lethal
+YHR164c|YKL113c|affinity chromatography
+YJL092w|YKL113c|DNA repair
+YJR043c|YKL113c|DNA repair
+YJR057w|YKL113c|DNA repair
+YJR091c|YKL113c|two hybrid IST hits: 3
+YKL113c|YBR098w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YBR098w|DNA repair
+YKL113c|YBR215w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YBR215w|Pol II transcription
+YKL113c|YDR004w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR004w|DNA repair
+YKL113c|YDR076w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR076w|DNA repair
+YKL113c|YDR217c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR217c|DNA repair
+YKL113c|YDR363w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR363w|Chromatin/chromosome structure
+YKL113c|YDR369c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR369c|DNA repair
+YKL113c|YDR386w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR386w|DNA repair
+YKL113c|YER095w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YER095w|DNA repair
+YKL113c|YER173w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YER173w|DNA repair
+YKL113c|YFL023w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YFL023w|Unknown
+YKL113c|YGL163c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YGL163c|DNA repair
+YKL113c|YGL175c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YGL175c|DNA repair
+YKL113c|YGL240w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YGL240w|Cell cycle control
+YKL113c|YHR010w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YHR010w|Protein synthesis
+YKL113c|YJL092w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YJL092w|DNA repair
+YKL113c|YJR104c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YJR104c|Cell stress
+YKL113c|YKR072c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YKR072c|Cell stress
+YKL113c|YLR352w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YLR352w|Unknown
+YKL113c|YML032c|RAD52 RAD27 double mutations are synthetic lethal
+YKL113c|YML032c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YML032c|DNA repair
+YKL113c|YML102w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YML102w|Chromatin/chromosome structure
+YKL113c|YMR038c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YMR038c|Amino-acid metabolism
+YKL113c|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YMR048w|Meiosis
+YKL113c|YMR078c|Chromatin/chromosome structure
+YKL113c|YMR190c|DNA repair
+YKL113c|YMR224c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YMR224c|DNA repair
+YKL113c|YNL064c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YNL064c|Mitochondrion organization and biogenesis
+YKL113c|YNL171c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YNL171c|Unknown
+YKL113c|YNL250w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YNL250w|DNA repair
+YKL113c|YOL068c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOL068c|Chromatin/chromosome structure
+YKL113c|YOR025w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOR025w|Chromatin/chromosome structure
+YKL113c|YOR033c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOR033c|DNA repair
+YKL113c|YOR182c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOR182c|Protein synthesis
+YKL113c|YOR368w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YOR368w|DNA repair
+YKL113c|YOR368w|synthetic lethal
+YKL113c|YPL194w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YPL194w|DNA repair
+YKL113c|YPR116w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YPR116w|Unknown
+YKL113c|YPR135w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YPR135w|Chromatin/chromosome structure
+YLR447c|YKL113c|two hybrid IST hits: 1
+YLR453c|YKL113c|two hybrid IST hits: 2
+YML032c|YKL113c|DNA repair
+YMR048w|YKL113c|DNA repair
+YMR048w|YKL113c|DNA repair
+YMR078c|YKL113c|DNA repair
+YMR190c|YKL113c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YKL113c|DNA repair
+YNL250w|YKL113c|DNA repair
+YNL273w|YKL113c|DNA repair
+YOR025w|YKL113c|DNA repair
+YOR144c|YKL113c|DNA repair
+YPL008w|YKL113c|DNA repair
+YPL194w|YKL113c|DNA repair
+YPR135w|YKL113c|DNA repair

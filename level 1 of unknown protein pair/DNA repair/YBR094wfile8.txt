@@ -1,0 +1,50 @@
+YBR094w|YBR194w|Unknown
+YBR094w|YBR194w|Unknown
+YBR094w|YCR086w|Meiosis
+YBR094w|YCR086w|Meiosis
+YBR094w|YDL162c|Unknown
+YBR094w|YDL162c|Unknown
+YBR094w|YDR363w|Chromatin/chromosome structure
+YBR094w|YDR363w|Chromatin/chromosome structure
+YBR094w|YER019w|Lipid metabolism
+YBR094w|YER019w|Lipid metabolism
+YBR094w|YER041w|DNA repair
+YBR094w|YER041w|DNA repair
+YBR094w|YGL127c|DNA repair
+YBR094w|YGL127c|DNA repair
+YBR094w|YJL115w|Chromatin/chromosome structure
+YBR094w|YJL115w|Chromatin/chromosome structure
+YBR094w|YJR043c|DNA replication
+YBR094w|YJR043c|DNA replication
+YBR094w|YLR234w|Chromatin/chromosome structure
+YBR094w|YLR234w|Chromatin/chromosome structure
+YBR094w|YLR373c|Vacuolar organization and biogenesis
+YBR094w|YLR373c|Vacuolar organization and biogenesis
+YBR094w|YML028w|Cell stress
+YBR094w|YML028w|Cell stress
+YBR094w|YMR038c|Amino-acid metabolism
+YBR094w|YMR038c|Amino-acid metabolism
+YBR094w|YMR190c|DNA repair
+YBR094w|YMR190c|DNA repair
+YBR094w|YNL153c|Cell structure
+YBR094w|YNL153c|Cell structure
+YBR094w|YNL297c|Vacuolar organization and biogenesis
+YBR094w|YNL297c|Vacuolar organization and biogenesis
+YBR094w|YOL149w|two hybrid IST hits: 9
+YBR094w|YOL149w|two hybrid IST hits: 9
+YBR094w|YOR001w|RNA processing
+YBR094w|YOR001w|RNA processing
+YBR094w|YOR144c|DNA repair
+YBR094w|YOR144c|DNA repair
+YBR094w|YPL024w|Cell wall organization and biogenesis
+YBR094w|YPL024w|Cell wall organization and biogenesis
+YDL102w|YBR094w|Unknown
+YDR363w|YBR094w|Unknown
+YLR264w|YBR094w|two hybrid
+YLR264w|YBR094w|two hybrid
+YMR190c|YBR094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR094w|Unknown
+YOR144c|YBR094w|Unknown
+YOR167c|YBR094w|two hybrid IST hits: 1
+YOR167c|YBR094w|two hybrid IST hits: 1

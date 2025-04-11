@@ -1,0 +1,26 @@
+YCL016c|YMR224c|DNA repair
+YDL154w|YMR224c|two hybrid
+YDR369c|YMR224c|two hybrid
+YER016w|YMR224c|DNA repair
+YHR031c|YMR224c|DNA repair
+YJL174w|YMR224c|DNA repair
+YJL174w|YMR224c|DNA repair
+YKL113c|YMR224c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YMR224c|DNA repair
+YLR330w|YMR224c|DNA repair
+YMR078c|YMR224c|DNA repair
+YMR117c|YMR224c|two hybrid
+YMR224c|YMR224c|two hybrid; gel-filtration
+YMR224c|YMR224c|two hybrid; gel-filtration
+YMR224c|YMR224c|MRE11p forms multimers
+YMR224c|YMR224c|MRE11p forms multimers
+YMR224c|YNL023c|two hybrid
+YMR224c|YNL250w|epistasis
+YMR224c|YNL250w|mre11 disruption mutation is epistatic to a rad50 null mutation with respect to its meiotic effects on MNase sensitivity
+YMR224c|YNL250w|two hybrid
+YMR224c|YNL250w|two-hybrid
+YMR263w|YMR224c|DNA repair
+YNL192w|YMR224c|DNA repair
+YOL006c|YMR224c|DNA repair
+YOR144c|YMR224c|DNA repair
+YPR135w|YMR224c|DNA repair

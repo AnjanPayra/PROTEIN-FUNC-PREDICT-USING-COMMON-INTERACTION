@@ -1,0 +1,208 @@
+YAL013w|YER016w|Mitosis
+YCL016c|YER016w|Mitosis
+YCL029c|YER016w|synthetic lethal
+YCL029c|YER016w|Mitosis
+YCL029c|YER016w|two hybrid IST hits: 4
+YDL003w|YER016w|Mitosis
+YDR150w|YER016w|synthetic lethal
+YDR150w|YER016w|Mitosis
+YDR162c|YER016w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YER016w|Mitosis
+YDR332w|YER016w|Mitosis
+YDR424c|YER016w|Mitosis
+YDR488c|YER016w|Mitosis
+YEL003w|YER016w|Mitosis
+YEL061c|YER016w|Mitosis
+YER016w|YAL013w|Lipid metabolism
+YER016w|YBR095c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YBR095c|Unknown
+YER016w|YBR107c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YBR107c|Chromatin/chromosome structure
+YER016w|YBR200w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YBR200w|Cell polarity
+YER016w|YBR231c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YBR231c|Unknown
+YER016w|YCL016c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YCL016c|Chromatin/chromosome structure
+YER016w|YCL029c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YCL029c|Mitosis
+YER016w|YCL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDL117w|Cytokinesis
+YER016w|YDL225w|Cytokinesis
+YER016w|YDR014w|Unknown
+YER016w|YDR149c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR149c|Unknown
+YER016w|YDR150w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR150w|Mitosis
+YER016w|YDR159w|Cell structure
+YER016w|YDR162c|Cell polarity
+YER016w|YDR254w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR254w|Chromatin/chromosome structure
+YER016w|YDR289c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR289c|Unknown
+YER016w|YDR315c|Lipid metabolism
+YER016w|YDR318w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR318w|Chromatin/chromosome structure
+YER016w|YDR335w|Nuclear-cytoplasmic transport
+YER016w|YDR359c|Unknown
+YER016w|YDR360w|Unknown
+YER016w|YDR383c|Chromatin/chromosome structure
+YER016w|YDR424c|Mitosis
+YER016w|YDR488c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR488c|Mitosis
+YER016w|YEL003w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YEL003w|Cell structure
+YER016w|YEL061c|Mitosis
+YER016w|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YFR019w|Lipid metabolism
+YER016w|YGL061c|two hybrid
+YER016w|YGL086w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL086w|Mitosis
+YER016w|YGL163c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL163c|DNA repair
+YER016w|YGL173c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL173c|RNA processing
+YER016w|YGL211w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL211w|Unknown
+YER016w|YGL216w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL216w|Mitosis
+YER016w|YGL217c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL217c|Unknown
+YER016w|YGR078c|Cell structure
+YER016w|YGR188c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR188c|Mitosis
+YER016w|YGR200c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR200c|Pol II transcription
+YER016w|YGR228w|Unknown
+YER016w|YGR229c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR229c|Cell wall organization and biogenesis
+YER016w|YGR270w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGR270w|Vacuolar organization and biogenesis
+YER016w|YHR111w|Unknown
+YER016w|YHR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YHR129c|Mitosis
+YER016w|YHR191c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YHR191c|Chromatin/chromosome structure
+YER016w|YJL013c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YJL013c|Mitosis
+YER016w|YJL030w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YJL030w|Mitosis
+YER016w|YJL124c|RNA turnover
+YER016w|YJR053w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YJR053w|Mitosis
+YER016w|YJR135c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YJR135c|Chromatin/chromosome structure
+YER016w|YKL048c|Cell polarity
+YER016w|YKL110c|Unknown
+YER016w|YKR054c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YKR054c|synthetic lethal; yeb1delta dhc1-delta7 double mutant shows synthetic lethality
+YER016w|YKR054c|Mitosis
+YER016w|YLL049w|Unknown
+YER016w|YLR085c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YLR085c|Cell structure
+YER016w|YLR190w|Unknown
+YER016w|YLR200w|Cell structure
+YER016w|YLR262c|Vesicular transport
+YER016w|YLR315w|Chromatin/chromosome structure
+YER016w|YLR373c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YLR373c|Vacuolar organization and biogenesis
+YER016w|YLR381w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YLR381w|Chromatin/chromosome structure
+YER016w|YLR384c|Pol II transcription
+YER016w|YLR386w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YLR386w|Vacuolar organization and biogenesis
+YER016w|YML016c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YML016c|Signal transduction
+YER016w|YML032c|DNA repair
+YER016w|YML085c|Bim1 was obtained from a two hybrid screen of a yeast cDNA library using as bait the entire coding sequence of TUB1; two hybrid
+YER016w|YML094c-a|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YML094c-a|Unknown
+YER016w|YML094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YML094w|Cell structure
+YER016w|YML124c|two hybrid
+YER016w|YML124c|Cell structure
+YER016w|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR048w|Meiosis
+YER016w|YMR055c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR055c|Mitosis
+YER016w|YMR078c|Chromatin/chromosome structure
+YER016w|YMR224c|DNA repair
+YER016w|YMR263w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR263w|Chromatin/chromosome structure
+YER016w|YMR294w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR294w|Mitosis
+YER016w|YMR294w|synthetic lethal; yeb1delta jnm1-delta3 double mutant shows synthetic lethality
+YER016w|YMR299c|Mitosis
+YER016w|YMR312w|Pol II transcription
+YER016w|YNL097c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL097c|Phosphate metabolism
+YER016w|YNL106c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL106c|Lipid metabolism
+YER016w|YNL136w|Unknown
+YER016w|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL153c|Cell structure
+YER016w|YNL170w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL170w|Unknown
+YER016w|YNL201c|Carbohydrate metabolism
+YER016w|YNL215w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL215w|Unknown
+YER016w|YNL273w|DNA repair
+YER016w|YNL298w|Cell polarity
+YER016w|YNL307c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL307c|Meiosis
+YER016w|YNR051c|Unknown
+YER016w|YOL012c|Chromatin/chromosome structure
+YER016w|YOR026w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR026w|synthetic lethal
+YER016w|YOR026w|Mitosis
+YER016w|YOR058c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR058c|Mitosis
+YER016w|YOR195w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR195w|Chromatin/chromosome structure
+YER016w|YOR269w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YOR269w|Mitosis
+YER016w|YOR349w|Cell structure
+YER016w|YPL008w|Chromatin/chromosome structure
+YER016w|YPL017c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YPL017c|Unknown
+YER016w|YPL018w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YPL018w|Chromatin/chromosome structure
+YER016w|YPL086c|Pol II transcription
+YER016w|YPL101w|Pol II transcription
+YER016w|YPL102c|Unknown
+YER016w|YPL155c|Mitosis
+YER016w|YPL174c|Mitosis
+YER016w|YPR046w|Chromatin/chromosome structure
+YER016w|YPR135w|Chromatin/chromosome structure
+YER016w|YPR164w|DNA repair
+YGL061c|YER016w|two hybrid IST hits: 8
+YGL216w|YER016w|Mitosis
+YGR078c|YER016w|Mitosis
+YHR129c|YER016w|Mitosis
+YHR191c|YER016w|Mitosis
+YJL030w|YER016w|Mitosis
+YJR053w|YER016w|Mitosis
+YKR054c|YER016w|Mitosis
+YLR085c|YER016w|Mitosis
+YLR085c|YER016w|Mitosis
+YLR200w|YER016w|Mitosis
+YML094w|YER016w|Mitosis
+YMR048w|YER016w|Mitosis
+YMR078c|YER016w|Mitosis
+YMR263w|YER016w|Mitosis
+YMR294w|YER016w|Mitosis
+YMR299c|YER016w|Mitosis
+YNL153c|YER016w|Mitosis
+YNL250w|YER016w|Mitosis
+YNL273w|YER016w|Mitosis
+YOR058c|YER016w|Mitosis
+YOR144c|YER016w|Mitosis
+YOR269w|YER016w|Mitosis
+YOR349w|YER016w|Mitosis
+YOR349w|YER016w|Mitosis
+YPL008w|YER016w|Mitosis
+YPL155c|YER016w|Mitosis
+YPL174c|YER016w|Mitosis
+YPL269w|YER016w|89-amino acid segment located at positions 187-276 within Bim1p is sufficient to confer interaction with Kar9p
+YPL269w|YER016w|
+YPR135w|YER016w|Mitosis

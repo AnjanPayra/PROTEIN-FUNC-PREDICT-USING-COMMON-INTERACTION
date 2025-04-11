@@ -1,0 +1,29 @@
+YBR087w|YER173w|RAD24 is a dosage-dependent suppressor of rfc5-1;RAD24 overexpression suppresses the sensitivity of rfc5-1 cells to DNA-damaging agents and the defect in DNA damage-induced Rad53 phosphorylation;rad24 rfc5 mutants are more defective for checkpoint respond
+YBR087w|YER173w|affinity chromatography; coimmunoprecipitation
+YCL061c|YER173w|DNA repair
+YCL061c|YER173w|DNA repair
+YDL017w|YER173w|DNA repair
+YDL102w|YER173w|overexpression of RAD24 reduces growth rate of cdc2 mutant;synthetic growth defect
+YDL102w|YER173w|DNA repair
+YDR052c|YER173w|DNA repair
+YER173w|YER173w|cosedimentation; coimmunoprecipitation
+YER173w|YER173w|cosedimentation; coimmunoprecipitation
+YER173w|YJR068w|coimmunoprecipitation
+YER173w|YJR104c|Cell stress
+YER173w|YKL213c|Protein degradation
+YER173w|YMR078c|Chromatin/chromosome structure
+YER173w|YNL102w|overexpression of RAD24 reduces growth rate of cdc17 mutant; synthetic growth defect
+YER173w|YNL273w|DNA repair
+YER173w|YOR217w|overexpression of RAD24 exacerbates the growth defect of cdc44-1; synthetic growth defect
+YJR043c|YER173w|DNA repair
+YJR057w|YER173w|DNA repair
+YKL113c|YER173w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YER173w|DNA repair
+YLR103c|YER173w|DNA repair
+YMR048w|YER173w|DNA repair
+YMR048w|YER173w|DNA repair
+YMR078c|YER173w|DNA repair
+YNL273w|YER173w|DNA repair
+YNL273w|YER173w|DNA repair
+YOR144c|YER173w|DNA repair
+YPR135w|YER173w|DNA repair

@@ -1,0 +1,91 @@
+YDL017w|YLR288c|DNA repair
+YDR052c|YLR288c|DNA repair
+YDR311w|YLR288c|two hybrid IST hits: 5
+YER022w|YLR288c|two hybrid IST hits: 1
+YHR119w|YLR288c|two hybrid; pulldown coimmunoprecipitation; gel retardation experiment
+YHR152w|YLR288c|two hybrid
+YIR008c|YLR288c|pri1 mutants are synthetic lethal with mec3 deletion mutant; synthetic lethal
+YIR008c|YLR288c|null mutation is lethal in pri1 mutant cells
+YLR103c|YLR288c|DNA repair
+YLR288c|YBR091c|two hybrid IST hits: 1
+YLR288c|YBR124w|two hybrid IST hits: 1
+YLR288c|YBR129c|two hybrid IST hits: 1
+YLR288c|YBR197c|two hybrid IST hits: 1
+YLR288c|YBR201w|two hybrid IST hits: 1
+YLR288c|YCL009c|two hybrid IST hits: 1
+YLR288c|YCL066w|two hybrid IST hits: 1
+YLR288c|YCL067c|two hybrid IST hits: 1
+YLR288c|YCR007c|two hybrid IST hits: 1
+YLR288c|YCR016w|two hybrid IST hits: 1
+YLR288c|YDR022c|two hybrid IST hits: 1
+YLR288c|YGL168w|two hybrid IST hits: 1
+YLR288c|YGL189c|two hybrid IST hits: 2
+YLR288c|YGR085c|two hybrid IST hits: 1
+YLR288c|YGR158c|two hybrid IST hits: 1
+YLR288c|YHR175w|two hybrid IST hits: 1
+YLR288c|YHR180w|two hybrid IST hits: 1
+YLR288c|YIL008w|two hybrid IST hits: 1
+YLR288c|YIL010w|two hybrid IST hits: 1
+YLR288c|YIR009w|two hybrid IST hits: 1
+YLR288c|YJL059w|two hybrid IST hits: 1
+YLR288c|YJL199c|two hybrid IST hits: 1
+YLR288c|YJL210w|two hybrid IST hits: 1
+YLR288c|YJR025c|two hybrid IST hits: 1
+YLR288c|YJR048w|two hybrid IST hits: 1
+YLR288c|YJR063w|two hybrid IST hits: 1
+YLR288c|YJR077c|two hybrid IST hits: 1
+YLR288c|YJR083c|two hybrid IST hits: 1
+YLR288c|YJR112w|two hybrid IST hits: 1
+YLR288c|YJR146w|two hybrid IST hits: 1
+YLR288c|YJR157w|two hybrid IST hits: 1
+YLR288c|YKL001c|two hybrid IST hits: 1
+YLR288c|YKL024c|two hybrid IST hits: 1
+YLR288c|YKL044w|two hybrid IST hits: 3
+YLR288c|YKL052c|two hybrid IST hits: 1
+YLR288c|YKL058w|two hybrid IST hits: 1
+YLR288c|YKL107w|two hybrid IST hits: 3
+YLR288c|YKL154w|two hybrid IST hits: 1
+YLR288c|YKL163w|two hybrid IST hits: 1
+YLR288c|YKL183w|two hybrid IST hits: 1
+YLR288c|YKR052c|two hybrid IST hits: 1
+YLR288c|YKR091w|two hybrid IST hits: 1
+YLR288c|YLL023c|two hybrid IST hits: 1
+YLR288c|YLR003c|two hybrid IST hits: 1
+YLR288c|YLR009w|two hybrid IST hits: 1
+YLR288c|YLR011w|two hybrid IST hits: 1
+YLR288c|YLR021w|two hybrid IST hits: 1
+YLR288c|YLR050c|two hybrid IST hits: 1
+YLR288c|YLR051c|two hybrid IST hits: 2
+YLR288c|YLR104w|two hybrid IST hits: 2
+YLR288c|YLR119w|two hybrid IST hits: 1
+YLR288c|YLR124w|two hybrid IST hits: 1
+YLR288c|YLR125w|two hybrid IST hits: 6
+YLR288c|YLR150w|two hybrid IST hits: 1
+YLR288c|YLR200w|two hybrid IST hits: 2
+YLR288c|YLR202c|two hybrid IST hits: 1
+YLR288c|YLR239c|two hybrid IST hits: 1
+YLR288c|YLR252w|two hybrid IST hits: 1
+YLR288c|YLR254c|two hybrid IST hits: 1
+YLR288c|YLR290c|two hybrid IST hits: 1
+YLR288c|YMR159c|two hybrid IST hits: 1
+YLR288c|YMR159c|two hybrid
+YLR288c|YMR295c|two hybrid IST hits: 1
+YLR288c|YNL013c|two hybrid IST hits: 1
+YLR288c|YNL110c|two hybrid IST hits: 1
+YLR288c|YNL131w|two hybrid IST hits: 1
+YLR288c|YNL158w|two hybrid IST hits: 1
+YLR288c|YNL190w|two hybrid IST hits: 1
+YLR288c|YNL301c|two hybrid IST hits: 1
+YLR288c|YOL012c|two hybrid IST hits: 1
+YLR288c|YOL046c|two hybrid IST hits: 1
+YLR288c|YOL093w|two hybrid IST hits: 2
+YLR288c|YOL131w|two hybrid IST hits: 1
+YLR288c|YOL139c|two hybrid IST hits: 1
+YLR288c|YOR087w|two hybrid IST hits: 1
+YLR288c|YOR104w|two hybrid IST hits: 1
+YLR288c|YOR368w|two hybrid
+YLR288c|YOR368w|two hybrid; pulldown coimmunoprecipitation
+YLR288c|YPL194w|Rad17p is necessary for stable Ddc1p-Mec3p interaction; coimmunoprecipitation; interaction does not depend on DNA damage and on Ddc1 phosphorylation
+YMR048w|YLR288c|DNA repair
+YNL273w|YLR288c|DNA repair
+YPR018w|YLR288c|two hybrid IST hits: 2

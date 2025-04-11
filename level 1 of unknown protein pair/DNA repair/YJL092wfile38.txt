@@ -1,0 +1,49 @@
+YCL016c|YJL092w|DNA repair
+YCL061c|YJL092w|DNA repair
+YCL061c|YJL092w|DNA repair
+YCR066w|YJL092w|mutations can be suppressed by hpr5 mutation;suppresses UV sensitivity of rad18 mutants, possibly by channeling aborted repair events into recombination repair pathway;suppression
+YDR078c|YJL092w|two hybrid
+YDR078c|YJL092w|two hybrid
+YDR363w|YJL092w|DNA repair
+YDR510w|YJL092w|two hybrid
+YHR031c|YJL092w|DNA repair
+YHR191c|YJL092w|DNA repair
+YIR009w|YJL092w|two hybrid
+YJL092w|YBR098w|DNA repair
+YJL092w|YBR099c|Unknown
+YJL092w|YCL016c|Chromatin/chromosome structure
+YJL092w|YDR363w|Chromatin/chromosome structure
+YJL092w|YDR369c|DNA repair
+YJL092w|YDR386w|DNA repair
+YJL092w|YGL163c|DNA repair
+YJL092w|YHR031c|DNA replication
+YJL092w|YHR154w|Chromatin/chromosome structure
+YJL092w|YHR191c|Chromatin/chromosome structure
+YJL092w|YIR002c|DNA repair
+YJL092w|YJR043c|DNA replication
+YJL092w|YKL113c|DNA repair
+YJL092w|YLR234w|Chromatin/chromosome structure
+YJL092w|YLR235c|Unknown
+YJL092w|YLR320w|Unknown
+YJL092w|YMR048w|Meiosis
+YJL092w|YMR078c|Chromatin/chromosome structure
+YJL092w|YMR078c|Chromatin/chromosome structure
+YJL092w|YMR190c|DNA repair
+YJL092w|YNL250w|DNA repair
+YJL092w|YNL273w|DNA repair
+YJL092w|YOR144c|DNA repair
+YJL092w|YOR355w|two hybrid
+YJL092w|YPL008w|Chromatin/chromosome structure
+YJL092w|YPL024w|Cell wall organization and biogenesis
+YJL092w|YPR135w|Chromatin/chromosome structure
+YJL092w|YPR164w|DNA repair
+YKL113c|YJL092w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YJL092w|DNA repair
+YLR103c|YJL092w|DNA repair
+YMR048w|YJL092w|DNA repair
+YMR078c|YJL092w|DNA repair
+YMR190c|YJL092w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJL092w|DNA repair
+YOR144c|YJL092w|DNA repair
+YPL008w|YJL092w|DNA repair
+YPR135w|YJL092w|DNA repair

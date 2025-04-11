@@ -1,0 +1,80 @@
+YAL013w|YGL127c|DNA repair
+YAL013w|YGL127c|DNA repair
+YBR094w|YGL127c|DNA repair
+YCL061c|YGL127c|DNA repair
+YDR408c|YGL127c|two hybrid
+YGL127c|YAL041w|two hybrid IST hits: 1
+YGL127c|YBL009w|two hybrid IST hits: 1
+YGL127c|YBL051c|two hybrid IST hits: 1
+YGL127c|YBR176w|two hybrid IST hits: 1
+YGL127c|YBR186w|two hybrid IST hits: 1
+YGL127c|YBR193c|two hybrid IST hits: 3
+YGL127c|YCR030c|two hybrid IST hits: 2
+YGL127c|YCR035c|two hybrid IST hits: 1
+YGL127c|YDL045c|two hybrid IST hits: 1
+YGL127c|YDL147w|two hybrid IST hits: 1
+YGL127c|YDL165w|two hybrid IST hits: 1
+YGL127c|YDR084c|two hybrid IST hits: 14
+YGL127c|YDR092w|two hybrid IST hits: 1
+YGL127c|YDR095c|two hybrid IST hits: 1
+YGL127c|YDR110w|two hybrid IST hits: 1
+YGL127c|YDR225w|two hybrid IST hits: 1
+YGL127c|YDR259c|two hybrid IST hits: 1
+YGL127c|YDR308c|two hybrid IST hits: 51
+YGL127c|YDR479c|two hybrid IST hits: 1
+YGL127c|YDR510w|two hybrid IST hits: 2
+YGL127c|YDR534c|two hybrid IST hits: 1
+YGL127c|YEL038w|two hybrid IST hits: 1
+YGL127c|YEL048c|two hybrid IST hits: 1
+YGL127c|YER022w|two hybrid IST hits: 1
+YGL127c|YER119c|two hybrid IST hits: 1
+YGL127c|YER149c|two hybrid IST hits: 1
+YGL127c|YER184c|two hybrid IST hits: 1
+YGL127c|YFR026c|two hybrid IST hits: 1
+YGL127c|YGL019w|two hybrid IST hits: 1
+YGL127c|YGL153w|two hybrid IST hits: 1
+YGL127c|YGL157w|two hybrid IST hits: 1
+YGL127c|YGL250w|two hybrid IST hits: 1
+YGL127c|YGR139w|two hybrid IST hits: 1
+YGL127c|YHR058c|two hybrid IST hits: 1
+YGL127c|YHR130c|two hybrid IST hits: 1
+YGL127c|YIL025c|two hybrid IST hits: 1
+YGL127c|YIL031w|two hybrid IST hits: 1
+YGL127c|YIR017c|two hybrid IST hits: 1
+YGL127c|YJL032w|two hybrid IST hits: 1
+YGL127c|YJR069c|two hybrid IST hits: 1
+YGL127c|YKL137w|two hybrid IST hits: 1
+YGL127c|YKR101w|two hybrid IST hits: 1
+YGL127c|YLL065w|two hybrid IST hits: 1
+YGL127c|YLR019w|two hybrid IST hits: 1
+YGL127c|YLR108c|two hybrid IST hits: 1
+YGL127c|YLR222c|two hybrid IST hits: 1
+YGL127c|YLR311c|two hybrid IST hits: 1
+YGL127c|YLR321c|two hybrid IST hits: 1
+YGL127c|YLR423c|two hybrid IST hits: 3
+YGL127c|YML133c|two hybrid IST hits: 1
+YGL127c|YMR054w|two hybrid IST hits: 1
+YGL127c|YMR072w|two hybrid IST hits: 1
+YGL127c|YMR202w|two hybrid IST hits: 1
+YGL127c|YNR010w|two hybrid IST hits: 2
+YGL127c|YNR028w|two hybrid IST hits: 1
+YGL127c|YOL016c|two hybrid IST hits: 1
+YGL127c|YOL018c|two hybrid IST hits: 1
+YGL127c|YOL135c|two hybrid IST hits: 5
+YGL127c|YOR047c|two hybrid IST hits: 3
+YGL127c|YOR128c|two hybrid IST hits: 4
+YGL127c|YOR162c|two hybrid IST hits: 1
+YGL127c|YOR174w|two hybrid IST hits: 11
+YGL127c|YOR263c|two hybrid IST hits: 1
+YGL127c|YOR289w|two hybrid IST hits: 1
+YGL127c|YOR377w|two hybrid IST hits: 1
+YGL127c|YPL064c|two hybrid IST hits: 1
+YGL127c|YPR168w|two hybrid IST hits: 62
+YHR191c|YGL127c|DNA repair
+YJL168c|YGL127c|DNA repair
+YJR070c|YGL127c|DNA repair
+YLR103c|YGL127c|DNA repair
+YMR078c|YGL127c|DNA repair
+YMR263w|YGL127c|DNA repair
+YPL155c|YGL127c|two hybrid IST hits: 1
+YPR135w|YGL127c|DNA repair

@@ -1,0 +1,19 @@
+YDL043c|YDR386w|two hybrid
+YDR363w|YDR386w|DNA repair
+YDR386w|YKL113c|DNA repair
+YDR386w|YLR234w|Chromatin/chromosome structure
+YDR386w|YLR235c|Unknown
+YDR386w|YLR373c|Vacuolar organization and biogenesis
+YDR386w|YMR190c|DNA repair
+YDR386w|YOR144c|DNA repair
+YDR386w|YPL024w|Cell wall organization and biogenesis
+YDR386w|YPL108w|two hybrid IST hits: 2
+YDR386w|YPR119w|two hybrid
+YER112w|YDR386w|1 clones in category A4
+YJL092w|YDR386w|DNA repair
+YKL113c|YDR386w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR386w|DNA repair
+YMR190c|YDR386w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YDR386w|DNA repair
+YNL024c|YDR386w|two hybrid IST hits: 1
+YOR144c|YDR386w|DNA repair

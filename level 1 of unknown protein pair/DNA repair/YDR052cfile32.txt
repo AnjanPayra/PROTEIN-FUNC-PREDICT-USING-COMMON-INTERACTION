@@ -1,0 +1,44 @@
+YBL023c|YDR052c|dbf4-6 suppresses the replication initiation defect of mcm2-1;suppression partial alteration
+YBL023c|YDR052c|epitope-tagged coimmuno affinity chromatography; two hybrid
+YBL085w|YDR052c|dbf4 mutants are bypassed by bob1 mutantsuppression mutation
+YDL017w|YDR052c|DBF4 overexpression suppresses cdc7 ts mutations
+YDL017w|YDR052c|Dbf4p possesses two Cdc7p interacting domains; associates with the origin complex via its cyclin-like activator Dbf4possesses two Cdc7p interacting domains
+YDL017w|YDR052c|CDC7 overexpression can suppress some dbf4 mutations but not dbf4 null mutation
+YDR052c|YBL008w|Chromatin/chromosome structure
+YDR052c|YBR215w|Pol II transcription
+YDR052c|YBR274w|DNA repair
+YDR052c|YCL016c|Chromatin/chromosome structure
+YDR052c|YCR031c|Protein synthesis
+YDR052c|YDL062w|Unknown
+YDR052c|YDR052c|two hybrid; affinity chromatography
+YDR052c|YDR052c|two hybrid; affinity chromatography
+YDR052c|YDR217c|DNA repair
+YDR052c|YDR363w|Chromatin/chromosome structure
+YDR052c|YER173w|DNA repair
+YDR052c|YER177w|Differentiation
+YDR052c|YGL129c|Protein synthesis
+YDR052c|YGL173c|RNA processing
+YDR052c|YGR078c|Cell structure
+YDR052c|YGR188c|Mitosis
+YDR052c|YHR154w|Chromatin/chromosome structure
+YDR052c|YHR178w|Pol II transcription
+YDR052c|YHR191c|Chromatin/chromosome structure
+YDR052c|YIL128w|Pol II Transcription
+YDR052c|YJR140c|Pol II transcription
+YDR052c|YKR059w|Protein synthesis
+YDR052c|YLR234w|Chromatin/chromosome structure
+YDR052c|YLR235c|Unknown
+YDR052c|YLR288c|DNA repair
+YDR052c|YLR320w|Unknown
+YDR052c|YLR423c|two hybrid IST hits: 3
+YDR052c|YML094w|Cell structure
+YDR052c|YML115c|Protein modification
+YDR052c|YMR001c|dbf4 mutants can be suppressed by overexpression of Cdc5p;suppression
+YDR052c|YMR001c|N-terminus of Dbf4p interacts with Cdc5; interacts with N-termius region of Dbf4p
+YDR052c|YNL153c|Cell structure
+YDR052c|YOL081w|Signal transduction
+YDR052c|YOR027w|Protein folding
+YDR052c|YOR178c|two hybrid IST hits: 1
+YDR052c|YOR368w|DNA repair
+YDR052c|YPL024w|Cell wall organization and biogenesis
+YDR052c|YPR135w|Chromatin/chromosome structure

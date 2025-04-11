@@ -1,0 +1,12 @@
+YBR098w|YDR369c|DNA repair
+YCL061c|YDR369c|DNA repair
+YCL061c|YDR369c|DNA repair
+YDR369c|YMR224c|two hybrid
+YJL092w|YDR369c|DNA repair
+YJR043c|YDR369c|DNA repair
+YKL113c|YDR369c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YDR369c|DNA repair
+YLR103c|YDR369c|DNA repair
+YLR418c|YDR369c|DNA repair
+YOR144c|YDR369c|DNA repair
+YPR141c|YDR369c|DNA repair

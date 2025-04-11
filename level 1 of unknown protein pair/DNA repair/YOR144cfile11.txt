@@ -1,0 +1,45 @@
+YBR094w|YOR144c|DNA repair
+YCL061c|YOR144c|DNA repair
+YDR386w|YOR144c|DNA repair
+YJL092w|YOR144c|DNA repair
+YML032c|YOR144c|DNA repair
+YMR048w|YOR144c|DNA repair
+YMR048w|YOR144c|DNA repair
+YNL250w|YOR144c|DNA repair
+YNL273w|YOR144c|DNA repair
+YOR144c|YBR094w|Unknown
+YOR144c|YBR098w|DNA repair
+YOR144c|YBR099c|Unknown
+YOR144c|YCL061c|DNA repair
+YOR144c|YDL013w|Meiosis
+YOR144c|YDL074c|Chromatin/chromosome stucture
+YOR144c|YDR004w|DNA repair
+YOR144c|YDR076w|DNA repair
+YOR144c|YDR334w|Unknown
+YOR144c|YDR369c|DNA repair
+YOR144c|YDR386w|DNA repair
+YOR144c|YER016w|Mitosis
+YOR144c|YER095w|DNA repair
+YOR144c|YER116c|DNA repair
+YOR144c|YER173w|DNA repair
+YOR144c|YGL163c|DNA repair
+YOR144c|YGR281w|Small molecule transport
+YOR144c|YJL092w|DNA repair
+YOR144c|YJR043c|DNA replication
+YOR144c|YKL113c|DNA repair
+YOR144c|YLL002w|DNA repair
+YOR144c|YLR234w|Chromatin/chromosome structure
+YOR144c|YLR235c|Unknown
+YOR144c|YML032c|DNA repair
+YOR144c|YMR190c|DNA repair
+YOR144c|YMR224c|DNA repair
+YOR144c|YNL250w|DNA repair
+YOR144c|YNL273w|DNA repair
+YOR144c|YNL291c|Small molecule transport
+YOR144c|YNR051c|Unknown
+YOR144c|YPL008w|Chromatin/chromosome structure
+YOR144c|YPR135w|Chromatin/chromosome structure
+YOR144c|YPR141c|Mitosis
+YPL008w|YOR144c|DNA repair
+YPL008w|YOR144c|DNA repair
+YPR135w|YOR144c|DNA repair

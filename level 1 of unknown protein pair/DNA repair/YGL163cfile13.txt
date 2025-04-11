@@ -1,0 +1,15 @@
+YCL016c|YGL163c|DNA repair
+YER016w|YGL163c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YGL163c|DNA repair
+YER095w|YGL163c|affinity chromatography; two hybrid; coimmunoprecipitation; affinity column; two hybrid; coimmunoprecipitation
+YHR191c|YGL163c|DNA repair
+YJL092w|YGL163c|DNA repair
+YJR043c|YGL163c|DNA repair
+YKL113c|YGL163c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YGL163c|DNA repair
+YLR103c|YGL163c|DNA repair
+YMR078c|YGL163c|DNA repair
+YNL273w|YGL163c|DNA repair
+YNL298w|YGL163c|DNA repair
+YOR144c|YGL163c|DNA repair
+YPR135w|YGL163c|DNA repair

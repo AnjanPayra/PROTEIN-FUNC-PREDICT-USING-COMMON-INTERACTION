@@ -1,0 +1,82 @@
+YCL061c|YHR191c|Chromatin/chromosome structure
+YCL061c|YHR191c|Chromatin/chromosome structure
+YDL003w|YHR191c|Chromatin/chromosome structure
+YDL017w|YHR191c|Chromatin/chromosome structure
+YDR052c|YHR191c|Chromatin/chromosome structure
+YDR217c|YHR191c|Chromatin/chromosome structure
+YDR332w|YHR191c|Chromatin/chromosome structure
+YEL003w|YHR191c|Chromatin/chromosome structure
+YER016w|YHR191c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YHR191c|Chromatin/chromosome structure
+YGL216w|YHR191c|Chromatin/chromosome structure
+YGR078c|YHR191c|Chromatin/chromosome structure
+YGR229c|YHR191c|Chromatin/chromosome structure
+YHR031c|YHR191c|Chromatin/chromosome structure
+YHR191c|YCL061c|DNA repair
+YHR191c|YDR004w|DNA repair
+YHR191c|YDR076w|DNA repair
+YHR191c|YDR217c|DNA repair
+YHR191c|YDR225w|Chromatin/chromosome structure
+YHR191c|YDR335w|Nuclear-cytoplasmic transport
+YHR191c|YEL003w|Cell structure
+YHR191c|YEL061c|Mitosis
+YHR191c|YER016w|Mitosis
+YHR191c|YER116c|DNA repair
+YHR191c|YFR036w|Cell cycle control
+YHR191c|YGL066w|Pol II transcription
+YHR191c|YGL086w|Mitosis
+YHR191c|YGL127c|DNA repair
+YHR191c|YGL163c|DNA repair
+YHR191c|YGL167c|Small molecule transport
+YHR191c|YGL168w|Unknown
+YHR191c|YGL173c|RNA processing
+YHR191c|YGL216w|Mitosis
+YHR191c|YGL244w|Pol II transcription
+YHR191c|YGR078c|Cell structure
+YHR191c|YGR184c|Protein degradation
+YHR191c|YGR229c|Cell wall organization and biogenesis
+YHR191c|YHR031c|DNA replication
+YHR191c|YJL030w|Mitosis
+YHR191c|YJL092w|DNA repair
+YHR191c|YLR032w|DNA repair
+YHR191c|YLR085c|Cell structure
+YHR191c|YLR234w|Chromatin/chromosome structure
+YHR191c|YLR235c|Unknown
+YHR191c|YML032c|DNA repair
+YHR191c|YML094w|Cell structure
+YHR191c|YMR038c|Amino-acid metabolism
+YHR191c|YMR048w|Meiosis
+YHR191c|YMR055c|Mitosis
+YHR191c|YNL153c|Cell structure
+YHR191c|YNL250w|DNA repair
+YHR191c|YNL273w|DNA repair
+YHR191c|YNL298w|Cell polarity
+YHR191c|YOL012c|Chromatin/chromosome structure
+YHR191c|YOR058c|Mitosis
+YHR191c|YOR195w|Chromatin/chromosome structure
+YHR191c|YOR368w|DNA repair
+YHR191c|YPL008w|Chromatin/chromosome structure
+YHR191c|YPL055c|Cell cycle control
+YHR191c|YPL194w|DNA repair
+YHR191c|YPL253c|Mitosis
+YHR191c|YPR045c|Unknown
+YHR191c|YPR119w|Cell cycle control
+YHR191c|YPR135w|Chromatin/chromosome structure
+YHR191c|YPR141c|Mitosis
+YJL030w|YHR191c|Chromatin/chromosome structure
+YJL092w|YHR191c|Chromatin/chromosome structure
+YLR103c|YHR191c|Chromatin/chromosome structure
+YLR200w|YHR191c|Chromatin/chromosome structure
+YML094w|YHR191c|Chromatin/chromosome structure
+YMR048w|YHR191c|Chromatin/chromosome structure
+YMR048w|YHR191c|Chromatin/chromosome structure
+YNL153c|YHR191c|Chromatin/chromosome structure
+YNL250w|YHR191c|Chromatin/chromosome structure
+YNL273w|YHR191c|Chromatin/chromosome structure
+YNL273w|YHR191c|Chromatin/chromosome structure
+YNL298w|YHR191c|Chromatin/chromosome structure
+YOR349w|YHR191c|Chromatin/chromosome structure
+YPL008w|YHR191c|Chromatin/chromosome structure
+YPL008w|YHR191c|Chromatin/chromosome structure
+YPR135w|YHR191c|Chromatin/chromosome structure
+YPR141c|YHR191c|Chromatin/chromosome structure

@@ -1,0 +1,25 @@
+YDL102w|YBR094w|Unknown
+YDL102w|YBR098w|DNA repair
+YDL102w|YDR004w|DNA repair
+YDL102w|YER173w|overexpression of RAD24 reduces growth rate of cdc2 mutant;synthetic growth defect
+YDL102w|YER173w|DNA repair
+YDL102w|YFR010w|Protein modification
+YDL102w|YHR118c|cdc2-1 shows synthetic dosage lethality with ORC6;cdc2-1; synthetic dosage lethality
+YDL102w|YJR006w|extragenic suppressors of pol3-13 are allelic to sdp5-1
+YDL102w|YJR006w|hys2-2 cdc2-2 double mutants do grow at 20C but not at 25C;ts growth of hys2-1 and hys2-2 can be suppressed by overexpression of CDC2
+YDL102w|YJR006w|hys2-2 cdc2-2 double mutants do grow at 20C but not at 25C;synthetic lethal
+YDL102w|YJR006w|two hybrid; copurification
+YDL102w|YJR006w|copurification
+YDL102w|YJR043c|synthetic lethal
+YDL102w|YJR043c|two hybrid
+YDL102w|YJR043c|DNA replication
+YDL102w|YJR068w|rfc2-1 cdc2-2 double mutant show lowered restrictive temperature compared to rfc2-1 single mutant;synthetic growth defect
+YDL102w|YMR048w|Meiosis
+YDL102w|YMR075c-a|Unknown
+YDL102w|YMR307w|Cell wall organization and biogenesis
+YDL102w|YNL273w|DNA repair
+YDL102w|YNL291c|Small molecule transport
+YDL102w|YNL307c|Meiosis
+YDL102w|YOL093w|tRNA methylation
+YDL102w|YOR368w|DNA repair
+YDL102w|YPL194w|DNA repair

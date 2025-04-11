@@ -1,0 +1,71 @@
+YBR094w|YMR190c|DNA repair
+YBR098w|YMR190c|DNA repair
+YCL016c|YMR190c|DNA repair
+YCL061c|YMR190c|DNA repair
+YCL061c|YMR190c|DNA repair
+YDL017w|YMR190c|DNA repair
+YDR363w|YMR190c|DNA repair
+YDR386w|YMR190c|DNA repair
+YHR031c|YMR190c|DNA repair
+YHR154w|YMR190c|DNA repair
+YJL092w|YMR190c|DNA repair
+YJR057w|YMR190c|DNA repair
+YKL113c|YMR190c|DNA repair
+YLR234w|YMR190c|interacts with Top3p through the N-terminal third of the molecule
+YLR234w|YMR190c|interacts with Top3p through the N-terminal third of the molecule
+YMR048w|YMR190c|DNA repair
+YMR048w|YMR190c|DNA repair
+YMR078c|YMR190c|DNA repair
+YMR190c|YBR094w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR094w|Unknown
+YMR190c|YBR098w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR098w|DNA repair
+YMR190c|YBR228w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR228w|DNA repair
+YMR190c|YDR363w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YDR363w|Chromatin/chromosome structure
+YMR190c|YDR386w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YDR386w|DNA repair
+YMR190c|YER070w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YER070w|DNA replication
+YMR190c|YGL031c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YGL031c|Protein synthesis
+YMR190c|YGL175c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YGL175c|DNA repair
+YMR190c|YHR031c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YHR031c|DNA replication
+YMR190c|YHR134w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YHR134w|DNA repair
+YMR190c|YHR154w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YHR154w|Chromatin/chromosome structure
+YMR190c|YJL092w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJL092w|DNA repair
+YMR190c|YJL115w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJL115w|Chromatin/chromosome structure
+YMR190c|YJL187c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJL187c|Cell cycle control
+YMR190c|YJR043c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJR043c|DNA replication
+YMR190c|YJR104c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YJR104c|Cell stress
+YMR190c|YKL113c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YKL113c|DNA repair
+YMR190c|YKR072c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YKR072c|Cell stress
+YMR190c|YLR135w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YLR135w|DNA repair
+YMR190c|YMR048w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YMR048w|Meiosis
+YMR190c|YMR078c|Chromatin/chromosome structure
+YMR190c|YNL016w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YNL016w|RNA processing
+YMR190c|YNL218w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YNL218w|DNA replication
+YMR190c|YNL250w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YNL250w|DNA repair
+YMR190c|YOL006c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YOL006c|Chromatin/chromosome structure
+YOL006c|YMR190c|DNA repair
+YOR025w|YMR190c|DNA repair
+YOR144c|YMR190c|DNA repair
+YPR135w|YMR190c|DNA repair

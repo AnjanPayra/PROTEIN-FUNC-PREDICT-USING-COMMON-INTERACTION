@@ -1,0 +1,21 @@
+YBR098w|YDR363w|Chromatin/chromosome structure
+YBR098w|YDR369c|DNA repair
+YBR098w|YKL113c|DNA repair
+YBR098w|YLR234w|Chromatin/chromosome structure
+YBR098w|YLR235c|Unknown
+YBR098w|YLR373c|Vacuolar organization and biogenesis
+YBR098w|YMR190c|DNA repair
+YBR098w|YPL024w|Cell wall organization and biogenesis
+YDL102w|YBR098w|DNA repair
+YDR363w|YBR098w|DNA repair
+YHR016c|YBR098w|two hybrid with SH3 domain as bait
+YHR016c|YBR098w|two hybrid with SH3 domain as bait
+YJL092w|YBR098w|DNA repair
+YJR057w|YBR098w|DNA repair
+YKL113c|YBR098w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YBR098w|DNA repair
+YLR103c|YBR098w|DNA repair
+YMR190c|YBR098w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YBR098w|DNA repair
+YOL006c|YBR098w|DNA repair
+YOR144c|YBR098w|DNA repair
