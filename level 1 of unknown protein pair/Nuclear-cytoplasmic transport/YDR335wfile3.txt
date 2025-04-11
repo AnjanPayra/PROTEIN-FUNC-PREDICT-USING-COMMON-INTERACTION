@@ -1,0 +1,11 @@
+YDR146c|YDR335w|two hybrid
+YDR174w|YDR335w|two hybrid
+YDR335w|YGR009c|two hybrid
+YDR335w|YKL068w|two hybrid IST hits: 1
+YDR335w|YLR293c|Msn5p binds to GTP-Gsp1p; immunoblotting
+YDR335w|YOR359w|two hybrid
+YDR335w|YPR008w|two hybrid
+YER016w|YDR335w|Nuclear-cytoplasmic transport
+YHR191c|YDR335w|Nuclear-cytoplasmic transport
+YJL099w|YDR335w|Nuclear-cytoplasmic transport
+YLR418c|YDR335w|Nuclear-cytoplasmic transport

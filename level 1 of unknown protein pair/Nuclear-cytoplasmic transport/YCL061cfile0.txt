@@ -1,0 +1,59 @@
+YCL016c|YCL061c|DNA repair
+YCL061c|YAR002w|Nuclear-cytoplasmic transport
+YCL061c|YAR002w|Nuclear-cytoplasmic transport
+YCL061c|YBR093c|Phosphate metabolism
+YCL061c|YBR093c|Phosphate metabolism
+YCL061c|YCL016c|Chromatin/chromosome structure
+YCL061c|YDL030w|two hybrid
+YCL061c|YDR217c|DNA repair
+YCL061c|YDR217c|DNA repair
+YCL061c|YDR369c|DNA repair
+YCL061c|YDR369c|DNA repair
+YCL061c|YER095w|DNA repair
+YCL061c|YER173w|DNA repair
+YCL061c|YER173w|DNA repair
+YCL061c|YGL127c|DNA repair
+YCL061c|YHR031c|DNA replication
+YCL061c|YHR031c|DNA replication
+YCL061c|YHR191c|Chromatin/chromosome structure
+YCL061c|YHR191c|Chromatin/chromosome structure
+YCL061c|YJL092w|DNA repair
+YCL061c|YJL092w|DNA repair
+YCL061c|YJR043c|DNA replication
+YCL061c|YJR043c|DNA replication
+YCL061c|YKL113c|DNA repair
+YCL061c|YKL113c|DNA repair
+YCL061c|YML032c|DNA repair
+YCL061c|YMR048w|Meiosis
+YCL061c|YMR048w|Meiosis
+YCL061c|YMR078c|Chromatin/chromosome structure
+YCL061c|YMR190c|DNA repair
+YCL061c|YMR190c|DNA repair
+YCL061c|YMR198w|Mitosis
+YCL061c|YMR198w|Mitosis
+YCL061c|YNL250w|DNA repair
+YCL061c|YNL273w|DNA repair
+YCL061c|YNL273w|DNA repair
+YCL061c|YOL012c|Chromatin/chromosome structure
+YCL061c|YOR024w|Unknown
+YCL061c|YOR024w|Unknown
+YCL061c|YOR025w|Chromatin/chromosome structure
+YCL061c|YOR025w|Chromatin/chromosome structure
+YCL061c|YOR144c|DNA repair
+YCL061c|YOR368w|DNA repair
+YCL061c|YOR368w|DNA repair
+YCL061c|YPL194w|DNA repair
+YCL061c|YPL194w|DNA repair
+YCL061c|YPR135w|Chromatin/chromosome structure
+YCL061c|YPR135w|Chromatin/chromosome structure
+YCL061c|YPR141c|Mitosis
+YCL061c|YPR141c|Mitosis
+YER016w|YCL061c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YHR031c|YCL061c|DNA repair
+YHR191c|YCL061c|DNA repair
+YMR078c|YCL061c|DNA repair
+YNL273w|YCL061c|DNA repair
+YOR144c|YCL061c|DNA repair
+YPL194w|YCL061c|DNA repair
+YPR135w|YCL061c|DNA repair
+YPR141c|YCL061c|DNA repair

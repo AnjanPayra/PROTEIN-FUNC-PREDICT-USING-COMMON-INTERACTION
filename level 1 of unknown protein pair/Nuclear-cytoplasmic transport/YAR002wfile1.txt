@@ -1,0 +1,10 @@
+YCL016c|YAR002w|Nuclear-cytoplasmic transport
+YCL061c|YAR002w|Nuclear-cytoplasmic transport
+YCL061c|YAR002w|Nuclear-cytoplasmic transport
+YDR363w|YAR002w|Nuclear-cytoplasmic transport
+YLR418c|YAR002w|Nuclear-cytoplasmic transport
+YMR078c|YAR002w|Nuclear-cytoplasmic transport
+YNL250w|YAR002w|Nuclear-cytoplasmic transport
+YNL273w|YAR002w|Nuclear-cytoplasmic transport
+YPR135w|YAR002w|Nuclear-cytoplasmic transport
+YPR141c|YAR002w|Nuclear-cytoplasmic transport
