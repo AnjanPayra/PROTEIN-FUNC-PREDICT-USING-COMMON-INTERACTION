@@ -1,0 +1,37 @@
+YBR081c|YDR448w|cofractionation; coimmunoprecipitation; copurification
+YBR081c|YDR448w|coimmunoprecipitation
+YBR198c|YDR448w|copurification; coimmunoprecipitation
+YBR198c|YDR448w|coimmunoprecipitation
+YBR278w|YDR448w|two hybrid IST hits: 2
+YDL165w|YDR448w|affinity chromatography
+YDR145w|YDR448w|copurification
+YDR145w|YDR448w|copurification
+YDR167w|YDR448w|copurification
+YDR167w|YDR448w|copurification
+YDR176w|YDR448w|two hybrid
+YDR176w|YDR448w|coimmunoprecipitation
+YDR176w|YDR448w|cofractionation; coimmunoprecipitation; copurification; in vitro binding
+YDR176w|YDR448w|Ada2p, Ngg1p, Gcn5p form a trimeric complex in vitro
+YDR176w|YDR448w|two hybrid IST hits: 11
+YDR176w|YDR448w|two hybrid; coimmunoprecipitation; copurification; in vitro binding
+YDR216w|YDR448w|Ada2p binds to TADII (transcriptional activator domain) of Adr1p; Ada2p binds to TADII and Gcn5p to all four TADs I and IV interact with C-terminal segment of TFIIB
+YDR228c|YDR448w|two hybrid
+YDR392w|YDR448w|two hybrid; coimmunoprecipitation; copurification
+YDR392w|YDR448w|copurification
+YDR448w|YER148w|two hybrid; coimmunoprecipitation
+YDR448w|YGL112c|copurification
+YDR448w|YGR252w|two hybrid
+YDR448w|YGR252w|Ada2p coimmunoprecipitates and copurifies with Gcn5p, Hfi1p, Ngg1p, and Spt20p; Ada2p coimmunoprecipitates and copurifies with Gcn5p,Hfi1p, Ngg1p, and Spt20p
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation; affinity column; in vitro binding; copurification
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation; affinity chromatography; in vitro binding; copurification
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation
+YDR448w|YGR252w|Ada2p, Ngg1p, Gcn5p form a trimeric complex in vitro
+YDR448w|YHR099w|two hybrid; coimmunoprecipitation; copurification
+YDR448w|YLR055c|copurification
+YDR448w|YMR236w|copurification
+YDR448w|YOL148c|coimmunoprecipitation; copurification
+YDR448w|YOL148c|coimmunoprecipitation; copurification
+YDR448w|YPL254w|coimmunoprecipitation; copurification
+YHR166c|YDR448w|two hybrid IST hits: 1
+YKL012w|YDR448w|two hybrid IST hits: 1
+YLR291c|YDR448w|two hybrid IST hits: 1

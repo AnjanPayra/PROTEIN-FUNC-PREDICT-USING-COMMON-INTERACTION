@@ -1,0 +1,4 @@
+YDL065c|YLR071c|two hybrid
+YLR071c|YNL236w|copurification
+YLR071c|YOL148c|spt20delta rgr1delta2 mutants are synthetic lethal
+YLR071c|YPL016w|rgr1delta2 swi1delta mutants are synthetic lethal; swi1delta rgr1delta2 mutants are synthetic lethal

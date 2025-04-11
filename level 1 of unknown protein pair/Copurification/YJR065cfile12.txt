@@ -1,0 +1,6 @@
+YDL029w|YJR065c|copurification
+YIL062c|YJR065c|copurification
+YJR065c|YKL013c|copurification
+YJR065c|YLR370c|copurification
+YJR065c|YNR035c|copurification
+YPR086w|YJR065c|two hybrid IST hits: 1

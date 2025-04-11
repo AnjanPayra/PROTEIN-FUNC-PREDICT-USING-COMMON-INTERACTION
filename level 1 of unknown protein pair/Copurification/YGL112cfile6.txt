@@ -1,0 +1,25 @@
+YBR081c|YGL112c|affinity chromatography; copurification
+YBR198c|YGL112c|two hybrid IST hits: 1
+YBR198c|YGL112c|copurification
+YDR145w|YGL112c|copurification
+YDR167w|YGL112c|copurification; immunoprecipitation
+YDR167w|YGL112c|immunoprecipitation; copurification
+YDR176w|YGL112c|copurification
+YDR176w|YGL112c|copurification
+YDR392w|YGL112c|copurification
+YDR448w|YGL112c|copurification
+YGL112c|YDL087c|two hybrid IST hits: 1
+YGL112c|YGR252w|copurification
+YGL112c|YHR099w|copurification
+YGL112c|YHR099w|copurification
+YGL112c|YLR055c|copurification
+YGL112c|YMR154c|two hybrid IST hits: 1
+YGL112c|YMR236w|two hybrid
+YGL112c|YMR236w|copurification
+YGL112c|YMR236w|two hybrid IST hits: 44
+YGL112c|YMR255w|two hybrid
+YGL112c|YNL016w|two hybrid IST hits: 1
+YGL112c|YOL148c|copurification
+YGL112c|YPL254w|copurification
+YMR236w|YGL112c|two hybrid IST hits: 11
+YOR220w|YGL112c|two hybrid IST hits: 3

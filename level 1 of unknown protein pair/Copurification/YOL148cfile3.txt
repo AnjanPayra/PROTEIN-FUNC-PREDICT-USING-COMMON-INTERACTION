@@ -1,0 +1,27 @@
+YBR081c|YOL148c|affinity chromatography; copurification; GST-binding
+YBR198c|YOL148c|copurification
+YBR289w|YOL148c|spt20delta snf5delta mutants are synthetic lethal
+YDR145w|YOL148c|copurification
+YDR167w|YOL148c|copurification
+YDR176w|YOL148c|coimmunoprecipitation; copurification
+YDR176w|YOL148c|coimmunoprecipitation; copurification
+YDR392w|YOL148c|copurification; GST-binding
+YDR448w|YOL148c|coimmunoprecipitation; copurification
+YDR448w|YOL148c|coimmunoprecipitation; copurification
+YER148w|YOL148c|GST-binding
+YGL112c|YOL148c|copurification
+YGR104c|YOL148c|spt20delta srb5delta mutants are synthetic lethal
+YGR252w|YOL148c|coimmunoprecipitation; copurification
+YGR252w|YOL148c|coimmunoprecipitation; copurification
+YHR041c|YOL148c|spt20delta srb2delta mutants are synthetic lethal
+YHR099w|YOL148c|copurification
+YHR099w|YOL148c|copurification
+YLR055c|YOL148c|copurification; GST-binding
+YLR071c|YOL148c|spt20delta rgr1delta2 mutants are synthetic lethal
+YMR236w|YOL148c|copurification
+YNL236w|YOL148c|spt20delta sin4delta mutants are synthetic lethal
+YOL051w|YOL148c|spt20delta gal11delta mutants are synthetic lethal
+YOL148c|YOR290c|spt20delta snf2delta mutants are synthetic lethal
+YOL148c|YPL016w|spt20delta swi1delta mutants are synthetic lethal
+YOL148c|YPL254w|coimmunoprecipitation; copurification
+YPR086w|YOL148c|two hybrid IST hits: 1

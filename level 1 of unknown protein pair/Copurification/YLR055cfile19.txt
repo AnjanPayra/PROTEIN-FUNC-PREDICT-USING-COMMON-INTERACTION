@@ -1,0 +1,20 @@
+YAL013w|YLR055c|Chromatin/chromosome structure
+YBR081c|YLR055c|affinity chromatography; copurification
+YBR198c|YLR055c|copurification
+YDL017w|YLR055c|Chromatin/chromosome structure
+YDR145w|YLR055c|copurification
+YDR167w|YLR055c|copurification
+YDR176w|YLR055c|copurification
+YDR176w|YLR055c|copurification
+YDR392w|YLR055c|copurification
+YDR448w|YLR055c|copurification
+YGL112c|YLR055c|copurification
+YGR252w|YLR055c|copurification
+YHR099w|YLR055c|copurification
+YHR099w|YLR055c|copurification
+YLR055c|YMR236w|copurification
+YLR055c|YOL148c|copurification; GST-binding
+YLR055c|YPL254w|copurification
+YLR085c|YLR055c|Chromatin/chromosome structure
+YLR103c|YLR055c|Chromatin/chromosome structure
+YMR263w|YLR055c|Chromatin/chromosome structure

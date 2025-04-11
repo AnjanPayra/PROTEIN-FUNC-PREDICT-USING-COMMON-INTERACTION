@@ -1,0 +1,31 @@
+YBR081c|YGR252w|coimmunoprecipitation; copurification
+YBR198c|YGR252w|copurification
+YBR289w|YGR252w|gcn5delta snf5delta mutants show synthetic sicknessynthetic growth defect;synthetic sickness
+YDR145w|YGR252w|copurification
+YDR167w|YGR252w|copurification
+YDR176w|YGR252w|
+YDR176w|YGR252w|coimmunoprecipitation; copurification
+YDR176w|YGR252w|coimmunoprecipitation; copurification
+YDR216w|YGR252w|Gcn5p binds to all four transcriptional activation domains of Adr1p
+YDR392w|YGR252w|copurification
+YDR448w|YGR252w|two hybrid
+YDR448w|YGR252w|Ada2p coimmunoprecipitates and copurifies with Gcn5p, Hfi1p, Ngg1p, and Spt20p; Ada2p coimmunoprecipitates and copurifies with Gcn5p,Hfi1p, Ngg1p, and Spt20p
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation; affinity column; in vitro binding; copurification
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation; affinity chromatography; in vitro binding; copurification
+YDR448w|YGR252w|two hybrid; GST binding assay; coimmunoprecipitation
+YDR448w|YGR252w|Ada2p, Ngg1p, Gcn5p form a trimeric complex in vitro
+YGL112c|YGR252w|copurification
+YGR252w|YHR041c|gcn5delta srb2delta mutants show synthetic sickness
+YGR252w|YHR079c|the Gcn5p N-terminus interacts with the nucleoplasmic domain of Ire1p; two hybrid; coimmunoprecipitation
+YGR252w|YHR099w|copurification
+YGR252w|YHR099w|copurification
+YGR252w|YLR055c|copurification
+YGR252w|YMR236w|copurification
+YGR252w|YNL236w|gcn5delta sin4delta mutants show synthetic sickness
+YGR252w|YOL148c|coimmunoprecipitation; copurification
+YGR252w|YOL148c|coimmunoprecipitation; copurification
+YGR252w|YOR225w|two hybrid IST hits: 1
+YGR252w|YOR290c|gcn5delta snf2delta mutants are synthetic lethal; gcn5delta snf2delta mutants show synthetic sickness
+YGR252w|YPL016w|synthetic sickness;gcn5delta swi1delta mutants are synthetic lethal; gcn5delta swi1delta mutants show synthetic sicknessynthetic lethal
+YGR252w|YPL254w|coimmunoprecipitation; copurification
+YHR030c|YGR252w|Pol II transcription

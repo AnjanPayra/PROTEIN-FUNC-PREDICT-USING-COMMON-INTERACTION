@@ -1,0 +1,5 @@
+YGL097w|YGR218w|two hybrid
+YGL097w|YIL063c|synthetic-lethal interaction between yrb2 null mutant and ts alleles prp20-1 or prp20-101
+YGL097w|YIL063c|copurification
+YGL097w|YOR204w|affinity chromatographie; affinity chromatography
+YGL097w|YOR364w|two hybrid IST hits: 2

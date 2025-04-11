@@ -1,0 +1,17 @@
+YBR081c|YDR145w|affinity chromatography; copurification
+YBR198c|YDR145w|copurification
+YDR145w|YDR167w|copurification
+YDR145w|YDR176w|copurification
+YDR145w|YDR176w|copurification
+YDR145w|YDR392w|copurification
+YDR145w|YDR448w|copurification
+YDR145w|YDR448w|copurification
+YDR145w|YGL112c|copurification
+YDR145w|YGR252w|copurification
+YDR145w|YHR099w|copurification
+YDR145w|YHR099w|copurification
+YDR145w|YLR055c|copurification
+YDR145w|YLR390w|two hybrid
+YDR145w|YMR236w|copurification
+YDR145w|YOL148c|copurification
+YDR145w|YPL254w|copurification

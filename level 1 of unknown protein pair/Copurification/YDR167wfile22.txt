@@ -1,0 +1,44 @@
+YBR081c|YDR167w|affinity chromatography; copurification
+YBR198c|YDR167w|copurification; immunoprecipitation
+YBR198c|YDR167w|coimmunoprecipitation
+YCR042c|YDR167w|coimmunoprecipitation
+YDR145w|YDR167w|copurification
+YDR167w|YBR081c|
+YDR167w|YDR167w|two hybrid; gel retardation experiment
+YDR167w|YDR167w|two hybrid; gel retardation experiment
+YDR167w|YDR176w|copurification
+YDR167w|YDR176w|copurification
+YDR167w|YDR207c|
+YDR167w|YDR259c|
+YDR167w|YDR392w|copurification
+YDR167w|YDR448w|copurification
+YDR167w|YDR448w|copurification
+YDR167w|YER013w|
+YDR167w|YER148w|immunoprecipitation
+YDR167w|YFL033c|
+YDR167w|YGL112c|copurification; immunoprecipitation
+YDR167w|YGL112c|immunoprecipitation; copurification
+YDR167w|YGR097w|
+YDR167w|YGR252w|copurification
+YDR167w|YGR274c|immunoprecipitation
+YDR167w|YHR099w|copurification
+YDR167w|YHR099w|copurification
+YDR167w|YIL129c|
+YDR167w|YKL012w|
+YDR167w|YLR055c|copurification
+YDR167w|YLR228c|
+YDR167w|YLR432w|two hybrid
+YDR167w|YML015c|two hybrid
+YDR167w|YML098w|two hybrid
+YDR167w|YML114c|two hybrid
+YDR167w|YMR236w|copurification
+YDR167w|YNL216w|
+YDR167w|YOL148c|copurification
+YDR167w|YOR250c|
+YDR167w|YPL011c|
+YDR167w|YPL089c|
+YDR167w|YPL129w|immunoprecipitation
+YDR167w|YPL254w|copurification
+YDR167w|YPR115w|
+YJR091c|YDR167w|two hybrid IST hits: 1
+YML098w|YDR167w|two hybrid IST hits: 2

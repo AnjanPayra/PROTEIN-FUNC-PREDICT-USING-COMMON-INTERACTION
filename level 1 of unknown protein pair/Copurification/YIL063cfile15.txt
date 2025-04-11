@@ -1,0 +1,9 @@
+YGL097w|YIL063c|synthetic-lethal interaction between yrb2 null mutant and ts alleles prp20-1 or prp20-101
+YGL097w|YIL063c|copurification
+YGR218w|YIL063c|synthetic lethal
+YGR218w|YIL063c|two hybrid; coimmunoprecipitation; two hybrid; copurification
+YIL063c|YLR293c|Yrb2p binds to GTP-Gsp1p but not to GDP-Gsp1p;two hybrid
+YIL063c|YLR293c|Yrb2p binds to GTP-Gsp1p but not to GDP-Gsp1p; copurification
+YIL063c|YMR235c|yrb2 is synthetic-lethal with rna1-1
+YIL063c|YMR235c|synthetic-lethal with rna1-1
+YJR091c|YIL063c|two hybrid IST hits: 1

@@ -1,0 +1,25 @@
+YBR081c|YMR236w|affinity chromatography; copurification
+YBR198c|YMR236w|copurification
+YBR270c|YMR236w|two hybrid
+YDR145w|YMR236w|copurification
+YDR167w|YMR236w|copurification
+YDR176w|YMR236w|copurification
+YDR176w|YMR236w|copurification
+YDR392w|YMR236w|copurification
+YDR448w|YMR236w|copurification
+YGL112c|YMR236w|two hybrid
+YGL112c|YMR236w|copurification
+YGL112c|YMR236w|two hybrid IST hits: 44
+YGR119c|YMR236w|two hybrid
+YGR252w|YMR236w|copurification
+YHR099w|YMR236w|copurification
+YHR099w|YMR236w|copurification
+YLR055c|YMR236w|copurification
+YMR236w|YGL112c|two hybrid IST hits: 11
+YMR236w|YLR197w|two hybrid IST hits: 1
+YMR236w|YNL308c|two hybrid IST hits: 1
+YMR236w|YOL148c|copurification
+YMR236w|YOR047c|two hybrid IST hits: 1
+YMR236w|YOR128c|two hybrid IST hits: 14
+YMR236w|YPL254w|copurification
+YNL099c|YMR236w|two hybrid IST hits: 2

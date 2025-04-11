@@ -1,0 +1,25 @@
+YBR081c|YHR099w|coimmunoprecipitation
+YBR081c|YHR099w|cofractionation; coimmunoprecipitation; copurification
+YBR081c|YHR099w|affinity chromatography
+YBR198c|YHR099w|copurification
+YBR198c|YHR099w|copurification
+YDR145w|YHR099w|copurification
+YDR145w|YHR099w|copurification
+YDR167w|YHR099w|copurification
+YDR167w|YHR099w|copurification
+YDR176w|YHR099w|cofractionation; coimmunoprecipitation; copurification
+YDR392w|YHR099w|copurification
+YDR448w|YHR099w|two hybrid; coimmunoprecipitation; copurification
+YGL112c|YHR099w|copurification
+YGL112c|YHR099w|copurification
+YGR252w|YHR099w|copurification
+YGR252w|YHR099w|copurification
+YHR090c|YHR099w|two hybrid coimmunoprecipitation
+YHR099w|YIR009w|two hybrid
+YHR099w|YLR055c|copurification
+YHR099w|YLR055c|copurification
+YHR099w|YMR236w|copurification
+YHR099w|YMR236w|copurification
+YHR099w|YOL148c|copurification
+YHR099w|YOL148c|copurification
+YHR099w|YPL254w|copurification

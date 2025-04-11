@@ -1,0 +1,38 @@
+YBR081c|YDR176w|cofractionation; coimmunoprecipitation; copurification
+YBR081c|YDR176w|coimmunoprecipitation
+YBR198c|YDR176w|copurification
+YBR198c|YDR176w|copurification
+YDR145w|YDR176w|copurification
+YDR145w|YDR176w|copurification
+YDR167w|YDR176w|copurification
+YDR167w|YDR176w|copurification
+YDR176w|YCL010c|two hybrid IST hits: 8
+YDR176w|YCR041w|two hybrid IST hits: 1
+YDR176w|YDL239c|two hybrid IST hits: 7
+YDR176w|YDR392w|cofractionation; coimmunoprecipitation; copurification
+YDR176w|YDR448w|two hybrid
+YDR176w|YDR448w|coimmunoprecipitation
+YDR176w|YDR448w|cofractionation; coimmunoprecipitation; copurification; in vitro binding
+YDR176w|YDR448w|Ada2p, Ngg1p, Gcn5p form a trimeric complex in vitro
+YDR176w|YDR448w|two hybrid IST hits: 11
+YDR176w|YDR448w|two hybrid; coimmunoprecipitation; copurification; in vitro binding
+YDR176w|YDR457w|coimmunoprecipitation also with the ADA complex - transient association suggested
+YDR176w|YER127w|two hybrid
+YDR176w|YGL013c|Ngg1p N-terminus 1-373 interacts with C-terminus of Pdr1p; two hybrid
+YDR176w|YGL112c|copurification
+YDR176w|YGL112c|copurification
+YDR176w|YGR252w|
+YDR176w|YGR252w|coimmunoprecipitation; copurification
+YDR176w|YGR252w|coimmunoprecipitation; copurification
+YDR176w|YHR099w|cofractionation; coimmunoprecipitation; copurification
+YDR176w|YIL144w|two hybrid IST hits: 2
+YDR176w|YJR080c|two hybrid IST hits: 1
+YDR176w|YLR055c|copurification
+YDR176w|YLR055c|copurification
+YDR176w|YLR423c|two hybrid IST hits: 4
+YDR176w|YMR236w|copurification
+YDR176w|YMR236w|copurification
+YDR176w|YOL148c|coimmunoprecipitation; copurification
+YDR176w|YOL148c|coimmunoprecipitation; copurification
+YDR176w|YPL254w|coimmunoprecipitation; copurification
+YPR086w|YDR176w|two hybrid IST hits: 1

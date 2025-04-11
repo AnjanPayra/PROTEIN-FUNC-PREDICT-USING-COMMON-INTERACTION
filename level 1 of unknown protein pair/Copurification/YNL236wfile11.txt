@@ -1,0 +1,22 @@
+YBR081c|YNL236w|spt7delta sin4delta mutants are synthetic lethal
+YDR054c|YNL236w|two hybrid
+YFR033c|YNL236w|two hybrid
+YGL238w|YNL236w|two hybrid
+YGR046w|YNL236w|two hybrid
+YGR117c|YNL236w|two hybrid
+YGR252w|YNL236w|gcn5delta sin4delta mutants show synthetic sickness
+YJL013c|YNL236w|two hybrid
+YJL030w|YNL236w|two hybrid
+YJR034w|YNL236w|two hybrid
+YKL012w|YNL236w|two hybrid
+YLR071c|YNL236w|copurification
+YNL236w|YDR477w|The interaction between Snf1 and the RNA polymerase II holoenzyme provides a novel mechanism for modulating the transcriptional response to glucose depletion. This mechanism probably acts in concert with other Snf1-dependent mechanisms involving transcription repressors and activators but provides a "shortcut" between the kinase and the holoenzyme.
+YNL236w|YDR477w|The interaction between Snf1 and the RNA polymerase II holoenzyme provides a novel mechanism for modulating the transcriptional response to glucose depletion. This mechanism probably acts in concert with other Snf1-dependent mechanisms involving transcription repressors and activators but provides a "shortcut" between the kinase and the holoenzyme.
+YNL236w|YOL051w|coimmunoprecipitation; coimmunpurification
+YNL236w|YOL148c|spt20delta sin4delta mutants are synthetic lethal
+YNL236w|YOR153w|a pdr5 sin4 double mutant is more sensitive to cycloheximide and clotrimazole than the single mutants; overexpression of PDR5 suppresses the drug hypersensitivity of a sin4 mutant; suppression; synthetic growth defect
+YNL236w|YOR290c|overexpression of SNF2 suppresses weakly the Spt- phenotype of a sin4delta mutant; ovrexpression of SNF2 suppresses weakly the Spt- phenotype of a sin4delta mutant; sin4delta suppresses in a sin4delta snf2delta mutant slow growth on full media and on medi
+YNL236w|YOR355w|two hybrid
+YNL236w|YPL016w|suppression
+YOR140w|YNL236w|
+YOR140w|YNL236w|

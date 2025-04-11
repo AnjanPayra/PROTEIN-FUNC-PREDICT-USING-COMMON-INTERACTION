@@ -1,0 +1,22 @@
+YAL013w|YDR392w|Chromatin/chromosome stucture
+YAL043c|YDR392w|synthetic lethal
+YBR081c|YDR392w|cofractionation; coimmunoprecipitation; copurification
+YBR081c|YDR392w|affinity chromatography
+YBR198c|YDR392w|copurification
+YDR145w|YDR392w|copurification
+YDR167w|YDR392w|copurification
+YDR176w|YDR392w|cofractionation; coimmunoprecipitation; copurification
+YDR392w|YDR448w|two hybrid; coimmunoprecipitation; copurification
+YDR392w|YDR448w|copurification
+YDR392w|YER148w|Spt3p interacts with TBP(Spt15p)
+YDR392w|YGL112c|copurification
+YDR392w|YGR252w|copurification
+YDR392w|YHR099w|copurification
+YDR392w|YKL058w|TOA2 overexpression suppresses spt3 null mutation, but not vice versa;suppression
+YDR392w|YLR055c|copurification
+YDR392w|YMR236w|copurification
+YDR392w|YOL148c|copurification; GST-binding
+YDR392w|YOR194c|TOA1 overexpression suppresses spt3 null mutation, but not vice versa;toa1-18GSG is synthetic lethal with spt3 null mutation;synthetic lethal; suppression
+YDR392w|YPL082c|mot1-24 is synthetically lethal with Spt3 null mutation;mot1-24 is synthetic lethal with spt3 null mutation;synthetic lethal
+YDR392w|YPL254w|copurification
+YMR263w|YDR392w|Chromatin/chromosome stucture
