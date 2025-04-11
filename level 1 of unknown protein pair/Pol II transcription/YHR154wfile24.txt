@@ -1,0 +1,20 @@
+YDL017w|YHR154w|Chromatin/chromosome structure
+YDR052c|YHR154w|Chromatin/chromosome structure
+YHR031c|YHR154w|Chromatin/chromosome structure
+YHR154w|YER083c|Cell wall organization and biogenesis
+YHR154w|YGL167c|Small molecule transport
+YHR154w|YGL168w|Unknown
+YHR154w|YHR031c|DNA replication
+YHR154w|YJL056c|Pol II transcription
+YHR154w|YJR104c|Cell stress
+YHR154w|YLR234w|Chromatin/chromosome structure
+YHR154w|YLR235c|Unknown
+YHR154w|YLR373c|Vacuolar organization and biogenesis
+YHR154w|YMR035w|Mitochondrion organization and biogenesis
+YHR154w|YMR190c|DNA repair
+YHR154w|YOL051w|Carbohydrate metabolism
+YHR154w|YPL024w|Cell wall organization and biogenesis
+YJL092w|YHR154w|Chromatin/chromosome structure
+YMR190c|YHR154w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YHR154w|Chromatin/chromosome structure
+YNL250w|YHR154w|Chromatin/chromosome structure

@@ -1,0 +1,9 @@
+YAL013w|YPL086c|Pol II transcription
+YER016w|YPL086c|Pol II transcription
+YJL020c|YPL086c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YPL086c|Pol II transcription
+YLR229c|YPL086c|Pol II transcription
+YMR263w|YPL086c|Pol II transcription
+YNL271c|YPL086c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YPL086c|Pol II transcription
+YOR326w|YPL086c|Pol II transcription

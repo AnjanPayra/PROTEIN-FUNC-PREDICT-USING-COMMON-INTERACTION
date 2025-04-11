@@ -1,0 +1,17 @@
+YBL021c|YOR358w|two hybrid
+YBL021c|YOR358w|gel retardation experiment; gel shift experiments
+YEL003w|YOR358w|Pol II transcription
+YGL230c|YOR358w|two hybrid
+YGL237c|YOR358w|two hybrid
+YGL237c|YOR358w|two hybrid; gel shift experiments
+YGL237c|YOR358w|two hybrid IST hits: 4
+YGL237c|YOR358w|two hybrid; gel shift experiments
+YGR236c|YOR358w|two hybrid IST hits: 1
+YKL109w|YOR358w|gel shift experiments
+YLR200w|YOR358w|Pol II transcription
+YMR307w|YOR358w|Pol II transcription
+YNL153c|YOR358w|Pol II transcription
+YOR358w|YBL021c|two hybrid IST hits: 1
+YOR358w|YDR277c|two hybrid IST hits: 1
+YOR358w|YKL109w|two hybrid IST hits: 1
+YOR358w|YOR047c|two hybrid IST hits: 6

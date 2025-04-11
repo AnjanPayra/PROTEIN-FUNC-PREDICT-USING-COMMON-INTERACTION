@@ -1,0 +1,7 @@
+YBR182c|YPL089c|gel retardation experiment; in vitro heterodimerization
+YDR167w|YPL089c|
+YGR229c|YPL089c|Pol II transcription
+YHR030c|YPL089c|two hybrid
+YKL161c|YPL089c|two hybrid
+YLR342w|YPL089c|Pol II transcription
+YMR307w|YPL089c|Pol II transcription

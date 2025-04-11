@@ -1,0 +1,9 @@
+YAL013w|YDR146c|Pol II transcription
+YAL013w|YDR146c|Pol II transcription
+YDL127w|YDR146c|two hybrid
+YDR146c|YDR335w|two hybrid
+YDR146c|YER179w|two hybrid
+YDR146c|YGR092w|synthetically lethal with dbf2 null mutant, cell cycle arrest in telophase;synthetic lethal with swi5 null mutants
+YGR089w|YDR146c|two hybrid interaction between coiled-coil motifs (762-936, 169-232)
+YHR030c|YDR146c|Pol II transcription
+YLR103c|YDR146c|Pol II transcription

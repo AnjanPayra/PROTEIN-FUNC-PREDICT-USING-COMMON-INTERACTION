@@ -1,0 +1,7 @@
+YAL013w|YLR384c|Pol II transcription
+YDR126w|YLR384c|Pol II transcription
+YDR126w|YLR384c|Pol II transcription
+YER016w|YLR384c|Pol II transcription
+YGR229c|YLR384c|Pol II transcription
+YLR384c|YDR461w|two hybrid IST hits: 1
+YLR418c|YLR384c|Pol II transcription

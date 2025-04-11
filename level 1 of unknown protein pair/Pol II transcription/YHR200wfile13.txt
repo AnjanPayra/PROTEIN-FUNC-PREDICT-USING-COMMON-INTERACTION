@@ -1,0 +1,13 @@
+YAL013w|YHR200w|Pol II transcription
+YBL025w|YHR200w|two hybrid
+YBL025w|YHR200w|two hybrid IST hits: 1
+YCL016c|YHR200w|Pol II transcription
+YDL020c|YHR200w|synthetic lethal
+YER022w|YHR200w|two hybrid IST hits: 1
+YFR052w|YHR200w|nin1-1 mutants are synthetical lethal with RPN10 deletionin1-1 mutants are synthetical lethal with Rpn10p disruption
+YGR229c|YHR200w|Pol II transcription
+YLR342w|YHR200w|Pol II transcription
+YMR263w|YHR200w|Pol II transcription
+YNL298w|YHR200w|Pol II transcription
+YPR135w|YHR200w|Pol II transcription
+YPR141c|YHR200w|Pol II transcription

@@ -1,0 +1,70 @@
+YDR311w|YMR294w|two hybrid IST hits: 8
+YEL003w|YMR294w|Mitosis
+YEL061c|YMR294w|synthetic lethal
+YEL061c|YMR294w|Mitosis
+YER016w|YMR294w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR294w|Mitosis
+YER016w|YMR294w|synthetic lethal; yeb1delta jnm1-delta3 double mutant shows synthetic lethality
+YFL037w|YMR294w|Mitosis
+YGL216w|YMR294w|Mitosis
+YGR078c|YMR294w|Mitosis
+YGR119c|YMR294w|two hybrid IST hits: 2
+YHR129c|YMR294w|two hybrid IST hits: 21
+YHR129c|YMR294w|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YLL049w|YMR294w|two hybrid IST hits: 11
+YLR200w|YMR294w|Mitosis
+YLR210w|YMR294w|Mitosis
+YLR305c|YMR294w|synthetic lethal
+YML094w|YMR294w|Mitosis
+YMR047c|YMR294w|two hybrid IST hits: 1
+YMR294w|YAL024c|Cell cycle control
+YMR294w|YCR065w|Pol II transcription
+YMR294w|YCR065w|Pol II transcription
+YMR294w|YCR077c|Chromatin/chromosome structure
+YMR294w|YEL003w|Cell structure
+YMR294w|YEL061c|Mitosis
+YMR294w|YER007w|Cell structure
+YMR294w|YER016w|Mitosis
+YMR294w|YER114c|Cell polarity
+YMR294w|YER114c|Cell polarity
+YMR294w|YGL172w|two hybrid IST hits: 2
+YMR294w|YGL216w|Mitosis
+YMR294w|YGL217c|Unknown
+YMR294w|YGR078c|Cell structure
+YMR294w|YGR229c|Cell wall organization and biogenesis
+YMR294w|YGR294w|two hybrid IST hits: 1
+YMR294w|YHR129c|two hybrid IST hits: 7
+YMR294w|YJL154c|Vesicular transport
+YMR294w|YKL007w|Cell structure
+YMR294w|YKL007w|Cell structure
+YMR294w|YLL049w|two hybrid IST hits: 3
+YMR294w|YLR200w|Cell structure
+YMR294w|YLR210w|Cell cycle control
+YMR294w|YLR216c|Protein folding
+YMR294w|YLR217w|Unknown
+YMR294w|YML094w|Cell structure
+YMR294w|YML124c|Cell structure
+YMR294w|YNL069c|Protein synthesis
+YMR294w|YNL153c|Cell structure
+YMR294w|YNL271c|Cell polarity
+YMR294w|YNL281w|two hybrid IST hits: 1
+YMR294w|YOR349w|Cell structure
+YMR294w|YOR349w|Cell structure
+YMR294w|YPL174c|two hybrid IST hits: 5
+YMR294w|YPL174c|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YMR294w|YPL241c|Cell structure
+YMR294w|YPL269w|synthetic lethal
+YMR294w|YPL269w|Mitosis
+YMR294w|YPR126c|two hybrid IST hits: 1
+YMR294w|YPR141c|Mitosis
+YNL153c|YMR294w|Mitosis
+YNL271c|YMR294w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YMR294w|Mitosis
+YOL069w|YMR294w|two hybrid IST hits: 9
+YOR058c|YMR294w|Mitosis
+YOR349w|YMR294w|Mitosis
+YPL241c|YMR294w|Mitosis
+YPL241c|YMR294w|Mitosis
+YPL269w|YMR294w|Mitosis
+YPR083w|YMR294w|two hybrid IST hits: 8
+YPR141c|YMR294w|Mitosis

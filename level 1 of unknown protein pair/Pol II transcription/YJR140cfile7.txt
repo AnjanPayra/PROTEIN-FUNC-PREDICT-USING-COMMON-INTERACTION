@@ -1,0 +1,8 @@
+YAL013w|YJR140c|Pol II transcription
+YDL017w|YJR140c|Pol II transcription
+YDR052c|YJR140c|Pol II transcription
+YDR363w|YJR140c|Pol II transcription
+YDR363w|YJR140c|Pol II transcription
+YEL015w|YJR140c|3(2) clones in category A1*
+YLR103c|YJR140c|Pol II transcription
+YLR418c|YJR140c|Pol II transcription

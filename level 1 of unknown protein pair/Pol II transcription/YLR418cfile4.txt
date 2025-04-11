@@ -1,0 +1,117 @@
+YAL013w|YLR418c|Pol II transcription
+YBR195c|YLR418c|two hybrid IST hits: 1
+YJL168c|YLR418c|Pol II transcription
+YLR418c|YAL002w|Vesicular transport
+YLR418c|YAL011w|Unknown
+YLR418c|YAL011w|Unknown
+YLR418c|YAL013w|Lipid metabolism
+YLR418c|YAR002w|Nuclear-cytoplasmic transport
+YLR418c|YBR076w|Cell wall organization and biogenesis
+YLR418c|YBR095c|Unknown
+YLR418c|YBR103w|Chromatin/chromosome structure
+YLR418c|YBR194w|Unknown
+YLR418c|YBR215w|Pol II transcription
+YLR418c|YBR221c|Carbohydrate metabolism
+YLR418c|YBR231c|Unknown
+YLR418c|YCL037c|Protein synthesis
+YLR418c|YCR077c|Chromatin/chromosome structure
+YLR418c|YDL002c|Unknown
+YLR418c|YDL033c|Unknown
+YLR418c|YDR137w|Vesicular transport
+YLR418c|YDR245w|Protein modification
+YLR418c|YDR289c|Unknown
+YLR418c|YDR334w|Unknown
+YLR418c|YDR335w|Nuclear-cytoplasmic transport
+YLR418c|YDR363w-a|Vesicular transport
+YLR418c|YDR369c|DNA repair
+YLR418c|YDR378c|RNA splicing
+YLR418c|YDR440w|Chromatin/chromosome stucture
+YLR418c|YDR485c|Vesicular transport
+YLR418c|YEL013w|Vacuolar organization and biogenesis
+YLR418c|YEL031w|Small molecule transport
+YLR418c|YEL033w|Differentiation
+YLR418c|YEL061c|Mitosis
+YLR418c|YER084w|Unknown
+YLR418c|YER111c|Cell cycle control
+YLR418c|YER122c|Vesicular transport
+YLR418c|YER139c|Unknown
+YLR418c|YER161c|Chromatin/chromosome stucture
+YLR418c|YER178w|Mitochondrion organization and biogenesis
+YLR418c|YFR010w|Protein modification
+YLR418c|YGL020c|Unknown
+YLR418c|YGL043w|Pol II transcription
+YLR418c|YGL173c|RNA processing
+YLR418c|YGL174w|Cell polarity
+YLR418c|YGL227w|Pol II Transcription
+YLR418c|YGL244w|Pol II transcription
+YLR418c|YGR270w|Vacuolar organization and biogenesis
+YLR418c|YHL031c|Vesicular transport
+YLR418c|YHR167w|Recombination
+YLR418c|YIL040w|Unknown
+YLR418c|YIL076w|Vesicular transport
+YLR418c|YIL128w|Pol II Transcription
+YLR418c|YIR005w|RNA splicing
+YLR418c|YJL124c|RNA turnover
+YLR418c|YJL168c|Chromatin/chromosome structure
+YLR418c|YJR140c|Pol II transcription
+YLR418c|YKL053c-a|Mitochondrion organization and biogenesis
+YLR418c|YKL139w|Pol II transcription
+YLR418c|YKL160w|Unknown
+YLR418c|YKL176c|Vesicular transport
+YLR418c|YKL213c|Protein degradation
+YLR418c|YLL002w|DNA repair
+YLR418c|YLR039c|Vesicular transport
+YLR418c|YLR067c|RNA metabolism
+YLR418c|YLR085c|Cell structure
+YLR418c|YLR168c|Unknown
+YLR418c|YLR182w|Cell cycle control
+YLR418c|YLR190w|Unknown
+YLR418c|YLR204w|Unknown
+YLR418c|YLR239c|Protein modification
+YLR418c|YLR262c|Vesicular transport
+YLR418c|YLR268w|Vesicular transport
+YLR418c|YLR269c|Unknown
+YLR418c|YLR315w|Chromatin/chromosome structure
+YLR418c|YLR350w|Cell wall organization and biogenesis
+YLR418c|YLR373c|Vacuolar organization and biogenesis
+YLR418c|YLR384c|Pol II transcription
+YLR418c|YML032c|DNA repair
+YLR418c|YML041c|Vesicular transport
+YLR418c|YMR038c|Amino-acid metabolism
+YLR418c|YMR154c|Meiosis
+YLR418c|YMR158w|Mitochondrion organization and biogenesis
+YLR418c|YMR263w|Chromatin/chromosome structure
+YLR418c|YMR274c|Protein modification
+YLR418c|YMR275c|Protein degradation
+YLR418c|YNL025c|Pol II transcription
+YLR418c|YNL097c|Phosphate metabolism
+YLR418c|YNL140c|Unknown
+YLR418c|YNL198c|Unknown
+YLR418c|YNL199c|Pol II Transcription
+YLR418c|YNL215w|Unknown
+YLR418c|YNL294c|Unknown
+YLR418c|YOL004w|Pol II transcription
+YLR418c|YOL012c|Chromatin/chromosome structure
+YLR418c|YOL027c|Mitochondrion organization and biogenesis
+YLR418c|YOL072w|Pol II Transcription
+YLR418c|YOR001w|RNA processing
+YLR418c|YOR030w|Differentiation
+YLR418c|YOR038c|Pol II transcription
+YLR418c|YOR080w|Differentiation
+YLR418c|YOR089c|Vesicular transport
+YLR418c|YOR123c|Chromatin/chromosome structure
+YLR418c|YOR124c|Protein modification
+YLR418c|YOR216c|Vesicular transport
+YLR418c|YOR297c|Mitochondrion organization and biogenesis
+YLR418c|YOR308c|RNA splicing
+YLR418c|YOR360c|Signal transduction
+YLR418c|YPL042c|Pol II transcription
+YLR418c|YPL057c|Lipid metabolism
+YLR418c|YPL069c|Protein modification
+YLR418c|YPL181w|Chromatin/chromosome structure
+YLR418c|YPL182c|Unknown
+YLR418c|YPR070w|Chromatin/chromosome structure
+YLR418c|YPR070w|Chromatin/chromosome structure
+YLR418c|YPR084w|Unknown
+YMR263w|YLR418c|Pol II transcription
+YPL181w|YLR418c|Pol II transcription

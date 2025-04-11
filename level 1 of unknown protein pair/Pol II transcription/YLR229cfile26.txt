@@ -1,0 +1,81 @@
+YAL041w|YLR229c|conditional synthetic lethal temperature-sensitivity;overexpression of CDC24 and CDC42 wildtype genes together is lethal;combination of cdc24ts cdc42ts alleles show synthetic lethal phenotype
+YAL041w|YLR229c|two hybrid library: Cdc24 Cdc42-GDP(BD)
+YAL041w|YLR229c|suppression; synthetic lethal
+YAL041w|YLR229c|overexpression of CDC42 suppresses a temperature sensitive cdc24 mutation;suppression overexpression
+YAL041w|YLR229c|Cdc24p preferentially binds to the guanine nucleotide-depleted form of Cdc42p in coimmunoprecipitation experiments; coimmunoprecipitation
+YBL085w|YLR229c|GTP-bound state; two hybrid; GTP-bound state
+YBR200w|YLR229c|Bem1p binds preferentially to Cdc42p-GTP; two hybrid
+YBR200w|YLR229c|two hybrid library: Bem1 Cdc42-GTP(BD)
+YBR200w|YLR229c|two hybrid library: Bem1 Cdc42-GDP(AD,BD)
+YDL135c|YLR229c|two hybrid
+YDL135c|YLR229c|GDP-bound form coimmunoprecipitation
+YDR309c|YLR229c|Gic2p interacts in the two hybrid assay and in immunoaffinity chromatography with the GTP-bound form of the Rho-type Cdc42 GTPase; Gic2ps CRIB motif and the effector domain of Cdc42 are necessary for the interaction and Gic2ps in vivo function; two hybri
+YDR309c|YLR229c|two hybrid library: Gic2 Cdc42-GTP(BD)
+YDR379w|YLR229c|Rga1,Rga2 and Bem3 act as GTP-ase activating proteins for Cdc42.Rga2 interats with activated forms (G12V and Q61L) but not an inactivated form (D118A) of Cdc42.
+YER114c|YLR229c|two hybrid library: Boi2 Cdc42-GTP(BD)
+YHL007c|YLR229c|STE20 overexpression suppresses cdc42-1 growth and cytoskeletal defectsuppression
+YHL007c|YLR229c|gel retardation experiment; in in vitro experiments with purified recombinant Cdc42p and Ste20p GTP bound (but not GDP-bound) Cdc42p stimulates the protein kinase activity of Ste20p; interacts specifically with N-terminal domain of Ste20p in two hybrid as
+YHL007c|YLR229c|two hybrid library: Ste20 Cdc42-GTP(BD)
+YHL007c|YLR229c|Rga1 and probably Rga2 facilitate the interaction of Cdc42 with Ste20 to mediate signaling in the haploid invasive growth pathway.
+YHL007c|YLR229c|Ste20p interacts with Cdc42 in a GTP dependent manner; binding of Cdc42 was is not required to activate Ste20p; binding of Cdc42 was is required to localize Ste20p at emerging buds and at shmoo tips;Cdc42p binding domain is required for filamentous growth
+YHR061c|YLR229c|Gic1p interacts in the two hybrid assay with the GTP-bound form of the Rho-type Cdc42 GTPase; two hybrid
+YHR061c|YLR229c|two hybrid library: Gic1 Cdc42-GTP(BD)
+YJL157c|YLR229c|Far1p binds preferentially to Cdc42p-GTP; two hybrid
+YLR229c|YAL024c|Cell cycle control
+YLR229c|YAL041w|two hybrid library: Cdc42-GDP Cdc24(AD)
+YLR229c|YBR077c|Unknown
+YLR229c|YBR171w|Vesicular transport
+YLR229c|YBR200w|two hybrid library: Cdc42-GDP Bem1(AD)
+YLR229c|YBR200w|Cell polarity
+YLR229c|YBR200w|two hybrid library: Cdc42-GTP Bem1(AD)
+YLR229c|YCR077c|Chromatin/chromosome structure
+YLR229c|YDR126w|Unknown
+YLR229c|YDR293c|Cell cycle control
+YLR229c|YDR293c|Cell cycle control
+YLR229c|YDR309c|two hybrid library: Cdc42-GTP Gic2(AD)
+YLR229c|YDR309c|Cell polarity
+YLR229c|YDR310c|Chromatin/chromosome structure
+YLR229c|YER111c|Cell cycle control
+YLR229c|YER111c|Cell cycle control
+YLR229c|YER114c|two hybrid library: Cdc42-GTP Boi2(AD)
+YLR229c|YER149c|Cell polarity
+YLR229c|YGL167c|Small molecule transport
+YLR229c|YGL167c|Small molecule transport
+YLR229c|YGL168w|Unknown
+YLR229c|YGL211w|Unknown
+YLR229c|YGR151c|Cell polarity
+YLR229c|YGR152c|Cell polarity
+YLR229c|YGR200c|Pol II transcription
+YLR229c|YHL007c|two hybrid library: Cdc42-GTP Ste20(AD)
+YLR229c|YHR061c|two hybrid library: Cdc42-GTP Gic1(AD)
+YLR229c|YHR111w|Protein modification
+YLR229c|YIL034c|Cell structure
+YLR229c|YKL007w|Cell structure
+YLR229c|YLL021w|Cell polarity
+YLR229c|YLR319c|Cell polarity
+YLR229c|YMR273c|; identified in a genetic screen for negative regulators of Cdc42p
+YLR229c|YMR312w|Pol II transcription
+YLR229c|YNL271c|interaction with Bni1p is specific for the activated form of Cdc42p; the interaction with Cdc42p is specific for the activated form of Cdc42p; two hybrid
+YLR229c|YNL271c|Cell polarity
+YLR229c|YNL293w|Cell polarity
+YLR229c|YNL298w|associates with Cdc42p
+YLR229c|YNL298w|Cell polarity
+YLR229c|YNL298w|two hybrid
+YLR229c|YNL298w|two hybrid library: Cdc42-GTP Cla4(AD)
+YLR229c|YOR127w|two hybrid library: Cdc42-GTP Rga1(AD)
+YLR229c|YOR188w|MSB1 is a multicopy suppressor of temperature sensitive phenotype of cdc24 and cdc42 in sorbitol-containing medium; suppression overexpression
+YLR229c|YOR188w|Cell polarity
+YLR229c|YPL086c|Pol II transcription
+YLR229c|YPL101w|Pol II transcription
+YLR229c|YPL161c|two hybrid
+YLR229c|YPL161c|two hybrid library: Cdc42-GDP Bem4(AD, BD)
+YLR229c|YPL161c|two hybrid library: Cdc42-GTP Bem4(AD)
+YLR229c|YPL161c|Cell polarity
+YLR229c|YPL242c|Iqg1p interacts only with the activated form of Cdc42p; inteacts only with the activated form of Cdc42p; two hybrid
+YNL298w|YLR229c|two hybrid library: Cla4 Cdc42-GTP(BD)
+YOL069w|YLR229c|two hybrid IST hits: 1
+YOR127w|YLR229c|two hybrid library: Rga1 Cdc42(BD)
+YOR127w|YLR229c|Rga1,Rga2 and Bem3 act as GTP-ase activating proteins for Cdc42.
+YPL115c|YLR229c|Rga1,Rga2 and Bem3 act as GTP-ase activating proteins for Cdc42.
+YPL161c|YLR229c|two hybrid library: Bem4 Cdc42-GDP(BD)
+YPL161c|YLR229c|two hybrid library: Bem4 Cdc42-GTP(BD)

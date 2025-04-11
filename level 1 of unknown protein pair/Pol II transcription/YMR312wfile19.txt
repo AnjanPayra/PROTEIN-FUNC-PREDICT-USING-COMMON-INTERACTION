@@ -1,0 +1,18 @@
+YAL013w|YMR312w|Pol II transcription
+YDR126w|YMR312w|Pol II transcription
+YDR126w|YMR312w|Pol II transcription
+YEL003w|YMR312w|Pol II transcription
+YER016w|YMR312w|Pol II transcription
+YGR078c|YMR312w|Pol II transcription
+YHR187w|YMR312w|two hybrid
+YHR187w|YMR312w|two hybrid
+YLR200w|YMR312w|Pol II transcription
+YLR229c|YMR312w|Pol II transcription
+YLR327c|YMR312w|two hybrid
+YLR327c|YMR312w|two hybrid
+YML094w|YMR312w|Pol II transcription
+YMR312w|YHR187w|two hybrid IST hits: 1
+YMR312w|YLR327c|two hybrid IST hits: 1
+YNL153c|YMR312w|Pol II transcription
+YNL271c|YMR312w|Pol II transcription
+YNL298w|YMR312w|Pol II transcription

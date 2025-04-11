@@ -1,0 +1,11 @@
+YBR109c|YCR065w|HCM1 does not repress cmd1 null mutants;HCM1 is a dosage-dependent suppressor of calmodulin mutation cmd1-1
+YCL029c|YCR065w|Pol II transcription
+YCR041w|YCR065w|two hybrid IST hits: 1
+YDR150w|YCR065w|Pol II transcription
+YFL037w|YCR065w|Pol II transcription
+YHR129c|YCR065w|Pol II transcription
+YJL030w|YCR065w|Pol II transcription
+YKR054c|YCR065w|Pol II transcription
+YLR085c|YCR065w|Pol II transcription
+YMR294w|YCR065w|Pol II transcription
+YMR294w|YCR065w|Pol II transcription

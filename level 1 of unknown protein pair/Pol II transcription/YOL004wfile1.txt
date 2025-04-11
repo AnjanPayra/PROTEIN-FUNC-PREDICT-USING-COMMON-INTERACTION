@@ -1,0 +1,15 @@
+YBR036c|YOL004w|SIN3 is a suppressor of calcium-sensitivity of csg2;SIN3 is suppressor of calcium-sensitivity of CSG2;suppression
+YCR009c|YOL004w|Pol II transcription
+YDR169c|YOL004w|two hybrid
+YDR207c|YOL004w|two hybrid; affinity chromatography; coimmunoprecipitation; two-hybrid,affinity chromatography
+YDR388w|YOL004w|Pol II transcription
+YER112w|YOL004w|1 clones in category A3
+YHR178w|YOL004w|two hybrid
+YIL061c|YOL004w|two hybrid
+YLR418c|YOL004w|Pol II transcription
+YMR019w|YOL004w|two hybrid
+YMR053c|YOL004w|two hybrid; copurification
+YNL309w|YOL004w|
+YNL309w|YOL004w|two hybrid; copurification
+YNL330c|YOL004w|two hybrid; affinity chromatography; coimmunoprecipitation
+YNL330c|YOL004w|two hybrid; coimmunoprecipitation

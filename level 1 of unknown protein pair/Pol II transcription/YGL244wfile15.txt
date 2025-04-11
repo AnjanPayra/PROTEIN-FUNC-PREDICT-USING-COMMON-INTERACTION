@@ -1,0 +1,16 @@
+YAL013w|YGL244w|Pol II transcription
+YCL016c|YGL244w|Pol II transcription
+YGL244w|YJR060w|synthetic lethal
+YHR191c|YGL244w|Pol II transcription
+YJL168c|YGL244w|Pol II transcription
+YJR070c|YGL244w|Pol II transcription
+YLR039c|YGL244w|Pol II transcription
+YLR085c|YGL244w|Pol II transcription
+YLR085c|YGL244w|Pol II transcription
+YLR103c|YGL244w|Pol II transcription
+YLR262c|YGL244w|Pol II transcription
+YLR418c|YGL244w|Pol II transcription
+YMR263w|YGL244w|Pol II transcription
+YOR319w|YGL244w|two hybrid IST hits: 1
+YPR135w|YGL244w|Pol II transcription
+YPR159w|YGL244w|Pol II transcription

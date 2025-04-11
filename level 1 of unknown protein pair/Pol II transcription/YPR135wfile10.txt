@@ -1,0 +1,137 @@
+YCL016c|YPR135w|Chromatin/chromosome structure
+YCL061c|YPR135w|Chromatin/chromosome structure
+YCL061c|YPR135w|Chromatin/chromosome structure
+YDL003w|YPR135w|Chromatin/chromosome structure
+YDR052c|YPR135w|Chromatin/chromosome structure
+YDR332w|YPR135w|Chromatin/chromosome structure
+YEL003w|YPR135w|Chromatin/chromosome structure
+YEL061c|YPR135w|Chromatin/chromosome structure
+YER016w|YPR135w|Chromatin/chromosome structure
+YGL207w|YPR135w|ctf4-delta4; decreased maximumum permissive temperature of TS cells
+YGL207w|YPR135w|two hybrid; coimmunoprecipitation
+YGL216w|YPR135w|Chromatin/chromosome structure
+YGR078c|YPR135w|Chromatin/chromosome structure
+YGR229c|YPR135w|Chromatin/chromosome structure
+YHR031c|YPR135w|Chromatin/chromosome structure
+YHR191c|YPR135w|Chromatin/chromosome structure
+YJL030w|YPR135w|Chromatin/chromosome structure
+YJL092w|YPR135w|Chromatin/chromosome structure
+YJR043c|YPR135w|Chromatin/chromosome structure
+YJR053w|YPR135w|Chromatin/chromosome structure
+YKL113c|YPR135w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YKL113c|YPR135w|Chromatin/chromosome structure
+YLR103c|YPR135w|Chromatin/chromosome structure
+YLR200w|YPR135w|Chromatin/chromosome structure
+YLR416c|YPR135w|two hybrid IST hits: 1
+YML094w|YPR135w|Chromatin/chromosome structure
+YMR048w|YPR135w|Chromatin/chromosome structure
+YMR048w|YPR135w|Chromatin/chromosome structure
+YMR078c|YPR135w|Chromatin/chromosome structure
+YNL102w|YPR135w|Cdc68p and Pob3p bind specifically to Pol1p and their binding is enhanced in the absence of Ctf4p; two hybrid; coimmunoprecipitation; two hybrid; coimmunoprecipitation
+YNL153c|YPR135w|Chromatin/chromosome structure
+YNL250w|YPR135w|Chromatin/chromosome structure
+YNL273w|YPR135w|Chromatin/chromosome structure
+YNL273w|YPR135w|Chromatin/chromosome structure
+YNL298w|YPR135w|Chromatin/chromosome structure
+YOR144c|YPR135w|Chromatin/chromosome structure
+YOR349w|YPR135w|Chromatin/chromosome structure
+YPR135w|YAR002w|Nuclear-cytoplasmic transport
+YPR135w|YAR003w|Chromatin/chromosome structure
+YPR135w|YBL007c|Cell polarity
+YPR135w|YBR057c|Meiosis
+YPR135w|YBR107c|Chromatin/chromosome structure
+YPR135w|YBR231c|Unknown
+YPR135w|YCL016c|Chromatin/chromosome structure
+YPR135w|YCL061c|DNA repair
+YPR135w|YDL013w|Meiosis
+YPR135w|YDL020c|Protein degradation
+YPR135w|YDL155w|Cell cycle control
+YPR135w|YDL225w|Cytokinesis
+YPR135w|YDR004w|DNA repair
+YPR135w|YDR014w|Unknown
+YPR135w|YDR076w|DNA repair
+YPR135w|YDR225w|Chromatin/chromosome structure
+YPR135w|YDR254w|Chromatin/chromosome structure
+YPR135w|YDR276c|Small molecule transport
+YPR135w|YDR318w|Chromatin/chromosome structure
+YPR135w|YEL003w|Cell structure
+YPR135w|YEL037c|DNA repair
+YPR135w|YEL061c|Mitosis
+YPR135w|YER016w|Mitosis
+YPR135w|YER019w|Lipid metabolism
+YPR135w|YER083c|Cell wall organization and biogenesis
+YPR135w|YER095w|DNA repair
+YPR135w|YER116c|DNA repair
+YPR135w|YER164w|Chromatin/chromosome structure
+YPR135w|YER173w|DNA repair
+YPR135w|YFR010w|Protein modification
+YPR135w|YFR036w|Cell cycle control
+YPR135w|YGL066w|Pol II transcription
+YPR135w|YGL086w|Mitosis
+YPR135w|YGL087c|DNA repair
+YPR135w|YGL127c|DNA repair
+YPR135w|YGL163c|DNA repair
+YPR135w|YGL168w|Unknown
+YPR135w|YGL168w|Unknown
+YPR135w|YGL173c|RNA processing
+YPR135w|YGL216w|Mitosis
+YPR135w|YGL244w|Pol II transcription
+YPR135w|YGR078c|Cell structure
+YPR135w|YGR184c|Protein degradation
+YPR135w|YGR188c|Mitosis
+YPR135w|YGR229c|Cell wall organization and biogenesis
+YPR135w|YHR013c|Chromatin/chromosome structure
+YPR135w|YHR031c|DNA replication
+YPR135w|YHR191c|Chromatin/chromosome structure
+YPR135w|YHR200w|Pol II transcription
+YPR135w|YJL013c|Mitosis
+YPR135w|YJL030w|Mitosis
+YPR135w|YJL092w|DNA repair
+YPR135w|YJR043c|DNA replication
+YPR135w|YJR104c|Cell stress
+YPR135w|YJR135c|Chromatin/chromosome structure
+YPR135w|YJR145c|Protein synthesis
+YPR135w|YKL101w|Cell cycle control
+YPR135w|YKL113c|DNA repair
+YPR135w|YLR032w|DNA repair
+YPR135w|YLR085c|Cell structure
+YPR135w|YLR150w|Nucleotide metabolism
+YPR135w|YLR234w|Chromatin/chromosome structure
+YPR135w|YLR235c|Unknown
+YPR135w|YLR268w|Vesicular transport
+YPR135w|YLR381w|Chromatin/chromosome structure
+YPR135w|YML028w|Cell stress
+YPR135w|YML032c|DNA repair
+YPR135w|YML094w|Cell structure
+YPR135w|YMR038c|Amino-acid metabolism
+YPR135w|YMR048w|Meiosis
+YPR135w|YMR055c|Mitosis
+YPR135w|YMR078c|Chromatin/chromosome structure
+YPR135w|YMR190c|DNA repair
+YPR135w|YMR224c|DNA repair
+YPR135w|YNL153c|Cell structure
+YPR135w|YNL250w|DNA repair
+YPR135w|YNL273w|DNA repair
+YPR135w|YNL291c|Small molecule transport
+YPR135w|YNL298w|Cell polarity
+YPR135w|YNL307c|Meiosis
+YPR135w|YNR051c|Unknown
+YPR135w|YOL012c|Chromatin/chromosome structure
+YPR135w|YOR014w|Cell stress
+YPR135w|YOR026w|Mitosis
+YPR135w|YOR144c|DNA repair
+YPR135w|YOR195w|Chromatin/chromosome structure
+YPR135w|YPL017c|Unknown
+YPR135w|YPL018w|Chromatin/chromosome structure
+YPR135w|YPL024w|Cell wall organization and biogenesis
+YPR135w|YPL055c|Cell cycle control
+YPR135w|YPL057c|Lipid metabolism
+YPR135w|YPL144w|Meiosis
+YPR135w|YPL144w|Meiosis
+YPR135w|YPL194w|DNA repair
+YPR135w|YPL253c|Mitosis
+YPR135w|YPR015c|Pol II Transcription
+YPR135w|YPR018w|Chromatin/chromosome structure
+YPR135w|YPR046w|Chromatin/chromosome structure
+YPR135w|YPR119w|Cell cycle control
+YPR135w|YPR120c|Cell cycle control
