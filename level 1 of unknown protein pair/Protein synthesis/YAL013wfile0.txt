@@ -1,0 +1,86 @@
+YAL013w|YBL008w|Chromatin/chromosome structure
+YAL013w|YBL027w|Protein synthesis
+YAL013w|YBR103w|Chromatin/chromosome structure
+YAL013w|YBR171w|Vesicular transport
+YAL013w|YCR033w|Chromatin/chromosome structure
+YAL013w|YDL002c|Unknown
+YAL013w|YDL002c|Unknown
+YAL013w|YDL074c|Chromatin/chromosome stucture
+YAL013w|YDL074c|Chromatin/chromosome stucture
+YAL013w|YDL080c|Amino-acid metabolism
+YAL013w|YDR146c|Pol II transcription
+YAL013w|YDR146c|Pol II transcription
+YAL013w|YDR181c|Chromatin/chromosome structure
+YAL013w|YDR181c|Chromatin/chromosome structure
+YAL013w|YDR334w|Unknown
+YAL013w|YDR363w-a|Vesicular transport
+YAL013w|YDR392w|Chromatin/chromosome stucture
+YAL013w|YDR485c|Vesicular transport
+YAL013w|YER016w|Mitosis
+YAL013w|YER111c|Cell cycle control
+YAL013w|YER139c|Unknown
+YAL013w|YFR010w|Protein modification
+YAL013w|YGL127c|DNA repair
+YAL013w|YGL127c|DNA repair
+YAL013w|YGL133w|Chromatin/chromosome structure
+YAL013w|YGL149w|Unknown
+YAL013w|YGL149w|Unknown
+YAL013w|YGL161c|Vesicular transport
+YAL013w|YGL161c|Vesicular transport
+YAL013w|YGL167c|Small molecule transport
+YAL013w|YGL194c|Chromatin/chromosome structure
+YAL013w|YGL244w|Pol II transcription
+YAL013w|YGR105w|Vacuolar organization and biogenesis
+YAL013w|YGR181w|Protein translocation
+YAL013w|YGR182c|Unknown
+YAL013w|YGR200c|Pol II transcription
+YAL013w|YGR270w|Vacuolar organization and biogenesis
+YAL013w|YHR041c|Pol II Transcription
+YAL013w|YHR060w|Vacuolar organization and biogenesis
+YAL013w|YHR178w|Pol II transcription
+YAL013w|YHR200w|Pol II transcription
+YAL013w|YJL115w|Chromatin/chromosome structure
+YAL013w|YJR073c|Lipid metabolism
+YAL013w|YJR140c|Pol II transcription
+YAL013w|YKL118w|Unknown
+YAL013w|YKR029c|Chromatin/chromosome structure
+YAL013w|YLR055c|Chromatin/chromosome structure
+YAL013w|YLR085c|Cell structure
+YAL013w|YLR087c|Cell stress
+YAL013w|YLR111w|Unknown
+YAL013w|YLR268w|Vesicular transport
+YAL013w|YLR384c|Pol II transcription
+YAL013w|YLR418c|Pol II transcription
+YAL013w|YML041c|Vesicular transport
+YAL013w|YML047c|Unknown
+YAL013w|YMR060c|Mitochondrion organization and biogenesis
+YAL013w|YMR312w|Pol II transcription
+YAL013w|YNL140c|Unknown
+YAL013w|YNL140c|Unknown
+YAL013w|YNL215w|Unknown
+YAL013w|YNL298w|Cell polarity
+YAL013w|YOL012c|Chromatin/chromosome structure
+YAL013w|YOR089c|Vesicular transport
+YAL013w|YOR123c|Chromatin/chromosome structure
+YAL013w|YOR213c|Chromatin/chromosome structure
+YAL013w|YOR213c|Chromatin/chromosome structure
+YAL013w|YOR304w|Chromatin/chromosome strucutre
+YAL013w|YPL055c|Cell cycle control
+YAL013w|YPL086c|Pol II transcription
+YAL013w|YPL101w|Pol II transcription
+YAL013w|YPL102c|Unknown
+YAL013w|YPL144w|Meiosis
+YAL013w|YPL174c|Mitosis
+YAL013w|YPR023c|Pol II Transcription
+YCR009c|YAL013w|Lipid metabolism
+YDL029w|YAL013w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YAL013w|Lipid metabolism
+YDR388w|YAL013w|Lipid metabolism
+YER016w|YAL013w|Lipid metabolism
+YJL168c|YAL013w|Lipid metabolism
+YLR085c|YAL013w|Lipid metabolism
+YLR085c|YAL013w|Lipid metabolism
+YLR418c|YAL013w|Lipid metabolism
+YNL192w|YAL013w|Lipid metabolism
+YNL250w|YAL013w|Lipid metabolism
+YPL174c|YAL013w|Lipid metabolism

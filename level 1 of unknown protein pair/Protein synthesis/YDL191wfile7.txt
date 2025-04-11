@@ -1,0 +1,3 @@
+YLR039c|YDL191w|Protein synthesis
+YLR262c|YDL191w|Protein synthesis
+YNL298w|YDL191w|Protein synthesis

@@ -1,0 +1,6 @@
+YAL058w|YKL194c|Protein synthesis
+YAL058w|YKL194c|Protein synthesis
+YBR023c|YKL194c|Protein synthesis
+YHR181w|YKL194c|Protein synthesis
+YKL194c|YDR532c|two hybrid IST hits: 1
+YLR113w|YKL194c|Protein synthesis

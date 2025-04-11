@@ -1,0 +1,4 @@
+YCL029c|YGL031c|Protein synthesis
+YMR190c|YGL031c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YMR190c|YGL031c|Protein synthesis
+YNL298w|YGL031c|Protein synthesis

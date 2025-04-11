@@ -1,0 +1,13 @@
+YCL037c|YDR170c|Sys2/Sro9 is a multicopy suppressor of sec7-1;SYS2/SRO9 is a multicopysuppressor of the temperature-sensitive phenotype of sec7-1;suppression  overexpression
+YCL037c|YFL039c|act1-1 mutant is suppressed by overproduction of Sro9p;SRO9 is a multicopy suppressor of act1-1;suppression  overexpression
+YCL037c|YIL118w|SRO9 is a multicopy suppressor of a rho3-null mutation;SRO9 is a multicopy suppressor of rho3 phenotype;suppression overexpression
+YCL037c|YLR262c|Sys2/Sro9 is a multicopy suppressor of ypt6;suppression  overexpression
+YCL037c|YNL079c|sro9 null mutant is synthetically lethal with tpm1 null mutant is synthetic lethal with sro9 null mutant
+YCL037c|YNL079c|synthetic lethal
+YDL029w|YCL037c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YCL037c|Protein synthesis
+YDR363w|YCL037c|Protein synthesis
+YJR070c|YCL037c|Protein synthesis
+YLR039c|YCL037c|Protein synthesis
+YLR262c|YCL037c|Protein synthesis
+YLR418c|YCL037c|Protein synthesis

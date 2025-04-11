@@ -1,0 +1,2 @@
+YER056c-a|YDR395w|coimmunoprecipitation
+YHR129c|YER056c-a|Protein synthesis

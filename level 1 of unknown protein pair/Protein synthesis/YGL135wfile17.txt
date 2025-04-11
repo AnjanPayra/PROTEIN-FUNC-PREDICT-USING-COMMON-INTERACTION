@@ -1,0 +1,6 @@
+YER081w|YGL135w|two hybrid IST hits: 1
+YJR075w|YGL135w|Protein synthesis
+YJR075w|YGL135w|Protein synthesis
+YJR091c|YGL135w|two hybrid IST hits: 1
+YPL220w|YGL135w|ssm1a ssm1b double null mutation is lethal
+YPR159w|YGL135w|Protein synthesis

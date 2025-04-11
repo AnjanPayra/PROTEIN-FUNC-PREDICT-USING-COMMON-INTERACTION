@@ -1,0 +1,5 @@
+YBL027w|YBR084c-a|rpl19a and rpl19b double null mutants are lethal
+YBL027w|YBR084c-a|synthetic lethal
+YBR084c-a|YBL027w|rpl19a and rpl19b double null mutants are lethal
+YBR084c-a|YBL027w|synthetic lethal
+YNL298w|YBR084c-a|Protein synthesis

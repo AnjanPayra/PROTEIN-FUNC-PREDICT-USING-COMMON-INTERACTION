@@ -1,0 +1,48 @@
+YCR046c|YDL049c|two hybrid IST hits: 1
+YDL049c|YAL002w|Vesicular transport
+YDL049c|YBR033w|Pol II transcription
+YDL049c|YBR226c|two hybrid IST hits: 1
+YDL049c|YDL020c|Protein degradation
+YDL049c|YDL033c|Unknown
+YDL049c|YDL065c|Peroxisome organization and biogenesis
+YDL049c|YDR244w|Lipid metabolism
+YDL049c|YDR249c|Unknown
+YDL049c|YDR329c|Peroxisome organization and biogenesis
+YDL049c|YER075c|Signal transduction
+YDL049c|YGL043w|Pol II transcription
+YDL049c|YGR064w|Unknown
+YDL049c|YGR133w|Peroxisome organization and biogenesis
+YDL049c|YGR135w|Protein degradation
+YDL049c|YGR159c|Ribosomal large subunit nucleus export
+YDL049c|YGR170w|Lipid metabolism
+YDL049c|YGR206w|Unknown
+YDL049c|YGR214w|Protein synthesis
+YDL049c|YHL005c|Unknown
+YDL049c|YHR013c|Chromatin/chromosome structure
+YDL049c|YHR034c|Protein synthesis
+YDL049c|YHR203c|Protein synthesis
+YDL049c|YIL121w|Transport
+YDL049c|YJL148w|Protein synthesis
+YDL049c|YJL154c|Vesicular transport
+YDL049c|YJL174w|disruption of both KNH1 and KRE9 is lethal;synthetic lethal; suppression;KNH1 is a multicopy suppressor of kre9 null mutant;synthetic lethal; suppression
+YDL049c|YJL174w|Protein modification
+YDL049c|YKL032c|DNA repair
+YDL049c|YKL126w|Endocytosis
+YDL049c|YLR191w|Peroxisome organization and biogenesis
+YDL049c|YLR282c|Unknown
+YDL049c|YLR330w|Cell wall organization and biogenesis
+YDL049c|YLR350w|Cell wall organization and biogenesis
+YDL049c|YLR360w|Vesicular transport
+YDL049c|YML071c|Vesicular transport
+YDL049c|YMR035w|Mitochondrion organization and biogenesis
+YDL049c|YMR060c|Mitochondrion organization and biogenesis
+YDL049c|YMR060c|Mitochondrion organization and biogenesis
+YDL049c|YMR230w|Protein synthesis
+YDL049c|YMR289w|two hybrid IST hits: 1
+YDL049c|YNL171c|Unknown
+YDL049c|YNL329c|Lipid metabolism
+YDL049c|YOR069w|Vesicular transport
+YDL049c|YOR070c|Vesicular transport
+YDL049c|YOR311c|two hybrid IST hits: 1
+YDL049c|YPR197c|Unknown
+YJL174w|YDL049c|Cell wall organization and biogenesis

@@ -1,0 +1,73 @@
+YBL061c|YBR023c|two hybrid
+YBR023c|YBL007c|Cell polarity
+YBR023c|YBL047c|Vesicular transport
+YBR023c|YBL072c|Protein synthesis
+YBR023c|YBR015c|Protein modification
+YBR023c|YBR023c|two hybrid
+YBR023c|YBR023c|two hybrid
+YBR023c|YBR057c|Meiosis
+YBR023c|YBR077c|Unknown
+YBR023c|YDL032w|Unknown
+YBR023c|YDL033c|Unknown
+YBR023c|YDL223c|Cell polarity
+YBR023c|YDR129c|Cell structure
+YBR023c|YDR129c|Cell structure
+YBR023c|YDR245w|Protein modification
+YBR023c|YDR388w|Cell polarity
+YBR023c|YEL044w|Vesicular transport
+YBR023c|YER111c|Cell cycle control
+YBR023c|YFR019w|Lipid metabolism
+YBR023c|YFR036w|Cell cycle control
+YBR023c|YGL084c|Lipid metabolism
+YBR023c|YGL200c|Vesicular transport
+YBR023c|YGL212w|Vacuolar organization and biogenesis
+YBR023c|YGL240w|Cell cycle control
+YBR023c|YGR135w|Protein degradation
+YBR023c|YGR229c|Cell wall organization and biogenesis
+YBR023c|YHR030c|Cell wall organization and biogenesis
+YBR023c|YJL095w|Cell wall organization and biogenesis
+YBR023c|YJL148w|Protein synthesis
+YBR023c|YJR073c|Lipid metabolism
+YBR023c|YJR118c|Energy generation
+YBR023c|YKL041w|Vesicular transport
+YBR023c|YKL079w|Cell polarity
+YBR023c|YKL194c|Protein synthesis
+YBR023c|YKR020w|Vacuolar organization and biogenesis
+YBR023c|YLL039c|Protein degradation
+YBR023c|YLR087c|Cell stress
+YBR023c|YLR110c|Cell wall organization and biogenesis
+YBR023c|YLR111w|Unknown
+YBR023c|YLR337c|Cell polarity
+YBR023c|YLR338w|Unknown
+YBR023c|YLR342w|Cell wall organization and biogenesis
+YBR023c|YLR370c|Cell polarity
+YBR023c|YML115c|Protein modification
+YBR023c|YMR060c|Mitochondrion organization and biogenesis
+YBR023c|YMR089c|Energy generation
+YBR023c|YMR116c|Protein synthesis
+YBR023c|YMR307w|Cell wall organization and biogenesis
+YBR023c|YNL079c|Cell structure
+YBR023c|YNL171c|Unknown
+YBR023c|YNL271c|Cell polarity
+YBR023c|YNL298w|Cell polarity
+YBR023c|YNR051c|Unknown
+YBR023c|YOR035c|Differentiation
+YBR023c|YOR312c|Protein synthesis
+YBR023c|YPL055c|Cell cycle control
+YBR023c|YPL069c|Protein modification
+YBR234c|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YBR023c|Cell wall organization and biogenesis
+YCR009c|YBR023c|Cell wall organization and biogenesis
+YDL029w|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YBR023c|Cell wall organization and biogenesis
+YDR388w|YBR023c|Cell wall organization and biogenesis
+YGR229c|YBR023c|Cell wall organization and biogenesis
+YHR030c|YBR023c|Cell wall organization and biogenesis
+YKL079w|YBR023c|Cell wall organization and biogenesis
+YLR342w|YBR023c|Cell wall organization and biogenesis
+YMR307w|YBR023c|Cell wall organization and biogenesis
+YNL271c|YBR023c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YBR023c|Cell wall organization and biogenesis
+YNL298w|YBR023c|Cell wall organization and biogenesis
+YNL322c|YBR023c|Cell wall organization and biogenesis
+YOR326w|YBR023c|Cell wall organization and biogenesis

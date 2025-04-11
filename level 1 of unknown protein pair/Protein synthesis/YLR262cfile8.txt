@@ -1,0 +1,152 @@
+YBR164c|YLR262c|Vesicular transport
+YCL037c|YLR262c|Sys2/Sro9 is a multicopy suppressor of ypt6;suppression  overexpression
+YDR126w|YLR262c|Vesicular transport
+YER016w|YLR262c|Vesicular transport
+YFL037w|YLR262c|Vesicular transport
+YFL038c|YLR262c|YPT1 overexpression suppresses the growth and secretion defects of a ypt6 ts mutanthere is no synthetic lethality between ypt1 ts and ypt6 mutants
+YGR229c|YLR262c|Vesicular transport
+YHR030c|YLR262c|two hybrid IST hits: 1
+YKL190w|YLR262c|Vesicular transport
+YLR085c|YLR262c|Vesicular transport
+YLR262c|YAL002w|Vesicular transport
+YLR262c|YAL011w|Unknown
+YLR262c|YAL019w|Unknown
+YLR262c|YAR014c|Cell polarity
+YLR262c|YBL083c|Unknown
+YLR262c|YBL102w|Vesicular transport
+YLR262c|YBR164c|Vesicular transport
+YLR262c|YBR288c|Vesicular transport
+YLR262c|YCL001w|Vesicular transport
+YLR262c|YCL037c|Protein synthesis
+YLR262c|YCR020c-a|Protein modification
+YLR262c|YCR044c|Other metabolism
+YLR262c|YCR066w|DNA repair
+YLR262c|YDL006w|Signal transduction
+YLR262c|YDL074c|Chromatin/chromosome stucture
+YLR262c|YDL077c|Vesicular transport
+YLR262c|YDL100c|Small molecule transport
+YLR262c|YDL191w|Protein synthesis
+YLR262c|YDR080w|Vesicular transport
+YLR262c|YDR107c|Transport
+YLR262c|YDR108w|Vesicular transport
+YLR262c|YDR126w|Unknown
+YLR262c|YDR153c|Vesicular transport
+YLR262c|YDR162c|Cell polarity
+YLR262c|YDR202c|Small molecule transport
+YLR262c|YDR203w|Unknown
+YLR262c|YDR310c|Chromatin/chromosome structure
+YLR262c|YDR320c|Vesicular transport
+YLR262c|YDR334w|Unknown
+YLR262c|YDR359c|Unknown
+YLR262c|YDR372c|Vacuolar organization and biogenesis
+YLR262c|YEL043w|Unknown
+YLR262c|YEL051w|Vacuolar organization and biogenesis
+YLR262c|YEL053c|Protein modification
+YLR262c|YER084w|Unknown
+YLR262c|YER087c-a|Protein translocation
+YLR262c|YER120w|Lipid metabolism
+YLR262c|YER122c|Vesicular transport
+YLR262c|YER162c|DNA repair
+YLR262c|YFL025c|Vesicular transport
+YLR262c|YFL033c|Meiosis
+YLR262c|YFR031c-a|Protein synthesis
+YLR262c|YGL005c|Vesicular transport
+YLR262c|YGL020c|Unknown
+YLR262c|YGL054c|Vesicular transport
+YLR262c|YGL084c|Lipid metabolism
+YLR262c|YGL115w|Protein modification
+YLR262c|YGL212w|Vacuolar organization and biogenesis
+YLR262c|YGL244w|Pol II transcription
+YLR262c|YGL255w|Small molecule transport
+YLR262c|YGR020c|Vacuolar organization and biogenesis
+YLR262c|YGR072w|RNA turnover
+YLR262c|YGR105w|Vacuolar organization and biogenesis
+YLR262c|YGR229c|Cell wall organization and biogenesis
+YLR262c|YGR261c|Vesicular transport
+YLR262c|YHL020c|Lipid metabolism
+YLR262c|YHL031c|Vesicular transport
+YLR262c|YHR004c|Unknown
+YLR262c|YHR012w|Vesicular transport
+YLR262c|YHR039c-a|Small molecule transport
+YLR262c|YHR060w|Vacuolar organization and biogenesis
+YLR262c|YIL039w|Unknown
+YLR262c|YIL076w|Vesicular transport
+YLR262c|YJL004c|Protein translocation
+YLR262c|YJL036w|Protein degradation
+YLR262c|YJL053w|Vesicular transport
+YLR262c|YJL123c|Unknown
+YLR262c|YJL154c|Vesicular transport
+YLR262c|YJR033c|Vacuolar organization and biogenesis
+YLR262c|YJR040w|Small molecule transport
+YLR262c|YJR060w|Chromatin/chromosome structure
+YLR262c|YJR073c|Lipid metabolism
+YLR262c|YKL081w|Protein synthesis
+YLR262c|YKL190w|Cell wall organization and biogenesis
+YLR262c|YKR019c|Chromatin/chromosome structure
+YLR262c|YKR020w|Vacuolar organization and biogenesis
+YLR262c|YKR030w|Unknown
+YLR262c|YLL038c|Vesicular transport
+YLR262c|YLR015w|Chromatin/chromosome structure
+YLR262c|YLR083c|Transport
+YLR262c|YLR085c|Cell structure
+YLR262c|YLR087c|Cell stress
+YLR262c|YLR309c|Sys2/Sro9 is a multicopy suppressor of ypt6; imh1 mutation enhances the ypt6 phenotype -> growth inhibition, protein sorting and maturation defects
+YLR262c|YLR309c|Vesicular transport
+YLR262c|YLR309c|IMH1 is a multicopy suppressor of ypt6 mutation;imh1/ypt6 double mutants show an enhanced ypt6 phenotype
+YLR262c|YLR318w|Chromatin/chromosome structure
+YLR262c|YLR360w|Vesicular transport
+YLR262c|YLR361c|Unknown
+YLR262c|YML001w|Vesicular transport
+YLR262c|YML041c|Vesicular transport
+YLR262c|YML071c|Vesicular transport
+YLR262c|YMR004w|Vesicular transport
+YLR262c|YMR010w|Meiosis
+YLR262c|YMR054w|Vacuolar organization and biogenesis
+YLR262c|YMR123w|Unknown
+YLR262c|YMR216c|RNA splicing
+YLR262c|YMR266w|Unknown
+YLR262c|YMR274c|Protein modification
+YLR262c|YMR307w|Cell wall organization and biogenesis
+YLR262c|YNL041c|Vesicular transport
+YLR262c|YNL051w|Vesicular transport
+YLR262c|YNL069c|Protein synthesis
+YLR262c|YNL136w|Unknown
+YLR262c|YNL169c|Lipid metabolism
+YLR262c|YNL296w|Unknown
+YLR262c|YNL297c|Vacuolar organization and biogenesis
+YLR262c|YNR032w|Carbohydrate metabolism
+YLR262c|YNR051c|Unknown
+YLR262c|YOL012c|Chromatin/chromosome structure
+YLR262c|YOL017w|Unknown
+YLR262c|YOL018c|Vesicular transport
+YLR262c|YOL108c|Lipid metabolism
+YLR262c|YOR068c|Vacuolar organization and biogenesis
+YLR262c|YOR069w|Vesicular transport
+YLR262c|YOR070c|Vesicular transport
+YLR262c|YOR089c|Vesicular transport
+YLR262c|YOR106w|Vesicular transport
+YLR262c|YOR109w|Lipid metabolism
+YLR262c|YOR112w|Unknown
+YLR262c|YOR132w|Vesicular transport
+YLR262c|YOR216c|Vesicular transport
+YLR262c|YPL037c|Protein folding
+YLR262c|YPL051w|Vesicular transport
+YLR262c|YPL055c|Cell cycle control
+YLR262c|YPL120w|Vesicular transport
+YLR262c|YPL161c|Cell polarity
+YLR262c|YPL195w|Vesicular transport
+YLR262c|YPL196w|Unknown
+YLR262c|YPL234c|Vacuolar organization and biogenesis
+YLR262c|YPR017c|Vesicular transport
+YLR262c|YPR032w|Vesicular transport
+YLR262c|YPR050c|Unknown
+YLR262c|YPR051w|Protein modification
+YLR262c|YPR079w|Vacuolar organization and biogenesis
+YLR262c|YPR084w|Unknown
+YLR262c|YPR197c|Unknown
+YLR418c|YLR262c|Vesicular transport
+YMR307w|YLR262c|Vesicular transport
+YNL271c|YLR262c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YLR262c|Vesicular transport
+YOR070c|YLR262c|Vesicular transport
+YPL051w|YLR262c|Vesicular transport

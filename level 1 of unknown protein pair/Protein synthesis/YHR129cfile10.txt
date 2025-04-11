@@ -1,0 +1,60 @@
+YBR200w|YHR129c|synthetic lethal
+YDR106w|YHR129c|two hybrid
+YEL003w|YHR129c|Mitosis
+YEL061c|YHR129c|synthetic lethal
+YEL061c|YHR129c|Mitosis
+YER016w|YHR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YHR129c|Mitosis
+YGL216w|YHR129c|Mitosis
+YGR078c|YHR129c|Mitosis
+YGR229c|YHR129c|Mitosis
+YHR129c|YCR065w|Pol II transcription
+YHR129c|YEL003w|Cell structure
+YHR129c|YEL061c|Mitosis
+YHR129c|YER016w|Mitosis
+YHR129c|YER056c-a|Protein synthesis
+YHR129c|YER114c|Cell polarity
+YHR129c|YGL124c|Unknown
+YHR129c|YGL216w|Mitosis
+YHR129c|YGL217c|Unknown
+YHR129c|YGR078c|Cell structure
+YHR129c|YGR229c|Cell wall organization and biogenesis
+YHR129c|YHR012w|Vesicular transport
+YHR129c|YLR200w|Cell structure
+YHR129c|YLR210w|Cell cycle control
+YHR129c|YLR305c|synthetic lethal
+YHR129c|YLR373c|Vacuolar organization and biogenesis
+YHR129c|YML094w|Cell structure
+YHR129c|YMR198w|Mitosis
+YHR129c|YMR294w|two hybrid IST hits: 21
+YHR129c|YMR294w|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YHR129c|YNL153c|Cell structure
+YHR129c|YNL189w|synthetic lethal
+YHR129c|YNL189w|coimmunoprecipitation
+YHR129c|YNL271c|Cell polarity
+YHR129c|YNR051c|Unknown
+YHR129c|YOR098c|synthetic lethal
+YHR129c|YOR349w|Cell structure
+YHR129c|YPL174c|two hybrid
+YHR129c|YPL174c|two hybrid library: Arp1 Nip100(BD)
+YHR129c|YPL174c|Nip100p exists in a stable complex with Act5p and Jnm1p; sucrose gradient centrifugation
+YHR129c|YPL269w|synthetic lethal
+YHR129c|YPL269w|Mitosis
+YHR129c|YPR141c|Mitosis
+YJR008w|YHR129c|two hybrid IST hits: 3
+YJR091c|YHR129c|two hybrid IST hits: 1
+YLR200w|YHR129c|Mitosis
+YLR210w|YHR129c|Mitosis
+YML094w|YHR129c|Mitosis
+YML124c|YHR129c|Mitosis
+YMR294w|YHR129c|two hybrid IST hits: 7
+YNL153c|YHR129c|Mitosis
+YNL271c|YHR129c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR129c|Mitosis
+YOR058c|YHR129c|Mitosis
+YOR326w|YHR129c|Mitosis
+YOR349w|YHR129c|Mitosis
+YOR349w|YHR129c|Mitosis
+YPL174c|YHR129c|two hybrid library: Nip100 Arp1(AD)
+YPL269w|YHR129c|Mitosis
+YPR141c|YHR129c|Mitosis
