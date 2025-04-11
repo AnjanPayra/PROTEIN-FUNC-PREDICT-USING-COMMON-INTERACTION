@@ -1,0 +1,11 @@
+YDR150w|YLR216c|Protein folding
+YDR162c|YLR216c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YLR216c|Protein folding
+YIR037w|YLR216c|two hybrid
+YLR216c|YNL330c|affinity purification interact with transcriptional regulatory protein Rpd3p
+YLR216c|YNR032w|two hybrid
+YLR216c|YPL240c|affinity chromatography
+YMR294w|YLR216c|Protein folding
+YPL174c|YLR216c|Protein folding
+YPL174c|YLR216c|Protein folding
+YPR141c|YLR216c|Protein folding

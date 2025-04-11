@@ -1,0 +1,68 @@
+YDR150w|YAL024c|Cell cycle control
+YDR150w|YBR131w|Vesicular transport
+YDR150w|YBR231c|Unknown
+YDR150w|YCR065w|Pol II transcription
+YDR150w|YCR077c|Chromatin/chromosome structure
+YDR150w|YDR201w|two hybrid interaction between coiled-coil motifs (103-303, 1-164)
+YDR150w|YEL003w|Cell structure
+YDR150w|YEL061c|synthetic lethal
+YDR150w|YEL061c|Mitosis
+YDR150w|YER016w|synthetic lethal
+YDR150w|YER016w|Mitosis
+YDR150w|YFL037w|num1 null mutation is synthetic lethal with tub2-402, tub2-403, tub2-404, and tub2-405
+YDR150w|YFR019w|Lipid metabolism
+YDR150w|YGL086w|Mitosis
+YDR150w|YGL124c|Unknown
+YDR150w|YGL216w|Mitosis
+YDR150w|YGL217c|Unknown
+YDR150w|YGR078c|Cell structure
+YDR150w|YGR229c|Cell wall organization and biogenesis
+YDR150w|YIL034c|Cell structure
+YDR150w|YJL154c|Vesicular transport
+YDR150w|YJL154c|Vesicular transport
+YDR150w|YJR053w|Mitosis
+YDR150w|YJR112w|two hybrid interaction between coiled-coil motifs (103-303, 113-187)
+YDR150w|YJR112w|two hybrid interaction between coiled-coil motifs (103-303, 59-187)
+YDR150w|YKL007w|Cell structure
+YDR150w|YLL001w|Cell structure
+YDR150w|YLR200w|Cell structure
+YDR150w|YLR210w|Cell cycle control
+YDR150w|YLR216c|Protein folding
+YDR150w|YLR217w|Unknown
+YDR150w|YLR319c|Cell polarity
+YDR150w|YML001w|Vesicular transport
+YDR150w|YML094w|Cell structure
+YDR150w|YMR055c|Mitosis
+YDR150w|YNL079c|Cell structure
+YDR150w|YNL153c|Cell structure
+YDR150w|YNL271c|Cell polarity
+YDR150w|YOL069w|two hybrid interaction between coiled-coil motifs (103-303, 124-449)
+YDR150w|YOR058c|Mitosis
+YDR150w|YOR322c|Unknown
+YDR150w|YOR322c|Unknown
+YDR150w|YOR349w|Cell structure
+YDR150w|YPL205c|Meiosis
+YDR150w|YPL205c|Meiosis
+YDR150w|YPL269w|Mitosis
+YDR150w|YPR141c|Mitosis
+YDR295c|YDR150w|two hybrid interaction between coiled-coil motifs (439-655, 103-303)
+YEL003w|YDR150w|Mitosis
+YEL061c|YDR150w|Mitosis
+YER016w|YDR150w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YDR150w|Mitosis
+YGL216w|YDR150w|Mitosis
+YGR078c|YDR150w|Mitosis
+YGR089w|YDR150w|two hybrid interaction between coiled-coil motifs (762-936, 103-303)
+YJL074c|YDR150w|two hybrid interaction between coiled-coil motifs (107-518, 103-303)
+YLR200w|YDR150w|Mitosis
+YLR210w|YDR150w|Mitosis
+YML094w|YDR150w|Mitosis
+YNL153c|YDR150w|Mitosis
+YNL271c|YDR150w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YDR150w|Mitosis
+YOR058c|YDR150w|Mitosis
+YOR326w|YDR150w|Mitosis
+YOR349w|YDR150w|Mitosis
+YPL031c|YDR150w|Mitosis
+YPL269w|YDR150w|Mitosis
+YPR141c|YDR150w|Mitosis

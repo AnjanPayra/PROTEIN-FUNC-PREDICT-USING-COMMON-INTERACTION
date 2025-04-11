@@ -1,0 +1,17 @@
+YBR155w|YJR032w|CNS1 is a multicopy suppressor of cpr7 mutants;CNS1 is a multicopy suppressor of cpr7 mutation;suppression overexpression
+YBR155w|YJR032w|coimmunoprecipitation
+YBR155w|YJR032w|coimmunoprecipitation
+YBR164c|YJR032w|Protein folding
+YBR234c|YJR032w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR032w|Protein folding
+YDL017w|YJR032w|Protein folding
+YDL029w|YJR032w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR032w|Protein folding
+YEL003w|YJR032w|Protein folding
+YGR078c|YJR032w|Protein folding
+YJR032w|YNL330c|affinity chromatography; interact with transcriptional regulatory protein Rpd3p; affinity purification
+YLR200w|YJR032w|Protein folding
+YML094w|YJR032w|Protein folding
+YNL153c|YJR032w|Protein folding
+YOR070c|YJR032w|Protein folding
+YPL051w|YJR032w|Protein folding
