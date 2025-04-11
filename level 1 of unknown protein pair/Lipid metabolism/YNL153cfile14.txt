@@ -1,0 +1,171 @@
+YBR094w|YNL153c|Cell structure
+YBR234c|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL153c|Cell structure
+YCL016c|YNL153c|Cell structure
+YCL029c|YNL153c|Cell structure
+YCR009c|YNL153c|Cell structure
+YDL003w|YNL153c|Cell structure
+YDL029w|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL153c|Cell structure
+YDL074c|YNL153c|two hybrid interaction between coiled-coil motifs (118-635, 62-128)
+YDR052c|YNL153c|Cell structure
+YDR150w|YNL153c|Cell structure
+YDR217c|YNL153c|Cell structure
+YDR332w|YNL153c|Cell structure
+YDR388w|YNL153c|Cell structure
+YDR424c|YNL153c|Cell structure
+YDR488c|YNL153c|Cell structure
+YEL003w|YNL153c|coimmunoprecipitation; two hybrid
+YEL061c|YNL153c|Cell structure
+YER007w|YNL153c|Cell structure
+YER016w|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL153c|Cell structure
+YGR078c|YNL153c|coimmunoprecipitation; two hybrid
+YGR089w|YNL153c|two hybrid interaction between coiled-coil motifs (762-936, 62-128)
+YHR129c|YNL153c|Cell structure
+YHR191c|YNL153c|Cell structure
+YJL020c|YNL153c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YNL153c|Cell structure
+YJL030w|YNL153c|Cell structure
+YJL168c|YNL153c|Cell structure
+YJR053w|YNL153c|Cell structure
+YJR075w|YNL153c|Cell structure
+YKR054c|YNL153c|Cell structure
+YLR085c|YNL153c|Cell structure
+YLR200w|YNL153c|coimmunoprecipitation; two hybrid
+YLR212c|YNL153c|synthetic lethal
+YLR212c|YNL153c|Gim3p binds to overproduced Tub4p; coimmunoprecipitation
+YML094w|YNL153c|coimmunoprecipitation; two hybrid
+YML124c|YNL153c|Cell structure
+YMR048w|YNL153c|Cell structure
+YMR078c|YNL153c|Cell structure
+YMR138w|YNL153c|Cell structure
+YMR294w|YNL153c|Cell structure
+YMR299c|YNL153c|Cell structure
+YNL153c|YAL011w|Unknown
+YNL153c|YBL007c|Cell polarity
+YNL153c|YBL024w|RNA processing
+YNL153c|YBR103w|Chromatin/chromosome structure
+YNL153c|YBR107c|Chromatin/chromosome structure
+YNL153c|YBR108w|Unknown
+YNL153c|YBR171w|Vesicular transport
+YNL153c|YBR200w|Cell polarity
+YNL153c|YBR231c|Unknown
+YNL153c|YBR290w|Transport
+YNL153c|YCL016c|Chromatin/chromosome structure
+YNL153c|YCL029c|Mitosis
+YNL153c|YCR044c|Other metabolism
+YNL153c|YCR086w|Meiosis
+YNL153c|YDL155w|Cell cycle control
+YNL153c|YDL170w|Pol II transcription
+YNL153c|YDR149c|Unknown
+YNL153c|YDR150w|Mitosis
+YNL153c|YDR183w|Mating response
+YNL153c|YDR207c|two hybrid IST hits: 1
+YNL153c|YDR254w|Chromatin/chromosome structure
+YNL153c|YDR276c|Small molecule transport
+YNL153c|YDR289c|Unknown
+YNL153c|YDR293c|Cell cycle control
+YNL153c|YDR310c|Chromatin/chromosome structure
+YNL153c|YDR318w|Chromatin/chromosome structure
+YNL153c|YDR334w|Unknown
+YNL153c|YDR360w|Unknown
+YNL153c|YDR424c|Mitosis
+YNL153c|YDR485c|Vesicular transport
+YNL153c|YDR488c|Mitosis
+YNL153c|YEL061c|Mitosis
+YNL153c|YER007w|Cell structure
+YNL153c|YER016w|Mitosis
+YNL153c|YER155c|Cell polarity
+YNL153c|YER177w|Differentiation
+YNL153c|YFR019w|Lipid metabolism
+YNL153c|YGL086w|Mitosis
+YNL153c|YGL253w|Carbohydrate metabolism
+YNL153c|YGR054w|Unknown
+YNL153c|YGR188c|Mitosis
+YNL153c|YGR229c|Cell wall organization and biogenesis
+YNL153c|YGR270w|Vacuolar organization and biogenesis
+YNL153c|YHR012w|Vesicular transport
+YNL153c|YHR030c|Cell wall organization and biogenesis
+YNL153c|YHR111w|Protein modification
+YNL153c|YHR129c|Mitosis
+YNL153c|YHR178w|Pol II transcription
+YNL153c|YHR191c|Chromatin/chromosome structure
+YNL153c|YIL095w|Cell polarity
+YNL153c|YJL013c|Mitosis
+YNL153c|YJL020c|Cell polarity
+YNL153c|YJL030w|Mitosis
+YNL153c|YJL095w|Cell wall organization and biogenesis
+YNL153c|YJL183w|Protein modification
+YNL153c|YJL190c|Protein synthesis
+YNL153c|YJR032w|Protein folding
+YNL153c|YJR053w|Mitosis
+YNL153c|YJR075w|Cell wall organization and biogenesis
+YNL153c|YJR117w|Protein modification
+YNL153c|YJR135c|Chromatin/chromosome structure
+YNL153c|YKL025c|DNA repair
+YNL153c|YKL048c|Cell polarity
+YNL153c|YKL118w|Unknown
+YNL153c|YKR054c|Mitosis
+YNL153c|YLL006w|Cell structure
+YNL153c|YLL049w|Unknown
+YNL153c|YLR085c|Cell structure
+YNL153c|YLR089c|Mitochondrion organization and biogenesis
+YNL153c|YLR337c|Cell polarity
+YNL153c|YLR381w|Chromatin/chromosome structure
+YNL153c|YLR386w|Vacuolar organization and biogenesis
+YNL153c|YLR447c|Vacuolar organization and biogenesis
+YNL153c|YML032c|DNA repair
+YNL153c|YML041c|Vesicular transport
+YNL153c|YML124c|Cell structure
+YNL153c|YMR055c|Mitosis
+YNL153c|YMR078c|Chromatin/chromosome structure
+YNL153c|YMR078c|Chromatin/chromosome structure
+YNL153c|YMR109w|Cell polarity
+YNL153c|YMR138w|Cell structure
+YNL153c|YMR154c|Meiosis
+YNL153c|YMR294w|Mitosis
+YNL153c|YMR299c|Mitosis
+YNL153c|YMR312w|Pol II transcription
+YNL153c|YNL166c|Cytokinesis
+YNL153c|YNL294c|Unknown
+YNL153c|YNL298w|Cell polarity
+YNL153c|YOL012c|Chromatin/chromosome structure
+YNL153c|YOR023c|Protein modification
+YNL153c|YOR026w|Mitosis
+YNL153c|YOR058c|Mitosis
+YNL153c|YOR216c|Vesicular transport
+YNL153c|YOR264w|Differentiation
+YNL153c|YOR265w|gim3delta deltarbl2 are synthetic lethal
+YNL153c|YOR265w|Cell structure
+YNL153c|YOR266w|Mitochondrion organization and biogenesis
+YNL153c|YOR269w|Mitosis
+YNL153c|YOR349w|Cell structure
+YNL153c|YOR358w|Pol II transcription
+YNL153c|YPL008w|Chromatin/chromosome structure
+YNL153c|YPL017c|Unknown
+YNL153c|YPL018w|Chromatin/chromosome structure
+YNL153c|YPL115c|Cell polarity
+YNL153c|YPL155c|Mitosis
+YNL153c|YPL165c|Unknown
+YNL153c|YPL174c|Mitosis
+YNL153c|YPL241c|Cell structure
+YNL153c|YPL253c|Mitosis
+YNL153c|YPL269w|Mitosis
+YNL153c|YPR023c|Pol II Transcription
+YNL153c|YPR046w|Chromatin/chromosome structure
+YNL153c|YPR070w|Chromatin/chromosome structure
+YNL153c|YPR135w|Chromatin/chromosome structure
+YNL153c|YPR141c|Mitosis
+YNL298w|YNL153c|Cell structure
+YOR058c|YNL153c|Cell structure
+YOR265w|YNL153c|Cell structure
+YOR269w|YNL153c|Cell structure
+YOR349w|YNL153c|Cell structure
+YPL008w|YNL153c|Cell structure
+YPL155c|YNL153c|Cell structure
+YPL174c|YNL153c|Cell structure
+YPL241c|YNL153c|Cell structure
+YPL269w|YNL153c|Cell structure
+YPR135w|YNL153c|Cell structure
+YPR141c|YNL153c|Cell structure

@@ -1,0 +1,22 @@
+YBL061c|YFR019w|Lipid metabolism
+YBR023c|YFR019w|Lipid metabolism
+YCL029c|YFR019w|Lipid metabolism
+YDR150w|YFR019w|Lipid metabolism
+YDR162c|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YFR019w|Lipid metabolism
+YEL003w|YFR019w|Lipid metabolism
+YER016w|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YFR019w|Lipid metabolism
+YGR078c|YFR019w|Lipid metabolism
+YLR103c|YFR019w|Lipid metabolism
+YLR200w|YFR019w|Lipid metabolism
+YLR330w|YFR019w|Lipid metabolism
+YML094w|YFR019w|Lipid metabolism
+YNL153c|YFR019w|Lipid metabolism
+YNL271c|YFR019w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YFR019w|Lipid metabolism
+YNL298w|YFR019w|Lipid metabolism
+YNL322c|YFR019w|Lipid metabolism
+YNL322c|YFR019w|Lipid metabolism
+YOR269w|YFR019w|Lipid metabolism
+YOR326w|YFR019w|Lipid metabolism

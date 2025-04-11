@@ -1,0 +1,50 @@
+YDR332w|YBL058w|Carbohydrate metabolism
+YDR332w|YBL058w|Carbohydrate metabolism
+YDR332w|YBR009c|Chromatin/chromosome structure
+YDR332w|YBR009c|Chromatin/chromosome structure
+YDR332w|YDR014w|Unknown
+YDR332w|YDR014w|Unknown
+YDR332w|YDR225w|Chromatin/chromosome structure
+YDR332w|YDR225w|Chromatin/chromosome structure
+YDR332w|YDR244w|Lipid metabolism
+YDR332w|YDR244w|Lipid metabolism
+YDR332w|YDR265w|Peroxisome organization and biogenesis
+YDR332w|YDR265w|Peroxisome organization and biogenesis
+YDR332w|YER016w|Mitosis
+YDR332w|YER016w|Mitosis
+YDR332w|YGL033w|Meiosis
+YDR332w|YGL033w|Meiosis
+YDR332w|YGL086w|Mitosis
+YDR332w|YGL086w|Mitosis
+YDR332w|YGR184c|Protein degradation
+YDR332w|YGR184c|Protein degradation
+YDR332w|YGR188c|Mitosis
+YDR332w|YGR188c|Mitosis
+YDR332w|YHR191c|Chromatin/chromosome structure
+YDR332w|YHR191c|Chromatin/chromosome structure
+YDR332w|YJL013c|Mitosis
+YDR332w|YJL013c|Mitosis
+YDR332w|YJL030w|Mitosis
+YDR332w|YJL030w|Mitosis
+YDR332w|YML094c-a|Unknown
+YDR332w|YML094c-a|Unknown
+YDR332w|YML094w|Cell structure
+YDR332w|YML094w|Cell structure
+YDR332w|YMR074c|two hybrid IST hits: 1
+YDR332w|YMR074c|two hybrid IST hits: 1
+YDR332w|YMR198w|Mitosis
+YDR332w|YMR198w|Mitosis
+YDR332w|YNL106c|Lipid metabolism
+YDR332w|YNL106c|Lipid metabolism
+YDR332w|YNL153c|Cell structure
+YDR332w|YNL153c|Cell structure
+YDR332w|YOL012c|Chromatin/chromosome structure
+YDR332w|YOL012c|Chromatin/chromosome structure
+YDR332w|YOR026w|Mitosis
+YDR332w|YOR026w|Mitosis
+YDR332w|YPL008w|Chromatin/chromosome structure
+YDR332w|YPL008w|Chromatin/chromosome structure
+YDR332w|YPR135w|Chromatin/chromosome structure
+YDR332w|YPR135w|Chromatin/chromosome structure
+YDR332w|YPR141c|Mitosis
+YDR332w|YPR141c|Mitosis

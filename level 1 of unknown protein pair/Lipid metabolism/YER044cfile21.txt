@@ -1,0 +1,5 @@
+YDR034c|YER044c|two hybrid IST hits: 1
+YER044c|YLR100w|
+YGR060w|YER044c|
+YKL002w|YER044c|two hybrid IST hits: 2
+YNL322c|YER044c|Lipid metabolism

@@ -1,0 +1,11 @@
+YCL029c|YNL106c|Lipid metabolism
+YCR088w|YNL106c|two hybrid with SH3 domain as bait
+YDR332w|YNL106c|Lipid metabolism
+YDR363w|YNL106c|Lipid metabolism
+YER016w|YNL106c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YNL106c|Lipid metabolism
+YIL002c|YNL106c|synthetic lethal
+YIL002c|YNL106c|inp51 inp52 inp53 triple mutant is inviable on standard medium but can grow weakly in medium supplemented with 1 M sorbitol
+YNL106c|YOR109w|INP52 overexpression suppresses the vacuolar phenotype of inp53 and inp52 inp53 mutants; inp52 inp53 double null mutant shows more severe vacuolar defect than inp53 single null mutant
+YNL106c|YOR109w|synthetic lethal; synthetic phenotype; suppression
+YNL106c|YOR109w|inp51 inp52 inp53 triple mutant is inviable on standard medium but can grow weakly in medium supplemented with 1 M sorbitol

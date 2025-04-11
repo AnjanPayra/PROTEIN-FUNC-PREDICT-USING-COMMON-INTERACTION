@@ -1,0 +1,12 @@
+YAL058w|YGL084c|Lipid metabolism
+YAL058w|YGL084c|Lipid metabolism
+YAL058w|YKL194c|Protein synthesis
+YAL058w|YKL194c|Protein synthesis
+YAL058w|YKL197c|Lipid metabolism
+YAL058w|YKL197c|Lipid metabolism
+YAL058w|YNL064c|Mitochondrion organization and biogenesis
+YAL058w|YNL171c|Unknown
+YAL058w|YNR036c|Unknown
+YAL058w|YNR036c|Unknown
+YNL322c|YAL058w|Cell wall organization and biogenesis
+YOR236w|YAL058w|two hybrid IST hits: 1

@@ -1,0 +1,11 @@
+YAL013w|YJR073c|Lipid metabolism
+YBL061c|YJR073c|Lipid metabolism
+YBR023c|YJR073c|Lipid metabolism
+YHR007c|YJR073c|Lipid metabolism
+YHR142w|YJR073c|Lipid metabolism
+YKL190w|YJR073c|Lipid metabolism
+YLR039c|YJR073c|Lipid metabolism
+YLR262c|YJR073c|Lipid metabolism
+YMR307w|YJR073c|Lipid metabolism
+YNL322c|YJR073c|Lipid metabolism
+YPL031c|YJR073c|Lipid metabolism

@@ -1,0 +1,63 @@
+YBL023c|YDL017w|epitope-tagged coimmuno affinity chromatography; two hybrid; affinity chromatography
+YBR060c|YDL017w|synthetic lethal
+YBR060c|YDL017w|synthetic lethal
+YBR160w|YDL017w|cdc28-109 cdc7 mutants are synthetic lethal
+YCR022c|YDL017w|two hybrid
+YCR050c|YDL017w|two hybrid
+YDL017w|YBL008w|Chromatin/chromosome structure
+YDL017w|YBR274w|DNA repair
+YDL017w|YCL016c|Chromatin/chromosome structure
+YDL017w|YCR031c|Protein synthesis
+YDL017w|YCR034w|Lipid metabolism
+YDL017w|YDL132w|two hybrid
+YDL017w|YDL151c|Unknown
+YDL017w|YDL160c|two hybrid
+YDL017w|YDR052c|DBF4 overexpression suppresses cdc7 ts mutations
+YDL017w|YDR052c|Dbf4p possesses two Cdc7p interacting domains; associates with the origin complex via its cyclin-like activator Dbf4possesses two Cdc7p interacting domains
+YDL017w|YDR052c|CDC7 overexpression can suppress some dbf4 mutations but not dbf4 null mutation
+YDL017w|YDR217c|DNA repair
+YDL017w|YDR363w|Chromatin/chromosome structure
+YDL017w|YEL023c|two hybrid
+YDL017w|YER173w|DNA repair
+YDL017w|YFR057w|two hybrid
+YDL017w|YGL019w|Cell cycle control
+YDL017w|YGL086w|Mitosis
+YDL017w|YGL250w|Unknown
+YDL017w|YGR099w|two hybrid
+YDL017w|YHR154w|Chromatin/chromosome structure
+YDL017w|YHR191c|Chromatin/chromosome structure
+YDL017w|YIL035c|Cell cycle control
+YDL017w|YJL030w|Mitosis
+YDL017w|YJL062w|Lipid metabolism
+YDL017w|YJL088w|two hybrid
+YDL017w|YJL138c|Protein synthesis
+YDL017w|YJR032w|Protein folding
+YDL017w|YJR053w|Mitosis
+YDL017w|YJR070c|Unknown
+YDL017w|YJR140c|Pol II transcription
+YDL017w|YKL039w|two hybrid
+YDL017w|YKL056c|Unknown
+YDL017w|YKL101w|Cell cycle control
+YDL017w|YKR059w|Protein synthesis
+YDL017w|YLR055c|Chromatin/chromosome structure
+YDL017w|YLR234w|Chromatin/chromosome structure
+YDL017w|YLR235c|Unknown
+YDL017w|YLR288c|DNA repair
+YDL017w|YLR350w|Cell wall organization and biogenesis
+YDL017w|YLR435w|Unknown
+YDL017w|YML016c|Signal transduction
+YDL017w|YML032c|DNA repair
+YDL017w|YMR055c|Mitosis
+YDL017w|YMR078c|Chromatin/chromosome structure
+YDL017w|YMR100w|Cell polarity
+YDL017w|YMR167w|DNA repair
+YDL017w|YMR190c|DNA repair
+YDL017w|YNR048w|two hybrid
+YDL017w|YOL081w|Signal transduction
+YDL017w|YOR006c|two hybrid
+YDL017w|YOR027w|Protein folding
+YDL017w|YOR039w|Cell cycle control
+YDL017w|YOR360c|Signal transduction
+YDL017w|YOR368w|DNA repair
+YDL017w|YPL194w|DNA repair
+YDL017w|YPR119w|Cell cycle control

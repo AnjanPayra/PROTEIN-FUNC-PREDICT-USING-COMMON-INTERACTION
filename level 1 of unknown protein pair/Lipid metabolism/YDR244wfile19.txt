@@ -1,0 +1,7 @@
+YDL049c|YDR244w|Lipid metabolism
+YDR142c|YDR244w|two hybrid; coimmunoprecipitation; in vitro binding
+YDR244w|YGL153w|two hybrid; coimmunoprecipitation; in vitro binding
+YDR244w|YLR191w|interacts with SH3 domain of Pex13p; two hybrid; coimmunoprecipitation; gel retardation experimentwo hybrid; coimmunoprecipitation; in vitro binding
+YDR244w|YNL214w|two hybrid; coimmunoprecipitation; gel retardation experimentwo hybrid; coimmunoprecipitation; in vitro binding
+YDR332w|YDR244w|Lipid metabolism
+YGR143w|YDR244w|Lipid metabolism

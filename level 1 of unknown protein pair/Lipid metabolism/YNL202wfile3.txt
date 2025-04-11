@@ -1,0 +1,3 @@
+YCR052w|YNL202w|two hybrid IST hits: 1
+YNL192w|YNL202w|Lipid metabolism
+YNL202w|YMR102c|two hybrid IST hits: 1

@@ -1,0 +1,7 @@
+YCR009c|YCR034w|rvs161 mutants can be suppressed by fen1 mutantsuppression
+YCR034w|YLR372w|null mutant phenotype of insensitivity to drugs is suppressed by Sur4p overproduction
+YCR034w|YLR372w|gns1 sur4 disruption mutant shows synthetic lethality;synthetic lethal; suppression
+YCR034w|YMR202w|gns1/fen1 mutant suppresses the lethality of erg2 null mutation in cells growing in the absence of exogeneous ergosterol;suppression
+YDL017w|YCR034w|Lipid metabolism
+YLR342w|YCR034w|Lipid metabolism
+YOR049c|YCR034w|two hybrid IST hits: 1
