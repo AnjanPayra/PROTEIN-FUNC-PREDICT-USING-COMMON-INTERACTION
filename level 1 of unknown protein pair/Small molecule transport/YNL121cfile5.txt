@@ -1,0 +1,11 @@
+YGR082w|YNL121c|
+YGR082w|YNL121c|copurification
+YGR193c|YNL121c|two hybrid IST hits: 1
+YMR060c|YNL121c|synthetic lethal
+YMR060c|YNL121c|copurification
+YMR060c|YNL121c|copurification
+YMR203w|YNL121c|coimmunoprecipitation
+YMR203w|YNL121c|copurification
+YMR263w|YNL121c|Small molecule transport
+YMR263w|YNL121c|Small molecule transport
+YNL070w|YNL121c|coimmunoprecipitation

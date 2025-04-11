@@ -1,0 +1,26 @@
+YHR007c|YBL007c|Cell polarity
+YHR007c|YBR121c|Protein synthesis
+YHR007c|YBR283c|Protein translocation
+YHR007c|YDL074c|Unknown
+YHR007c|YDL155w|Cell cycle control
+YHR007c|YDR310c|Chromatin/chromosome structure
+YHR007c|YEL031w|Small molecule transport
+YHR007c|YER031c|Vesicular transport
+YHR007c|YER083c|Cell wall organization and biogenesis
+YHR007c|YER155c|Cell polarity
+YHR007c|YGL020c|Unknown
+YHR007c|YHR012w|Vesicular transport
+YHR007c|YHR030c|Cell wall organization and biogenesis
+YHR007c|YHR045w|Unknown
+YHR007c|YJR073c|Lipid metabolism
+YHR007c|YKR001c|Vesicular transport
+YHR007c|YLR015w|Chromatin/chromosome structure
+YHR007c|YLR242c|Lipid metabolism
+YHR007c|YML013w|Unknown
+YHR007c|YMR022w|Protein folding
+YHR007c|YMR264w|Protein folding
+YHR007c|YMR272c|Lipid metabolism
+YHR007c|YNL231c|Lipid metabolism
+YHR007c|YOR070c|Vesicular transport
+YHR007c|YOR275c|Cell stress
+YHR007c|YPL170w|Lipid metabolism

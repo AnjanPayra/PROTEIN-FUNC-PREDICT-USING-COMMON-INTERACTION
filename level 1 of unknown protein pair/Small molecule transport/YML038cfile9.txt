@@ -1,0 +1,7 @@
+YBR250w|YML038c|two hybrid IST hits: 1
+YFL020c|YML038c|two hybrid IST hits: 1
+YLR039c|YML038c|Small molecule transport
+YLR233c|YML038c|two hybrid
+YLR452c|YML038c|
+YLR453c|YML038c|two hybrid IST hits: 2
+YML038c|YLR054c|two hybrid IST hits: 1

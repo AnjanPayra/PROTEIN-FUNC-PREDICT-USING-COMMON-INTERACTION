@@ -1,0 +1,17 @@
+YBL061c|YEL031w|Small molecule transport
+YBR234c|YEL031w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YEL031w|Small molecule transport
+YCR009c|YEL031w|Small molecule transport
+YDL029w|YEL031w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YEL031w|Small molecule transport
+YDR126w|YEL031w|Small molecule transport
+YDR388w|YEL031w|Small molecule transport
+YGR078c|YEL031w|Small molecule transport
+YGR229c|YEL031w|Small molecule transport
+YHR007c|YEL031w|Small molecule transport
+YJR075w|YEL031w|Small molecule transport
+YLR039c|YEL031w|Small molecule transport
+YLR200w|YEL031w|Small molecule transport
+YLR418c|YEL031w|Small molecule transport
+YML094w|YEL031w|Small molecule transport
+YNL192w|YEL031w|Small molecule transport

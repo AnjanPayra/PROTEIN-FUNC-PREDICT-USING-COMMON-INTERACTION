@@ -1,0 +1,74 @@
+YCR009c|YMR263w|Chromatin/chromosome structure
+YDR388w|YMR263w|Chromatin/chromosome structure
+YER016w|YMR263w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YER016w|YMR263w|Chromatin/chromosome structure
+YER052c|YMR263w|two hybrid IST hits: 1
+YJR091c|YMR263w|two hybrid IST hits: 1
+YLR199c|YMR263w|two hybrid IST hits: 1
+YLR418c|YMR263w|Chromatin/chromosome structure
+YMR263w|YAL002w|Vesicular transport
+YMR263w|YAL011w|Unknown
+YMR263w|YAL024c|Cell cycle control
+YMR263w|YBR103w|Chromatin/chromosome structure
+YMR263w|YBR231c|Unknown
+YMR263w|YDL002c|Unknown
+YMR263w|YDL002c|Unknown
+YMR263w|YDL033c|Unknown
+YMR263w|YDL033c|Unknown
+YMR263w|YDL074c|Chromatin/chromosome stucture
+YMR263w|YDL080c|Amino-acid metabolism
+YMR263w|YDR334w|Unknown
+YMR263w|YDR392w|Chromatin/chromosome stucture
+YMR263w|YDR485c|Vesicular transport
+YMR263w|YER016w|Mitosis
+YMR263w|YER083c|Cell wall organization and biogenesis
+YMR263w|YER083c|Cell wall organization and biogenesis
+YMR263w|YER092w|Unknown
+YMR263w|YER092w|Unknown
+YMR263w|YER111c|Cell cycle control
+YMR263w|YER139c|Unknown
+YMR263w|YER139c|Unknown
+YMR263w|YGL127c|DNA repair
+YMR263w|YGL161c|Vesicular transport
+YMR263w|YGL161c|Vesicular transport
+YMR263w|YGL194c|Chromatin/chromosome structure
+YMR263w|YGL244w|Pol II transcription
+YMR263w|YGR181w|Protein translocation
+YMR263w|YGR182c|Unknown
+YMR263w|YGR182c|Unknown
+YMR263w|YHR178w|Pol II transcription
+YMR263w|YHR200w|Pol II transcription
+YMR263w|YJL115w|Chromatin/chromosome structure
+YMR263w|YJL168c|Chromatin/chromosome structure
+YMR263w|YKR029c|Chromatin/chromosome structure
+YMR263w|YLR055c|Chromatin/chromosome structure
+YMR263w|YLR085c|Cell structure
+YMR263w|YLR268w|Vesicular transport
+YMR263w|YLR337c|Cell polarity
+YMR263w|YLR337c|Cell polarity
+YMR263w|YLR418c|Pol II transcription
+YMR263w|YML041c|Vesicular transport
+YMR263w|YML047c|Unknown
+YMR263w|YML097c|Vesicular transport
+YMR263w|YMR224c|DNA repair
+YMR263w|YNL121c|Small molecule transport
+YMR263w|YNL121c|Small molecule transport
+YMR263w|YNL140c|Unknown
+YMR263w|YNL171c|Unknown
+YMR263w|YNL215w|Unknown
+YMR263w|YNL215w|Unknown
+YMR263w|YNL298w|Cell polarity
+YMR263w|YNL330c|copurification; coimmunoprecipitation
+YMR263w|YOL012c|Chromatin/chromosome structure
+YMR263w|YOR123c|Chromatin/chromosome structure
+YMR263w|YOR213c|Chromatin/chromosome structure
+YMR263w|YOR213c|Chromatin/chromosome structure
+YMR263w|YOR308c|RNA splicing
+YMR263w|YOR308c|RNA splicing
+YMR263w|YPL055c|Cell cycle control
+YMR263w|YPL086c|Pol II transcription
+YMR263w|YPL174c|Mitosis
+YNL298w|YMR263w|Chromatin/chromosome structure
+YPL174c|YMR263w|Chromatin/chromosome structure
+YPL174c|YMR263w|Chromatin/chromosome structure
+YPR086w|YMR263w|two hybrid IST hits: 1

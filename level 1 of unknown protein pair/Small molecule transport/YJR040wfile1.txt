@@ -1,0 +1,3 @@
+YBL086c|YJR040w|two hybrid IST hits: 1
+YLR039c|YJR040w|Small molecule transport
+YLR262c|YJR040w|Small molecule transport
