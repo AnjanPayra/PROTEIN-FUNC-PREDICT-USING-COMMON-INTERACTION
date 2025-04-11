@@ -1,0 +1,8 @@
+YAL005c|YER151c|ssa1 ssa2 ts mutant phenotype is suppressed by overexpression of Ubp3p;UBP3 is a high copy suppressor of ssa1 ssa2 temperature sensitivity;suppression overexpression
+YDR227w|YER151c|interacts together with Sir2p, Sir3p and a 69 kDa protein with Sir4p
+YDR227w|YER151c|coimmunoprecipitation
+YGR229c|YER151c|Protein modification
+YJR043c|YER151c|Protein modification
+YKL037w|YER151c|Protein modification
+YLR342w|YER151c|Protein modification
+YNR051c|YER151c|two hybrid IST hits: 3

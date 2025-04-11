@@ -1,0 +1,67 @@
+YBR229c|YNL322c|Cell wall organization and biogenesis
+YBR234c|YNL322c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YNL322c|Cell wall organization and biogenesis
+YCR009c|YNL322c|Cell wall organization and biogenesis
+YDL029w|YNL322c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YNL322c|Cell wall organization and biogenesis
+YDR388w|YNL322c|Cell wall organization and biogenesis
+YER165w|YNL322c|two hybrid
+YGL027c|YNL322c|Cell wall organization and biogenesis
+YGL027c|YNL322c|Cell wall organization and biogenesis
+YGR166w|YNL322c|Cell wall organization and biogenesis
+YGR229c|YNL322c|Cell wall organization and biogenesis
+YJL174w|YNL322c|Cell wall organization and biogenesis
+YJR075w|YNL322c|Cell wall organization and biogenesis
+YKL190w|YNL322c|Cell wall organization and biogenesis
+YMR307w|YNL322c|Cell wall organization and biogenesis
+YNL322c|YAL026c|Vesicular transport
+YNL322c|YAL053w|Unknown
+YNL322c|YAL056c-a|Unknown
+YNL322c|YAL058w|Cell wall organization and biogenesis
+YNL322c|YAR014c|Cell polarity
+YNL322c|YBL061c|Cell wall organization and biogenesis
+YNL322c|YBL082c|Cell wall organization and biogenesis
+YNL322c|YBL083c|Unknown
+YNL322c|YBR023c|Cell wall organization and biogenesis
+YNL322c|YBR229c|Cell wall organization and biogenesis
+YNL322c|YCR044c|Other metabolism
+YNL322c|YCR044c|Other metabolism
+YNL322c|YDL006w|Signal transduction
+YNL322c|YDL006w|Signal transduction
+YNL322c|YDR129c|Cell structure
+YNL322c|YDR162c|Cell polarity
+YNL322c|YDR389w|Cell structure
+YNL322c|YDR414c|Protein modification
+YNL322c|YER044c|Lipid metabolism
+YNL322c|YER155c|Cell polarity
+YNL322c|YFR019w|Lipid metabolism
+YNL322c|YFR019w|Lipid metabolism
+YNL322c|YGL027c|Cell wall organization and biogenesis
+YNL322c|YGL027c|Cell wall organization and biogenesis
+YNL322c|YGL084c|Lipid metabolism
+YNL322c|YGL168w|Unknown
+YNL322c|YGL168w|Unknown
+YNL322c|YGL203c|Protein modification
+YNL322c|YGR166w|Cell wall organization and biogenesis
+YNL322c|YGR229c|Cell wall organization and biogenesis
+YNL322c|YGR229c|Cell wall organization and biogenesis
+YNL322c|YHR030c|Cell wall organization and biogenesis
+YNL322c|YJL139c|Cell wall organization and biogenesis
+YNL322c|YJL174w|Protein modification
+YNL322c|YJL183w|Protein modification
+YNL322c|YJR073c|Lipid metabolism
+YNL322c|YJR075w|Cell wall organization and biogenesis
+YNL322c|YJR117w|Protein modification
+YNL322c|YJR118c|Energy generation
+YNL322c|YKL190w|Cell wall organization and biogenesis
+YNL322c|YKR020w|Vacuolar organization and biogenesis
+YNL322c|YLR330w|Cell wall organization and biogenesis
+YNL322c|YMR060c|Mitochondrion organization and biogenesis
+YNL322c|YMR238w|Differentiation
+YNL322c|YMR238w|Differentiation
+YNL322c|YMR307w|Cell wall organization and biogenesis
+YNL322c|YMR307w|Cell wall organization and biogenesis
+YNL322c|YNL238w|Protein modification
+YNL322c|YOR035c|Differentiation
+YNL322c|YOR035c|Differentiation
+YNL322c|YPL065w|Vesicular transport

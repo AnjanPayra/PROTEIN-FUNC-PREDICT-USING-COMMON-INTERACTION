@@ -1,0 +1,197 @@
+YCL029c|YGR078c|Cell structure
+YCR009c|YGR078c|Cell structure
+YDL029w|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YGR078c|Cell structure
+YDR052c|YGR078c|Cell structure
+YDR150w|YGR078c|Cell structure
+YDR162c|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDR162c|YGR078c|Cell structure
+YDR388w|YGR078c|Cell structure
+YDR424c|YGR078c|Cell structure
+YDR488c|YGR078c|Cell structure
+YEL003w|YGR078c|coimmunoprecipitation; two hybrid
+YEL061c|YGR078c|synthetic lethal
+YEL061c|YGR078c|Cell structure
+YER007w|YGR078c|Cell structure
+YER016w|YGR078c|Cell structure
+YGR078c|YAL002w|Vesicular transport
+YGR078c|YAL011w|Unknown
+YGR078c|YAL026c|Vesicular transport
+YGR078c|YAR014c|Cell polarity
+YGR078c|YBL007c|Cell polarity
+YGR078c|YBL024w|RNA processing
+YGR078c|YBL051c|RNA processing
+YGR078c|YBR103w|Chromatin/chromosome structure
+YGR078c|YBR107c|Chromatin/chromosome structure
+YGR078c|YBR108w|Unknown
+YGR078c|YBR114w|DNA repair
+YGR078c|YBR171w|Vesicular transport
+YGR078c|YBR231c|Unknown
+YGR078c|YBR255w|Unknown
+YGR078c|YCL016c|Chromatin/chromosome structure
+YGR078c|YCL029c|Mitosis
+YGR078c|YCR033w|Chromatin/chromosome structure
+YGR078c|YCR044c|Other metabolism
+YGR078c|YCR082w|Unknown
+YGR078c|YCR086w|Meiosis
+YGR078c|YDL020c|Protein degradation
+YGR078c|YDL155w|Cell cycle control
+YGR078c|YDL170w|Pol II transcription
+YGR078c|YDR144c|Unknown
+YGR078c|YDR149c|Unknown
+YGR078c|YDR150w|Mitosis
+YGR078c|YDR183w|Mating response
+YGR078c|YDR254w|Chromatin/chromosome structure
+YGR078c|YDR276c|Small molecule transport
+YGR078c|YDR289c|Unknown
+YGR078c|YDR293c|Cell cycle control
+YGR078c|YDR310c|Chromatin/chromosome structure
+YGR078c|YDR318w|Chromatin/chromosome structure
+YGR078c|YDR334w|Unknown
+YGR078c|YDR360w|Unknown
+YGR078c|YDR424c|Mitosis
+YGR078c|YDR485c|Vesicular transport
+YGR078c|YDR488c|Mitosis
+YGR078c|YEL031w|Small molecule transport
+YGR078c|YEL038w|Unknown
+YGR078c|YEL039c|Energy generation
+YGR078c|YEL041w|Unknown
+YGR078c|YEL052w|Protein folding
+YGR078c|YEL053c|Protein modification
+YGR078c|YEL056w|Chromatin/chromosome structure
+YGR078c|YEL061c|Mitosis
+YGR078c|YER007w|Cell structure
+YGR078c|YER016w|Mitosis
+YGR078c|YER149c|Cell polarity
+YGR078c|YER155c|Cell polarity
+YGR078c|YER177w|Differentiation
+YGR078c|YFR019w|Lipid metabolism
+YGR078c|YGL086w|Mitosis
+YGR078c|YGL087c|DNA repair
+YGR078c|YGL173c|RNA processing
+YGR078c|YGL194c|Chromatin/chromosome structure
+YGR078c|YGL242c|Unknown
+YGR078c|YGL253w|Carbohydrate metabolism
+YGR078c|YGR054w|Unknown
+YGR078c|YGR108w|Cell cycle control
+YGR078c|YGR112w|Energy generation
+YGR078c|YGR229c|Cell wall organization and biogenesis
+YGR078c|YHL002w|Transport
+YGR078c|YHL029c|Unknown
+YGR078c|YHR012w|Vesicular transport
+YGR078c|YHR111w|Protein modification
+YGR078c|YHR114w|Cell polarity
+YGR078c|YHR129c|Mitosis
+YGR078c|YHR134w|DNA repair
+YGR078c|YHR178w|Pol II transcription
+YGR078c|YHR191c|Chromatin/chromosome structure
+YGR078c|YIL008w|Protein modification
+YGR078c|YIL034c|Cell structure
+YGR078c|YIL084c|Chromatin/chromosome structure
+YGR078c|YIL095w|Cell polarity
+YGR078c|YJL013c|Mitosis
+YGR078c|YJL020c|Cell polarity
+YGR078c|YJL030w|Mitosis
+YGR078c|YJL190c|Protein synthesis
+YGR078c|YJR032w|Protein folding
+YGR078c|YJR053w|Mitosis
+YGR078c|YJR075w|Cell wall organization and biogenesis
+YGR078c|YJR117w|Protein modification
+YGR078c|YJR129c|Unknown
+YGR078c|YJR135c|Chromatin/chromosome structure
+YGR078c|YKL048c|Cell polarity
+YGR078c|YKR054c|Mitosis
+YGR078c|YLL001w|Cell structure
+YGR078c|YLL006w|Cell structure
+YGR078c|YLL007c|Unknown
+YGR078c|YLL049w|Unknown
+YGR078c|YLR085c|Cell structure
+YGR078c|YLR089c|Mitochondrion organization and biogenesis
+YGR078c|YLR200w|coimmunoprecipitation; two hybrid
+YGR078c|YLR210w|Cell cycle control
+YGR078c|YLR212c|synthetic lethal
+YGR078c|YLR212c|Gim2p binds to overproduced Tub4p; Gim2p/Pac10p binds to overproduced Tub4p; coimmunoprecipitation
+YGR078c|YLR234w|Chromatin/chromosome structure
+YGR078c|YLR292c|Protein translocation
+YGR078c|YLR337c|Cell polarity
+YGR078c|YLR381w|Chromatin/chromosome structure
+YGR078c|YML032c|DNA repair
+YGR078c|YML094w|coimmunoprecipitation; two hybrid
+YGR078c|YML124c|Cell structure
+YGR078c|YMR055c|Mitosis
+YGR078c|YMR078c|Chromatin/chromosome structure
+YGR078c|YMR109w|Cell polarity
+YGR078c|YMR138w|Cell structure
+YGR078c|YMR154c|Meiosis
+YGR078c|YMR172w|Cell stress
+YGR078c|YMR294w|Mitosis
+YGR078c|YMR299c|Mitosis
+YGR078c|YMR312w|Pol II transcription
+YGR078c|YNL140c|Unknown
+YGR078c|YNL153c|coimmunoprecipitation; two hybrid
+YGR078c|YNL166c|Cytokinesis
+YGR078c|YNL288w|Pol II transcription
+YGR078c|YNL294c|Unknown
+YGR078c|YNL298w|Cell polarity
+YGR078c|YOL012c|Chromatin/chromosome structure
+YGR078c|YOL067c|Carbohydrate metabolism
+YGR078c|YOR023c|Protein modification
+YGR078c|YOR026w|Mitosis
+YGR078c|YOR058c|Mitosis
+YGR078c|YOR127w|Cell polarity
+YGR078c|YOR132w|Vesicular transport
+YGR078c|YOR216c|Vesicular transport
+YGR078c|YOR264w|Differentiation
+YGR078c|YOR265w|gim2delta deltarbl2 are synthetic lethal
+YGR078c|YOR265w|Cell structure
+YGR078c|YOR266w|Mitochondrion organization and biogenesis
+YGR078c|YOR269w|Mitosis
+YGR078c|YOR313c|Meiosis
+YGR078c|YOR349w|Cell structure
+YGR078c|YPL008w|Chromatin/chromosome structure
+YGR078c|YPL017c|Unknown
+YGR078c|YPL018w|Chromatin/chromosome structure
+YGR078c|YPL115c|Cell polarity
+YGR078c|YPL155c|Mitosis
+YGR078c|YPL161c|Cell polarity
+YGR078c|YPL165c|Unknown
+YGR078c|YPL174c|Mitosis
+YGR078c|YPL241c|Cell structure
+YGR078c|YPL253c|Mitosis
+YGR078c|YPL269w|Mitosis
+YGR078c|YPR023c|Pol II Transcription
+YGR078c|YPR046w|Chromatin/chromosome structure
+YGR078c|YPR050c|Unknown
+YGR078c|YPR051w|Protein modification
+YGR078c|YPR070w|Chromatin/chromosome structure
+YGR078c|YPR135w|Chromatin/chromosome structure
+YGR078c|YPR141c|Mitosis
+YHR129c|YGR078c|Cell structure
+YHR191c|YGR078c|Cell structure
+YJL020c|YGR078c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YJL020c|YGR078c|Cell structure
+YJL030w|YGR078c|Cell structure
+YJR053w|YGR078c|Cell structure
+YJR075w|YGR078c|Cell structure
+YKR054c|YGR078c|Cell structure
+YKR054c|YGR078c|Cell structure
+YLR085c|YGR078c|Cell structure
+YLR210w|YGR078c|Cell structure
+YML124c|YGR078c|Cell structure
+YMR048w|YGR078c|Cell structure
+YMR078c|YGR078c|Cell structure
+YMR138w|YGR078c|Cell structure
+YMR294w|YGR078c|Cell structure
+YMR299c|YGR078c|Cell structure
+YOR058c|YGR078c|Cell structure
+YOR265w|YGR078c|Cell structure
+YOR269w|YGR078c|Cell structure
+YOR349w|YGR078c|Cell structure
+YPL031c|YGR078c|Cell structure
+YPL155c|YGR078c|Cell structure
+YPL174c|YGR078c|Cell structure
+YPL181w|YGR078c|Cell structure
+YPL241c|YGR078c|Cell structure
+YPL269w|YGR078c|Cell structure
+YPR135w|YGR078c|Cell structure
+YPR141c|YGR078c|Cell structure

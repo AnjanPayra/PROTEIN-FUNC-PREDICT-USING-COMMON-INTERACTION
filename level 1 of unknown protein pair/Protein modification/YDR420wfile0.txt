@@ -1,0 +1,18 @@
+YDR420w|YDR245w|Protein modification
+YDR420w|YDR245w|Protein modification
+YDR420w|YDR440w|Chromatin/chromosome stucture
+YDR420w|YFR036w|Cell cycle control
+YDR420w|YGL200c|Vesicular transport
+YDR420w|YGR159c|Ribosomal large subunit nucleus export
+YDR420w|YJL095w|Cell wall organization and biogenesis
+YDR420w|YKL041w|Vesicular transport
+YDR420w|YMR060c|Mitochondrion organization and biogenesis
+YDR420w|YMR089c|Energy generation
+YDR420w|YMR123w|Unknown
+YDR420w|YMR123w|Unknown
+YDR420w|YNL064c|Mitochondrion organization and biogenesis
+YDR420w|YNL171c|Unknown
+YDR420w|YOL023w|Energy generation
+YDR420w|YOR141c|Cell structure
+YDR420w|YOR375c|Amino-acid metabolism
+YDR420w|YPL161c|Cell polarity

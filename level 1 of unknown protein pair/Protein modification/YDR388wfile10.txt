@@ -1,0 +1,121 @@
+YBL007c|YDR388w|synthetic lethal
+YBL007c|YDR388w|two hybrid library: Sla1 Rvs167(AD)
+YBL061c|YDR388w|Cell polarity
+YBR023c|YDR388w|Cell polarity
+YBR108w|YDR388w|two hybrid IST hits: 8
+YBR108w|YDR388w|two hybrid library: Ybr108c Rvs167(BD)
+YCR009c|YDR388w|two hybrid
+YCR009c|YDR388w|two hybrid
+YCR009c|YDR388w|two hybrid library: Rvs161 Rvs167(AD,BD)
+YCR088w|YDR388w|RVS167 interacts with ABP1 in the two hybrid system
+YCR088w|YDR388w|coimmunoprecipitation; two hybrid
+YCR088w|YDR388w|a Rvs167p SH3 domain probe binds to Abp1p (aa 444-573)
+YCR088w|YDR388w|two hybrid
+YCR088w|YDR388w|two hybrid library: Abp1 Rvs167(BD)
+YDL029w|YDR388w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YDR388w|Cell polarity
+YDL127w|YDR388w|interaction is independent of the Rvs167 SH3 domain; two hybrid; affinity chromatography; coimmunoprecipitation
+YDL179w|YDR388w|interaction with PCL2 and PCL9 is independent of the SH3 domain; two hybrid
+YDR129c|YDR388w|synthetic lethal
+YDR388w|YAL013w|Lipid metabolism
+YDR388w|YBL007c|two hybrid library: Rvs167 Sla1(BD)
+YDR388w|YBL007c|Cell polarity
+YDR388w|YBL061c|Cell wall organization and biogenesis
+YDR388w|YBR015c|Protein modification
+YDR388w|YBR023c|Cell wall organization and biogenesis
+YDR388w|YBR095c|Unknown
+YDR388w|YBR108w|two hybrid library: Rvs167 Ybr108c(AD)
+YDR388w|YBR126c|Carbohydrate metabolism
+YDR388w|YBR255w|Unknown
+YDR388w|YCR009c|two hybrid IST hits: 22
+YDR388w|YCR009c|two hybrid library: Rvs167 Rvs161(AD,BD)
+YDR388w|YCR088w|two hybrid library: Rvs167 Abp1(AD)
+YDR388w|YDL117w|Cytokinesis
+YDR388w|YDR245w|Protein modification
+YDR388w|YDR310c|Chromatin/chromosome structure
+YDR388w|YDR388w|two hybrid library: Rvs167 Rvs167(AD,BD)
+YDR388w|YDR388w|two hybrid library: Rvs167 Rvs167(AD,BD)
+YDR388w|YEL003w|Cell structure
+YDR388w|YEL031w|Small molecule transport
+YDR388w|YER111c|Cell cycle control
+YDR388w|YFL039c|rvs167 act1-1 mutants are synthetic lethal
+YDR388w|YFL039c|rvs167 act1-1 mutants are synthetic lethal
+YDR388w|YFL039c|two hybrid library: Rvs167 Act1(AD)
+YDR388w|YFL039c|two hybrid
+YDR388w|YGL084c|Lipid metabolism
+YDR388w|YGR078c|Cell structure
+YDR388w|YGR268c|two hybrid library: Rvs167 Ygr268c(AD)
+YDR388w|YHR016c|two hybrid library: Rvs167 Ysc84(AD)
+YDR388w|YHR030c|Cell wall organization and biogenesis
+YDR388w|YHR142w|Cell wall organization and biogenesis
+YDR388w|YIL034c|Cell structure
+YDR388w|YIL084c|Chromatin/chromosome structure
+YDR388w|YIR003w|Unknown
+YDR388w|YJL020c|Cell polarity
+YDR388w|YJL095w|Cell wall organization and biogenesis
+YDR388w|YJL099w|Cell wall organization and biogenesis
+YDR388w|YJR075w|Cell wall organization and biogenesis
+YDR388w|YJR083c|two hybrid with SH3 domain as bait
+YDR388w|YJR083c|two hybrid library: Rvs167 Yjr083c(AD)
+YDR388w|YKL007w|Cell structure
+YDR388w|YKL204w|Protein synthesis
+YDR388w|YKL213c|Protein degradation
+YDR388w|YLR087c|Cell stress
+YDR388w|YLR110c|Cell wall organization and biogenesis
+YDR388w|YLR111w|Unknown
+YDR388w|YLR144c|two hybrid with SH3 domain as bait
+YDR388w|YLR144c|two hybrid library: Rvs167 Acf2(AD)
+YDR388w|YLR200w|Cell structure
+YDR388w|YLR268w|Vesicular transport
+YDR388w|YLR330w|Cell wall organization and biogenesis
+YDR388w|YML094w|Cell structure
+YDR388w|YMR109w|Cell polarity
+YDR388w|YMR192w|two hybrid with SH3 domain as bait
+YDR388w|YMR263w|Chromatin/chromosome structure
+YDR388w|YNL084c|Endocytosis
+YDR388w|YNL086w|two hybrid library: Rvs167 Ynl086w(AD)
+YDR388w|YNL094w|two hybrid with SH3 domain as bait
+YDR388w|YNL094w|two hybrid library: Rvs167 Ynl094w(AD,BD)
+YDR388w|YNL097c|Phosphate metabolism
+YDR388w|YNL138w|synthetic lethal
+YDR388w|YNL138w|two hybrid library: Rvs167 Srv2(AD)
+YDR388w|YNL153c|Cell structure
+YDR388w|YNL233w|Cytokinesis
+YDR388w|YNL243w|synthetic lethal
+YDR388w|YNL243w|two hybrid library: Rvs167 Sla2(AD)
+YDR388w|YNL298w|Cell polarity
+YDR388w|YNL322c|Cell wall organization and biogenesis
+YDR388w|YOL004w|Pol II transcription
+YDR388w|YOR089c|synthetic growth defect
+YDR388w|YOR089c|Vesicular transport
+YDR388w|YOR181w|two hybrid with SH3 domain as bait
+YDR388w|YOR181w|two hybrid library: Rvs167 Las17(AD,BD)
+YDR388w|YOR216c|Vesicular transport
+YDR388w|YOR284w|two hybrid library: Rvs167 Yor284w(AD)
+YDR388w|YPL050c|Protein modification
+YDR388w|YPR171w|two hybrid with SH3 domain as bait
+YDR388w|YPR171w|two hybrid library: Rvs167 Ypr171w(AD)
+YFL039c|YDR388w|two hybrid library: Act1 Rvs167(BD)
+YGL060w|YDR388w|two hybrid IST hits: 1
+YGR229c|YDR388w|Cell polarity
+YGR268c|YDR388w|two hybrid IST hits: 2
+YGR268c|YDR388w|two hybrid library: Ygr268c Rvs167(BD)
+YHR016c|YDR388w|two hybrid library: Ysc84 Rvs167(BD)
+YHR142w|YDR388w|Cell polarity
+YJL099w|YDR388w|Cell polarity
+YJR075w|YDR388w|Cell polarity
+YJR083c|YDR388w|two hybrid library: Yjr083c Rvs167(BD)
+YKL129c|YDR388w|two hybrid with SH3 domain as bait
+YLR144c|YDR388w|two hybrid library: Acf2 Rvs167(BD)
+YLR337c|YDR388w|two hybrid with SH3 domain as bait
+YLR342w|YDR388w|Cell polarity
+YMR109w|YDR388w|two hybrid with SH3 domain as bait
+YNL086w|YDR388w|two hybrid library: Ynl086w Rvs167(BD)
+YNL094w|YDR388w|two hybrid library: Ynl094w Rvs167(AD,BD)
+YNL138w|YDR388w|two hybrid library: Srv2 Rvs167(BD)
+YNL233w|YDR388w|Cell polarity
+YNL243w|YDR388w|two hybrid library: Sla2 Rvs167(BD)
+YOR181w|YDR388w|two hybrid library: Las17 Rvs167(AD, BD)
+YOR181w|YDR388w|two hybrid IST hits: 2
+YOR284w|YDR388w|two hybrid library: Yor284w Rvs167(BD)
+YPR171w|YDR388w|two hybrid library: Ypr171w Rvs167(BD)

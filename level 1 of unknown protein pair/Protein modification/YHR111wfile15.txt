@@ -1,0 +1,26 @@
+YEL003w|YHR111w|Protein modification
+YER016w|YHR111w|Unknown
+YGR078c|YHR111w|Protein modification
+YHR111w|YHR111w|two hybrid
+YHR111w|YHR111w|two hybrid
+YHR111w|YHR111w|two hybrid
+YHR111w|YHR111w|two hybrid
+YHR111w|YIL008w|two hybrid
+YHR111w|YIL008w|two hybrid
+YHR111w|YIL008w|two hybrid IST hits: 23
+YHR111w|YIL008w|two hybrid IST hits: 23
+YHR111w|YIL132c|two hybrid IST hits: 1
+YHR111w|YIL132c|two hybrid IST hits: 1
+YIL008w|YHR111w|two hybrid IST hits: 38
+YIL008w|YHR111w|two hybrid IST hits: 38
+YLR200w|YHR111w|Protein modification
+YLR229c|YHR111w|Protein modification
+YML064c|YHR111w|two hybrid IST hits: 1
+YML064c|YHR111w|two hybrid IST hits: 1
+YML094w|YHR111w|Protein modification
+YNL153c|YHR111w|Protein modification
+YNL271c|YHR111w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR111w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YNL271c|YHR111w|Protein modification
+YNL298w|YHR111w|Unknown
+YOR326w|YHR111w|Protein modification

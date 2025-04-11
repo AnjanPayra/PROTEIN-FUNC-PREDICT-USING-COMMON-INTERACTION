@@ -1,0 +1,48 @@
+YGL070c|YKL190w|two hybrid IST hits: 1
+YGR229c|YKL190w|Cell wall organization and biogenesis
+YKL190w|YAL023c|Protein modification
+YKL190w|YAL026c|Vesicular transport
+YKL190w|YBR127c|Vacuole organization and biogenesis
+YKL190w|YBR200w|Cell polarity
+YKL190w|YDL020c|Protein degradation
+YKL190w|YDR136c|Vesicular transport
+YKL190w|YDR137w|Vesicular transport
+YKL190w|YEL027w|Vacuole organization and biogenesis
+YKL190w|YER014c-a|Cell polarity
+YKL190w|YER083c|Cell wall organization and biogenesis
+YKL190w|YGR020c|Vacuolar organization and biogenesis
+YKL190w|YGR036c|Cell wall organization and biogenesis
+YKL190w|YGR105w|Vacuolar organization and biogenesis
+YKL190w|YGR157w|Lipid metabolism
+YKL190w|YGR229c|Cell wall organization and biogenesis
+YKL190w|YHR026w|Vacuolar organization and biogenesis
+YKL190w|YHR039c-a|Small molecule transport
+YKL190w|YHR060w|Vacuolar organization and biogenesis
+YKL190w|YJL183w|Protein modification
+YKL190w|YJR073c|Lipid metabolism
+YKL190w|YKL041w|Vesicular transport
+YKL190w|YKL080w|Vacuolar organization and biogenesis
+YKL190w|YKL118w|Unknown
+YKL190w|YKL119c|Vacuolar organization and biogenesis
+YKL190w|YKL212w|Lipid metabolism
+YKL190w|YKR001c|Vesicular transport
+YKL190w|YLR087c|Cell stress
+YKL190w|YLR261c|Unknown
+YKL190w|YLR262c|Vesicular transport
+YKL190w|YLR342w|synthetic lethal
+YKL190w|YLR342w|Cell wall organization and biogenesis
+YKL190w|YLR447c|Vacuolar organization and biogenesis
+YKL190w|YML115c|Protein modification
+YKL190w|YMR211w|two hybrid
+YKL190w|YMR307w|Cell wall organization and biogenesis
+YKL190w|YNL238w|Protein modification
+YKL190w|YNL322c|Cell wall organization and biogenesis
+YKL190w|YOR332w|Transport
+YKL190w|YPL069c|Protein modification
+YKL190w|YPL234c|Vacuolar organization and biogenesis
+YLR039c|YKL190w|Cell wall organization and biogenesis
+YLR262c|YKL190w|Cell wall organization and biogenesis
+YLR342w|YKL190w|Cell wall organization and biogenesis
+YMR307w|YKL190w|Cell wall organization and biogenesis
+YNL192w|YKL190w|Cell wall organization and biogenesis
+YNL322c|YKL190w|Cell wall organization and biogenesis

@@ -1,0 +1,11 @@
+YBR234c|YJR117w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YBR234c|YJR117w|Protein modification
+YDL029w|YJR117w|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YJR117w|Protein modification
+YDR315c|YJR117w|two hybrid
+YEL003w|YJR117w|Protein modification
+YGR078c|YJR117w|Protein modification
+YLR200w|YJR117w|Protein modification
+YML094w|YJR117w|Protein modification
+YNL153c|YJR117w|Protein modification
+YNL322c|YJR117w|Protein modification

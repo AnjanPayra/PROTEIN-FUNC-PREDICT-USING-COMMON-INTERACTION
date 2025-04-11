@@ -1,0 +1,19 @@
+YBL061c|YML115c|Protein modification
+YBR023c|YML115c|Protein modification
+YDR052c|YML115c|Protein modification
+YGR229c|YML115c|Protein modification
+YHR142w|YML115c|Protein modification
+YJL099w|YML115c|Protein modification
+YJR075w|YML115c|Protein modification
+YJR075w|YML115c|Protein modification
+YKL190w|YML115c|Protein modification
+YLR330w|YML115c|Protein modification
+YLR332w|YML115c|Protein modification
+YLR332w|YML115c|Protein modification
+YML115c|YGR275w|two hybrid IST hits: 2
+YML115c|YOR089c|synthetic growth defect
+YML115c|YPL050c|coimmunoprecipitation
+YNL233w|YML115c|Protein modification
+YNL250w|YML115c|Protein modification
+YPL031c|YML115c|Protein modification
+YPR159w|YML115c|Protein modification

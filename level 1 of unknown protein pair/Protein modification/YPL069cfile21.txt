@@ -1,0 +1,8 @@
+YBR023c|YPL069c|Protein modification
+YDL029w|YPL069c|Synthetic Genetic Array: inviable double mutant, synthetic lethal
+YDL029w|YPL069c|Protein modification
+YDR126w|YPL069c|Protein modification
+YDR126w|YPL069c|Protein modification
+YGR166w|YPL069c|Protein modification
+YKL190w|YPL069c|Protein modification
+YLR418c|YPL069c|Protein modification

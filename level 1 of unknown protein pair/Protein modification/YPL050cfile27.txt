@@ -1,0 +1,7 @@
+YCR009c|YPL050c|Protein modification
+YDR388w|YPL050c|Protein modification
+YEL036c|YPL050c|coimmunoprecipitation
+YJR075w|YPL050c|coimmunoprecipitation
+YLR447c|YPL050c|two hybrid IST hits: 1
+YML115c|YPL050c|coimmunoprecipitation
+YPR154w|YPL050c|two hybrid with SH3 domain as bait

@@ -1,0 +1,8 @@
+YCR020c-a|YEL053c|two hybrid
+YEL053c|YPR051w|two hybrid
+YGR078c|YEL053c|Protein modification
+YLR039c|YEL053c|Protein modification
+YLR200w|YEL053c|Protein modification
+YLR262c|YEL053c|Protein modification
+YML094w|YEL053c|Protein modification
+YPR051w|YEL053c|two hybrid IST hits: 9

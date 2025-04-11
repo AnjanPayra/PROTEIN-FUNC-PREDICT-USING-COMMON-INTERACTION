@@ -1,0 +1,3 @@
+YLR039c|YMR274c|Protein modification
+YLR262c|YMR274c|Protein modification
+YLR418c|YMR274c|Protein modification

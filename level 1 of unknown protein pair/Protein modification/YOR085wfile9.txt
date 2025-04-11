@@ -1,0 +1,7 @@
+YDL232w|YOR085w|overexpression of OST3 suppresses the ts mutation phenotype of ost4 deletion mutant;suppression
+YDR126w|YOR085w|Protein modification
+YGR227w|YOR085w|Protein modification
+YOR002w|YOR085w|Protein modification
+YOR002w|YOR085w|Protein modification
+YOR067c|YOR085w|Protein modification
+YOR085w|YPL227c|mutant is synthetically lethal with delta alg5 at 30 C; ost3 mutant is synthetically lethal with delta alg5 at 30 C; synthetic lethal

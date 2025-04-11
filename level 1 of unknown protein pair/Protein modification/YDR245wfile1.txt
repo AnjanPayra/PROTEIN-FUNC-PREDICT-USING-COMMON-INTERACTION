@@ -1,0 +1,16 @@
+YBL061c|YDR245w|Protein modification
+YBR023c|YDR245w|Protein modification
+YBR160w|YDR245w|mnn10 cdc28 mutants are synthetic lethal
+YCR009c|YDR245w|Protein modification
+YDR129c|YDR245w|haploid slc2-107 sac6-69 double mutant is synthetic lethal
+YDR245w|YIL034c|synthetic lethal with cap2
+YDR388w|YDR245w|Protein modification
+YDR420w|YDR245w|Protein modification
+YDR420w|YDR245w|Protein modification
+YGR229c|YDR245w|Protein modification
+YHR030c|YDR245w|Protein modification
+YHR142w|YDR245w|Protein modification
+YJR043c|YDR245w|Protein modification
+YLR330w|YDR245w|Protein modification
+YLR418c|YDR245w|Protein modification
+YPL031c|YDR245w|Protein modification
